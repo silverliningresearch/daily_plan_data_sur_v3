@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "13-12-2024 10:55:46"
+        "download_time": "13-12-2024 17:53:35"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -88032,6 +88032,16 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-13",
+        "quota_id": "AGP-TB",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "BCN-VY",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-12-13",
         "quota_id": "BIO-SN",
         "Number of interviews": 5
     },
@@ -88042,8 +88052,28 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-13",
+        "quota_id": "DUB-EI",
+        "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "EDI-SN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-12-13",
         "quota_id": "FCO-AZ",
-        "Number of interviews": 1
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "GOT-SN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "HAM-SN",
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-13",
@@ -88052,13 +88082,63 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-13",
+        "quota_id": "IST-TK",
+        "Number of interviews": 13
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "LHR-BA",
+        "Number of interviews": 15
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "LHR-SN",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "LIN-AZ",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "LIS-TP",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "LJU-SN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "LYS-SN",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-12-13",
         "quota_id": "OPO-SN",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-12-13",
+        "quota_id": "TNG-TB",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "TUN-BJ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-13",
         "quota_id": "VCE-SN",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-12-13",
+        "quota_id": "VIE-OS",
+        "Number of interviews": 6
     }
 ]    
 

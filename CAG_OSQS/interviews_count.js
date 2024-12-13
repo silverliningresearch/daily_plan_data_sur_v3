@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "13-12-2024 17:56:16"
+        "download_time": "14-12-2024 00:54:04"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12283,17 +12283,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "Burger King\u2666TERMINAL 4\u2666Landside\u2666#02-204\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
@@ -12308,7 +12308,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "CHEERS\u2666TERMINAL 4\u2666Landside\u2666#01-09\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
@@ -12332,8 +12332,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-13",
+        "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-12-13",
         "quota_id": "GO Noodle House\u2666TERMINAL 4\u2666Landside\u2666#02-203\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
@@ -12347,18 +12352,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-13",
+        "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-12-13",
         "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "Lylo\u2666TERMINAL 4\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "Papparich\u2666TERMINAL 4\u2666Landside\u2666#02-203A\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
@@ -12368,7 +12378,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2024-12-13",
@@ -12388,7 +12398,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
@@ -12413,7 +12423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
@@ -12448,7 +12458,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-13",
         "quota_id": "WH Smith - Premises B (Air) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-41C\u2666OW\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-13",
