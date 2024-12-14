@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "14-12-2024 15:53:26"
+        "download_time": "14-12-2024 16:10:13"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12528,7 +12528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-14",
         "quota_id": "MCDONALD'S\u2666TERMINAL 3\u2666Landside\u2666#01-21\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-14",
@@ -12558,12 +12558,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-14",
         "quota_id": "PARIS BAGUETTE\u2666TERMINAL 3\u2666Landside\u2666#01-22\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-14",
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-14",
@@ -12578,7 +12578,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-14",
         "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-14",
@@ -12588,7 +12588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-14",
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-14",
@@ -12613,7 +12613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-14",
         "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-14",
