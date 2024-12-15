@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "15-12-2024 14:26:49"
+        "download_time": "15-12-2024 14:39:55"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12652,6 +12652,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-15",
+        "quota_id": "BABA NYONYA\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-15",
+        "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-15",
         "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-164 (#026-095-05R)\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -12683,7 +12693,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-15",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-15",
@@ -12733,7 +12743,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-15",
         "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-15",
