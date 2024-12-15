@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "15-12-2024 13:55:29"
+        "download_time": "15-12-2024 14:10:40"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12708,7 +12708,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-15",
         "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-15",
@@ -12717,8 +12717,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-15",
-        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-15",
+        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-15",
@@ -12728,7 +12733,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-15",
         "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-12-15",
+        "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-15",
