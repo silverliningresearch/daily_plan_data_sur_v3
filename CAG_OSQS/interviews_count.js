@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "16-12-2024 16:28:50"
+        "download_time": "16-12-2024 16:55:15"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12788,17 +12788,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "Cartier\u2666TERMINAL 3\u2666Airside\u2666#02-45-01\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-16",
@@ -12848,7 +12848,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "SIXT RENT A CAR\u2666TERMINAL 1\u2666Landside\u2666#01-K5\u2666LS\u2666Min5",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-16",
