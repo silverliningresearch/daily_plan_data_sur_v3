@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "17-12-2024 18:39:42"
+        "download_time": "17-12-2024 18:56:02"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12898,7 +12898,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-17",
@@ -12913,7 +12913,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "Dunkin\u2019 Donuts\u2666TERMINAL 2\u2666Airside\u2666#02-K14\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-17",
@@ -12942,8 +12942,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-17",
+        "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-17",
         "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-17",
@@ -12958,7 +12963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-17",
