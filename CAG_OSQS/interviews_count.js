@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "17-12-2024 16:26:16"
+        "download_time": "17-12-2024 16:42:21"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12963,7 +12963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-17",
@@ -12973,7 +12973,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min15",
-        "Number of interviews": 12
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2024-12-17",
@@ -12983,7 +12983,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 10
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2024-12-17",
