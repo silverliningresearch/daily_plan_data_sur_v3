@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "18-12-2024 18:39:33"
+        "download_time": "18-12-2024 19:03:17"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13058,7 +13058,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-12-18",
@@ -13108,7 +13108,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "Natureland Premium\u2666TERMINAL 2\u2666Airside\u2666#03-168\u2666OS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-18",
@@ -13133,7 +13133,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-18",
@@ -13148,7 +13148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-18",
@@ -13163,7 +13163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-18",
