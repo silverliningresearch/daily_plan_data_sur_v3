@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "19-12-2024 16:58:14"
+        "download_time": "19-12-2024 17:12:27"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13203,7 +13203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-19",
@@ -13233,17 +13233,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-19",
