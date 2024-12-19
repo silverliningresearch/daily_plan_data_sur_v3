@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-11-30",
         "quota_id": "BER - FR",
         "Number of interviews": 2,
-        "download_time": "19-12-2024 05:09:02"
+        "download_time": "19-12-2024 05:25:58"
     },
     {
         "InterviewDate": "2023-12-01",
@@ -3453,142 +3453,142 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "AGP - FR",
-        "Number of interviews": 178
+        "Number of interviews": 180
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "AMS - KL",
-        "Number of interviews": 357
+        "Number of interviews": 361
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "ARN - W6",
-        "Number of interviews": 89
+        "Number of interviews": 90
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "BEG - JU",
-        "Number of interviews": 357
+        "Number of interviews": 361
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "CPH - FR",
-        "Number of interviews": 268
+        "Number of interviews": 271
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "CTA - FR",
-        "Number of interviews": 446
+        "Number of interviews": 451
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "LHR - BA",
-        "Number of interviews": 356
+        "Number of interviews": 360
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "MAD - IB",
-        "Number of interviews": 268
+        "Number of interviews": 271
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "PVG - FM",
-        "Number of interviews": 179
+        "Number of interviews": 181
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "SKG - FR",
-        "Number of interviews": 267
+        "Number of interviews": 270
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "TIA - W6",
-        "Number of interviews": 267
+        "Number of interviews": 270
     },
     {
         "InterviewDate": "2024-12-16",
         "quota_id": "TLV - BZ",
-        "Number of interviews": 89
+        "Number of interviews": 90
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "AYT - XQ",
-        "Number of interviews": 268
+        "Number of interviews": 271
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "DOH - QR",
-        "Number of interviews": 624
+        "Number of interviews": 631
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "DXB - EK",
-        "Number of interviews": 357
+        "Number of interviews": 361
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "FCO - W6",
-        "Number of interviews": 356
+        "Number of interviews": 360
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "FMM - W6",
-        "Number of interviews": 89
+        "Number of interviews": 90
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "HEL - AY",
-        "Number of interviews": 268
+        "Number of interviews": 271
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "MXP - W6",
-        "Number of interviews": 89
+        "Number of interviews": 90
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "OTP - RO",
-        "Number of interviews": 89
+        "Number of interviews": 90
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "SVQ - FR",
-        "Number of interviews": 268
+        "Number of interviews": 271
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "VIE - OS",
-        "Number of interviews": 268
+        "Number of interviews": 271
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "WAW - LO",
-        "Number of interviews": 357
+        "Number of interviews": 361
     },
     {
         "InterviewDate": "2024-12-17",
         "quota_id": "ZRH - LX",
-        "Number of interviews": 178
+        "Number of interviews": 180
     },
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "CKG - CA",
-        "Number of interviews": 69
+        "Number of interviews": 70
     },
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "EIN - W6",
-        "Number of interviews": 233
+        "Number of interviews": 237
     },
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "TLV - 6H",
-        "Number of interviews": 252
+        "Number of interviews": 256
     },
     {
         "InterviewDate": "2024-12-18",
         "quota_id": "TLV - LY",
-        "Number of interviews": 294
+        "Number of interviews": 298
     }
 ]    
 
