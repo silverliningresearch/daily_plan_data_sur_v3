@@ -1,3594 +1,3594 @@
 let interview_statistics = `[
     {
         "InterviewDate": "2023-11-30",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 2,
-        "download_time": "19-12-2024 05:25:58"
+        "download_time": "19-12-2024 05:34:21"
     },
     {
         "InterviewDate": "2023-12-01",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-01",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-02",
-        "quota_id": "PSA - FR",
+        "quota_id": "PSA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-04",
-        "quota_id": "ATH - FR",
+        "quota_id": "ATH-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-04",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-04",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-04",
-        "quota_id": "NUE - FR",
+        "quota_id": "NUE-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-04",
-        "quota_id": "ORY - W6",
+        "quota_id": "ORY-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-05",
-        "quota_id": "MAD - W6",
+        "quota_id": "MAD-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-06",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-07",
-        "quota_id": "LPL - W6",
+        "quota_id": "LPL-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-08",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-10",
-        "quota_id": "ALC - FR",
+        "quota_id": "ALC-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-10",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-11",
-        "quota_id": "ATH - W6",
+        "quota_id": "ATH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-12",
-        "quota_id": "BGY - FR",
+        "quota_id": "BGY-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-15",
-        "quota_id": "CGN - EW",
+        "quota_id": "CGN-EW",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-16",
-        "quota_id": "BEG - JU",
+        "quota_id": "BEG-JU",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-16",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-17",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-19",
-        "quota_id": "DUS - EW",
+        "quota_id": "DUS-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-19",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-21",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-21",
-        "quota_id": "MLA - W6",
+        "quota_id": "MLA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-22",
-        "quota_id": "CPH - W6",
+        "quota_id": "CPH-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-22",
-        "quota_id": "NAP - W6",
+        "quota_id": "NAP-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-27",
-        "quota_id": "ATH - FR",
+        "quota_id": "ATH-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-27",
-        "quota_id": "CRL - FR",
+        "quota_id": "CRL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-27",
-        "quota_id": "DUB - FR",
+        "quota_id": "DUB-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-27",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-27",
-        "quota_id": "LIS - W6",
+        "quota_id": "LIS-W6",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-27",
-        "quota_id": "WAW - LO",
+        "quota_id": "WAW-LO",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-28",
-        "quota_id": "BEG - JU",
+        "quota_id": "BEG-JU",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-28",
-        "quota_id": "DOH - QR",
+        "quota_id": "DOH-QR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-28",
-        "quota_id": "HEL - AY",
+        "quota_id": "HEL-AY",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-28",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-28",
-        "quota_id": "LIS - FR",
+        "quota_id": "LIS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-28",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-28",
-        "quota_id": "SAW - PC",
+        "quota_id": "SAW-PC",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-29",
-        "quota_id": "ATH - FR",
+        "quota_id": "ATH-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-29",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-29",
-        "quota_id": "ORY - W6",
+        "quota_id": "ORY-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-30",
-        "quota_id": "AMM - W6",
+        "quota_id": "AMM-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-02",
-        "quota_id": "PMO - FR",
+        "quota_id": "PMO-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-03",
-        "quota_id": "BSL - EC",
+        "quota_id": "BSL-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-03",
-        "quota_id": "OTP - RO",
+        "quota_id": "OTP-RO",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-04",
-        "quota_id": "CPH - W6",
+        "quota_id": "CPH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-04",
-        "quota_id": "LPL - W6",
+        "quota_id": "LPL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-04",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-05",
-        "quota_id": "ALC - W6",
+        "quota_id": "ALC-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-05",
-        "quota_id": "BLL - FR",
+        "quota_id": "BLL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-05",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-05",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-05",
-        "quota_id": "PRG - FR",
+        "quota_id": "PRG-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-06",
-        "quota_id": "IST - TK",
+        "quota_id": "IST-TK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-08",
-        "quota_id": "DUB - FR",
+        "quota_id": "DUB-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-09",
-        "quota_id": "CIA - FR",
+        "quota_id": "CIA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-10",
-        "quota_id": "ORY - W6",
+        "quota_id": "ORY-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-15",
-        "quota_id": "DUB - FR",
+        "quota_id": "DUB-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-15",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-01-16",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-19",
-        "quota_id": "AGP - FR",
+        "quota_id": "AGP-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-19",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-19",
-        "quota_id": "MAD - IB",
+        "quota_id": "MAD-IB",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-20",
-        "quota_id": "AGP - W6",
+        "quota_id": "AGP-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-20",
-        "quota_id": "BCN - FR",
+        "quota_id": "BCN-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-01-20",
-        "quota_id": "MAD - W6",
+        "quota_id": "MAD-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-22",
-        "quota_id": "ATH - FR",
+        "quota_id": "ATH-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-22",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-22",
-        "quota_id": "BGY - FR",
+        "quota_id": "BGY-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-22",
-        "quota_id": "FCO - W6",
+        "quota_id": "FCO-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-22",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-23",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-23",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-23",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-01-26",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-26",
-        "quota_id": "FCO - W6",
+        "quota_id": "FCO-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-26",
-        "quota_id": "GVA - EC",
+        "quota_id": "GVA-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-26",
-        "quota_id": "MAD - W6",
+        "quota_id": "MAD-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-27",
-        "quota_id": "EIN - W6",
+        "quota_id": "EIN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-27",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-28",
-        "quota_id": "LPA - FR",
+        "quota_id": "LPA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-29",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-29",
-        "quota_id": "BGY - FR",
+        "quota_id": "BGY-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-29",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-29",
-        "quota_id": "LIS - W6",
+        "quota_id": "LIS-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-29",
-        "quota_id": "SKG - FR",
+        "quota_id": "SKG-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-30",
-        "quota_id": "HRG - W6",
+        "quota_id": "HRG-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-30",
-        "quota_id": "MAN - FR",
+        "quota_id": "MAN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-30",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-31",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-03",
-        "quota_id": "RUH - W6",
+        "quota_id": "RUH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-05",
-        "quota_id": "AGP - FR",
+        "quota_id": "AGP-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-05",
-        "quota_id": "BSL - EC",
+        "quota_id": "BSL-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-05",
-        "quota_id": "DUB - FR",
+        "quota_id": "DUB-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-05",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-06",
-        "quota_id": "CPH - FR",
+        "quota_id": "CPH-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-06",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-09",
-        "quota_id": "BER - W6",
+        "quota_id": "BER-W6",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-09",
-        "quota_id": "GYD - W6",
+        "quota_id": "GYD-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-09",
-        "quota_id": "LCA - W6",
+        "quota_id": "LCA-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-09",
-        "quota_id": "MAD - W6",
+        "quota_id": "MAD-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-09",
-        "quota_id": "MAN - LS",
+        "quota_id": "MAN-LS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-09",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-10",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-12",
-        "quota_id": "BRS - FR",
+        "quota_id": "BRS-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-12",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-12",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-12",
-        "quota_id": "STN - FR",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "2024-02-13",
-        "quota_id": "AMS - KL",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-13",
-        "quota_id": "FRA - LH",
+        "quota_id": "AMS-KL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-13",
+        "quota_id": "FRA-LH",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-13",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-13",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-14",
-        "quota_id": "ALC - W6",
+        "quota_id": "ALC-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-14",
-        "quota_id": "CIA - FR",
+        "quota_id": "CIA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-14",
-        "quota_id": "CPH - W6",
+        "quota_id": "CPH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-14",
-        "quota_id": "LIS - W6",
+        "quota_id": "LIS-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-14",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-14",
-        "quota_id": "TSF - FR",
+        "quota_id": "TSF-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-15",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-16",
-        "quota_id": "BER - W6",
+        "quota_id": "BER-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-16",
-        "quota_id": "BVA - FR",
+        "quota_id": "BVA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-17",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-20",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-20",
-        "quota_id": "BRI - W6",
+        "quota_id": "BRI-W6",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-20",
-        "quota_id": "NAP - FR",
+        "quota_id": "NAP-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-20",
-        "quota_id": "TLV - 6H",
+        "quota_id": "TLV-6H",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-21",
-        "quota_id": "BVA - FR",
+        "quota_id": "BVA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-21",
-        "quota_id": "CPH - W6",
+        "quota_id": "CPH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-21",
-        "quota_id": "IST - TK",
+        "quota_id": "IST-TK",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-24",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-24",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-24",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-24",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-25",
-        "quota_id": "ALC - FR",
+        "quota_id": "ALC-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-25",
-        "quota_id": "AMM - FR",
+        "quota_id": "AMM-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-25",
-        "quota_id": "LGW - U2",
+        "quota_id": "LGW-U2",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-25",
-        "quota_id": "NAP - W6",
+        "quota_id": "NAP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-25",
-        "quota_id": "TIA - W6",
+        "quota_id": "TIA-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-25",
-        "quota_id": "TLV - LY",
+        "quota_id": "TLV-LY",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-26",
-        "quota_id": "BHX - W6",
+        "quota_id": "BHX-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-26",
-        "quota_id": "SPX - W6",
+        "quota_id": "SPX-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-27",
-        "quota_id": "DUS - EW",
+        "quota_id": "DUS-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-27",
-        "quota_id": "KUT - W6",
+        "quota_id": "KUT-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-02",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-02",
-        "quota_id": "FNC - W6",
+        "quota_id": "FNC-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-04",
-        "quota_id": "CGN - EW",
+        "quota_id": "CGN-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-04",
-        "quota_id": "SOF - FR",
+        "quota_id": "SOF-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-05",
-        "quota_id": "AUH - W6",
+        "quota_id": "AUH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-05",
-        "quota_id": "AYT - XQ",
+        "quota_id": "AYT-XQ",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-05",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-05",
-        "quota_id": "SKG - W6",
+        "quota_id": "SKG-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-05",
-        "quota_id": "WAW - W6",
+        "quota_id": "WAW-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-07",
-        "quota_id": "LIS - FR",
+        "quota_id": "LIS-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-07",
-        "quota_id": "WAW - LO",
+        "quota_id": "WAW-LO",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-08",
-        "quota_id": "LCA - W6",
+        "quota_id": "LCA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-09",
-        "quota_id": "GLA - W6",
+        "quota_id": "GLA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-13",
-        "quota_id": "IST - TK",
+        "quota_id": "IST-TK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-14",
-        "quota_id": "NGB - FM",
+        "quota_id": "NGB-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-15",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-15",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-15",
-        "quota_id": "WAW - LO",
+        "quota_id": "WAW-LO",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-16",
-        "quota_id": "CAG - FR",
+        "quota_id": "CAG-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-16",
-        "quota_id": "ICN - KE",
+        "quota_id": "ICN-KE",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-16",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-16",
-        "quota_id": "SSH - W6",
+        "quota_id": "SSH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-17",
-        "quota_id": "PVG - FM",
+        "quota_id": "PVG-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-18",
-        "quota_id": "CTA - FR",
+        "quota_id": "CTA-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-19",
-        "quota_id": "BEG - JU",
+        "quota_id": "BEG-JU",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-19",
-        "quota_id": "TFS - FR",
+        "quota_id": "TFS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-19",
-        "quota_id": "TFS - W6",
+        "quota_id": "TFS-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-19",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-20",
-        "quota_id": "TGM - W6",
+        "quota_id": "TGM-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-21",
-        "quota_id": "ATH - W6",
+        "quota_id": "ATH-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-21",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-21",
-        "quota_id": "WAW - W6",
+        "quota_id": "WAW-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-22",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-23",
-        "quota_id": "BRI - W6",
+        "quota_id": "BRI-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-23",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-24",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-24",
-        "quota_id": "DXB - W6",
+        "quota_id": "DXB-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-24",
-        "quota_id": "NAP - W6",
+        "quota_id": "NAP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-24",
-        "quota_id": "SKP - W6",
+        "quota_id": "SKP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-25",
-        "quota_id": "DUS - EW",
+        "quota_id": "DUS-EW",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
-        "quota_id": "ICN - LO",
+        "quota_id": "ICN-LO",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-25",
-        "quota_id": "IST - TK",
+        "quota_id": "IST-TK",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-25",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-26",
-        "quota_id": "TFS - FR",
+        "quota_id": "TFS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-27",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-27",
-        "quota_id": "NCE - W6",
+        "quota_id": "NCE-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-28",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-29",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-02",
-        "quota_id": "PVG - FM",
+        "quota_id": "PVG-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-03",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-04",
-        "quota_id": "BSL - EC",
+        "quota_id": "BSL-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-04",
-        "quota_id": "ORY - W6",
+        "quota_id": "ORY-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-05",
-        "quota_id": "ALC - FR",
+        "quota_id": "ALC-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-05",
-        "quota_id": "ARN - FR",
+        "quota_id": "ARN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-05",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-05",
-        "quota_id": "TGM - W6",
+        "quota_id": "TGM-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-06",
-        "quota_id": "CTA - FR",
+        "quota_id": "CTA-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-07",
-        "quota_id": "ALC - W6",
+        "quota_id": "ALC-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-07",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-07",
-        "quota_id": "TLV - 6H",
+        "quota_id": "TLV-6H",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-09",
-        "quota_id": "CIA - FR",
+        "quota_id": "CIA-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-09",
-        "quota_id": "CPH - D8",
+        "quota_id": "CPH-D8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-09",
-        "quota_id": "DUB - EI",
+        "quota_id": "DUB-EI",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-09",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-09",
-        "quota_id": "TLV - BZ",
+        "quota_id": "TLV-BZ",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-11",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-12",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-12",
-        "quota_id": "LIS - W6",
+        "quota_id": "LIS-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-12",
-        "quota_id": "MAD - W6",
+        "quota_id": "MAD-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-12",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-12",
-        "quota_id": "M\u00c1LTA - 64646",
+        "quota_id": "M\u00c1LTA-64646",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-12",
-        "quota_id": "PVG - FM",
+        "quota_id": "PVG-FM",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-12",
-        "quota_id": "RMI - FR",
+        "quota_id": "RMI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-13",
-        "quota_id": "ATH - A3",
+        "quota_id": "ATH-A3",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-13",
-        "quota_id": "CRL - FR",
+        "quota_id": "CRL-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-13",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-13",
-        "quota_id": "TFS - FR",
+        "quota_id": "TFS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-14",
-        "quota_id": "BCN - FR",
+        "quota_id": "BCN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-14",
-        "quota_id": "BRI - W6",
+        "quota_id": "BRI-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-14",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-14",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-14",
-        "quota_id": "PVG - FM",
+        "quota_id": "PVG-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-16",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-16",
-        "quota_id": "DUB - FR",
+        "quota_id": "DUB-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-16",
-        "quota_id": "SAW - PC",
+        "quota_id": "SAW-PC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-19",
-        "quota_id": "CPH - FR",
+        "quota_id": "CPH-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-19",
-        "quota_id": "GVA - EC",
+        "quota_id": "GVA-EC",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-21",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-04-21",
-        "quota_id": "BGY - FR",
+        "quota_id": "BGY-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-21",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-21",
-        "quota_id": "SOF - FR",
+        "quota_id": "SOF-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-23",
-        "quota_id": "ATH - W6",
+        "quota_id": "ATH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-23",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-04-23",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-24",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-24",
-        "quota_id": "HRG - SM",
+        "quota_id": "HRG-SM",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-25",
-        "quota_id": "AGP - W6",
+        "quota_id": "AGP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-25",
-        "quota_id": "ARN - W6",
+        "quota_id": "ARN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-25",
-        "quota_id": "BRU - SN",
+        "quota_id": "BRU-SN",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-25",
-        "quota_id": "LGW - W6",
+        "quota_id": "LGW-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-25",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-25",
-        "quota_id": "PEK - CA",
+        "quota_id": "PEK-CA",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-26",
-        "quota_id": "BRI - FR",
+        "quota_id": "BRI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-26",
-        "quota_id": "DUS - EW",
+        "quota_id": "DUS-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-26",
-        "quota_id": "OSL - DY",
+        "quota_id": "OSL-DY",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-26",
-        "quota_id": "WMI - FR",
+        "quota_id": "WMI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-28",
-        "quota_id": "EIN - W6",
+        "quota_id": "EIN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-28",
-        "quota_id": "HEL - AY",
+        "quota_id": "HEL-AY",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-28",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-29",
-        "quota_id": "CGN - EW",
+        "quota_id": "CGN-EW",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-29",
-        "quota_id": "SKG - FR",
+        "quota_id": "SKG-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-04",
-        "quota_id": "AYT - XQ",
+        "quota_id": "AYT-XQ",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-08",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-08",
-        "quota_id": "CIA - FR",
+        "quota_id": "CIA-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-08",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-09",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-10",
-        "quota_id": "CPH - FR",
+        "quota_id": "CPH-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-10",
-        "quota_id": "MAD - FR",
+        "quota_id": "MAD-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-11",
-        "quota_id": "AGP - FR",
+        "quota_id": "AGP-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-11",
-        "quota_id": "FNC - W6",
+        "quota_id": "FNC-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-11",
-        "quota_id": "GYD - W6",
+        "quota_id": "GYD-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-11",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-11",
-        "quota_id": "MAN - FR",
+        "quota_id": "MAN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-12",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-12",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-16",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-17",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-17",
-        "quota_id": "CRL - W6",
+        "quota_id": "CRL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-17",
-        "quota_id": "MLA - W6",
+        "quota_id": "MLA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-17",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-18",
-        "quota_id": "BOH - FR",
+        "quota_id": "BOH-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-18",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-18",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-18",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-18",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-19",
-        "quota_id": "ALC - W6",
+        "quota_id": "ALC-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-19",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-19",
-        "quota_id": "CRL - FR",
+        "quota_id": "CRL-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-19",
-        "quota_id": "LUX - LG",
+        "quota_id": "LUX-LG",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-19",
-        "quota_id": "MXP - FR",
+        "quota_id": "MXP-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-19",
-        "quota_id": "TFS - W6",
+        "quota_id": "TFS-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-20",
-        "quota_id": "FCO - W6",
+        "quota_id": "FCO-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-20",
-        "quota_id": "HAM - EW",
+        "quota_id": "HAM-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-20",
-        "quota_id": "LGW - U2",
+        "quota_id": "LGW-U2",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-20",
-        "quota_id": "MLA - FR",
+        "quota_id": "MLA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-20",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-20",
-        "quota_id": "PRG - FR",
+        "quota_id": "PRG-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-20",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-21",
-        "quota_id": "AMM - W6",
+        "quota_id": "AMM-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-22",
-        "quota_id": "HRG - W6",
+        "quota_id": "HRG-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-22",
-        "quota_id": "TLV - 6H",
+        "quota_id": "TLV-6H",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-22",
-        "quota_id": "TLV - BZ",
+        "quota_id": "TLV-BZ",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-23",
-        "quota_id": "CIA - FR",
+        "quota_id": "CIA-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-23",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-24",
-        "quota_id": "BGY - FR",
+        "quota_id": "BGY-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-24",
-        "quota_id": "BHX - LS",
+        "quota_id": "BHX-LS",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-24",
-        "quota_id": "CAI - MS",
+        "quota_id": "CAI-MS",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-24",
-        "quota_id": "DXB - W6",
+        "quota_id": "DXB-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-25",
-        "quota_id": "BHX - FR",
+        "quota_id": "BHX-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-27",
-        "quota_id": "DOH - QR",
+        "quota_id": "DOH-QR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-28",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-28",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-28",
-        "quota_id": "BVA - FR",
+        "quota_id": "BVA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-28",
-        "quota_id": "SOF - FR",
+        "quota_id": "SOF-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-28",
-        "quota_id": "TSF - FR",
+        "quota_id": "TSF-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-31",
-        "quota_id": "RMI - FR",
+        "quota_id": "RMI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-01",
-        "quota_id": "MRS - FR",
+        "quota_id": "MRS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-01",
-        "quota_id": "NUE - FR",
+        "quota_id": "NUE-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-01",
-        "quota_id": "PFO - FR",
+        "quota_id": "PFO-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-02",
-        "quota_id": "BRI - FR",
+        "quota_id": "BRI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-02",
-        "quota_id": "CRL - FR",
+        "quota_id": "CRL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-03",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-07",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-08",
-        "quota_id": "TIA - W6",
+        "quota_id": "TIA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-08",
-        "quota_id": "WAW - W6",
+        "quota_id": "WAW-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-10",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-11",
-        "quota_id": "AHO - FR",
+        "quota_id": "AHO-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-11",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-11",
-        "quota_id": "BLQ - FR",
+        "quota_id": "BLQ-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-11",
-        "quota_id": "KUT - W6",
+        "quota_id": "KUT-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-12",
-        "quota_id": "ARN - FR",
+        "quota_id": "ARN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-13",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-14",
-        "quota_id": "BSL - EC",
+        "quota_id": "BSL-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-14",
-        "quota_id": "EIN - W6",
+        "quota_id": "EIN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-14",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-15",
-        "quota_id": "EDI - FR",
+        "quota_id": "EDI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-15",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-16",
-        "quota_id": "TLV - W6",
+        "quota_id": "TLV-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-17",
-        "quota_id": "OSL - DY",
+        "quota_id": "OSL-DY",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-17",
-        "quota_id": "RIX - BT",
+        "quota_id": "RIX-BT",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-18",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-18",
-        "quota_id": "HEL - AY",
+        "quota_id": "HEL-AY",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-19",
-        "quota_id": "AGP - W6",
+        "quota_id": "AGP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-19",
-        "quota_id": "CPH - W6",
+        "quota_id": "CPH-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-19",
-        "quota_id": "HRG - SM",
+        "quota_id": "HRG-SM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-19",
-        "quota_id": "ICN - LO",
+        "quota_id": "ICN-LO",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-19",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-19",
-        "quota_id": "PMI - FR",
+        "quota_id": "PMI-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-19",
-        "quota_id": "WAW - LO",
+        "quota_id": "WAW-LO",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-19",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-20",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-20",
-        "quota_id": "DTM - W6",
+        "quota_id": "DTM-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-20",
-        "quota_id": "HER - W6",
+        "quota_id": "HER-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-20",
-        "quota_id": "LPA - FR",
+        "quota_id": "LPA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-20",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-20",
-        "quota_id": "NGB - FM",
+        "quota_id": "NGB-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-20",
-        "quota_id": "WAW - W6",
+        "quota_id": "WAW-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-21",
-        "quota_id": "BLL - FR",
+        "quota_id": "BLL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-22",
-        "quota_id": "JMK - FR",
+        "quota_id": "JMK-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-22",
-        "quota_id": "OSL - DY",
+        "quota_id": "OSL-DY",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-22",
-        "quota_id": "SVQ - FR",
+        "quota_id": "SVQ-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-24",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-24",
-        "quota_id": "ICN - KE",
+        "quota_id": "ICN-KE",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-24",
-        "quota_id": "NAP - FR",
+        "quota_id": "NAP-FR",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-24",
-        "quota_id": "NCE - W6",
+        "quota_id": "NCE-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-26",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-26",
-        "quota_id": "LIS - FR",
+        "quota_id": "LIS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-27",
-        "quota_id": "DUS - EW",
+        "quota_id": "DUS-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-27",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-27",
-        "quota_id": "ZTH - W6",
+        "quota_id": "ZTH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-28",
-        "quota_id": "ARN - FR",
+        "quota_id": "ARN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-28",
-        "quota_id": "BLL - FR",
+        "quota_id": "BLL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-28",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-07-07",
-        "quota_id": "CHQ - FR",
+        "quota_id": "CHQ-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-08",
-        "quota_id": "BHX - W6",
+        "quota_id": "BHX-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-08",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-08",
-        "quota_id": "TLV - 6H",
+        "quota_id": "TLV-6H",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-08",
-        "quota_id": "ZTH - FR",
+        "quota_id": "ZTH-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-11",
-        "quota_id": "CPH - W6",
+        "quota_id": "CPH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-11",
-        "quota_id": "TGM - W6",
+        "quota_id": "TGM-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-12",
-        "quota_id": "CFU - W6",
+        "quota_id": "CFU-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-12",
-        "quota_id": "GVA - EC",
+        "quota_id": "GVA-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-12",
-        "quota_id": "KEF - W6",
+        "quota_id": "KEF-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-12",
-        "quota_id": "MAD - W6",
+        "quota_id": "MAD-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-12",
-        "quota_id": "RHO - FR",
+        "quota_id": "RHO-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-15",
-        "quota_id": "PFO - FR",
+        "quota_id": "PFO-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-15",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "AGP - FR",
+        "quota_id": "AGP-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "ARN - FR",
+        "quota_id": "ARN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "DUS - EW",
+        "quota_id": "DUS-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "GYD - W6",
+        "quota_id": "GYD-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "LCA - W6",
+        "quota_id": "LCA-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "OSL - DY",
+        "quota_id": "OSL-DY",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-16",
-        "quota_id": "PMO - FR",
+        "quota_id": "PMO-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-20",
-        "quota_id": "CRL - FR",
+        "quota_id": "CRL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-20",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-20",
-        "quota_id": "ICN - KE",
+        "quota_id": "ICN-KE",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-20",
-        "quota_id": "ZTH - W6",
+        "quota_id": "ZTH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-21",
-        "quota_id": "OTP - W6",
+        "quota_id": "OTP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-22",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-22",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-22",
-        "quota_id": "CRL - FR",
+        "quota_id": "CRL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-22",
-        "quota_id": "LCA - W6",
+        "quota_id": "LCA-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-22",
-        "quota_id": "RIX - BT",
+        "quota_id": "RIX-BT",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-22",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-22",
-        "quota_id": "WAW - LO",
+        "quota_id": "WAW-LO",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-23",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-23",
-        "quota_id": "ORY - W6",
+        "quota_id": "ORY-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-23",
-        "quota_id": "WAW - W6",
+        "quota_id": "WAW-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-24",
-        "quota_id": "BER - W6",
+        "quota_id": "BER-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-24",
-        "quota_id": "DUB - FR",
+        "quota_id": "DUB-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-24",
-        "quota_id": "FCO - W6",
+        "quota_id": "FCO-W6",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-07-24",
-        "quota_id": "HHN - FR",
+        "quota_id": "HHN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-24",
-        "quota_id": "LGW - W6",
+        "quota_id": "LGW-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-24",
-        "quota_id": "MLA - W6",
+        "quota_id": "MLA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-25",
-        "quota_id": "ALC - W6",
+        "quota_id": "ALC-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-25",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-25",
-        "quota_id": "BCN - FR",
+        "quota_id": "BCN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-25",
-        "quota_id": "BVA - FR",
+        "quota_id": "BVA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-25",
-        "quota_id": "HER - W6",
+        "quota_id": "HER-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-25",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-25",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-25",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-26",
-        "quota_id": "NAP - W6",
+        "quota_id": "NAP-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-28",
-        "quota_id": "JTR - W6",
+        "quota_id": "JTR-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-28",
-        "quota_id": "PVK - FR",
+        "quota_id": "PVK-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-29",
-        "quota_id": "SKG - W6",
+        "quota_id": "SKG-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-01",
-        "quota_id": "ATH - W6",
+        "quota_id": "ATH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-01",
-        "quota_id": "ORY - W6",
+        "quota_id": "ORY-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-02",
-        "quota_id": "BLL - FR",
+        "quota_id": "BLL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-02",
-        "quota_id": "BSL - EC",
+        "quota_id": "BSL-EC",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-03",
-        "quota_id": "BHX - FR",
+        "quota_id": "BHX-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-03",
-        "quota_id": "DTM - W6",
+        "quota_id": "DTM-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-03",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-04",
-        "quota_id": "FCO - W6",
+        "quota_id": "FCO-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-05",
-        "quota_id": "MAD - W6",
+        "quota_id": "MAD-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-05",
-        "quota_id": "RMI - FR",
+        "quota_id": "RMI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-06",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-08",
-        "quota_id": "ARN - D8",
+        "quota_id": "ARN-D8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-08",
-        "quota_id": "CAN - CZ",
+        "quota_id": "CAN-CZ",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-08",
-        "quota_id": "CRL - W6",
+        "quota_id": "CRL-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-08",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-09",
-        "quota_id": "BOJ - FR",
+        "quota_id": "BOJ-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-10",
-        "quota_id": "ICN - LO",
+        "quota_id": "ICN-LO",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-10",
-        "quota_id": "JED - W6",
+        "quota_id": "JED-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-10",
-        "quota_id": "JMK - FR",
+        "quota_id": "JMK-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-12",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-12",
-        "quota_id": "MXP - FR",
+        "quota_id": "MXP-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-13",
-        "quota_id": "BLQ - FR",
+        "quota_id": "BLQ-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-13",
-        "quota_id": "IST - TK",
+        "quota_id": "IST-TK",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-13",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-13",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-14",
-        "quota_id": "ALC - FR",
+        "quota_id": "ALC-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-14",
-        "quota_id": "ATH - W6",
+        "quota_id": "ATH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-14",
-        "quota_id": "AYT - XQ",
+        "quota_id": "AYT-XQ",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-14",
-        "quota_id": "CTA - W6",
+        "quota_id": "CTA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-14",
-        "quota_id": "DXB - W6",
+        "quota_id": "DXB-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-14",
-        "quota_id": "OTP - W6",
+        "quota_id": "OTP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-14",
-        "quota_id": "TFS - W6",
+        "quota_id": "TFS-W6",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-08-14",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-15",
-        "quota_id": "BOJ - W6",
+        "quota_id": "BOJ-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-16",
-        "quota_id": "WMI - FR",
+        "quota_id": "WMI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-18",
-        "quota_id": "AHO - FR",
+        "quota_id": "AHO-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-19",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-20",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-20",
-        "quota_id": "MAD - FR",
+        "quota_id": "MAD-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-20",
-        "quota_id": "RHO - W6",
+        "quota_id": "RHO-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-21",
-        "quota_id": "CFU - FR",
+        "quota_id": "CFU-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-25",
-        "quota_id": "BRI - FR",
+        "quota_id": "BRI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-25",
-        "quota_id": "BRI - W6",
+        "quota_id": "BRI-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-25",
-        "quota_id": "MAN - LS",
+        "quota_id": "MAN-LS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-25",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-27",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-28",
-        "quota_id": "BRU - W6",
+        "quota_id": "BRU-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-28",
-        "quota_id": "HRG - W6",
+        "quota_id": "HRG-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-28",
-        "quota_id": "MLA - W6",
+        "quota_id": "MLA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-28",
-        "quota_id": "VLC - FR",
+        "quota_id": "VLC-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-29",
-        "quota_id": "EVN - W6",
+        "quota_id": "EVN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-31",
-        "quota_id": "GLA - W6",
+        "quota_id": "GLA-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-31",
-        "quota_id": "MRS - FR",
+        "quota_id": "MRS-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-31",
-        "quota_id": "SVQ - FR",
+        "quota_id": "SVQ-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-02",
-        "quota_id": "DUB - EI",
+        "quota_id": "DUB-EI",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-03",
-        "quota_id": "AYT - W6",
+        "quota_id": "AYT-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-03",
-        "quota_id": "CAG - FR",
+        "quota_id": "CAG-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-03",
-        "quota_id": "CRL - W6",
+        "quota_id": "CRL-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-03",
-        "quota_id": "PVG - FM",
+        "quota_id": "PVG-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-03",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-04",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-04",
-        "quota_id": "LUX - LG",
+        "quota_id": "LUX-LG",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-05",
-        "quota_id": "EDI - FR",
+        "quota_id": "EDI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-05",
-        "quota_id": "LGW - W6",
+        "quota_id": "LGW-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-05",
-        "quota_id": "WAW - W6",
+        "quota_id": "WAW-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-06",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-06",
-        "quota_id": "VLC - W6",
+        "quota_id": "VLC-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-07",
-        "quota_id": "BSL - EC",
+        "quota_id": "BSL-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-10",
-        "quota_id": "STR - W6",
+        "quota_id": "STR-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-10",
-        "quota_id": "WAW - LO",
+        "quota_id": "WAW-LO",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-11",
-        "quota_id": "EMA - FR",
+        "quota_id": "EMA-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-11",
-        "quota_id": "NAP - W6",
+        "quota_id": "NAP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-12",
-        "quota_id": "BRU - SN",
+        "quota_id": "BRU-SN",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-12",
-        "quota_id": "HEL - AY",
+        "quota_id": "HEL-AY",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-12",
-        "quota_id": "NAP - FR",
+        "quota_id": "NAP-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-12",
-        "quota_id": "NGB - FM",
+        "quota_id": "NGB-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-12",
-        "quota_id": "OSL - DY",
+        "quota_id": "OSL-DY",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-15",
-        "quota_id": "BGY - FR",
+        "quota_id": "BGY-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-15",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-15",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-16",
-        "quota_id": "CPH - FR",
+        "quota_id": "CPH-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-16",
-        "quota_id": "FCO - W6",
+        "quota_id": "FCO-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-16",
-        "quota_id": "NCE - W6",
+        "quota_id": "NCE-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-16",
-        "quota_id": "PMI - FR",
+        "quota_id": "PMI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-16",
-        "quota_id": "TIA - W6",
+        "quota_id": "TIA-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-16",
-        "quota_id": "TLV - W6",
+        "quota_id": "TLV-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-16",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-17",
-        "quota_id": "ARN - W6",
+        "quota_id": "ARN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-17",
-        "quota_id": "FNC - W6",
+        "quota_id": "FNC-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-17",
-        "quota_id": "TLV - LY",
+        "quota_id": "TLV-LY",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-19",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-19",
-        "quota_id": "BVA - FR",
+        "quota_id": "BVA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-19",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-19",
-        "quota_id": "PVG - FM",
+        "quota_id": "PVG-FM",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-19",
-        "quota_id": "SAW - PC",
+        "quota_id": "SAW-PC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-20",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-20",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-20",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-21",
-        "quota_id": "HRG - NP",
+        "quota_id": "HRG-NP",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-22",
-        "quota_id": "OTP - RO",
+        "quota_id": "OTP-RO",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-22",
-        "quota_id": "TAS - HH",
+        "quota_id": "TAS-HH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-23",
-        "quota_id": "EIN - W6",
+        "quota_id": "EIN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-23",
-        "quota_id": "TLV - LY",
+        "quota_id": "TLV-LY",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-24",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-24",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-07",
-        "quota_id": "DUB - FR",
+        "quota_id": "DUB-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-09",
-        "quota_id": "ATH - W6",
+        "quota_id": "ATH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-09",
-        "quota_id": "PMI - FR",
+        "quota_id": "PMI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-10",
-        "quota_id": "BEG - JU",
+        "quota_id": "BEG-JU",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-12",
-        "quota_id": "ATH - A3",
+        "quota_id": "ATH-A3",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-12",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-12",
-        "quota_id": "LCA - W6",
+        "quota_id": "LCA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-14",
-        "quota_id": "EIN - W6",
+        "quota_id": "EIN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-15",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-15",
-        "quota_id": "GYD - W6",
+        "quota_id": "GYD-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-15",
-        "quota_id": "PMO - FR",
+        "quota_id": "PMO-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-16",
-        "quota_id": "CFU - FR",
+        "quota_id": "CFU-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-18",
-        "quota_id": "FCO - W6",
+        "quota_id": "FCO-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-19",
-        "quota_id": "ATH - W6",
+        "quota_id": "ATH-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-19",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-19",
-        "quota_id": "MAN - FR",
+        "quota_id": "MAN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-19",
-        "quota_id": "TFS - FR",
+        "quota_id": "TFS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-19",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-20",
-        "quota_id": "CIA - FR",
+        "quota_id": "CIA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-21",
-        "quota_id": "AGP - W6",
+        "quota_id": "AGP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-21",
-        "quota_id": "BER - W6",
+        "quota_id": "BER-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-21",
-        "quota_id": "BLL - FR",
+        "quota_id": "BLL-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-21",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-21",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-22",
-        "quota_id": "ALC - FR",
+        "quota_id": "ALC-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-22",
-        "quota_id": "BRU - W6",
+        "quota_id": "BRU-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-22",
-        "quota_id": "ICN - KE",
+        "quota_id": "ICN-KE",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-23",
-        "quota_id": "BVA - FR",
+        "quota_id": "BVA-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-23",
-        "quota_id": "CPH - D8",
+        "quota_id": "CPH-D8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-23",
-        "quota_id": "CRL - FR",
+        "quota_id": "CRL-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-23",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-23",
-        "quota_id": "VLC - FR",
+        "quota_id": "VLC-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-24",
-        "quota_id": "CRL - W6",
+        "quota_id": "CRL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-24",
-        "quota_id": "LIS - W6",
+        "quota_id": "LIS-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-24",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-24",
-        "quota_id": "TGM - W6",
+        "quota_id": "TGM-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-25",
-        "quota_id": "HRG - NP",
+        "quota_id": "HRG-NP",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-28",
-        "quota_id": "CDG - EC",
+        "quota_id": "CDG-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-28",
-        "quota_id": "GVA - EC",
+        "quota_id": "GVA-EC",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-28",
-        "quota_id": "IST - TK",
+        "quota_id": "IST-TK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-28",
-        "quota_id": "MAD - W6",
+        "quota_id": "MAD-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-28",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-28",
-        "quota_id": "NAP - W4",
+        "quota_id": "NAP-W4",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-28",
-        "quota_id": "NGB - FM",
+        "quota_id": "NGB-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-29",
-        "quota_id": "BSL - EC",
+        "quota_id": "BSL-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-29",
-        "quota_id": "CIA - FR",
+        "quota_id": "CIA-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-29",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-29",
-        "quota_id": "RAK - W6",
+        "quota_id": "RAK-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-30",
-        "quota_id": "BCN - FR",
+        "quota_id": "BCN-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-30",
-        "quota_id": "BLQ - FR",
+        "quota_id": "BLQ-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-31",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-31",
-        "quota_id": "LIS - W6",
+        "quota_id": "LIS-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-31",
-        "quota_id": "MLA - FR",
+        "quota_id": "MLA-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-02",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-02",
-        "quota_id": "LPA - W6",
+        "quota_id": "LPA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-04",
-        "quota_id": "BRU - SN",
+        "quota_id": "BRU-SN",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-04",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-04",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-04",
-        "quota_id": "PRG - FR",
+        "quota_id": "PRG-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-06",
-        "quota_id": "LHR - BA",
+        "quota_id": "LHR-BA",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-06",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-07",
-        "quota_id": "WAW - W6",
+        "quota_id": "WAW-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-08",
-        "quota_id": "CRL - W6",
+        "quota_id": "CRL-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-08",
-        "quota_id": "PEK - CA",
+        "quota_id": "PEK-CA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-08",
-        "quota_id": "SKG - W6",
+        "quota_id": "SKG-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-09",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-10",
-        "quota_id": "BRS - FR",
+        "quota_id": "BRS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-10",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-10",
-        "quota_id": "RMO - W6",
+        "quota_id": "RMO-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-12",
-        "quota_id": "BCN - FR",
+        "quota_id": "BCN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-12",
-        "quota_id": "BCN - W6",
+        "quota_id": "BCN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-14",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-15",
-        "quota_id": "BRU - SN",
+        "quota_id": "BRU-SN",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-15",
-        "quota_id": "BSL - EC",
+        "quota_id": "BSL-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-15",
-        "quota_id": "ORY - W6",
+        "quota_id": "ORY-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-15",
-        "quota_id": "OTP - W6",
+        "quota_id": "OTP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-16",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-17",
-        "quota_id": "BRI - FR",
+        "quota_id": "BRI-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-18",
-        "quota_id": "MRS - FR",
+        "quota_id": "MRS-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-19",
-        "quota_id": "BSL - W6",
+        "quota_id": "BSL-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-19",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-19",
-        "quota_id": "GLA - W6",
+        "quota_id": "GLA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-19",
-        "quota_id": "LCA - W6",
+        "quota_id": "LCA-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-19",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-19",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-20",
-        "quota_id": "IST - TK",
+        "quota_id": "IST-TK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-20",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-21",
-        "quota_id": "BGY - FR",
+        "quota_id": "BGY-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-21",
-        "quota_id": "DXB - W6",
+        "quota_id": "DXB-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-21",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-21",
-        "quota_id": "PVG - FM",
+        "quota_id": "PVG-FM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-22",
-        "quota_id": "DXB - EK",
+        "quota_id": "DXB-EK",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-23",
-        "quota_id": "AGP - W6",
+        "quota_id": "AGP-W6",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-23",
-        "quota_id": "HHN - FR",
+        "quota_id": "HHN-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-24",
-        "quota_id": "GVA - EC",
+        "quota_id": "GVA-EC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-24",
-        "quota_id": "MXP - FR",
+        "quota_id": "MXP-FR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-24",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-28",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-02",
-        "quota_id": "CDG - EC",
+        "quota_id": "CDG-EC",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-02",
-        "quota_id": "IST - W6",
+        "quota_id": "IST-W6",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-02",
-        "quota_id": "JED - W6",
+        "quota_id": "JED-W6",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-02",
-        "quota_id": "LPL - FR",
+        "quota_id": "LPL-FR",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-03",
-        "quota_id": "BGY - FR",
+        "quota_id": "BGY-FR",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-03",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-03",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-05",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-05",
-        "quota_id": "MAN - LS",
+        "quota_id": "MAN-LS",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-05",
-        "quota_id": "MLA - FR",
+        "quota_id": "MLA-FR",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-06",
-        "quota_id": "MXP - W6",
+        "quota_id": "MXP-W6",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-06",
-        "quota_id": "OSL - DY",
+        "quota_id": "OSL-DY",
         "Number of interviews": 12
     },
     {
         "InterviewDate": "2024-12-06",
-        "quota_id": "PVG - FM",
+        "quota_id": "PVG-FM",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-12-07",
-        "quota_id": "ALC - W6",
+        "quota_id": "ALC-W6",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-07",
-        "quota_id": "BHX - FR",
+        "quota_id": "BHX-FR",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-07",
-        "quota_id": "CDG - AF",
+        "quota_id": "CDG-AF",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-07",
-        "quota_id": "MAD - FR",
+        "quota_id": "MAD-FR",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-07",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-12-07",
-        "quota_id": "TSF - FR",
+        "quota_id": "TSF-FR",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-08",
-        "quota_id": "EIN - W6",
+        "quota_id": "EIN-W6",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-12-08",
-        "quota_id": "HAM - EW",
+        "quota_id": "HAM-EW",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-08",
-        "quota_id": "MUC - LH",
+        "quota_id": "MUC-LH",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-12-10",
-        "quota_id": "CAI - MS",
+        "quota_id": "CAI-MS",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-10",
-        "quota_id": "FRA - LH",
+        "quota_id": "FRA-LH",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-10",
-        "quota_id": "GOA - W6",
+        "quota_id": "GOA-W6",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-10",
-        "quota_id": "HRG - W6",
+        "quota_id": "HRG-W6",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-10",
-        "quota_id": "KUT - W6",
+        "quota_id": "KUT-W6",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-10",
-        "quota_id": "LTN - W6",
+        "quota_id": "LTN-W6",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-10",
-        "quota_id": "STR - EW",
+        "quota_id": "STR-EW",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-11",
-        "quota_id": "DXB - FZ",
+        "quota_id": "DXB-FZ",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-12-11",
-        "quota_id": "EVN - W6",
+        "quota_id": "EVN-W6",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-11",
-        "quota_id": "SKP - W6",
+        "quota_id": "SKP-W6",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-11",
-        "quota_id": "STN - FR",
+        "quota_id": "STN-FR",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-11",
-        "quota_id": "TLV - LY",
+        "quota_id": "TLV-LY",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-12-12",
-        "quota_id": "CPH - D8",
+        "quota_id": "CPH-D8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-12",
-        "quota_id": "DUB - FR",
+        "quota_id": "DUB-FR",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-12",
-        "quota_id": "NCL - LS",
+        "quota_id": "NCL-LS",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-12",
-        "quota_id": "SSH - W6",
+        "quota_id": "SSH-W6",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-12",
-        "quota_id": "TLV - LY",
+        "quota_id": "TLV-LY",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-12",
-        "quota_id": "VIE - OS",
+        "quota_id": "VIE-OS",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-13",
-        "quota_id": "ATH - FR",
+        "quota_id": "ATH-FR",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-12-13",
-        "quota_id": "CDG - EC",
+        "quota_id": "CDG-EC",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-13",
-        "quota_id": "LYS - EC",
+        "quota_id": "LYS-EC",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-13",
-        "quota_id": "QSR - W6",
+        "quota_id": "QSR-W6",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-13",
-        "quota_id": "SAW - PC",
+        "quota_id": "SAW-PC",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "ALC - W6",
+        "quota_id": "ALC-W6",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "BER - FR",
+        "quota_id": "BER-FR",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "BRI - W6",
+        "quota_id": "BRI-W6",
         "Number of interviews": 12
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "CAN - CZ",
+        "quota_id": "CAN-CZ",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "CIA - FR",
+        "quota_id": "CIA-FR",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "CPH - FR",
+        "quota_id": "CPH-FR",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "FCO - W6",
+        "quota_id": "FCO-W6",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "ICN - KE",
+        "quota_id": "ICN-KE",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "TIA - FR",
+        "quota_id": "TIA-FR",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "XIY - FM",
+        "quota_id": "XIY-FM",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-14",
-        "quota_id": "ZRH - LX",
+        "quota_id": "ZRH-LX",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-15",
-        "quota_id": "AMS - KL",
+        "quota_id": "AMS-KL",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-15",
-        "quota_id": "GVA - EC",
+        "quota_id": "GVA-EC",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-15",
-        "quota_id": "LUX - LG",
+        "quota_id": "LUX-LG",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-15",
-        "quota_id": "SNN - FR",
+        "quota_id": "SNN-FR",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-15",
-        "quota_id": "TFS - W6",
+        "quota_id": "TFS-W6",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-15",
-        "quota_id": "TLV - 6H",
+        "quota_id": "TLV-6H",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "AGP - FR",
-        "Number of interviews": 180
+        "quota_id": "AGP-FR",
+        "Number of interviews": 182
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "AMS - KL",
-        "Number of interviews": 361
+        "quota_id": "AMS-KL",
+        "Number of interviews": 365
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "ARN - W6",
-        "Number of interviews": 90
+        "quota_id": "ARN-W6",
+        "Number of interviews": 91
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "BEG - JU",
-        "Number of interviews": 361
+        "quota_id": "BEG-JU",
+        "Number of interviews": 365
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "CPH - FR",
-        "Number of interviews": 271
+        "quota_id": "CPH-FR",
+        "Number of interviews": 274
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "CTA - FR",
-        "Number of interviews": 451
+        "quota_id": "CTA-FR",
+        "Number of interviews": 456
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "LHR - BA",
-        "Number of interviews": 360
+        "quota_id": "LHR-BA",
+        "Number of interviews": 364
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "MAD - IB",
-        "Number of interviews": 271
+        "quota_id": "MAD-IB",
+        "Number of interviews": 274
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "PVG - FM",
-        "Number of interviews": 181
+        "quota_id": "PVG-FM",
+        "Number of interviews": 183
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "SKG - FR",
-        "Number of interviews": 270
+        "quota_id": "SKG-FR",
+        "Number of interviews": 273
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "TIA - W6",
-        "Number of interviews": 270
+        "quota_id": "TIA-W6",
+        "Number of interviews": 273
     },
     {
         "InterviewDate": "2024-12-16",
-        "quota_id": "TLV - BZ",
-        "Number of interviews": 90
+        "quota_id": "TLV-BZ",
+        "Number of interviews": 91
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "AYT - XQ",
-        "Number of interviews": 271
+        "quota_id": "AYT-XQ",
+        "Number of interviews": 274
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "DOH - QR",
-        "Number of interviews": 631
+        "quota_id": "DOH-QR",
+        "Number of interviews": 638
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "DXB - EK",
-        "Number of interviews": 361
+        "quota_id": "DXB-EK",
+        "Number of interviews": 365
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "FCO - W6",
-        "Number of interviews": 360
+        "quota_id": "FCO-W6",
+        "Number of interviews": 364
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "FMM - W6",
-        "Number of interviews": 90
+        "quota_id": "FMM-W6",
+        "Number of interviews": 91
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "HEL - AY",
-        "Number of interviews": 271
+        "quota_id": "HEL-AY",
+        "Number of interviews": 274
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "MXP - W6",
-        "Number of interviews": 90
+        "quota_id": "MXP-W6",
+        "Number of interviews": 91
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "OTP - RO",
-        "Number of interviews": 90
+        "quota_id": "OTP-RO",
+        "Number of interviews": 91
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "SVQ - FR",
-        "Number of interviews": 271
+        "quota_id": "SVQ-FR",
+        "Number of interviews": 274
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "VIE - OS",
-        "Number of interviews": 271
+        "quota_id": "VIE-OS",
+        "Number of interviews": 274
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "WAW - LO",
-        "Number of interviews": 361
+        "quota_id": "WAW-LO",
+        "Number of interviews": 365
     },
     {
         "InterviewDate": "2024-12-17",
-        "quota_id": "ZRH - LX",
-        "Number of interviews": 180
+        "quota_id": "ZRH-LX",
+        "Number of interviews": 182
     },
     {
         "InterviewDate": "2024-12-18",
-        "quota_id": "CKG - CA",
-        "Number of interviews": 70
+        "quota_id": "CKG-CA",
+        "Number of interviews": 71
     },
     {
         "InterviewDate": "2024-12-18",
-        "quota_id": "EIN - W6",
-        "Number of interviews": 237
+        "quota_id": "EIN-W6",
+        "Number of interviews": 241
     },
     {
         "InterviewDate": "2024-12-18",
-        "quota_id": "TLV - 6H",
-        "Number of interviews": 256
+        "quota_id": "TLV-6H",
+        "Number of interviews": 260
     },
     {
         "InterviewDate": "2024-12-18",
-        "quota_id": "TLV - LY",
-        "Number of interviews": 298
+        "quota_id": "TLV-LY",
+        "Number of interviews": 302
     }
 ]    
 
