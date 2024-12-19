@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "19-12-2024 16:28:39"
+        "download_time": "19-12-2024 16:58:14"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13193,7 +13193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-19",
@@ -13218,7 +13218,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-19",
@@ -13242,6 +13242,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-19",
+        "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-19",
         "quota_id": "Pret A Manger\u2666TERMINAL 2\u2666Airside\u2666#02-165\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
@@ -13253,22 +13258,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Prosegur T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K8\u2666MC\u2666Min8",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "2024-12-19",
-        "quota_id": "T3 iSC Departure counter\u2666TERMINAL 3\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-19",
+        "quota_id": "T3 iSC Departure counter\u2666TERMINAL 3\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-12-19",
         "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-19",
