@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "20-12-2024 12:55:28"
+        "download_time": "20-12-2024 13:14:30"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13292,6 +13292,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-20",
+        "quota_id": "7-Eleven (T3)\u2666TERMINAL 3\u2666Airside\u2666#03-12\u2666CS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-20",
         "quota_id": "Bacha Coffee\u2666TERMINAL 4\u2666Airside\u2666#02-31\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -13328,7 +13333,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-20",
         "quota_id": "Old Seng Choong\u2666TERMINAL 4\u2666Airside\u2666#02-50\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-20",
@@ -13338,7 +13343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-20",
         "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-20",
