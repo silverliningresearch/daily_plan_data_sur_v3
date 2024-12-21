@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "21-12-2024 15:11:56"
+        "download_time": "21-12-2024 15:28:15"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13463,7 +13463,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-21",
         "quota_id": "Burberry\u2666TERMINAL 3\u2666Airside\u2666#02-20\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-21",
@@ -13508,7 +13508,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-21",
         "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-21",
@@ -13533,11 +13533,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-21",
         "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-21",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-21",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
         "Number of interviews": 1
     },
     {
