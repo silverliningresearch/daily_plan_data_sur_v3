@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "26-12-2024 11:10:08"
+        "download_time": "26-12-2024 11:27:35"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13967,13 +13967,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-26",
+        "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666JW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-26",
         "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-26",
+        "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-26",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
-        "Number of interviews": 17
+        "Number of interviews": 19
     },
     {
         "InterviewDate": "2024-12-26",
@@ -13988,7 +13998,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-26",
         "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     }
 ]    
 
