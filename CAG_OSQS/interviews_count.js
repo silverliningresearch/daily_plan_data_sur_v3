@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "26-12-2024 11:40:35"
+        "download_time": "26-12-2024 11:54:22"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13978,12 +13978,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-26",
         "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-26",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
-        "Number of interviews": 22
+        "Number of interviews": 24
     },
     {
         "InterviewDate": "2024-12-26",
@@ -13993,6 +13993,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-26",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-26",
+        "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
     {
