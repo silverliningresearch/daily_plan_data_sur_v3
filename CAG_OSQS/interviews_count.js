@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "01-01-2025 11:48:15"
+        "download_time": "01-01-2025 12:12:45"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -14438,7 +14438,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-01",
         "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-01",
@@ -14452,7 +14452,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-01",
+        "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 2\u2666Airside\u2666#02-800\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-01",
         "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-01",
+        "quota_id": "Yakun Kaya Toast\u2666TERMINAL 2\u2666Airside\u2666#02-803\u2666FBA\u2666Min8",
         "Number of interviews": 1
     }
 ]    
