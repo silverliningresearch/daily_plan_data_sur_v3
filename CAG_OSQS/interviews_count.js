@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "09-01-2025 14:09:33"
+        "download_time": "09-01-2025 14:26:53"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -1008,12 +1008,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-09",
         "quota_id": "CHEERS\u2666TERMINAL 1\u2666Landside\u2666#02-05A\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-09",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-09",
+        "quota_id": "Jamba\u2666TERMINAL 1\u2666Landside\u2666#02-05\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-09",
+        "quota_id": "Paris Baguette\u2666TERMINAL 2\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-09",
@@ -1024,6 +1034,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-01-09",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-01-09",
@@ -1053,7 +1068,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-09",
         "quota_id": "Swensen\u2019s Unlimited\u2666TERMINAL 2\u2666Landside\u2666#01-03\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-01-09",
