@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "11-01-2025 16:11:34"
+        "download_time": "11-01-2025 16:26:53"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -1227,6 +1227,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-11",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-11",
         "quota_id": "CHEERS\u2666TERMINAL 2\u2666Landside\u2666#02-24\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
@@ -1248,7 +1253,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-11",
         "quota_id": "Gassan Watches\u2666TERMINAL 4\u2666Airside\u2666#02-27\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-01-11",
@@ -1268,7 +1273,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-11",
         "quota_id": "LEVURE NATURELLE\u2666TERMINAL 2\u2666Landside\u2666#02-22\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-11",
@@ -1298,7 +1303,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-11",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 13
+        "Number of interviews": 15
+    },
+    {
+        "InterviewDate": "2025-01-11",
+        "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-01-11",
