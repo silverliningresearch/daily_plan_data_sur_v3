@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "14-01-2025 12:11:28"
+        "download_time": "14-01-2025 12:25:39"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -1588,7 +1588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-14",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1609,6 +1609,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-14",
         "quota_id": "CHEERS\u2666TERMINAL 4\u2666Landside\u2666#01-09\u2666LS\u2666Min8",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-01-14",
+        "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1642,6 +1647,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-14",
+        "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-14",
         "quota_id": "Lululemon\u2666TERMINAL 3\u2666Airside\u2666#02-50A\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
@@ -1663,7 +1673,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-14",
         "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-01-14",
