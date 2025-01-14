@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "14-01-2025 11:53:55"
+        "download_time": "14-01-2025 12:11:28"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -1588,7 +1588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-14",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1628,7 +1628,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-14",
         "quota_id": "GO Noodle House\u2666TERMINAL 4\u2666Landside\u2666#02-203\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1642,13 +1642,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-14",
+        "quota_id": "Lululemon\u2666TERMINAL 3\u2666Airside\u2666#02-50A\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-14",
         "quota_id": "Lylo\u2666TERMINAL 4\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-01-14",
         "quota_id": "Papparich\u2666TERMINAL 4\u2666Landside\u2666#02-203A\u2666FBL\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1658,7 +1663,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-14",
         "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-01-14",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666PC\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
