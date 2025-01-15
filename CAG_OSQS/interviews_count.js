@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "15-01-2025 13:54:30"
+        "download_time": "15-01-2025 14:11:36"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -1778,7 +1778,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-15",
         "quota_id": "Dyson Pop-Up\u2666TERMINAL 2\u2666Airside\u2666#02-174A\u2666EL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-01-15",
@@ -1788,12 +1788,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-15",
         "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-15",
         "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-01-15",
@@ -1804,6 +1804,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-15",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-01-15",
+        "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-01-15",
