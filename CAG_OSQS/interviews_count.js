@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "18-01-2025 14:53:48"
+        "download_time": "18-01-2025 15:11:33"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -2048,12 +2048,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-18",
         "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-01-18",
         "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-18",
@@ -2078,7 +2078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-18",
         "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-01-18",
@@ -2123,17 +2123,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-18",
         "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "2025-01-18",
-        "quota_id": "Prosegur T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-18",
-        "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
+        "quota_id": "Prosegur T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-01-18",
+        "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-01-18",
