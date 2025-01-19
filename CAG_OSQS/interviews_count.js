@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-01-2025 19:27:35"
+        "download_time": "19-01-2025 19:40:42"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -2233,7 +2233,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-19",
         "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-01-19",
@@ -2248,7 +2248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-19",
         "quota_id": "CURRY TIMES\u2666TERMINAL 3\u2666Landside\u2666#B2-51\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-01-19",
@@ -2293,7 +2293,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-19",
         "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-01-19",
