@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "20-01-2025 12:54:17"
+        "download_time": "20-01-2025 13:12:23"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -2338,7 +2338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-20",
         "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-01-20",
@@ -2352,12 +2352,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-20",
+        "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-20",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 3\u2666Airside\u2666#02-K1\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-20",
         "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-01-20",
         "quota_id": "Kaboom (DTW) \u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-20",
+        "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -2374,6 +2389,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-20",
         "quota_id": "Pret A Manger\u2666TERMINAL 3\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-01-20",
+        "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 3\u2666Airside\u2666#02-K4\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-01-20",
