@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "20-01-2025 11:53:51"
+        "download_time": "20-01-2025 12:11:51"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -2332,6 +2332,21 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-20",
+        "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-20",
+        "quota_id": "Gourmet Sarawak\u2666TERMINAL 3\u2666Airside\u2666#02-K5\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-20",
+        "quota_id": "Guardian (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-16\u2666PH\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-20",
         "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -2339,6 +2354,16 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-20",
         "quota_id": "Kaboom (DTW) \u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-20",
+        "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-20",
+        "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-20",
