@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-01-2025 12:13:05"
+        "download_time": "22-01-2025 12:27:47"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -2642,6 +2642,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-22",
+        "quota_id": "Balenciaga\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-22",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -2652,6 +2657,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-22",
+        "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-22",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
         "Number of interviews": 4
     },
@@ -2659,6 +2669,16 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-22",
         "quota_id": "Irvin's\u2666TERMINAL 4\u2666Airside\u2666#02-71\u2666CCD\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-01-22",
+        "quota_id": "Longchamp\u2666TERMINAL 1\u2666Airside\u2666#02-77\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-22",
+        "quota_id": "Louis Vuitton\u2666TERMINAL 3\u2666Airside\u2666#02-36A(F) & 03-07A(F)\u2666LX\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-01-22",
@@ -2678,7 +2698,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-22",
         "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-01-22",
