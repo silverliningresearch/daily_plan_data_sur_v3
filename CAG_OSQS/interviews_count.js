@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "24-01-2025 18:24:13"
+        "download_time": "24-01-2025 18:42:08"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -3047,6 +3047,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-24",
+        "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-24",
         "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
         "Number of interviews": 1
     },
@@ -3059,6 +3064,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-24",
         "quota_id": "Saboten\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-01-24",
+        "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-01-24",
@@ -3078,7 +3088,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-24",
         "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-01-24",
@@ -3088,7 +3098,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-24",
         "quota_id": "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min5",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-01-24",
@@ -3103,12 +3113,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-24",
         "quota_id": "Tumi\u2666TERMINAL 1\u2666Airside\u2666#02-31N\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-01-24",
         "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-01-24",
