@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T4_3K_DPS",
         "interviewerID": "03",
         "Number of interviews": 3,
-        "download_time": "25-01-2025 10:55:20"
+        "download_time": "25-01-2025 11:12:46"
     },
     {
         "InterviewDate": "01-01-2025",
@@ -1850,33 +1850,21 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "24-01-2025",
-        "quota_id": "T1_EK_DBX",
-        "interviewerID": "03",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "24-01-2025",
         "quota_id": "T1_EK_DXB",
         "interviewerID": "03",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "24-01-2025",
         "quota_id": "T1_QF_MEL",
         "interviewerID": "03",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "24-01-2025",
         "quota_id": "T1_QF_SYD",
         "interviewerID": "03",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "24-01-2025",
-        "quota_id": "T1_QR_MEL",
-        "interviewerID": "03",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "24-01-2025",
@@ -1898,15 +1886,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "24-01-2025",
-        "quota_id": "T3_SG_CDG",
-        "interviewerID": "03",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "24-01-2025",
         "quota_id": "T3_SQ_CDG",
         "interviewerID": "03",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "24-01-2025",
@@ -1934,13 +1916,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "25-01-2025",
-        "quota_id": "T1_SQ_SFO",
+        "quota_id": "T1_TR_SYD",
         "interviewerID": "02",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "25-01-2025",
-        "quota_id": "T1_TR_SYD",
+        "quota_id": "T3_SQ_SFO",
         "interviewerID": "02",
         "Number of interviews": 6
     },
