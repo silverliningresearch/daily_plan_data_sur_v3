@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "26-01-2025 15:54:01"
+        "download_time": "26-01-2025 16:10:49"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -3448,12 +3448,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-26",
         "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-01-26",
         "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-01-26",
@@ -3469,6 +3469,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-26",
         "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 3\u2666Landside\u2666#02-90\u2666FBL\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-01-26",
+        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-01-26",
@@ -3498,7 +3503,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-26",
         "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-01-26",
