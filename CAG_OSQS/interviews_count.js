@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "26-01-2025 15:24:02"
+        "download_time": "26-01-2025 15:39:01"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -3368,7 +3368,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-26",
         "quota_id": "4FINGERS CRISPY CHICKEN & MELTISE\u2666TERMINAL 3\u2666Landside\u2666#B2-02/02A\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-01-26",
@@ -3448,7 +3448,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-26",
         "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-01-26",
@@ -3483,6 +3483,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-26",
         "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-01-26",
+        "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
         "Number of interviews": 2
     },
     {
