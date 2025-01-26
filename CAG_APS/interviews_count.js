@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T4_3K_DPS",
         "interviewerID": "03",
         "Number of interviews": 3,
-        "download_time": "27-01-2025 00:39:41"
+        "download_time": "27-01-2025 00:54:45"
     },
     {
         "InterviewDate": "01-01-2025",
@@ -1216,7 +1216,7 @@ let interview_statistics  = `[
         "InterviewDate": "16-01-2025",
         "quota_id": "T4_3K_MNL",
         "interviewerID": "03",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "16-01-2025",
@@ -1247,12 +1247,6 @@ let interview_statistics  = `[
         "quota_id": "T4_HO_PVG",
         "interviewerID": "03",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "16-01-2025",
-        "quota_id": "T4_3K_MNL",
-        "interviewerID": "07",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "16-01-2025",
@@ -1504,7 +1498,7 @@ let interview_statistics  = `[
         "InterviewDate": "19-01-2025",
         "quota_id": "T4_AK_PEN",
         "interviewerID": "03",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "19-01-2025",
@@ -1529,12 +1523,6 @@ let interview_statistics  = `[
         "quota_id": "T3_SQ_DXB",
         "interviewerID": "04",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "19-01-2025",
-        "quota_id": "T4_AK_PEN",
-        "interviewerID": "NA",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "20-01-2025",
@@ -1930,7 +1918,7 @@ let interview_statistics  = `[
         "InterviewDate": "25-01-2025",
         "quota_id": "T3_SQ_SFO",
         "interviewerID": "02",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "25-01-2025",
@@ -1991,12 +1979,6 @@ let interview_statistics  = `[
         "quota_id": "T2_NX_MFM",
         "interviewerID": "04",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "25-01-2025",
-        "quota_id": "T3_SQ_SFO",
-        "interviewerID": "Na",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "26-01-2025",
