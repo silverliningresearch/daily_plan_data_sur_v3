@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "27-01-2025 13:24:04"
+        "download_time": "27-01-2025 13:39:07"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -3542,8 +3542,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-27",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-27",
         "quota_id": "Foodies' Clan\u2666TERMINAL 2\u2666Landside\u2666#0610-ASC\u2666FBL\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-01-27",
@@ -3554,6 +3559,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-27",
         "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-01-27",
+        "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-01-27",
