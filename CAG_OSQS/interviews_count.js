@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "27-01-2025 14:25:04"
+        "download_time": "27-01-2025 14:39:28"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -3582,6 +3582,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-01-27",
+        "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-01-27",
         "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
@@ -3599,6 +3604,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-01-27",
         "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-01-27",
+        "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
