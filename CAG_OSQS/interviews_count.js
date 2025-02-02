@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-02-2025 13:43:23"
+        "download_time": "02-02-2025 13:55:26"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4022,6 +4022,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-02",
+        "quota_id": "8 BY BOTTLES & BOTTLES\u2666TERMINAL 3\u2666Landside\u2666#B2-51A\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-02",
         "quota_id": "CLOUD 9 STUDIO (SHORT TERM TENANCY)\u2666TERMINAL 3\u2666Landside\u2666#B2-44\u2666LS\u2666Min8",
         "Number of interviews": 3
     },
@@ -4043,7 +4048,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-02",
         "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-02-02",
@@ -4053,7 +4058,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-02",
         "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-02-02",
