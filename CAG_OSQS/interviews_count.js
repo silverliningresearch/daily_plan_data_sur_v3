@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-02-2025 18:40:59"
+        "download_time": "04-02-2025 18:56:18"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4223,7 +4223,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-04",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-04",
@@ -4243,12 +4243,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-04",
         "quota_id": "Discover Singapore (Premises E) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-63\u2666SV\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-04",
         "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-04",
@@ -4283,7 +4283,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-04",
         "quota_id": "Maison de Chronus (Premises A1) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-51\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-04",
@@ -4303,12 +4303,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-04",
         "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-04",
         "quota_id": "WH Smith - Premises G (Air) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-43C\u2666OW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-04",
