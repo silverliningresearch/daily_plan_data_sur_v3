@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "05-02-2025 18:12:58"
+        "download_time": "05-02-2025 18:27:48"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4328,7 +4328,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-05",
         "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-05",
@@ -4338,7 +4338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-05",
         "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-05",
@@ -4373,7 +4373,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-05",
         "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT\u2666Min25",
-        "Number of interviews": 10
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2025-02-05",
@@ -4403,7 +4403,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-05",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-02-05",
