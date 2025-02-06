@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "06-02-2025 17:55:27"
+        "download_time": "06-02-2025 18:14:16"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4438,7 +4438,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-06",
         "quota_id": "Crystal Jade GO\u2666TERMINAL 4\u2666Airside\u2666#02-41\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-06",
@@ -4448,7 +4448,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-06",
         "quota_id": "Gassan Watches\u2666TERMINAL 4\u2666Airside\u2666#02-27\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-06",
@@ -4463,7 +4463,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-06",
         "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-06",
@@ -4474,6 +4474,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-02-06",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-02-06",
+        "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-06",
@@ -4488,7 +4493,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-06",
         "quota_id": "The Coffee Bean and Tea Leaf\u2666TERMINAL 4\u2666Airside\u2666#02-36N\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-06",
