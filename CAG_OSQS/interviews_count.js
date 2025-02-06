@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "06-02-2025 13:54:26"
+        "download_time": "06-02-2025 14:12:58"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4427,8 +4427,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-06",
-        "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA\u2666Min8",
+        "quota_id": "Crystal Jade GO\u2666TERMINAL 4\u2666Airside\u2666#02-41\u2666FBA\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-06",
+        "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-06",
@@ -4438,7 +4443,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-06",
         "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-06",
@@ -4463,7 +4468,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-06",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-06",
