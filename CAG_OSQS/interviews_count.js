@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "07-02-2025 18:29:19"
+        "download_time": "07-02-2025 18:41:12"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4548,7 +4548,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-07",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-07",
@@ -4558,7 +4558,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-07",
         "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-07",
@@ -4588,7 +4588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-07",
         "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-07",
@@ -4623,7 +4623,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-07",
         "quota_id": "WH Smith - Premises B (Air) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-41C\u2666OW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-07",
