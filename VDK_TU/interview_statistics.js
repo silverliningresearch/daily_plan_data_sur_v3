@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "09-02-2025 00:55:08"
+        "download_time": "09-02-2025 01:13:48"
     },
     {
         "InterviewDate": "2025-01-14",
