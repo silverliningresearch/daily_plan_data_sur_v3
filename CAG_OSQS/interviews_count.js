@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "10-02-2025 15:53:36"
+        "download_time": "10-02-2025 16:14:24"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4763,7 +4763,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-10",
         "quota_id": "FAIRPRICE FINEST\u2666TERMINAL 3\u2666Landside\u2666#B2-10\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-02-10",
@@ -4773,7 +4773,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-10",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-02-10",
@@ -4783,7 +4783,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-10",
         "quota_id": "Longchamp\u2666TERMINAL 3\u2666Airside\u2666#02-04\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-10",
@@ -4798,7 +4798,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-10",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-02-10",
@@ -4808,7 +4808,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-10",
         "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     }
 ]    
 
