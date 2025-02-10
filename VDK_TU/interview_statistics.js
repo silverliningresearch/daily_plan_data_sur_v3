@@ -4,12 +4,12 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "10-02-2025 16:13:57"
+        "download_time": "10-02-2025 16:29:55"
     },
     {
         "InterviewDate": "2025-01-14",
         "InterviewerID": "10 - Asser Z.",
-        "Q0B": "WAKEUP COPENHAGEN",
+        "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
         "completes": 6
     },
     {
