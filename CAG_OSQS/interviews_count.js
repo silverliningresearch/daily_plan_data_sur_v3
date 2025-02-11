@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "11-02-2025 19:53:45"
+        "download_time": "11-02-2025 20:12:16"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4838,7 +4838,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Bvlgari\u2666TERMINAL 2\u2666Airside\u2666#02-221\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4848,7 +4848,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Ferragamo\u2666TERMINAL 2\u2666Airside\u2666#02-222 (#026-078E)\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4883,7 +4883,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4893,7 +4893,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4923,7 +4923,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-02-11",
