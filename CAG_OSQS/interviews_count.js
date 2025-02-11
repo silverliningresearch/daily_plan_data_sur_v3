@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "11-02-2025 15:11:26"
+        "download_time": "11-02-2025 15:29:26"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4828,7 +4828,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-11",
+        "quota_id": "Bvlgari\u2666TERMINAL 2\u2666Airside\u2666#02-221\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4838,7 +4843,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Ferragamo\u2666TERMINAL 2\u2666Airside\u2666#02-222 (#026-078E)\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4858,12 +4863,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 13
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4883,7 +4888,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Prosegur T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-65\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-11",
