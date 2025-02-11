@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "11-02-2025 17:39:50"
+        "download_time": "11-02-2025 17:54:15"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4838,7 +4838,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Bvlgari\u2666TERMINAL 2\u2666Airside\u2666#02-221\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4868,7 +4868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4879,6 +4879,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-02-11",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-02-11",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-02-11",
@@ -4923,7 +4928,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-11",
         "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-11",
