@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "12-02-2025 18:27:19"
+        "download_time": "12-02-2025 18:39:37"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -4963,7 +4963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-12",
         "quota_id": "7-Eleven (T2 Level 3)\u2666TERMINAL 2\u2666Airside\u2666#03-172\u2666CS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-12",
@@ -4993,7 +4993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-12",
         "quota_id": "Breo\u2666TERMINAL 1\u2666Airside\u2666#02-K46A\u2666EL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-12",
@@ -5058,7 +5058,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-12",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-12",
@@ -5068,7 +5068,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-12",
         "quota_id": "Taste Singapore (Premises A3)\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-12",
