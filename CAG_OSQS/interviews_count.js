@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "15-02-2025 14:11:46"
+        "download_time": "15-02-2025 14:26:44"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -5377,18 +5377,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-15",
+        "quota_id": "CHAGEE (AMPS TEA)\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-15",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-15",
         "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-02-15",
         "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-02-15",
@@ -5418,7 +5423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-15",
         "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-15",
@@ -5438,7 +5443,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-15",
         "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT\u2666Min15",
-        "Number of interviews": 11
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2025-02-15",
@@ -5468,7 +5473,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-15",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-15",
