@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "15-02-2025 19:54:16"
+        "download_time": "15-02-2025 20:13:12"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -5423,7 +5423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-15",
         "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-02-15",
@@ -5478,7 +5478,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-15",
         "quota_id": "McDonald's\u2666TERMINAL 2\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-02-15",
@@ -5503,7 +5503,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-15",
         "quota_id": "Swee Choon\u2666TERMINAL 2\u2666Landside\u2666#01-07\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-02-15",
