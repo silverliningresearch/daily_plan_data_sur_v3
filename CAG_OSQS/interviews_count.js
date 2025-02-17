@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "17-02-2025 18:54:27"
+        "download_time": "17-02-2025 19:17:00"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -5698,7 +5698,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-17",
         "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-02-17",
@@ -5728,7 +5728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-17",
         "quota_id": "MCDONALD'S\u2666TERMINAL 3\u2666Landside\u2666#01-21\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-17",
@@ -5763,7 +5763,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-17",
         "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-17",
@@ -5773,7 +5773,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-17",
         "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-17",
@@ -5784,6 +5784,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-02-17",
         "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-02-17",
+        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
