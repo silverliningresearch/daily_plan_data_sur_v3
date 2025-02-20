@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "20-02-2025 16:26:40"
+        "download_time": "20-02-2025 16:39:05"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -6112,6 +6112,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-20",
+        "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-20",
         "quota_id": "Dyson Pop-Up\u2666TERMINAL 2\u2666Airside\u2666#02-174A\u2666EL\u2666Min8",
         "Number of interviews": 4
     },
@@ -6133,7 +6138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-20",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-02-20",
@@ -6163,7 +6168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-20",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-02-20",
@@ -6193,7 +6198,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-20",
         "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-20",
@@ -6228,7 +6233,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-20",
         "quota_id": "Travelex T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     }
 ]    
 
