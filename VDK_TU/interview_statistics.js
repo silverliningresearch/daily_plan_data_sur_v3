@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "22-02-2025 08:29:46"
+        "download_time": "22-02-2025 08:40:24"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -584,8 +584,20 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-02-22",
+        "InterviewerID": "2 - Anette N.",
+        "Q0B": "HOTEL EUROPA AABENRAA",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-02-22",
         "InterviewerID": "23 - Julie H.",
         "Q0B": "COMWELL AARHUS",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "InterviewerID": "3 - Bent K.",
+        "Q0B": "HOTEL SANDVIG HAVN",
         "completes": 1
     }
 ]    
