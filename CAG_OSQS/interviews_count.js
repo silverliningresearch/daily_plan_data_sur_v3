@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "23-02-2025 15:11:18"
+        "download_time": "23-02-2025 15:26:15"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -6538,12 +6538,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-23",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-23",
         "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL\u2666Min8",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-02-23",
@@ -6568,12 +6568,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-23",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-23",
         "quota_id": "CLIMB@T3\u2666TERMINAL 3\u2666Landside\u2666#B3-01/02\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-02-23",
