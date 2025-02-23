@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "23-02-2025 12:53:58"
+        "download_time": "23-02-2025 13:12:41"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -6537,13 +6537,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-23",
+        "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-23",
+        "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-23",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 3\u2666Landside\u2666#01-K20\u2666CR\u2666Min8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-23",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K21\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-02-23",
@@ -6553,7 +6563,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-23",
         "quota_id": "HEAVENLY WANG AND WANG NASI LEMAK\u2666TERMINAL 1\u2666Landside\u2666#02-03/04\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-23",
@@ -6567,8 +6577,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-23",
+        "quota_id": "Penang Culture and Woke Ramen\u2666TERMINAL 1\u2666Landside\u2666#03-19\u2666FBL\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-23",
         "quota_id": "SF Express\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-23",
+        "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-02-23",
