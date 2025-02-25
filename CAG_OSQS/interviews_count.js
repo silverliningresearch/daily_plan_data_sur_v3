@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "25-02-2025 15:28:31"
+        "download_time": "25-02-2025 15:39:45"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -6868,7 +6868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-25",
         "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-02-25",
@@ -6923,7 +6923,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-25",
         "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-25",
@@ -6993,7 +6993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-25",
         "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-02-25",
@@ -7028,7 +7028,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-25",
         "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-02-25",
@@ -7043,7 +7043,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-25",
         "quota_id": "iStudio\u2666TERMINAL 3\u2666Airside\u2666#02-54\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-25",
