@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "26-02-2025 09:39:30"
+        "download_time": "26-02-2025 09:54:20"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -7122,8 +7122,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-26",
+        "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-26",
         "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-26",
+        "quota_id": "Hermes\u2666TERMINAL 1\u2666Airside\u2666#02-55/56\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-26",
+        "quota_id": "Hugo Boss\u2666TERMINAL 1\u2666Airside\u2666#02-76\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-02-26",
@@ -7133,7 +7148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-26",
         "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min15",
-        "Number of interviews": 14
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2025-02-26",
@@ -7148,7 +7163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-26",
         "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-02-26",
