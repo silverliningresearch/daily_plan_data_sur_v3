@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "26-02-2025 20:12:08"
+        "download_time": "26-02-2025 20:28:20"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -7207,6 +7207,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-26",
+        "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-26",
         "quota_id": "Kaboom (DTW) \u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
         "Number of interviews": 8
     },
@@ -7272,6 +7277,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-26",
+        "quota_id": "PARIS BAGUETTE\u2666TERMINAL 3\u2666Landside\u2666#01-22\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-26",
         "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC\u2666Min15",
         "Number of interviews": 7
     },
@@ -7328,7 +7338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-26",
         "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-02-26",
@@ -7354,6 +7364,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-02-26",
         "quota_id": "T1 iSC Departure counter\u2666TERMINAL 1\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-26",
+        "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-02-26",
