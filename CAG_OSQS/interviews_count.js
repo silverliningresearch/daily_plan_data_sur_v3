@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "27-02-2025 12:55:09"
+        "download_time": "27-02-2025 13:13:09"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -7418,7 +7418,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-27",
         "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-02-27",
@@ -7439,6 +7439,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-02-27",
         "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-02-27",
+        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-02-27",
@@ -7477,8 +7482,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-02-27",
+        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-27",
         "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15",
         "Number of interviews": 13
+    },
+    {
+        "InterviewDate": "2025-02-27",
+        "quota_id": "Pezzo\u2666TERMINAL 1\u2666Airside\u2666#02-K09N\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-27",
@@ -7488,7 +7503,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-27",
         "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-02-27",
@@ -7513,7 +7528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-02-27",
         "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-02-27",
