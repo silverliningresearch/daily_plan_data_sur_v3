@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-03-2025 14:13:28"
+        "download_time": "02-03-2025 14:29:43"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -7752,6 +7752,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-02",
+        "quota_id": "4FINGERS CRISPY CHICKEN & MELTISE\u2666TERMINAL 3\u2666Landside\u2666#B2-02/02A\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-02",
         "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -7763,7 +7768,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-02",
         "quota_id": "Chengdu Bowl\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-03-02",
@@ -7802,6 +7807,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-02",
+        "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-02",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A1)\u2666TERMINAL 4\u2666Airside\u2666#02-35 (beside Coffee Bean)\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -7813,7 +7823,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-02",
         "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-03-02",
@@ -7823,7 +7833,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-02",
         "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     }
 ]    
 
