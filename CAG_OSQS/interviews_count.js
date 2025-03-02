@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-03-2025 13:40:51"
+        "download_time": "02-03-2025 13:56:44"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -7758,7 +7758,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-02",
         "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-03-02",
@@ -7768,7 +7768,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-02",
         "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-03-02",
@@ -7808,12 +7808,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-02",
         "quota_id": "PARADISE DYNASTY\u2666TERMINAL 3\u2666Landside\u2666#03-32\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-03-02",
         "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-03-02",
