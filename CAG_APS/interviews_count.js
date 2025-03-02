@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T2_AC_YVR",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "02-03-2025 19:55:10"
+        "download_time": "02-03-2025 20:13:50"
     },
     {
         "InterviewDate": "01-02-2025",
@@ -92,12 +92,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "01-03-2025",
-        "quota_id": "_MF_HGH",
-        "interviewerID": "28",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "01-03-2025",
         "quota_id": "T1_8M_RGN",
         "interviewerID": "28",
         "Number of interviews": 4
@@ -106,7 +100,7 @@ let interview_statistics  = `[
         "InterviewDate": "01-03-2025",
         "quota_id": "T1_MF_HGH",
         "interviewerID": "28",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "01-03-2025",
@@ -304,13 +298,13 @@ let interview_statistics  = `[
         "InterviewDate": "02-03-2025",
         "quota_id": "T2_AI_DEL",
         "interviewerID": "02",
-        "Number of interviews": 10
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "02-03-2025",
         "quota_id": "T2_AI_MAA",
         "interviewerID": "02",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "02-03-2025",
@@ -346,7 +340,7 @@ let interview_statistics  = `[
         "InterviewDate": "02-03-2025",
         "quota_id": "T4_CX_HKG",
         "interviewerID": "04",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "02-03-2025",
@@ -413,18 +407,6 @@ let interview_statistics  = `[
         "quota_id": "T3_VN_SGN",
         "interviewerID": "28",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "02-03-2025",
-        "quota_id": "T2_GT_HKG",
-        "interviewerID": "Good",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "02-03-2025",
-        "quota_id": "T2_AL_MAA",
-        "interviewerID": "N",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "03-02-2025",
