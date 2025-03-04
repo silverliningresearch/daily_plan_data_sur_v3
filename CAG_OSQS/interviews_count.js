@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-03-2025 17:13:20"
+        "download_time": "04-03-2025 17:27:17"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -7983,7 +7983,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-04",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-03-04",
@@ -7998,7 +7998,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-04",
         "quota_id": "Metapod\u2666TERMINAL 1\u2666Airside\u2666#02-62\u2666EL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-03-04",
@@ -8024,6 +8024,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-03-04",
         "quota_id": "Swensen\u2019s Unlimited\u2666TERMINAL 2\u2666Landside\u2666#01-03\u2666FBL\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-03-04",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-04",
