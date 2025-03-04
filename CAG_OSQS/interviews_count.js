@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-03-2025 17:55:13"
+        "download_time": "04-03-2025 18:13:27"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -7968,7 +7968,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-04",
         "quota_id": "Hermes\u2666TERMINAL 1\u2666Airside\u2666#02-55/56\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-03-04",
@@ -7978,12 +7978,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-04",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-03-04",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 10
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2025-03-04",
@@ -7998,7 +7998,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-04",
         "quota_id": "Metapod\u2666TERMINAL 1\u2666Airside\u2666#02-62\u2666EL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-03-04",
