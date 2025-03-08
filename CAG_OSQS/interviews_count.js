@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "08-03-2025 12:39:47"
+        "download_time": "08-03-2025 12:55:24"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -8312,6 +8312,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-08",
+        "quota_id": "Mr Coconut\u2666TERMINAL 3\u2666Landside\u2666#B2-30A\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-08",
         "quota_id": "Nam Kee Pau/ Hong Kong Egglet/ Mee Hoon Kueh\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
@@ -8322,8 +8327,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-08",
-        "quota_id": "The Green Party\u2666TERMINAL 3\u2666Landside\u2666#B2-35/36\u2666LS\u2666Min8",
+        "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-08",
+        "quota_id": "The Green Party\u2666TERMINAL 3\u2666Landside\u2666#B2-35/36\u2666LS\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
