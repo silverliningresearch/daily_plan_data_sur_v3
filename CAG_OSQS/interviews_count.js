@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "11-03-2025 13:55:06"
+        "download_time": "11-03-2025 14:13:18"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -8588,12 +8588,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-11",
         "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-03-11",
         "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 4\u2666Airside\u2666#02-42\u2666CCD\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-03-11",
+        "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-11",
@@ -8603,7 +8608,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-11",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
-        "Number of interviews": 3
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-03-11",
@@ -8618,7 +8623,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-11",
         "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-03-11",
@@ -8638,7 +8643,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-11",
         "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-03-11",
