@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "12-03-2025 11:10:07"
+        "download_time": "12-03-2025 15:38:51"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -109802,8 +109802,28 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-03-12",
+        "quota_id": "EK184-DXB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "GQ801-ATH",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-12",
         "quota_id": "KL1704-AMS",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "LH1013-FRA",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "QR194-DOH",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-03-12",
@@ -109812,13 +109832,28 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-03-12",
+        "quota_id": "SN2317-GOT",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-03-12",
         "quota_id": "SN2553-WAW",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-03-12",
+        "quota_id": "SN2555-WAW",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-03-12",
         "quota_id": "SN2581-BER",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "SN2587-BER",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-03-12",
@@ -109852,6 +109887,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-03-12",
+        "quota_id": "SN3727-MAD",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-03-12",
         "quota_id": "SN3771-ALC",
         "Number of interviews": 3
     },
@@ -109862,8 +109902,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-03-12",
+        "quota_id": "SN397-CKY",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-03-12",
         "quota_id": "TB2045-SID",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "TK1944-IST",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-03-12",

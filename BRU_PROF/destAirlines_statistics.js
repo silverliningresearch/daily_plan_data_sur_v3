@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "12-03-2025 11:10:08"
+        "download_time": "12-03-2025 15:38:52"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -99877,8 +99877,13 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-12",
-        "quota_id": "BER-SN",
+        "quota_id": "ATH-GQ",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "BER-SN",
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-03-12",
@@ -99887,13 +99892,43 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-12",
+        "quota_id": "CKY-SN",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "DOH-QR",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "DXB-EK",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "FRA-LH",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-03-12",
         "quota_id": "FRA-SN",
         "Number of interviews": 12
     },
     {
         "InterviewDate": "2025-03-12",
+        "quota_id": "GOT-SN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-03-12",
         "quota_id": "HAM-SN",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "IST-TK",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-03-12",
@@ -99909,6 +99944,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2025-03-12",
         "quota_id": "LYS-SN",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-12",
+        "quota_id": "MAD-SN",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-03-12",
@@ -99928,7 +99968,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2025-03-12",
         "quota_id": "WAW-SN",
-        "Number of interviews": 4
+        "Number of interviews": 10
     }
 ]    
 
