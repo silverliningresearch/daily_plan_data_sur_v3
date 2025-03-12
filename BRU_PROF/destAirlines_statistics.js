@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "12-03-2025 18:37:58"
+        "download_time": "12-03-2025 18:52:57"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -99908,7 +99908,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2025-03-12",
         "quota_id": "DXB-EK",
-        "Number of interviews": 4
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-03-12",
@@ -99983,7 +99983,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2025-03-12",
         "quota_id": "MUC-SN",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-03-12",
