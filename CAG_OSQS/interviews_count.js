@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-03-2025 12:56:20"
+        "download_time": "16-03-2025 13:15:34"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -9343,7 +9343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-03-16",
@@ -9373,12 +9373,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-03-16",
@@ -9388,7 +9388,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "Prosegur T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-03-16",
@@ -9412,13 +9412,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-16",
+        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-03-16",
         "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-03-16",
