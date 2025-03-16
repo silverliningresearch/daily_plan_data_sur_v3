@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-03-2025 12:29:01"
+        "download_time": "16-03-2025 12:41:24"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -9348,7 +9348,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-03-16",
@@ -9363,7 +9363,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "CURRY TIMES\u2666TERMINAL 3\u2666Landside\u2666#B2-51\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-03-16",
@@ -9393,7 +9393,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-03-16",
@@ -9403,7 +9403,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-16",
         "quota_id": "SIXT RENT A CAR\u2666TERMINAL 1\u2666Landside\u2666#01-K5\u2666LS\u2666Min5",
-        "Number of interviews": 2
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-03-16",
+        "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-16",
