@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "18-03-2025 14:56:01"
+        "download_time": "18-03-2025 15:15:39"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -9698,12 +9698,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-18",
         "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-03-18",
         "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-03-18",
@@ -9729,6 +9729,16 @@ let interview_statistics  = `[
         "InterviewDate": "2025-03-18",
         "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-03-18",
+        "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-03-18",
+        "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-03-18",
