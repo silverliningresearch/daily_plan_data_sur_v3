@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "18-03-2025 15:56:02"
+        "download_time": "18-03-2025 16:15:04"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -9657,6 +9657,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-18",
+        "quota_id": "Aroma Truffle\u2666TERMINAL 1\u2666Airside\u2666#02-K19B\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-18",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 1\u2666Airside\u2666#02-K24\u2666CCD\u2666Min8",
         "Number of interviews": 5
     },
@@ -9688,7 +9693,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-18",
         "quota_id": "Charles & Keith\u2666TERMINAL 1\u2666Airside\u2666#02-51\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-03-18",
@@ -9743,7 +9748,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-18",
         "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666PC\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-03-18",
@@ -9753,7 +9758,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-18",
         "quota_id": "Prosegur T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-03-18",
@@ -9778,7 +9783,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-18",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-03-18",
