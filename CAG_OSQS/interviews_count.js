@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "18-03-2025 07:55:46"
+        "download_time": "18-03-2025 08:14:35"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -9657,8 +9657,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-18",
-        "quota_id": "Louis Vuitton\u2666TERMINAL 3\u2666Airside\u2666#02-36A(F) & 03-07A(F)\u2666LX\u2666Min8",
+        "quota_id": "Bvlgari\u2666TERMINAL 3\u2666Airside\u2666#02-45-02\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-18",
+        "quota_id": "Cartier\u2666TERMINAL 3\u2666Airside\u2666#02-45-01\u2666LX\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-03-18",
+        "quota_id": "Louis Vuitton\u2666TERMINAL 3\u2666Airside\u2666#02-36A(F) & 03-07A(F)\u2666LX\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-03-18",
