@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "22-03-2025 04:57:27"
+        "download_time": "22-03-2025 05:16:28"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -759,13 +759,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-01",
         "InterviewerID": "9 - Jens J.",
-        "Q0B": "L\u00d8KKEN",
+        "Q0B": "L\u00d8KKEN (FERIEHUS)",
         "completes": 10
     },
     {
         "InterviewDate": "2025-03-02",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "BJERREGAARD STRAND",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
         "completes": 6
     },
     {
@@ -783,7 +783,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-02",
         "InterviewerID": "9 - Jens J.",
-        "Q0B": "SKAGEN STRAND",
+        "Q0B": "SKAGEN STRAND (FERIEHUS)",
         "completes": 9
     },
     {
@@ -831,7 +831,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-05",
         "InterviewerID": "21 - Vibeke L.",
-        "Q0B": "HUMMINGEN/KRAMNITZE",
+        "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
         "completes": 1
     },
     {
@@ -855,7 +855,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-06",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "VEJERS STRAND",
+        "Q0B": "VEJERS STRAND (FERIEHUS)",
         "completes": 4
     },
     {
@@ -867,13 +867,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-06",
         "InterviewerID": "21 - Vibeke L.",
-        "Q0B": "MARIELYST / B\u00d8T\u00d8 STRAND",
+        "Q0B": "MARIELYST / B\u00d8T\u00d8 STRAND (FERIEHUS)",
         "completes": 3
     },
     {
         "InterviewDate": "2025-03-06",
         "InterviewerID": "21 - Vibeke L.",
-        "Q0B": "SK\u00c6RBY STRAND",
+        "Q0B": "SK\u00c6RBY STRAND (FERIEHUS)",
         "completes": 1
     },
     {
@@ -903,7 +903,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-07",
         "InterviewerID": "9 - Jens J.",
-        "Q0B": "L\u00d8NSTRUP",
+        "Q0B": "L\u00d8NSTRUP (FERIEHUS)",
         "completes": 9
     },
     {
@@ -933,37 +933,37 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-09",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "BJERREGAARD STRAND",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-09",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "BORK HAVN",
+        "Q0B": "BORK HAVN  (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-09",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "HOUSTRUP",
+        "Q0B": "HOUSTRUP (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-09",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "HVIDE SANDE STRAND",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-09",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "JEGUM FERIELAND",
+        "Q0B": "JEGUM FERIELAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-09",
         "InterviewerID": "20 - Karina S.",
-        "Q0B": "HASMARK STRAND",
+        "Q0B": "HASMARK STRAND (FERIEHUS)",
         "completes": 1
     },
     {
@@ -975,31 +975,31 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-09",
         "InterviewerID": "9 - Jens J.",
-        "Q0B": "SKAGEN STRAND",
+        "Q0B": "SKAGEN STRAND (FERIEHUS)",
         "completes": 7
     },
     {
         "InterviewDate": "2025-03-10",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "BL\u00c5VAND",
+        "Q0B": "BL\u00c5VAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-10",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "BORK HAVN",
+        "Q0B": "BORK HAVN  (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-10",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "HENNE STRAND",
+        "Q0B": "HENNE STRAND (FERIEHUS)",
         "completes": 6
     },
     {
         "InterviewDate": "2025-03-10",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "VEJERS STRAND",
+        "Q0B": "VEJERS STRAND (FERIEHUS)",
         "completes": 1
     },
     {
@@ -1011,13 +1011,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-10",
         "InterviewerID": "33 - Udo Q.",
-        "Q0B": "HVIDE SANDE STRAND",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
         "completes": 2
     },
     {
         "InterviewDate": "2025-03-10",
         "InterviewerID": "33 - Udo Q.",
-        "Q0B": "S\u00d8NDERVIG STRAND",
+        "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
         "completes": 6
     },
     {
@@ -1035,7 +1035,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-11",
         "InterviewerID": "33 - Udo Q.",
-        "Q0B": "HVIDE SANDE STRAND",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
         "completes": 12
     },
     {
@@ -1065,7 +1065,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-12",
         "InterviewerID": "31 - Sebastian S.",
-        "Q0B": "LAKOLK",
+        "Q0B": "LAKOLK (FERIEHUS)",
         "completes": 17
     },
     {
@@ -1125,7 +1125,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-14",
         "InterviewerID": "27 - Niels K.",
-        "Q0B": "L\u00d8KKEN",
+        "Q0B": "L\u00d8KKEN (FERIEHUS)",
         "completes": 6
     },
     {
@@ -1137,13 +1137,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-14",
         "InterviewerID": "31 - Sebastian S.",
-        "Q0B": "KONGSMARK R\u00d8M\u00d8",
+        "Q0B": "KONGSMARK R\u00d8M\u00d8 (FERIEHUS)",
         "completes": 13
     },
     {
         "InterviewDate": "2025-03-14",
         "InterviewerID": "33 - Udo Q.",
-        "Q0B": "THORSMINDE",
+        "Q0B": "THORSMINDE (FERIEHUS)",
         "completes": 8
     },
     {
@@ -1161,7 +1161,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-15",
         "InterviewerID": "27 - Niels K.",
-        "Q0B": "BLOKHUS",
+        "Q0B": "BLOKHUS (FERIEHUS)",
         "completes": 7
     },
     {
@@ -1179,13 +1179,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-16",
         "InterviewerID": "20 - Karina S.",
-        "Q0B": "HASMARK STRAND",
+        "Q0B": "HASMARK STRAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-16",
         "InterviewerID": "27 - Niels K.",
-        "Q0B": "L\u00d8KKEN",
+        "Q0B": "L\u00d8KKEN (FERIEHUS)",
         "completes": 5
     },
     {
@@ -1221,13 +1221,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-17",
         "InterviewerID": "33 - Udo Q.",
-        "Q0B": "S\u00d8NDERVIG STRAND",
+        "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
         "completes": 10
     },
     {
         "InterviewDate": "2025-03-17",
         "InterviewerID": "6 - Dorte P.",
-        "Q0B": "LISELEJE/ASSERBO",
+        "Q0B": "LISELEJE/ASSERBO (FERIEHUS)",
         "completes": 3
     },
     {
@@ -1251,13 +1251,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-18",
         "InterviewerID": "33 - Udo Q.",
-        "Q0B": "HVIDE SANDE STRAND",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
         "completes": 9
     },
     {
         "InterviewDate": "2025-03-18",
         "InterviewerID": "33 - Udo Q.",
-        "Q0B": "S\u00d8NDERVIG STRAND",
+        "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
         "completes": 2
     },
     {
@@ -1269,19 +1269,19 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-19",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "BJERREGAARD STRAND",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-03-19",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "BL\u00c5VAND",
+        "Q0B": "BL\u00c5VAND (FERIEHUS)",
         "completes": 2
     },
     {
         "InterviewDate": "2025-03-19",
         "InterviewerID": "19 - Heinrich P.",
-        "Q0B": "HENNE STRAND",
+        "Q0B": "HENNE STRAND (FERIEHUS)",
         "completes": 5
     },
     {
@@ -1317,7 +1317,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-19",
         "InterviewerID": "9 - Jens J.",
-        "Q0B": "L\u00d8KKEN",
+        "Q0B": "L\u00d8KKEN (FERIEHUS)",
         "completes": 9
     },
     {
@@ -1341,7 +1341,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-20",
         "InterviewerID": "9 - Jens J.",
-        "Q0B": "SKAGEN STRAND",
+        "Q0B": "SKAGEN STRAND (FERIEHUS)",
         "completes": 3
     },
     {
@@ -1353,13 +1353,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-21",
         "InterviewerID": "20 - Karina S.",
-        "Q0B": "HASMARK STRAND",
+        "Q0B": "HASMARK STRAND (FERIEHUS)",
         "completes": 5
     },
     {
         "InterviewDate": "2025-03-21",
         "InterviewerID": "21 - Vibeke L.",
-        "Q0B": "HUMMINGEN/KRAMNITZE",
+        "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
         "completes": 1
     },
     {
@@ -1383,13 +1383,13 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-03-21",
         "InterviewerID": "31 - Sebastian S.",
-        "Q0B": "KONGSMARK R\u00d8M\u00d8",
+        "Q0B": "KONGSMARK R\u00d8M\u00d8 (FERIEHUS)",
         "completes": 19
     },
     {
         "InterviewDate": "2025-03-21",
         "InterviewerID": "33 - Udo Q.",
-        "Q0B": "HVIDE SANDE STRAND",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
         "completes": 15
     }
 ]    
