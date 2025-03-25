@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "25-03-2025 14:57:21"
+        "download_time": "25-03-2025 15:17:21"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -10683,12 +10683,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-25",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-03-25",
         "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-03-25",
@@ -10752,7 +10752,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-25",
+        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-25",
         "quota_id": "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-25",
+        "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -10797,6 +10807,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-25",
+        "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-25",
         "quota_id": "TERRACE CHINESE KITCHEN\u2666TERMINAL 1\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -10809,6 +10824,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-03-25",
         "quota_id": "UOB Gold\u2666TERMINAL 2\u2666Airside\u2666#02-K19\u2666JW\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-03-25",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-25",
