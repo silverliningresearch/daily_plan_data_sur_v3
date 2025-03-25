@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "25-03-2025 14:44:45"
+        "download_time": "25-03-2025 14:57:21"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -10683,7 +10683,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-25",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-03-25",
@@ -10718,7 +10718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-25",
         "quota_id": "Guardian (Premises A) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-155\u2666PH\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-03-25",
@@ -10783,12 +10783,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-25",
         "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-03-25",
         "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-03-25",
+        "quota_id": "T2 iSC Arrival counter\u2666TERMINAL 2\u2666Landside\u2666#01-179\u2666PS\u2666Min5",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-25",
