@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "25-03-2025 13:20:20"
+        "download_time": "25-03-2025 13:30:48"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -10688,12 +10688,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-25",
         "quota_id": "Balenciaga\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-03-25",
         "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-25",
+        "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-25",
@@ -10704,6 +10709,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-03-25",
         "quota_id": "HEAVENLY WANG AND WANG NASI LEMAK\u2666TERMINAL 1\u2666Landside\u2666#02-03/04\u2666FBL\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-03-25",
+        "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-25",
