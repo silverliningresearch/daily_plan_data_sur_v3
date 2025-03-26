@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "27-03-2025 03:29:38"
+        "download_time": "27-03-2025 03:44:54"
     },
     {
         "InterviewDate": "2024-12-28",
