@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "27-03-2025 13:15:27"
+        "download_time": "27-03-2025 13:28:58"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -11087,6 +11087,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-27",
+        "quota_id": "Asian Street Kitchen\u2666TERMINAL 2\u2666Airside\u2666#02-170\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-27",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR\u2666Min8",
         "Number of interviews": 8
     },
@@ -11102,12 +11107,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-27",
+        "quota_id": "Hard Rock Cafe\u2666TERMINAL 2\u2666Airside\u2666#02-177\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-27",
         "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-03-27",
         "quota_id": "Natureland Premium\u2666TERMINAL 2\u2666Airside\u2666#03-168\u2666OS\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-03-27",
+        "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
         "Number of interviews": 1
     },
     {
