@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "27-03-2025 11:17:33"
+        "download_time": "27-03-2025 11:34:50"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1622,6 +1622,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-03-27",
+        "InterviewerID": "24 - Kasper R.",
+        "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-03-27",
+        "InterviewerID": "26 - Katrine H.",
+        "Q0B": "COMWELL COPENHAGEN PORTSIDE",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-03-27",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "GENERATOR HOSTEL COPENHAGEN",
         "completes": 3
@@ -1630,7 +1642,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-03-27",
         "InterviewerID": "36 - Lotte G",
         "Q0B": "COMWELL AARHUS",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-03-27",
