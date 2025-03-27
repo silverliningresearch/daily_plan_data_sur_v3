@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "27-03-2025 14:30:55"
+        "download_time": "27-03-2025 14:42:56"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -11082,6 +11082,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-03-27",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-27",
         "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
         "Number of interviews": 2
     },
@@ -11103,7 +11108,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-27",
         "quota_id": "Foodies' Clan\u2666TERMINAL 2\u2666Landside\u2666#0610-ASC\u2666FBL\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-03-27",
@@ -11123,6 +11128,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-03-27",
         "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-03-27",
+        "quota_id": "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
         "Number of interviews": 1
     },
     {
