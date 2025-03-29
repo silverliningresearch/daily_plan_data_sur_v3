@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "29-03-2025 11:57:18"
+        "download_time": "29-03-2025 12:17:30"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1702,13 +1702,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-03-29",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "SKOVMOSE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-03-29",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "CAMP ONE ASSENS STRAND",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-03-29",
@@ -1720,13 +1720,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-03-29",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "FAN\u00d8 BAD (FERIEHUS)",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-03-29",
         "InterviewerID": "36 - Lotte G",
         "Q0B": "BLOMMEHAVEN CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-03-29",
@@ -1744,13 +1744,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-03-29",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-03-29",
         "InterviewerID": "8 - Sofie H.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 5
+        "completes": 6
     }
 ]    
 
