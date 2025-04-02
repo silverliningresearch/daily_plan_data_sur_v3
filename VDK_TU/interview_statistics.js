@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "02-04-2025 12:35:50"
+        "download_time": "02-04-2025 13:15:18"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1894,13 +1894,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-02",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-04-02",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "ULVSHALE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-02",
@@ -1912,7 +1912,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-02",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BL\u00c5VAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-02",
@@ -1930,25 +1930,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-02",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "COPENHAGEN CITY HOSTEL",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-04-02",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "LAKOLK (FERIEHUS)",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-04-02",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-04-02",
         "InterviewerID": "37 - Peder H",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-04-02",
