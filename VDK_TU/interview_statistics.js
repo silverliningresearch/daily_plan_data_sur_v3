@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-04-2025 09:58:12"
+        "download_time": "03-04-2025 10:18:38"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -1978,19 +1978,37 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-03",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "HASMARK STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-03",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-03",
         "InterviewerID": "36 - Lotte G",
         "Q0B": "COMWELL AARHUS",
         "completes": 3
+    },
+    {
+        "InterviewDate": "2025-04-03",
+        "InterviewerID": "37 - Peder H",
+        "Q0B": "ABSALON CAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-04-03",
+        "InterviewerID": "38 - Christina B",
+        "Q0B": "HOSTRUP STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-04-03",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "VESTERVIG (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
