@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "04-04-2025 09:47:50"
+        "download_time": "04-04-2025 09:58:08"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2050,7 +2050,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-04",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "GENERATOR HOSTEL COPENHAGEN",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-04",
@@ -2062,13 +2062,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-04",
         "InterviewerID": "35 - Annette K.",
         "Q0B": "COMWELL AARHUS",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-04",
         "InterviewerID": "37 - Peder H",
         "Q0B": "KRAGERUP GODS",
         "completes": 6
+    },
+    {
+        "InterviewDate": "2025-04-04",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
