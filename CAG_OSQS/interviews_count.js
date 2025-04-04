@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-04-2025 20:15:19"
+        "download_time": "04-04-2025 20:42:19"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -11718,7 +11718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-04-04",
@@ -11728,7 +11728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "Harry's Bar\u2666TERMINAL 3\u2666Airside\u2666#02-08\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-04-04",
@@ -11783,7 +11783,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
-        "Number of interviews": 11
+        "Number of interviews": 12
+    },
+    {
+        "InterviewDate": "2025-04-04",
+        "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-04-04",
@@ -11803,7 +11808,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-04-04",
