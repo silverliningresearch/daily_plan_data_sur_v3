@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-04-2025 16:44:08"
+        "download_time": "04-04-2025 16:57:45"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -11732,12 +11732,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-04",
+        "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-04",
         "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min15",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-04",
+        "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15",
         "Number of interviews": 1
     },
     {
@@ -11753,12 +11763,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-04-04",
@@ -11768,7 +11778,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-04-04",
