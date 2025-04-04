@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-04-2025 16:15:20"
+        "download_time": "04-04-2025 16:31:27"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -11748,7 +11748,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-04",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-04-04",
@@ -11757,8 +11757,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-04",
+        "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-04",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-04-04",
+        "quota_id": "WH Smith - Premises G (Air) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-43C\u2666OW\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
