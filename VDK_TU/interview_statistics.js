@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "07-04-2025 10:22:44"
+        "download_time": "07-04-2025 10:50:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2146,19 +2146,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-07",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "LANDAL S\u00d8H\u00d8JLANDET",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-07",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "URBAN HOUSE",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-07",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "ENJOY RESORT R\u00d8M\u00d8 OG MARINA FISKEN\u00c6S",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-04-07",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
+        "completes": 2
     }
 ]    
 
