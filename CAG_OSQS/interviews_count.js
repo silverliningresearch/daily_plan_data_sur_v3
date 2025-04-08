@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "08-04-2025 14:16:38"
+        "download_time": "08-04-2025 14:58:25"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -12157,6 +12157,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-08",
+        "quota_id": "Premises E - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Landside\u2666#01-40\u2666BS\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-04-08",
+        "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC\u2666Min8",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-04-08",
         "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8",
         "Number of interviews": 8
     },
@@ -12183,7 +12193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-08",
         "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-04-08",
