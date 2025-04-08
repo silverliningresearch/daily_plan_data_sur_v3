@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "completed_interviews": 11,
-        "download_time": "08-04-2025 10:07:17"
+        "download_time": "08-04-2025 11:44:38"
     },
     {
         "Interview_Date": "2024-02-28",
@@ -25454,9 +25454,27 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-04-08",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-04-08",
         "Dest": "BEG",
         "AirlineCode": "JU",
         "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2025-04-08",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2025-04-08",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2025-04-08",
@@ -25469,6 +25487,12 @@ let interview_statistics = `[
         "Dest": "DUB",
         "AirlineCode": "SK",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-04-08",
+        "Dest": "EWR",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2025-04-08",
@@ -25486,7 +25510,31 @@ let interview_statistics = `[
         "Interview_Date": "2025-04-08",
         "Dest": "LHR",
         "AirlineCode": "BA",
-        "completed_interviews": 2
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2025-04-08",
+        "Dest": "LIS",
+        "AirlineCode": "D8",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2025-04-08",
+        "Dest": "MAD",
+        "AirlineCode": "FR",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2025-04-08",
+        "Dest": "MAD",
+        "AirlineCode": "I2",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2025-04-08",
+        "Dest": "SIN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2025-04-08",

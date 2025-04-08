@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "08-04-2025 10:21:06"
+        "download_time": "08-04-2025 11:51:41"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2176,19 +2176,37 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-08",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC OPUS HORSENS",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-04-08",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "HENNE STRAND (FERIEHUS)",
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-04-08",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "JEGUM FERIELAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-04-08",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 6
+        "completes": 10
     },
     {
         "InterviewDate": "2025-04-08",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 4
+        "completes": 6
+    },
+    {
+        "InterviewDate": "2025-04-08",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "LALANDIA S\u00d8NDERVIG",
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-08",
@@ -2206,7 +2224,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-08",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 3
     }
 ]    
 
