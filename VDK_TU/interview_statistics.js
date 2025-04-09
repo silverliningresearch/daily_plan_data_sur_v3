@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "09-04-2025 10:12:16"
+        "download_time": "09-04-2025 10:43:25"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2242,13 +2242,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-09",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-04-09",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "ULVSHALE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-09",
@@ -2266,7 +2266,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-09",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "RINDBY STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-09",
@@ -2278,19 +2278,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-09",
         "InterviewerID": "37 - Peder H",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-09",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-09",
         "InterviewerID": "40 - Iman",
         "Q0B": "BABETTE GULDSMEDEN",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-09",
