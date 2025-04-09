@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "09-04-2025 09:09:36"
+        "download_time": "09-04-2025 09:46:11"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2242,37 +2242,55 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-09",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 4
+        "completes": 7
+    },
+    {
+        "InterviewDate": "2025-04-09",
+        "InterviewerID": "17 - Naja H.",
+        "Q0B": "ULVSHALE (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-04-09",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC HOTEL SILKEBORG",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-04-09",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-04-09",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "RINDBY STRAND (FERIEHUS)",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-09",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-04-09",
+        "InterviewerID": "37 - Peder H",
+        "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-09",
         "InterviewerID": "40 - Iman",
         "Q0B": "BABETTE GULDSMEDEN",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-09",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HOTEL JUTLANDIA",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
