@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "10-04-2025 17:01:25"
+        "download_time": "10-04-2025 17:52:14"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -12432,6 +12432,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-10",
+        "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-10",
         "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -12443,6 +12448,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-10",
         "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-04-10",
+        "quota_id": "Fragrance\u2666TERMINAL 2\u2666Airside\u2666#02-199\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -12503,7 +12513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-10",
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-04-10",
@@ -12518,7 +12528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-10",
         "quota_id": "Prada\u2666TERMINAL 1\u2666Airside\u2666#02-12A\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-04-10",
@@ -12533,6 +12543,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-10",
         "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-10",
+        "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP\u2666Min8",
         "Number of interviews": 2
     },
     {
