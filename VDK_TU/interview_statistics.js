@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-04-2025 09:27:17"
+        "download_time": "11-04-2025 09:57:39"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2374,7 +2374,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-11",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FAABORG  CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-11",
@@ -2384,9 +2384,27 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-04-11",
+        "InterviewerID": "24 - Kasper R.",
+        "Q0B": "COMWELL COPENHAGEN PORTSIDE",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-04-11",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "FAN\u00d8 BAD (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-04-11",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-04-11",
+        "InterviewerID": "8 - Sofie H.",
+        "Q0B": "FOUR POINTS FLEX COPENHAGEN AIRPORT",
+        "completes": 1
     }
 ]    
 
