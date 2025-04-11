@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "11-04-2025 14:57:03"
+        "download_time": "11-04-2025 15:23:14"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -12588,7 +12588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-11",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-04-11",
@@ -12627,6 +12627,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-11",
+        "quota_id": "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-11",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A1)\u2666TERMINAL 4\u2666Airside\u2666#02-35 (beside Coffee Bean)\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -12634,6 +12639,16 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-11",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-04-11",
+        "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-11",
+        "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-04-11",
@@ -12647,8 +12662,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-11",
+        "quota_id": "Premises E - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Landside\u2666#01-40\u2666BS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-11",
         "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-04-11",
@@ -12664,6 +12684,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-11",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-11",
+        "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
