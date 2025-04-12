@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "12-04-2025 17:59:33"
+        "download_time": "12-04-2025 18:23:04"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -12847,13 +12847,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-12",
+        "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-12",
         "quota_id": "Choco Express\u2666TERMINAL 4\u2666Landside\u2666#02-10\u2666LS\u2666Min8",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-04-12",
         "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-04-12",
@@ -12863,7 +12868,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-12",
         "quota_id": "GUARDIAN HEALTH & BEAUTY\u2666TERMINAL 3\u2666Landside\u2666#B2-24\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-04-12",
+        "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-04-12",
