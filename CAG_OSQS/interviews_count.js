@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "12-04-2025 11:18:57"
+        "download_time": "12-04-2025 11:45:56"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -12833,6 +12833,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-12",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS\u2666Min8",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-04-12",
+        "quota_id": "Choco Express\u2666TERMINAL 4\u2666Landside\u2666#02-10\u2666LS\u2666Min8",
         "Number of interviews": 4
     },
     {
@@ -12843,7 +12848,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-12",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Landside\u2666#02-09\u2666PC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-04-12",
@@ -12858,7 +12863,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-12",
         "quota_id": "The Digital Gadgets\u2666TERMINAL 4\u2666Landside\u2666#02-08\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-04-12",
