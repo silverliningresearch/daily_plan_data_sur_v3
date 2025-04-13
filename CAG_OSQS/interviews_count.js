@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "13-04-2025 12:17:16"
+        "download_time": "13-04-2025 12:33:34"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -13008,7 +13008,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-13",
         "quota_id": "7-Eleven Cafe\u2666TERMINAL 3\u2666Landside\u2666#B2-05/06\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-04-13",
@@ -13034,6 +13034,16 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-13",
         "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS\u2666Min8",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-04-13",
+        "quota_id": "Marche\u2666TERMINAL 1\u2666Airside\u2666#02-40N\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-13",
+        "quota_id": "Pontian Wanton Noodle\u2666TERMINAL 1\u2666Airside\u2666#02-K10N\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-04-13",
