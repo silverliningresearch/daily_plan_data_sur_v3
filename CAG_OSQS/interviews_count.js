@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "14-04-2025 14:59:41"
+        "download_time": "14-04-2025 15:18:47"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -13147,6 +13147,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-14",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-14",
         "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT\u2666Min15",
         "Number of interviews": 2
     },
@@ -13163,7 +13168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-14",
         "quota_id": "Prosegur T4 DT South\u2666TERMINAL 4\u2666Airside\u2666#02-38\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-04-14",
@@ -13178,7 +13183,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-14",
         "quota_id": "T4 iSC Departure counter\u2666TERMINAL 4\u2666Airside\u2666NA\u2666PS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-04-14",
