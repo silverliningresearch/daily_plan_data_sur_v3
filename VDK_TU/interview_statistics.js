@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-04-2025 12:00:35"
+        "download_time": "14-04-2025 12:18:17"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2476,31 +2476,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-14",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "URBAN HOUSE",
-        "completes": 9
+        "completes": 10
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "SKOVMOSE (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-04-14",
@@ -2512,7 +2512,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-14",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CAB INN CITY",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-04-14",
@@ -2530,7 +2530,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-14",
         "InterviewerID": "37 - Peder H",
         "Q0B": "ROSKILDE CAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-14",
@@ -2554,7 +2554,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8NSTRUP (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
