@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA",
         "Number of interviews": 1,
-        "download_time": "15-04-2025 03:19:49"
+        "download_time": "15-04-2025 03:46:26"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -18,6 +18,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-15",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
+        "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC",
         "Number of interviews": 1
     },
     {
