@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-04-2025 10:51:32"
+        "download_time": "14-04-2025 11:00:59"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2488,13 +2488,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-14",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-04-14",
@@ -2512,13 +2512,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-14",
         "InterviewerID": "35 - Morten R",
         "Q0B": "FIRST CAMP HASMARK STRAND",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "37 - Peder H",
         "Q0B": "ROSKILDE CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-14",
