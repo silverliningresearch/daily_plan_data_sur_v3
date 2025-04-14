@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-04-2025 11:18:17"
+        "download_time": "14-04-2025 11:34:43"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2482,7 +2482,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-14",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "SKOVMOSE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-14",
@@ -2494,19 +2494,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-14",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CAB INN CITY",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-04-14",
@@ -2528,15 +2528,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-04-14",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-04-14",
         "InterviewerID": "40 - Iman",
         "Q0B": "TIVOLI HOTEL",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-04-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8NSTRUP (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     }
 ]    
 
