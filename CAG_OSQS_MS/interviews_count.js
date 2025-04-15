@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-55/56\u2666PH",
         "Number of interviews": 1,
-        "download_time": "15-04-2025 16:04:30"
+        "download_time": "15-04-2025 16:32:34"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -77,6 +77,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-15",
+        "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
         "quota_id": "Prosegur T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC",
         "Number of interviews": 1
     },
@@ -93,6 +98,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-15",
         "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
+        "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
+        "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC",
         "Number of interviews": 1
     },
     {
