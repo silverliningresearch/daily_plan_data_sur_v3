@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-55/56\u2666PH",
         "Number of interviews": 1,
-        "download_time": "15-04-2025 20:35:29"
+        "download_time": "15-04-2025 21:05:19"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -47,6 +47,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-15",
+        "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
         "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT",
         "Number of interviews": 1
     },
@@ -78,6 +83,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-15",
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
+        "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC",
         "Number of interviews": 1
     },
     {
