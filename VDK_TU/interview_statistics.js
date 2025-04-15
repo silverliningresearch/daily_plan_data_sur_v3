@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-04-2025 12:18:41"
+        "download_time": "15-04-2025 12:45:56"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2564,9 +2564,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-04-15",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "JEGUM FERIELAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-04-15",
@@ -2578,25 +2584,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-15",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP COPENHAGEN BORGERGADE",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-04-15",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 12
+        "completes": 13
     },
     {
         "InterviewDate": "2025-04-15",
         "InterviewerID": "40 - Iman",
         "Q0B": "GENERATOR HOSTEL COPENHAGEN",
-        "completes": 14
+        "completes": 15
     },
     {
         "InterviewDate": "2025-04-15",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN STRAND (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     }
 ]    
 
