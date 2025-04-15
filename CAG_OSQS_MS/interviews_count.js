@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-55/56\u2666PH",
         "Number of interviews": 1,
-        "download_time": "15-04-2025 17:31:51"
+        "download_time": "15-04-2025 17:59:07"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -13,6 +13,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-15",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K21\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR",
         "Number of interviews": 1
     },
     {
@@ -67,6 +72,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-15",
+        "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
         "quota_id": "Perfumes & Cosmetics (T3 Landside)\u2666TERMINAL 3\u2666Landside\u2666#02-88\u2666PC",
         "Number of interviews": 1
     },
@@ -98,6 +108,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-15",
         "quota_id": "Prosegur T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-83\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-15",
+        "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA",
         "Number of interviews": 1
     },
     {
