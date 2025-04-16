@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "16-04-2025 13:56:50"
+        "download_time": "16-04-2025 14:17:21"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -272,7 +272,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-16",
+        "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-16",
+        "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-011\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-16",
         "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-16",
+        "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD",
         "Number of interviews": 1
     },
     {
@@ -288,6 +303,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-16",
         "quota_id": "The Hainan Story Coffee & Toast\u2666TERMINAL 2\u2666Airside\u2666#02-K11\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-16",
+        "quota_id": "WH Smith - Premises G (Air) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-43C\u2666OW",
         "Number of interviews": 1
     },
     {
