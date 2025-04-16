@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-04-2025 20:00:14"
+        "download_time": "16-04-2025 20:23:36"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -13427,6 +13427,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-16",
+        "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL\u2666Min20",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-04-16",
         "quota_id": "Asian Street Kitchen\u2666TERMINAL 2\u2666Airside\u2666#02-170\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -13543,7 +13548,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-16",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-04-16",
@@ -13558,7 +13563,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-16",
         "quota_id": "Prosegur T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-04-16",
