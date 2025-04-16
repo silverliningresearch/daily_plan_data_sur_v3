@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-04-2025 18:37:33"
+        "download_time": "16-04-2025 19:01:24"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -13457,6 +13457,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-16",
+        "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-16",
         "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
@@ -13493,7 +13498,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-16",
         "quota_id": "Irvins Salted Egg\u2666TERMINAL 1\u2666Airside\u2666#02-K07A\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-04-16",
+        "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-04-16",
@@ -13503,7 +13513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-16",
         "quota_id": "LT T3 Arrival South\u2666TERMINAL 3\u2666Airside\u2666#01-19\u2666LT\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-04-16",
@@ -13528,7 +13538,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-16",
         "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-04-16",
