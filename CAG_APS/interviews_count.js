@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T2_AC_YVR",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "16-04-2025 12:34:21"
+        "download_time": "16-04-2025 12:57:52"
     },
     {
         "InterviewDate": "01-02-2025",
@@ -3326,12 +3326,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "13-04-2025",
-        "quota_id": "T2_SQ_MNL",
-        "interviewerID": "27",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "13-04-2025",
         "quota_id": "T1_MF_FOC",
         "interviewerID": "28",
         "Number of interviews": 3
@@ -3340,7 +3334,7 @@ let interview_statistics  = `[
         "InterviewDate": "13-04-2025",
         "quota_id": "T2_SQ_MNL",
         "interviewerID": "28",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "14-02-2025",
@@ -3368,12 +3362,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "14-04-2025",
-        "quota_id": "T2_SQ_SUB",
-        "interviewerID": ".02",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "14-04-2025",
         "quota_id": "T2_SQ_KIX",
         "interviewerID": "02",
         "Number of interviews": 2
@@ -3382,7 +3370,7 @@ let interview_statistics  = `[
         "InterviewDate": "14-04-2025",
         "quota_id": "T2_SQ_SUB",
         "interviewerID": "02",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "14-04-2025",
