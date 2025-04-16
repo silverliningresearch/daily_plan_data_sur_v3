@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "16-04-2025 11:19:58"
+        "download_time": "16-04-2025 11:37:18"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2608,7 +2608,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-16",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "BAMSEBO CAMPING V. GUDEN\u00c5EN",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-16",
@@ -2620,13 +2620,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-16",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "THORSMINDE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-16",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "COMWELL COPENHAGEN PORTSIDE",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-04-16",
@@ -2638,13 +2638,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-16",
         "InterviewerID": "40 - Iman",
         "Q0B": "FOUR POINTS FLEX LYNGBY",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-04-16",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HEDEBO STRANDCAMPING",
-        "completes": 2
+        "completes": 3
     }
 ]    
 
