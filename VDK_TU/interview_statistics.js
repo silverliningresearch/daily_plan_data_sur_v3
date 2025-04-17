@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "17-04-2025 11:25:53"
+        "download_time": "17-04-2025 11:51:32"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2674,19 +2674,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-17",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "CAB INN ODENSE",
-        "completes": 6
+        "completes": 7
+    },
+    {
+        "InterviewDate": "2025-04-17",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "MARIELYST / B\u00d8T\u00d8 STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-04-17",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "GO HOTELS COPENHAGEN APS",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-17",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "URBAN CAMPER HOSTEL",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-04-17",
@@ -2698,19 +2704,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-17",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "COPENHAGEN CITY HOSTEL",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-04-17",
         "InterviewerID": "36 - Lotte G",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-17",
         "InterviewerID": "37 - Peder H",
         "Q0B": "ROSKILDE CAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-17",
@@ -2722,7 +2728,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-17",
         "InterviewerID": "40 - Iman",
         "Q0B": "ANDERSEN HOTEL",
-        "completes": 12
+        "completes": 14
     }
 ]    
 
