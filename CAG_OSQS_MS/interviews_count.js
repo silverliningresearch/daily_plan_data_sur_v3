@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "17-04-2025 15:33:45"
+        "download_time": "17-04-2025 16:02:05"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -407,6 +407,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-17",
+        "quota_id": "CHANGI RECOMMENDS (T1 L2 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-K39\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-17",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX",
         "Number of interviews": 1
     },
@@ -422,13 +427,33 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-17",
+        "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-17",
         "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-17",
+        "quota_id": "Prosegur T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-02\u2666MC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-04-17",
         "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-17",
+        "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-17",
+        "quota_id": "WH Smith - Premises C (Land) (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-84\u2666OW",
+        "Number of interviews": 1
     }
 ]    
 
