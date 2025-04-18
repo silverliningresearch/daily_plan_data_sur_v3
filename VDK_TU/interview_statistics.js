@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "18-04-2025 11:22:14"
+        "download_time": "18-04-2025 11:47:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2734,37 +2734,37 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-18",
         "InterviewerID": "15 - Bjarne J.",
         "Q0B": "EBELTOFT STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "ULVSHALE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "CAMP ONE ASSENS STRAND",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "STORKES\u00d8EN",
-        "completes": 13
+        "completes": 14
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-18",
@@ -2776,13 +2776,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-18",
         "InterviewerID": "35 - Morten R",
         "Q0B": "KERTEMINDE CAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "36 - Lotte G",
         "Q0B": "COMWELL AARHUS",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
