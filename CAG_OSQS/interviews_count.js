@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "18-04-2025 14:57:04"
+        "download_time": "18-04-2025 15:16:32"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -13893,12 +13893,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-18",
         "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-04-18",
         "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-04-18",
@@ -13969,6 +13974,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-18",
         "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-04-18",
