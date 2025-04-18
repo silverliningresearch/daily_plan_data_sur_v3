@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "18-04-2025 10:47:50"
+        "download_time": "18-04-2025 11:02:13"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2740,13 +2740,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-18",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "CAMP ONE ASSENS STRAND",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-18",
@@ -2758,19 +2758,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-18",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CAB INN CITY",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-04-18",
         "InterviewerID": "35 - Morten R",
         "Q0B": "KERTEMINDE CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-18",
