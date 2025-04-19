@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "19-04-2025 09:58:28"
+        "download_time": "19-04-2025 10:23:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2788,19 +2788,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-19",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "R\u00d8DVIG KRO",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-04-19",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FIRST CAMP HASMARK STRAND",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-19",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "SKOVMOSE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-04-19",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "FOUR POINTS FLEX AALBORG",
+        "completes": 1
     }
 ]    
 
