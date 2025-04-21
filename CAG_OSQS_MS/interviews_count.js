@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "21-04-2025 14:00:06"
+        "download_time": "21-04-2025 14:19:14"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -872,12 +872,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-21",
+        "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-21",
         "quota_id": "Crystal Jade GO\u2666TERMINAL 4\u2666Airside\u2666#02-41\u2666FBA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-04-21",
         "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-21",
+        "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP",
         "Number of interviews": 1
     },
     {
@@ -918,6 +928,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-21",
         "quota_id": "Tory Burch\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-21",
+        "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD",
         "Number of interviews": 1
     }
 ]    
