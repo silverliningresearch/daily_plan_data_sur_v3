@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "21-04-2025 10:52:39"
+        "download_time": "21-04-2025 11:23:20"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -2860,19 +2860,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-21",
         "InterviewerID": "15 - Bjarne J.",
         "Q0B": "TRUUST (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-21",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FEDDET CAMPING",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-21",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "GAMMELBRO CAMPING",
-        "completes": 2
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-04-21",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "MARIELYST / B\u00d8T\u00d8 STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-04-21",
@@ -2884,19 +2890,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-21",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "GAMMELBRO CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-21",
         "InterviewerID": "36 - Lotte G",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-04-21",
         "InterviewerID": "37 - Peder H",
         "Q0B": "ROSKILDE CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-21",
@@ -2908,13 +2914,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-21",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-21",
         "InterviewerID": "8 - Sofie H.",
         "Q0B": "GO HOTELS COPENHAGEN APS",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-04-21",
