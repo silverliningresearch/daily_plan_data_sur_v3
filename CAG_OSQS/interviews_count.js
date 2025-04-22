@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-04-2025 18:42:31"
+        "download_time": "22-04-2025 19:01:15"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -14438,12 +14438,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-22",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-04-22",
         "quota_id": "Cartier\u2666TERMINAL 3\u2666Airside\u2666#02-45-01\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-04-22",
@@ -14453,6 +14453,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-22",
         "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-04-22",
+        "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA\u2666Min8",
         "Number of interviews": 3
     },
     {
@@ -14538,7 +14543,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-22",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-04-22",
