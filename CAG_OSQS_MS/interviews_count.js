@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "22-04-2025 14:57:58"
+        "download_time": "22-04-2025 15:25:07"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -1058,6 +1058,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-21",
         "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-22",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD",
         "Number of interviews": 1
     }
 ]    
