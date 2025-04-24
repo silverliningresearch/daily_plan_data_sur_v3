@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "24-04-2025 11:47:03"
+        "download_time": "24-04-2025 12:01:43"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -1157,6 +1157,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-24",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 1\u2666Airside\u2666#02-15N\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-24",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR",
         "Number of interviews": 1
     },
@@ -1203,6 +1208,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-24",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-24",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD",
         "Number of interviews": 1
     },
     {
