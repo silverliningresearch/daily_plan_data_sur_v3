@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "25-04-2025 09:28:11"
+        "download_time": "25-04-2025 09:44:49"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3044,6 +3044,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-04-25",
+        "InterviewerID": "17 - Naja H.",
+        "Q0B": "FEDDET CAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC REGINA HERNING",
         "completes": 7
@@ -3052,12 +3058,18 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-25",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "COMWELL ODENSE",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-04-25",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MILLING HOTEL S\u00d8PARK MARIBO",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "ENJOY RESORT R\u00d8M\u00d8 OG MARINA FISKEN\u00c6S",
         "completes": 1
     },
     {
