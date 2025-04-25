@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "25-04-2025 19:39:32"
+        "download_time": "25-04-2025 19:54:00"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -1357,6 +1357,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-25",
+        "quota_id": "7-Eleven (T2 Level 2)\u2666TERMINAL 2\u2666Airside\u2666#02-404\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
         "quota_id": "7-Eleven (T2 Level 3)\u2666TERMINAL 2\u2666Airside\u2666#03-172\u2666CS",
         "Number of interviews": 1
     },
@@ -1368,6 +1373,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-25",
         "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
+        "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR",
         "Number of interviews": 1
     },
     {
