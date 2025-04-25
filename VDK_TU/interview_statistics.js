@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "25-04-2025 11:30:27"
+        "download_time": "25-04-2025 11:44:19"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3046,13 +3046,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-25",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FEDDET CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-25",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC REGINA HERNING",
         "completes": 7
+    },
+    {
+        "InterviewDate": "2025-04-25",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "JEGUM FERIELAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-04-25",
@@ -3070,31 +3076,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-25",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "GO HOTELS COPENHAGEN APS",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-25",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "COPENHAGEN CITY HOSTEL",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-25",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "ENJOY RESORT R\u00d8M\u00d8 OG MARINA FISKEN\u00c6S",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-25",
         "InterviewerID": "35 - Morten R",
         "Q0B": "HASMARK STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-04-25",
         "InterviewerID": "37 - Peder H",
         "Q0B": "FOUR POINTS FLEX PRINDSEN ROSKILDE",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-25",
