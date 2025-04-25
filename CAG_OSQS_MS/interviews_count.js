@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "25-04-2025 22:24:12"
+        "download_time": "25-04-2025 22:42:16"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -1357,6 +1357,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-25",
+        "quota_id": "7-Eleven (T1)\u2666TERMINAL 1\u2666Airside\u2666#02-75\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
         "quota_id": "7-Eleven (T2 Level 2)\u2666TERMINAL 2\u2666Airside\u2666#02-404\u2666CS",
         "Number of interviews": 1
     },
@@ -1383,6 +1388,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-25",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
+        "quota_id": "Changi Recommends\u2666TERMINAL 2\u2666Airside\u2666#02-K18\u2666CR",
         "Number of interviews": 1
     },
     {
@@ -1437,6 +1447,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-25",
+        "quota_id": "Natureland Premium\u2666TERMINAL 2\u2666Airside\u2666#03-168\u2666OS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
         "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC",
         "Number of interviews": 1
     },
@@ -1463,6 +1478,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-25",
         "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
+        "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC",
         "Number of interviews": 1
     },
     {
@@ -1503,6 +1523,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-25",
         "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-25",
+        "quota_id": "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-235\u2666MC",
         "Number of interviews": 1
     },
     {
