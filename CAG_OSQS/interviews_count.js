@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "26-04-2025 08:40:00"
+        "download_time": "26-04-2025 08:54:02"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -14883,7 +14883,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-04-26",
         "quota_id": "BURGER KING\u2666TERMINAL 1\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-04-26",
@@ -14894,6 +14894,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-26",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-04-26",
+        "quota_id": "TERRACE CHINESE KITCHEN\u2666TERMINAL 1\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
