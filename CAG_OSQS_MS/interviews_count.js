@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "26-04-2025 21:53:52"
+        "download_time": "26-04-2025 22:13:17"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -1547,7 +1547,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-26",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-26",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-26",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-180\u2666CR",
         "Number of interviews": 1
     },
     {
