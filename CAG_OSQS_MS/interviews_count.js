@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "30-04-2025 22:26:24"
+        "download_time": "30-04-2025 22:40:33"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -2052,6 +2052,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-30",
+        "quota_id": "Irvin's Salted Egg\u2666TERMINAL 2\u2666Airside\u2666#02-209D\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-30",
+        "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-30",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT",
         "Number of interviews": 1
     },
@@ -2107,7 +2117,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-04-30",
+        "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-30",
         "quota_id": "Tod's\u2666TERMINAL 2\u2666Airside\u2666#02-225-01\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-30",
+        "quota_id": "WH Smith (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-207\u2666OW",
         "Number of interviews": 1
     },
     {
