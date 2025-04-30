@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "30-04-2025 13:27:49"
+        "download_time": "30-04-2025 13:45:26"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3256,7 +3256,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-30",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "B\u00d8RSMOSE STRAND CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-04-30",
@@ -3274,13 +3274,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-30",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "STORKES\u00d8EN",
-        "completes": 14
+        "completes": 15
     },
     {
         "InterviewDate": "2025-04-30",
         "InterviewerID": "38 - Christina B",
         "Q0B": "HOSTRUP STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-04-30",
