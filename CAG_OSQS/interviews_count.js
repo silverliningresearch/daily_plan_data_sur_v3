@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-05-2025 13:55:12"
+        "download_time": "02-05-2025 14:12:39"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -15832,8 +15832,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-02",
+        "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-02",
         "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-05-02",
@@ -15862,8 +15867,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-02",
-        "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
+        "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-02",
+        "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-02",
@@ -15873,7 +15883,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-02",
         "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-02",
@@ -15883,7 +15893,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-02",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-05-02",
@@ -15913,12 +15923,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-02",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-02",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-05-02",
+        "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-05-02",
@@ -15928,7 +15943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-02",
         "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-02",
