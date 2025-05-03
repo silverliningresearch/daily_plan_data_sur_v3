@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "03-05-2025 15:27:16"
+        "download_time": "03-05-2025 15:39:41"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -15997,8 +15997,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-03",
-        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-03",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-03",
@@ -16013,7 +16018,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-03",
         "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-03",
@@ -16038,7 +16043,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-03",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-03",
