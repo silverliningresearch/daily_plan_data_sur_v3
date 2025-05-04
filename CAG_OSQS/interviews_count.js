@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-05-2025 15:12:50"
+        "download_time": "04-05-2025 15:27:33"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -16123,12 +16123,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-04",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-04",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-04",
@@ -16157,6 +16157,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-04",
+        "quota_id": "FRAGRANCE\u2666TERMINAL 3\u2666Landside\u2666#02-92\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-04",
         "quota_id": "Guardian (Premises B) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-29\u2666PH\u2666Min8",
         "Number of interviews": 8
     },
@@ -16173,7 +16178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-04",
         "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-05-04",
@@ -16263,12 +16268,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-04",
         "quota_id": "The Green Party\u2666TERMINAL 3\u2666Landside\u2666#B2-35/36\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-04",
         "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-04",
+        "quota_id": "iClaw Taiwan\u2666TERMINAL 3\u2666Landside\u2666#B2-45/46\u2666LS\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
