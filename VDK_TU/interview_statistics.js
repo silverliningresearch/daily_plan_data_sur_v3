@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "07-05-2025 11:57:45"
+        "download_time": "07-05-2025 12:17:29"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3526,7 +3526,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-07",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "URBAN CAMPER HOSTEL",
-        "completes": 11
+        "completes": 12
     },
     {
         "InterviewDate": "2025-05-07",
@@ -3542,27 +3542,45 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-05-07",
+        "InterviewerID": "18 - Michael H.",
+        "Q0B": "ULVSHALE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-05-07",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-05-07",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "HOUSTRUP (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-05-07",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "SCANTICON COMWELL MIDDELFART",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-05-07",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-05-07",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "SKOVMOSE (FERIEHUS)",
-        "completes": 7
+        "completes": 8
+    },
+    {
+        "InterviewDate": "2025-05-07",
+        "InterviewerID": "44 - Nanna-Liv",
+        "Q0B": "DUEODDE (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
