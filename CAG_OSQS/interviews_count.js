@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "08-05-2025 14:13:14"
+        "download_time": "08-05-2025 14:26:59"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -16678,7 +16678,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-08",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-05-08",
@@ -16703,7 +16703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-08",
         "quota_id": "FAIRPRICE FINEST\u2666TERMINAL 3\u2666Landside\u2666#B2-10\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-05-08",
@@ -16718,7 +16718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-08",
         "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-05-08",
@@ -16768,7 +16768,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-08",
         "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-08",
@@ -16779,6 +16779,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-05-08",
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-05-08",
+        "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
