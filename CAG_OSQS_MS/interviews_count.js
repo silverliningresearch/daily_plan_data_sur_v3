@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "08-05-2025 20:41:50"
+        "download_time": "08-05-2025 20:57:49"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -2277,6 +2277,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-08",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-08",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-08",
         "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR",
         "Number of interviews": 1
     },
@@ -2303,6 +2313,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-08",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-08",
+        "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT",
         "Number of interviews": 1
     },
     {
