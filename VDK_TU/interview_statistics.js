@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "09-05-2025 11:30:52"
+        "download_time": "09-05-2025 11:46:28"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3656,6 +3656,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-05-09",
+        "InterviewerID": "15 - Bjarne J.",
+        "Q0B": "GREN\u00c5 MARINA",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-05-09",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "F\u00c5BORG LYSTB\u00c5DEHAVN",
         "completes": 3
@@ -3665,6 +3671,12 @@ let interview_statistics = `[
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
         "completes": 2
+    },
+    {
+        "InterviewDate": "2025-05-09",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "DANCAMPS NORDS\u00d8",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-05-09",
