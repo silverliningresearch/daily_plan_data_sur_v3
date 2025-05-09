@@ -1,10 +1,1840 @@
 let interview_statistics = `[
     {
+        "Interview_Date": "2024-04-02",
+        "Dest": "BCN",
+        "AirlineCode": "D8",
+        "completed_interviews": 10,
+        "download_time": "09-05-2025 18:09:33"
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "BCN",
+        "AirlineCode": "SK",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "BKK",
+        "AirlineCode": "TG",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "FCO",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "FRA",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "LGW",
+        "AirlineCode": "D8",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "LIS",
+        "AirlineCode": "TP",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "OSL",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "WAW",
+        "AirlineCode": "SK",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-02",
+        "Dest": "ZRH",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "CDG",
+        "AirlineCode": "EJU",
+        "completed_interviews": 19
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "DEL",
+        "AirlineCode": "AI",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "LGW",
+        "AirlineCode": "D8",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "OSL",
+        "AirlineCode": "D8",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "OSL",
+        "AirlineCode": "SK",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "OTP",
+        "AirlineCode": "W4",
+        "completed_interviews": 19
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "SOF",
+        "AirlineCode": "W6",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "VIE",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "WAW",
+        "AirlineCode": "W6",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-03",
+        "Dest": "ZRH",
+        "AirlineCode": "SK",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "AGP",
+        "AirlineCode": "SK",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "ARN",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "BKK",
+        "AirlineCode": "TG",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "BRU",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "IAD",
+        "AirlineCode": "SK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "JFK",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "LGW",
+        "AirlineCode": "D8",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "OSL",
+        "AirlineCode": "SK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-04",
+        "Dest": "SFO",
+        "AirlineCode": "SK",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-05",
+        "Dest": "BOD",
+        "AirlineCode": "EJU",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-05",
+        "Dest": "BUD",
+        "AirlineCode": "W6",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-05",
+        "Dest": "FCO",
+        "AirlineCode": "FR",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-05",
+        "Dest": "JFK",
+        "AirlineCode": "SK",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-05",
+        "Dest": "KUT",
+        "AirlineCode": "W6",
+        "completed_interviews": 17
+    },
+    {
+        "Interview_Date": "2024-04-05",
+        "Dest": "OPO",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-05",
+        "Dest": "SIN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 17
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "AGP",
+        "AirlineCode": "D8",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "BKK",
+        "AirlineCode": "TG",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 19
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "EWR",
+        "AirlineCode": "SK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "IAD",
+        "AirlineCode": "SK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "KEF",
+        "AirlineCode": "FI",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "LGW",
+        "AirlineCode": "D8",
+        "completed_interviews": 14
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "LIS",
+        "AirlineCode": "TP",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "ORD",
+        "AirlineCode": "SK",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "SAW",
+        "AirlineCode": "VF",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "SFO",
+        "AirlineCode": "SK",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "SIN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 16
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-06",
+        "Dest": "YYZ",
+        "AirlineCode": "AC",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "BEG",
+        "AirlineCode": "JU",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "BOD",
+        "AirlineCode": "EJU",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "GDN",
+        "AirlineCode": "W6",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "HEL",
+        "AirlineCode": "SK",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "KEF",
+        "AirlineCode": "OG",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "NTE",
+        "AirlineCode": "V7",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "ORD",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "VIE",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "VNO",
+        "AirlineCode": "SK",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-08",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "BRU",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "CDG",
+        "AirlineCode": "EJU",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "FRA",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "HEL",
+        "AirlineCode": "SK",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "LYS",
+        "AirlineCode": "EJU",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "MAD",
+        "AirlineCode": "I2",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "OSL",
+        "AirlineCode": "SK",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-09",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-10",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-10",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "completed_interviews": 17
+    },
+    {
+        "Interview_Date": "2024-04-10",
+        "Dest": "BUD",
+        "AirlineCode": "W6",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-10",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-10",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "completed_interviews": 24
+    },
+    {
+        "Interview_Date": "2024-04-10",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-10",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-10",
+        "Dest": "KEF",
+        "AirlineCode": "OG",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "AMS",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "BEG",
+        "AirlineCode": "JU",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 27
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "HEL",
+        "AirlineCode": "SK",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "IAD",
+        "AirlineCode": "SK",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "JFK",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 21
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "MUC",
+        "AirlineCode": "D8",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "ORY",
+        "AirlineCode": "TO",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "SFO",
+        "AirlineCode": "SK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-11",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-12",
+        "Dest": "AMS",
+        "AirlineCode": "D8",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-12",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-12",
+        "Dest": "BEG",
+        "AirlineCode": "W6",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-12",
+        "Dest": "EWR",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-12",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-12",
+        "Dest": "JFK",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-12",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "AMS",
+        "AirlineCode": "D8",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "completed_interviews": 21
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "BEG",
+        "AirlineCode": "JU",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "BOD",
+        "AirlineCode": "EJU",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "DUB",
+        "AirlineCode": "D8",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 19
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "NTE",
+        "AirlineCode": "V7",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "OSL",
+        "AirlineCode": "D8",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "VIE",
+        "AirlineCode": "ET",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "YYZ",
+        "AirlineCode": "AC",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-15",
+        "Dest": "YYZ",
+        "AirlineCode": "SK",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "ARN",
+        "AirlineCode": "D8",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "completed_interviews": 18
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 21
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "IAS",
+        "AirlineCode": "W4",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "LGW",
+        "AirlineCode": "D8",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "LIS",
+        "AirlineCode": "EJU",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-16",
+        "Dest": "ORY",
+        "AirlineCode": "TO",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "BEG",
+        "AirlineCode": "W6",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "BRU",
+        "AirlineCode": "SK",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "JFK",
+        "AirlineCode": "SK",
+        "completed_interviews": 22
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "ORY",
+        "AirlineCode": "TO",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "SFO",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "SIN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-17",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "completed_interviews": 40
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "ARN",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "DUS",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 18
+    },
+    {
+        "Interview_Date": "2024-04-19",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "AMS",
+        "AirlineCode": "SK",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "BKK",
+        "AirlineCode": "TG",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 19
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 24
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "JFK",
+        "AirlineCode": "DL",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "LGW",
+        "AirlineCode": "D8",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "SFO",
+        "AirlineCode": "SK",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "SIN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-20",
+        "Dest": "YYZ",
+        "AirlineCode": "AC",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "AMS",
+        "AirlineCode": "SK",
+        "completed_interviews": 14
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "ARN",
+        "AirlineCode": "SK",
+        "completed_interviews": 17
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "BEG",
+        "AirlineCode": "W6",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "BRU",
+        "AirlineCode": "SK",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "DEL",
+        "AirlineCode": "AI",
+        "completed_interviews": 21
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 17
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 18
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "EWR",
+        "AirlineCode": "SK",
+        "completed_interviews": 19
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "FCO",
+        "AirlineCode": "SK",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "GDN",
+        "AirlineCode": "SK",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 19
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "JFK",
+        "AirlineCode": "SK",
+        "completed_interviews": 21
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "LGW",
+        "AirlineCode": "D8",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "LYS",
+        "AirlineCode": "EJU",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "NRN",
+        "AirlineCode": "FR",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "SFO",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "SOF",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-21",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "completed_interviews": 21
+    },
+    {
+        "Interview_Date": "2024-04-22",
+        "Dest": "BEG",
+        "AirlineCode": "W6",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-22",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "completed_interviews": 16
+    },
+    {
+        "Interview_Date": "2024-04-22",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 21
+    },
+    {
+        "Interview_Date": "2024-04-22",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-22",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-22",
+        "Dest": "SOF",
+        "AirlineCode": "W6",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "ALC",
+        "AirlineCode": "D8",
+        "completed_interviews": 18
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "BUD",
+        "AirlineCode": "D8",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "IAS",
+        "AirlineCode": "W4",
+        "completed_interviews": 19
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 30
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "JFK",
+        "AirlineCode": "DL",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "LGW",
+        "AirlineCode": "D8",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "LGW",
+        "AirlineCode": "EZY",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "LYS",
+        "AirlineCode": "EJU",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "MRS",
+        "AirlineCode": "V7",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "ORY",
+        "AirlineCode": "TO",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "OSL",
+        "AirlineCode": "SK",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "OTP",
+        "AirlineCode": "W4",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "SFO",
+        "AirlineCode": "SK",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-23",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-24",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-24",
+        "Dest": "ARN",
+        "AirlineCode": "D8",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-24",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-24",
+        "Dest": "DEL",
+        "AirlineCode": "AI",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-24",
+        "Dest": "FRA",
+        "AirlineCode": "SK",
+        "completed_interviews": 17
+    },
+    {
+        "Interview_Date": "2024-04-24",
+        "Dest": "OSL",
+        "AirlineCode": "SK",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-24",
+        "Dest": "VIE",
+        "AirlineCode": "ET",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-24",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-25",
+        "Dest": "AGP",
+        "AirlineCode": "SK",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-25",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-25",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-04-25",
+        "Dest": "EWR",
+        "AirlineCode": "SK",
+        "completed_interviews": 22
+    },
+    {
+        "Interview_Date": "2024-04-25",
+        "Dest": "FRA",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-25",
+        "Dest": "IAD",
+        "AirlineCode": "SK",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-25",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-25",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "ALC",
+        "AirlineCode": "D8",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "ARN",
+        "AirlineCode": "SK",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "BUD",
+        "AirlineCode": "FR",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "DEL",
+        "AirlineCode": "AI",
+        "completed_interviews": 22
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "FRA",
+        "AirlineCode": "SK",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "IAD",
+        "AirlineCode": "SK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "JFK",
+        "AirlineCode": "SK",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "LGW",
+        "AirlineCode": "EZY",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "LIS",
+        "AirlineCode": "EJU",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "NTE",
+        "AirlineCode": "V7",
+        "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "ORY",
+        "AirlineCode": "TO",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "SAW",
+        "AirlineCode": "VF",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "SIN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "SOF",
+        "AirlineCode": "W6",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "completed_interviews": 14
+    },
+    {
+        "Interview_Date": "2024-04-26",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "completed_interviews": 14
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "AGP",
+        "AirlineCode": "D8",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "DEL",
+        "AirlineCode": "AI",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "DOH",
+        "AirlineCode": "AY",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "GDN",
+        "AirlineCode": "FR",
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "KEF",
+        "AirlineCode": "FI",
+        "completed_interviews": 18
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "LIS",
+        "AirlineCode": "TP",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "MAD",
+        "AirlineCode": "I2",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "SFO",
+        "AirlineCode": "SK",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "VIE",
+        "AirlineCode": "ET",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-04-27",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "completed_interviews": 5
+    },
+    {
         "Interview_Date": "2024-04-28",
         "Dest": "CDG",
         "AirlineCode": "SK",
-        "completed_interviews": 10,
-        "download_time": "09-05-2025 17:54:50"
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2024-04-28",
@@ -4694,12 +6524,6 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-07-03",
-        "Dest": "LPA",
-        "AirlineCode": "DK",
-        "completed_interviews": 1
-    },
-    {
-        "Interview_Date": "2024-07-03",
         "Dest": "MUC",
         "AirlineCode": "LH",
         "completed_interviews": 15
@@ -5804,12 +7628,6 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-07-19",
-        "Dest": "GVA",
-        "AirlineCode": "LX",
-        "completed_interviews": 4
-    },
-    {
-        "Interview_Date": "2024-07-19",
         "Dest": "HEL",
         "AirlineCode": "AY",
         "completed_interviews": 13
@@ -6023,12 +7841,6 @@ let interview_statistics = `[
         "Dest": "DXB",
         "AirlineCode": "EK",
         "completed_interviews": 12
-    },
-    {
-        "Interview_Date": "2024-07-27",
-        "Dest": "FAO",
-        "AirlineCode": "D8",
-        "completed_interviews": 1
     },
     {
         "Interview_Date": "2024-07-27",
@@ -11756,12 +13568,6 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-10-22",
-        "Dest": "SAW",
-        "AirlineCode": "VF",
-        "completed_interviews": 1
-    },
-    {
-        "Interview_Date": "2024-10-22",
         "Dest": "YYZ",
         "AirlineCode": "AC",
         "completed_interviews": 12
@@ -15026,12 +16832,6 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-12-16",
-        "Dest": "FAE",
-        "AirlineCode": "RC",
-        "completed_interviews": 1
-    },
-    {
-        "Interview_Date": "2024-12-16",
         "Dest": "HEL",
         "AirlineCode": "AY",
         "completed_interviews": 11
@@ -16700,12 +18500,6 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-01-17",
-        "Dest": "SAW",
-        "AirlineCode": "PC",
-        "completed_interviews": 1
-    },
-    {
-        "Interview_Date": "2025-01-17",
         "Dest": "SIN",
         "AirlineCode": "SQ",
         "completed_interviews": 9
@@ -17525,12 +19319,6 @@ let interview_statistics = `[
         "Dest": "KEF",
         "AirlineCode": "OG",
         "completed_interviews": 8
-    },
-    {
-        "Interview_Date": "2025-01-30",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "completed_interviews": 9
     },
     {
         "Interview_Date": "2025-01-30",
@@ -19360,13 +21148,13 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-01",
         "Dest": "DEL",
         "AirlineCode": "AI",
-        "completed_interviews": 24
+        "completed_interviews": 22
     },
     {
         "Interview_Date": "2025-03-01",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "completed_interviews": 15
+        "completed_interviews": 14
     },
     {
         "Interview_Date": "2025-03-01",
@@ -19420,7 +21208,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-03",
         "Dest": "AUH",
         "AirlineCode": "EY",
-        "completed_interviews": 13
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2025-03-03",
@@ -19444,7 +21232,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-03",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "completed_interviews": 15
+        "completed_interviews": 14
     },
     {
         "Interview_Date": "2025-03-03",
@@ -19528,7 +21316,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-03",
         "Dest": "SIN",
         "AirlineCode": "SQ",
-        "completed_interviews": 13
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2025-03-04",
@@ -19564,7 +21352,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-04",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "completed_interviews": 8
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2025-03-04",
@@ -19618,7 +21406,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-05",
         "Dest": "BKK",
         "AirlineCode": "TG",
-        "completed_interviews": 9
+        "completed_interviews": 8
     },
     {
         "Interview_Date": "2025-03-05",
@@ -19666,7 +21454,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-05",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "completed_interviews": 8
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2025-03-05",
@@ -19774,7 +21562,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-07",
         "Dest": "BKK",
         "AirlineCode": "TG",
-        "completed_interviews": 13
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2025-03-07",
@@ -20116,7 +21904,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-13",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "completed_interviews": 13
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2025-03-13",
@@ -20194,7 +21982,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-14",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "completed_interviews": 3
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2025-03-14",
@@ -20302,7 +22090,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-16",
         "Dest": "DEL",
         "AirlineCode": "AI",
-        "completed_interviews": 5
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2025-03-16",
@@ -20536,7 +22324,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-19",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "completed_interviews": 11
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2025-03-19",
@@ -20578,7 +22366,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-21",
         "Dest": "DEL",
         "AirlineCode": "AI",
-        "completed_interviews": 22
+        "completed_interviews": 21
     },
     {
         "Interview_Date": "2025-03-21",
@@ -20590,7 +22378,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-21",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "completed_interviews": 16
+        "completed_interviews": 15
     },
     {
         "Interview_Date": "2025-03-21",
@@ -20776,7 +22564,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-23",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "completed_interviews": 21
+        "completed_interviews": 19
     },
     {
         "Interview_Date": "2025-03-23",
@@ -20794,7 +22582,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-23",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "completed_interviews": 11
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2025-03-23",
@@ -20860,7 +22648,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-24",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "completed_interviews": 10
+        "completed_interviews": 9
     },
     {
         "Interview_Date": "2025-03-24",
@@ -20998,7 +22786,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-26",
         "Dest": "BKK",
         "AirlineCode": "TG",
-        "completed_interviews": 12
+        "completed_interviews": 11
     },
     {
         "Interview_Date": "2025-03-26",
@@ -21010,7 +22798,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-26",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "completed_interviews": 12
+        "completed_interviews": 11
     },
     {
         "Interview_Date": "2025-03-26",
@@ -21022,7 +22810,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-03-26",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "completed_interviews": 11
+        "completed_interviews": 10
     },
     {
         "Interview_Date": "2025-03-26",
