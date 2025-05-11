@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "11-05-2025 16:55:27"
+        "download_time": "11-05-2025 17:13:20"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -17023,7 +17023,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-11",
         "quota_id": "Boarding Gate & The Wallet Shop\u2666TERMINAL 3\u2666Landside\u2666#B2-08/09\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-11",
@@ -17063,12 +17063,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-11",
         "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-11",
         "quota_id": "Mr Coconut\u2666TERMINAL 3\u2666Landside\u2666#B2-30A\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-11",
@@ -17083,7 +17083,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-11",
         "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-11",
