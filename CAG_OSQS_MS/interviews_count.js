@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "11-05-2025 14:45:16"
+        "download_time": "11-05-2025 15:13:31"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -2547,7 +2547,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-11",
+        "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-11",
+        "quota_id": "Pontian Wanton Noodle\u2666TERMINAL 1\u2666Airside\u2666#02-K10N\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-11",
         "quota_id": "Prosegur T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-11",
+        "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC",
         "Number of interviews": 1
     },
     {
@@ -2557,7 +2572,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-11",
+        "quota_id": "Tip Top Curry Puff\u2666TERMINAL 1\u2666Airside\u2666#02-K11N\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-11",
         "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-11",
+        "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC",
         "Number of interviews": 1
     }
 ]    
