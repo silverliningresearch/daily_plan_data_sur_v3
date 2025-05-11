@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "11-05-2025 15:13:31"
+        "download_time": "11-05-2025 15:28:56"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -2502,6 +2502,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-11",
+        "quota_id": "7-Eleven (T1)\u2666TERMINAL 1\u2666Airside\u2666#02-75\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-11",
         "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA",
         "Number of interviews": 1
     },
@@ -2538,6 +2543,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-11",
         "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-11",
+        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA",
         "Number of interviews": 1
     },
     {
