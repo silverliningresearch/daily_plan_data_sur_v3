@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "12-05-2025 14:25:48"
+        "download_time": "13-05-2025 02:13:13"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -118877,6 +118877,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-05-12",
+        "quota_id": "A3623-ATH",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "AZ165-FCO",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "EJU1748-NCE",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-12",
         "quota_id": "H4246-OTP",
         "Number of interviews": 7
     },
@@ -118887,13 +118902,53 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-05-12",
+        "quota_id": "SN2587-BER",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "SN2589-BER",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "SN2615-FRA",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "SN2617-FRA",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "SN2825-BUD",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "SN2905-VIE",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-12",
         "quota_id": "SN3181-FCO",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "SN3343-LJU",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-12",
         "quota_id": "UX1172-MAD",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-05-12",
+        "quota_id": "VY8983-BCN",
+        "Number of interviews": 6
     }
 ]    
 
