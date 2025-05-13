@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "13-05-2025 08:53:56"
+        "download_time": "13-05-2025 09:26:32"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -17192,6 +17192,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-13",
+        "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-05-13",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
         "Number of interviews": 1
     },
@@ -17203,7 +17208,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-13",
         "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-13",
@@ -17228,7 +17233,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-13",
         "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 3\u2666Airside\u2666#02-K4\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-13",
