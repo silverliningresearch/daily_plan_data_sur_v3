@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-05-2025 10:59:53"
+        "download_time": "14-05-2025 11:26:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3904,7 +3904,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-14",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC OPUS HORSENS",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-05-14",
@@ -3916,37 +3916,37 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-14",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-05-14",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 6
+        "completes": 9
     },
     {
         "InterviewDate": "2025-05-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "SCANDIC REGINA HERNING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-05-14",
         "InterviewerID": "37 - Peder H",
         "Q0B": "DANHOSTEL ROSKILDE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-05-14",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-05-14",
         "InterviewerID": "40 - Iman",
         "Q0B": "COMWELL COPENHAGEN PORTSIDE",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-05-14",
