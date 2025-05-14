@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "14-05-2025 19:54:03"
+        "download_time": "14-05-2025 20:28:59"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -17418,7 +17418,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-14",
         "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-14",
@@ -17483,12 +17483,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-14",
         "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-14",
         "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-14",
@@ -17498,7 +17498,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-14",
         "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-14",
@@ -17513,12 +17513,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-14",
         "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-14",
         "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-14",
