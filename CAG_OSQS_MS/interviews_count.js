@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "14-05-2025 17:54:01"
+        "download_time": "14-05-2025 18:26:08"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -2817,6 +2817,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-14",
+        "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-14",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR",
         "Number of interviews": 1
     },
@@ -2827,7 +2832,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-14",
+        "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-14",
         "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-14",
+        "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD",
         "Number of interviews": 1
     },
     {
