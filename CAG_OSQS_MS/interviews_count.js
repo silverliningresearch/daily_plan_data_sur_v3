@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "15-05-2025 22:27:17"
+        "download_time": "15-05-2025 22:53:51"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -3067,6 +3067,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-15",
+        "quota_id": "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL",
         "Number of interviews": 1
     },
@@ -3102,6 +3107,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-15",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
         "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP",
         "Number of interviews": 1
     },
@@ -3113,6 +3123,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-15",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH",
         "Number of interviews": 1
     },
     {
