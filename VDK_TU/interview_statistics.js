@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-05-2025 11:26:42"
+        "download_time": "15-05-2025 11:56:29"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3964,7 +3964,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-15",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "GENERATOR HOSTEL COPENHAGEN",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-05-15",
@@ -3976,25 +3976,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-15",
         "InterviewerID": "35 - Morten R",
         "Q0B": "HASMARK STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "37 - Peder H",
         "Q0B": "KRAGERUP GODS",
-        "completes": 1
+        "completes": 3
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "40 - Iman",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 10
+        "completes": 11
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "InterviewerID": "46 - Louise F.",
+        "Q0B": "BAMSEBO CAMPING V. GUDEN\u00c5EN",
+        "completes": 2
     }
 ]    
 
