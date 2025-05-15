@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "15-05-2025 14:27:21"
+        "download_time": "15-05-2025 14:53:44"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -17618,7 +17618,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-15",
         "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-15",
@@ -17648,12 +17648,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-15",
         "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-15",
         "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-15",
@@ -17687,6 +17692,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-15",
+        "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
         "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 2\u2666Airside\u2666#02-800\u2666FBA\u2666Min8",
         "Number of interviews": 7
     },
@@ -17698,7 +17708,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-15",
         "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-15",
@@ -17713,7 +17723,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-15",
         "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-15",
