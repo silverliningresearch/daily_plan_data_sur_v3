@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-05-2025 10:32:44"
+        "download_time": "15-05-2025 10:58:59"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3958,19 +3958,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-15",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FAABORG  CAMPING",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "GENERATOR HOSTEL COPENHAGEN",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "BEST WESTERN HOTEL FREDERICIA",
-        "completes": 9
+        "completes": 12
     },
     {
         "InterviewDate": "2025-05-15",
@@ -3988,13 +3988,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-15",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "40 - Iman",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 9
+        "completes": 10
     }
 ]    
 
