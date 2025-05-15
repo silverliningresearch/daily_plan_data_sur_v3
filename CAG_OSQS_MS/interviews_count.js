@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "15-05-2025 22:53:51"
+        "download_time": "15-05-2025 23:23:49"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -2967,6 +2967,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-15",
+        "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
         "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD",
         "Number of interviews": 1
     },
@@ -3022,6 +3027,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-15",
+        "quota_id": "Irvins Salted Egg\u2666TERMINAL 3\u2666Airside\u2666#02-43A\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
         "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP",
         "Number of interviews": 1
     },
@@ -3033,6 +3043,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-15",
         "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT",
         "Number of interviews": 1
     },
     {
@@ -3097,12 +3112,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-15",
+        "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
         "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-05-15",
         "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-011\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -3132,7 +3162,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-15",
+        "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
         "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "quota_id": "WH Smith - Premises G (Air) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-43C\u2666OW",
         "Number of interviews": 1
     },
     {
