@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-05-2025 09:27:06"
+        "download_time": "15-05-2025 10:01:51"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3958,19 +3958,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-15",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FAABORG  CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "BEST WESTERN HOTEL FREDERICIA",
-        "completes": 4
+        "completes": 9
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "InterviewerID": "37 - Peder H",
+        "Q0B": "KRAGERUP GODS",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-05-15",
