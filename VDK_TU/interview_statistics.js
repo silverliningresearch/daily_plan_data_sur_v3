@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-05-2025 12:56:25"
+        "download_time": "15-05-2025 13:26:20"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -3958,7 +3958,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-15",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-05-15",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-05-15",
@@ -3974,15 +3980,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-05-15",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-05-15",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "GENERATOR HOSTEL COPENHAGEN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-05-15",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "BEST WESTERN HOTEL FREDERICIA",
-        "completes": 18
+        "completes": 19
     },
     {
         "InterviewDate": "2025-05-15",
@@ -3994,7 +4006,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-15",
         "InterviewerID": "37 - Peder H",
         "Q0B": "KRAGERUP GODS",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-05-15",
@@ -4006,7 +4018,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-15",
         "InterviewerID": "40 - Iman",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 12
+        "completes": 13
     },
     {
         "InterviewDate": "2025-05-15",
