@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-05-2025 10:27:25"
+        "download_time": "16-05-2025 10:53:45"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -17832,6 +17832,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-16",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
         "Number of interviews": 9
     },
@@ -17843,7 +17848,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-16",
         "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-16",
@@ -17887,6 +17892,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-16",
+        "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
         "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
         "Number of interviews": 3
     },
@@ -17894,6 +17904,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-05-16",
         "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-05-16",
+        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
