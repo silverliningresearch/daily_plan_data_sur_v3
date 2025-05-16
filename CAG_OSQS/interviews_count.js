@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-05-2025 09:25:54"
+        "download_time": "16-05-2025 09:55:10"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -17812,6 +17812,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-16",
+        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
         "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
@@ -17823,7 +17828,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-05-16",
@@ -17837,8 +17842,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-16",
-        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
+        "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
+        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-16",
@@ -17848,7 +17858,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-16",
         "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 2\u2666Airside\u2666#02-164\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-16",
@@ -17864,6 +17874,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-05-16",
         "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-16",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-16",
