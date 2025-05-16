@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-05-2025 11:53:43"
+        "download_time": "16-05-2025 12:24:43"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -17813,7 +17813,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-16",
         "quota_id": "Baker's Well\u2666TERMINAL 2\u2666Landside\u2666#02-05\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-16",
@@ -17832,8 +17832,28 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-16",
+        "quota_id": "CHANGI RECOMMENDS (T1 L2 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-K39\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-05-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-16",
@@ -17863,7 +17883,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-16",
         "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-05-16",
@@ -17878,7 +17898,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-16",
         "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 2\u2666Airside\u2666#02-164\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-05-16",
+        "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-16",
@@ -17913,7 +17938,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-16",
         "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-16",
