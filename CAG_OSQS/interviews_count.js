@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-05-2025 08:54:02"
+        "download_time": "16-05-2025 09:25:54"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -17822,6 +17822,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-16",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-05-16",
         "quota_id": "CHEERS\u2666TERMINAL 2\u2666Landside\u2666#02-24\u2666LS\u2666Min8",
         "Number of interviews": 8
     },
@@ -17832,18 +17837,33 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-16",
+        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
         "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA\u2666Min8",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-16",
+        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 2\u2666Airside\u2666#02-164\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-16",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-05-16",
         "quota_id": "Prosegur T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-05-16",
+        "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-05-16",
