@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "19-05-2025 12:32:51"
+        "download_time": "19-05-2025 12:56:35"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4162,25 +4162,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-19",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FEDDET CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-05-19",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-05-19",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-05-19",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "OASEN R\u00d8M\u00d8",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-05-19",
@@ -4192,7 +4192,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-19",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HEDEBO STRANDCAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-05-19",
