@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-05-2025 19:24:26"
+        "download_time": "19-05-2025 19:54:26"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -18288,7 +18288,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-19",
@@ -18298,7 +18298,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-05-19",
@@ -18333,7 +18333,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K09\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-05-19",
@@ -18343,12 +18343,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "Ippudo Express\u2666TERMINAL 1\u2666Airside\u2666#02-K08\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-19",
@@ -18378,12 +18378,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "Lululemon\u2666TERMINAL 1\u2666Airside\u2666#02-18\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-19",
@@ -18398,7 +18398,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "Marche\u2666TERMINAL 1\u2666Airside\u2666#02-40N\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-19",
@@ -18443,7 +18443,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-19",
         "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-19",
