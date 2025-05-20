@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "20-05-2025 12:59:21"
+        "download_time": "20-05-2025 13:26:44"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4204,7 +4204,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL HVIDOVRE",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-05-20",
@@ -4222,13 +4222,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-05-20",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FAABORG  CAMPING",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-05-20",
@@ -4240,7 +4240,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "GAMMELBRO CAMPING",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-05-20",
@@ -4258,7 +4258,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CAB INN CITY",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-05-20",
@@ -4276,7 +4276,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "38 - Christina B",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-05-20",
@@ -4288,7 +4288,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "RANDERS CITY CAMP",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-05-20",
