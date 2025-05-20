@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "20-05-2025 17:24:03"
+        "download_time": "20-05-2025 17:54:23"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -18523,7 +18523,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-05-20",
@@ -18543,7 +18543,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-20",
@@ -18563,12 +18563,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Maison de Chronus (Premises A1) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-51\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-20",
@@ -18598,7 +18598,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-20",
@@ -18608,7 +18608,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Swarovski \u2666TERMINAL 1\u2666Airside\u2666#02-31N\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-20",
@@ -18638,7 +18638,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Times Travel\u2666TERMINAL 1\u2666Airside\u2666#02-30A\u2666CT\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-05-20",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666PC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-05-20",
