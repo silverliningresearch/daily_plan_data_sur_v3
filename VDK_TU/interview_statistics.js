@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "20-05-2025 11:56:31"
+        "download_time": "20-05-2025 12:37:39"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4210,7 +4210,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "HORSENS CITY CAMPING",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-05-20",
@@ -4222,13 +4222,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-05-20",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FAABORG  CAMPING",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-05-20",
@@ -4240,7 +4240,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "GAMMELBRO CAMPING",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-05-20",
@@ -4276,13 +4276,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-20",
         "InterviewerID": "38 - Christina B",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-05-20",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "HOTEL RANDERS",
         "completes": 2
+    },
+    {
+        "InterviewDate": "2025-05-20",
+        "InterviewerID": "46 - Louise F.",
+        "Q0B": "RANDERS CITY CAMP",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-05-20",
