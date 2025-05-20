@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "20-05-2025 12:54:32"
+        "download_time": "20-05-2025 13:24:23"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -3832,6 +3832,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-20",
+        "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-20",
         "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT",
         "Number of interviews": 1
     },
@@ -3853,6 +3858,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "NUA\u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-20",
+        "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC",
         "Number of interviews": 1
     },
     {
