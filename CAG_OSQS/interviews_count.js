@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "20-05-2025 16:55:54"
+        "download_time": "20-05-2025 17:24:03"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -18498,7 +18498,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "By Invite Only Jewellery\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-20",
@@ -18523,7 +18523,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-20",
@@ -18563,7 +18563,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-20",
@@ -18598,11 +18598,21 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-20",
+        "quota_id": "Swarovski \u2666TERMINAL 1\u2666Airside\u2666#02-31N\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-20",
+        "quota_id": "T3 iSC Departure counter\u2666TERMINAL 3\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 2
     },
     {
@@ -18628,7 +18638,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-20",
         "quota_id": "Times Travel\u2666TERMINAL 1\u2666Airside\u2666#02-30A\u2666CT\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-05-20",
