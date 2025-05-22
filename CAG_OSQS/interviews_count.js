@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-05-2025 15:54:51"
+        "download_time": "22-05-2025 16:28:18"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -18838,7 +18838,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-22",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-05-22",
@@ -18848,7 +18848,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-22",
         "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-22",
@@ -18882,6 +18882,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-22",
+        "quota_id": "Lindt\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-22",
         "quota_id": "Lululemon\u2666TERMINAL 3\u2666Airside\u2666#02-50A\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
@@ -18908,7 +18913,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-22",
         "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-22",
@@ -18968,7 +18973,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-22",
         "quota_id": "ZUS Coffee\u2666TERMINAL 4\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     }
 ]    
 
