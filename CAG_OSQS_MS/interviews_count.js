@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "22-05-2025 12:54:39"
+        "download_time": "22-05-2025 13:24:43"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -4022,6 +4022,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-22",
+        "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-22",
         "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC",
         "Number of interviews": 1
     },
@@ -4033,6 +4038,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-22",
         "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-22",
+        "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC",
         "Number of interviews": 1
     },
     {
