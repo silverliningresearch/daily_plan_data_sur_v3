@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "23-05-2025 18:27:58"
+        "download_time": "23-05-2025 18:54:44"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -19028,7 +19028,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-23",
         "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-23",
@@ -19058,7 +19058,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-23",
         "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-23",
@@ -19068,7 +19068,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-23",
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-05-23",
@@ -19118,7 +19118,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-23",
         "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-23",
