@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "24-05-2025 01:54:46"
+        "download_time": "24-05-2025 02:28:51"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -4107,6 +4107,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-24",
+        "quota_id": "7-Eleven (T2 Level 2)\u2666TERMINAL 2\u2666Airside\u2666#02-404\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-24",
+        "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-24",
         "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD",
         "Number of interviews": 1
     },
@@ -4133,6 +4143,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-24",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-24",
+        "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-24",
+        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 2\u2666Airside\u2666#02-164\u2666CCD",
         "Number of interviews": 1
     },
     {
