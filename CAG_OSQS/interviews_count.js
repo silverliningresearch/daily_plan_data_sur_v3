@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "24-05-2025 15:55:25"
+        "download_time": "24-05-2025 16:30:08"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -19133,7 +19133,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-24",
         "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-05-24",
@@ -19168,7 +19168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-24",
         "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#01-24\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-24",
@@ -19233,7 +19233,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-24",
         "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-24",
@@ -19248,7 +19248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-24",
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-24",
@@ -19268,7 +19268,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-24",
         "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-24",
@@ -19283,7 +19283,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-24",
         "quota_id": "myCarriage\u2666TERMINAL 3\u2666Landside\u2666#01-K13\u2666LS\u2666Min5",
-        "Number of interviews": 2
+        "Number of interviews": 3
     }
 ]    
 
