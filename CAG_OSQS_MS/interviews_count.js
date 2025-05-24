@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "24-05-2025 11:54:49"
+        "download_time": "24-05-2025 12:28:45"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -4123,6 +4123,26 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-24",
         "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-24",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-24",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-24",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-24",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR",
         "Number of interviews": 1
     },
     {
