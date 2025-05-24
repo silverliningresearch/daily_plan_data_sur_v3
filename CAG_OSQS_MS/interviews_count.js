@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "25-05-2025 01:55:58"
+        "download_time": "25-05-2025 02:28:57"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -4247,7 +4247,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-25",
+        "quota_id": "Kaboom (DTE) \u2666TERMINAL 1\u2666Airside\u2666#02-62A\u2666CT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-25",
         "quota_id": "Lululemon\u2666TERMINAL 1\u2666Airside\u2666#02-18\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-25",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-25",
+        "quota_id": "Metapod\u2666TERMINAL 1\u2666Airside\u2666#02-62\u2666EL",
         "Number of interviews": 1
     },
     {
@@ -4263,6 +4278,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-25",
         "quota_id": "The Cocoa Trees\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-25",
+        "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666OW",
         "Number of interviews": 1
     }
 ]    
