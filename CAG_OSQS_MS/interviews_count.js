@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "25-05-2025 16:54:37"
+        "download_time": "25-05-2025 17:26:19"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -4247,6 +4247,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-25",
+        "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-25",
         "quota_id": "Kaboom (DTE) \u2666TERMINAL 1\u2666Airside\u2666#02-62A\u2666CT",
         "Number of interviews": 1
     },
@@ -4298,6 +4303,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-25",
         "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666OW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-25",
+        "quota_id": "WH Smith - Premises B (Air) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-41C\u2666OW",
         "Number of interviews": 1
     }
 ]    
