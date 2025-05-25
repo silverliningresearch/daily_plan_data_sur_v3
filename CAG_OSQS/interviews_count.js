@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "25-05-2025 15:55:11"
+        "download_time": "25-05-2025 16:28:10"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -19402,6 +19402,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-25",
+        "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-25",
         "quota_id": "Omega\u2666TERMINAL 2\u2666Airside\u2666#02-233\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -19434,6 +19439,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-05-25",
         "quota_id": "Roost\u2666TERMINAL 4\u2666Landside\u2666#01-10\u2666FBL\u2666Min8",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-05-25",
+        "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-05-25",
@@ -19482,6 +19492,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-25",
+        "quota_id": "UOB Gold\u2666TERMINAL 2\u2666Airside\u2666#02-K19\u2666JW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-25",
         "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC\u2666Min8",
         "Number of interviews": 1
     },
@@ -19489,6 +19504,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-05-25",
         "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-25",
+        "quota_id": "Zegna\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-05-25",
