@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "25-05-2025 20:28:16"
+        "download_time": "25-05-2025 20:55:05"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -19358,7 +19358,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-25",
         "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-25",
@@ -19403,7 +19403,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-25",
         "quota_id": "McDonald's\u2666TERMINAL 2\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-25",
@@ -19423,7 +19423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-25",
         "quota_id": "Paris Baguette\u2666TERMINAL 2\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-25",
@@ -19468,7 +19468,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-25",
         "quota_id": "Swee Choon\u2666TERMINAL 2\u2666Landside\u2666#01-07\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-25",
