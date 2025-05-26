@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "26-05-2025 12:54:43"
+        "download_time": "26-05-2025 13:25:26"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -19528,7 +19528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-26",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-05-26",
@@ -19563,7 +19563,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-26",
         "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-26",
@@ -19573,22 +19573,27 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-26",
         "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-26",
+        "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-05-26",
         "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-05-26",
         "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-26",
         "quota_id": "Travelex T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-05-26",
@@ -19598,6 +19603,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-26",
         "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-26",
+        "quota_id": "Zegna\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
         "Number of interviews": 1
     }
 ]    
