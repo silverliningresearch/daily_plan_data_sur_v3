@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "26-05-2025 12:56:30"
+        "download_time": "26-05-2025 13:28:25"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4546,7 +4546,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-26",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FEDDET CAMPING",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-05-26",
@@ -4576,13 +4576,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-26",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "COMWELL COPENHAGEN PORTSIDE",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-05-26",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "DANCAMPS NORDS\u00d8",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-05-26",
@@ -4600,7 +4600,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-26",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "FJELLERUP STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-05-26",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "FOUR POINTS FLEX AALBORG",
+        "completes": 1
     }
 ]    
 
