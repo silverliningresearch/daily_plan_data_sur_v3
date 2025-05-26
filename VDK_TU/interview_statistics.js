@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "26-05-2025 09:57:13"
+        "download_time": "26-05-2025 10:37:34"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4546,25 +4546,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-05-26",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FEDDET CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-05-26",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "COMWELL COPENHAGEN PORTSIDE",
-        "completes": 3
+        "completes": 6
+    },
+    {
+        "InterviewDate": "2025-05-26",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HJARB\u00c6K CAMPING",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-05-26",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-05-26",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "FJELLERUP STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
