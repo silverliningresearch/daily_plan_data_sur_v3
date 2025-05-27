@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "27-05-2025 11:23:48"
+        "download_time": "27-05-2025 11:54:07"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -19637,8 +19637,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-27",
+        "quota_id": "CHAGEE (AMPS TEA)\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-27",
         "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-05-27",
@@ -19648,6 +19653,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-05-27",
         "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-27",
+        "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -19662,8 +19672,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-05-27",
+        "quota_id": "NAM NAM\u2666TERMINAL 3\u2666Landside\u2666#02-91\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-05-27",
         "quota_id": "O'COFFEE CLUB\u2666TERMINAL 3\u2666Landside\u2666#02-81\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-05-27",
@@ -19674,6 +19689,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-05-27",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-05-27",
+        "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 3\u2666Landside\u2666#02-90\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
