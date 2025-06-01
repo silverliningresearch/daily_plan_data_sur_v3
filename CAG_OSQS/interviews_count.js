@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "01-06-2025 14:53:23"
+        "download_time": "01-06-2025 15:23:59"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -19968,7 +19968,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-01",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-01",
@@ -19983,7 +19983,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-01",
         "quota_id": "Hermes\u2666TERMINAL 1\u2666Airside\u2666#02-55/56\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-01",
@@ -19993,7 +19993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-01",
         "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-01",
@@ -20013,7 +20013,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-01",
         "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-01",
@@ -20033,7 +20033,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-01",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 1\u2666Airside\u2666#02-45\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-01",
