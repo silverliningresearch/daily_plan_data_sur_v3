@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-06-2025 14:53:31"
+        "download_time": "02-06-2025 15:24:01"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20083,7 +20083,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-02",
@@ -20093,7 +20093,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-02",
@@ -20104,6 +20104,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-02",
         "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-02",
+        "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-06-02",
@@ -20128,7 +20133,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-02",
@@ -20138,12 +20143,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP\u2666Min8",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-02",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-02",
@@ -20153,7 +20163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     }
 ]    
 
