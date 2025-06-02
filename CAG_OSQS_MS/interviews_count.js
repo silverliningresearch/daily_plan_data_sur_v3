@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL",
         "Number of interviews": 1,
-        "download_time": "02-06-2025 11:23:32"
+        "download_time": "02-06-2025 11:54:00"
     },
     {
         "InterviewDate": "2025-04-15",
@@ -4587,6 +4587,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-02",
+        "quota_id": "Fragrance\u2666TERMINAL 2\u2666Airside\u2666#02-199\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-02",
         "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX",
         "Number of interviews": 1
     },
@@ -4637,6 +4642,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-02",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 2\u2666Airside\u2666#02-227\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-02",
         "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC",
         "Number of interviews": 1
     },
@@ -4648,6 +4658,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-02",
+        "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC",
         "Number of interviews": 1
     },
     {
@@ -4672,12 +4687,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-02",
+        "quota_id": "Tod's\u2666TERMINAL 2\u2666Airside\u2666#02-225-01\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-02",
         "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-02",
+        "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC",
         "Number of interviews": 1
     },
     {
