@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-06-2025 14:27:30"
+        "download_time": "02-06-2025 14:53:31"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20053,7 +20053,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-02",
@@ -20083,7 +20083,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-06-02",
@@ -20123,22 +20123,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-02",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2025-06-02",
-        "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min8",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "2025-06-02",
-        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-02",
+        "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-02",
+        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-06-02",
         "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-02",
