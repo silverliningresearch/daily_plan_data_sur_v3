@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-06-2025 10:56:53"
+        "download_time": "03-06-2025 11:26:07"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4936,19 +4936,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SKYTTEHUSETS OUTDOORCAMP",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "COMWELL COPENHAGEN PORTSIDE",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 7
+        "completes": 8
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "InterviewerID": "28 - Jeremy P.",
+        "Q0B": "WAKEUP COPENHAGEN BORGERGADE",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-03",
@@ -4960,13 +4966,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CAB INN CITY",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "38 - Christina B",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-03",
@@ -4984,6 +4990,12 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "FOUR POINTS FLEX AALBORG",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "SCANDIC AALBORG CITY",
         "completes": 1
     }
 ]    
