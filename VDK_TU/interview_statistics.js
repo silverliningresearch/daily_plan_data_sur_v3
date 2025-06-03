@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-06-2025 11:26:07"
+        "download_time": "03-06-2025 11:55:10"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4936,19 +4936,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SKYTTEHUSETS OUTDOORCAMP",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "COMWELL COPENHAGEN PORTSIDE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-06-03",
@@ -4960,13 +4960,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "SCANDIC REGINA HERNING",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CAB INN CITY",
-        "completes": 9
+        "completes": 10
     },
     {
         "InterviewDate": "2025-06-03",
@@ -4996,7 +4996,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC AALBORG CITY",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
