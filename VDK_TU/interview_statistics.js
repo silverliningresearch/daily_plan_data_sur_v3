@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-06-2025 12:56:37"
+        "download_time": "03-06-2025 13:25:04"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4930,7 +4930,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "GO HOTELS COPENHAGEN APS",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-03",
@@ -4960,25 +4960,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "SCANDIC REGINA HERNING",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CAB INN CITY",
-        "completes": 10
+        "completes": 12
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "38 - Christina B",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "40 - Iman",
         "Q0B": "BABETTE GULDSMEDEN",
         "completes": 10
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "InterviewerID": "49 - Henrik",
+        "Q0B": "TISVILDELEJE (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-03",
