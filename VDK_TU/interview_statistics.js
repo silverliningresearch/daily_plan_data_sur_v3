@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-06-2025 11:55:10"
+        "download_time": "03-06-2025 12:30:25"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -4936,19 +4936,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SKYTTEHUSETS OUTDOORCAMP",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "COMWELL COPENHAGEN PORTSIDE",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-06-03",
@@ -4960,7 +4960,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "SCANDIC REGINA HERNING",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-03",
@@ -4972,19 +4972,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-03",
         "InterviewerID": "38 - Christina B",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "40 - Iman",
         "Q0B": "BABETTE GULDSMEDEN",
-        "completes": 6
+        "completes": 9
     },
     {
         "InterviewDate": "2025-06-03",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-03",
