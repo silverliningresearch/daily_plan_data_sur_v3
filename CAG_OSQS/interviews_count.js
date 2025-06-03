@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "03-06-2025 11:53:33"
+        "download_time": "03-06-2025 12:25:46"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20197,6 +20197,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-03",
+        "quota_id": "Bvlgari\u2666TERMINAL 3\u2666Airside\u2666#02-45-02\u2666LX\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-03",
         "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -20218,7 +20228,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-03",
         "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-03",
@@ -20229,6 +20239,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-03",
         "quota_id": "Prosegur T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Landside\u2666#01-07\u2666MC\u2666Min8",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "quota_id": "Prosegur T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-65\u2666MC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-03",
@@ -20243,7 +20258,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-03",
         "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-66\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-03",
