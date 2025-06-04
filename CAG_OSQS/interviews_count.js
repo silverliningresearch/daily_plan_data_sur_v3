@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-06-2025 10:53:41"
+        "download_time": "04-06-2025 11:23:48"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20367,6 +20367,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-04",
+        "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-04",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A1)\u2666TERMINAL 4\u2666Airside\u2666#02-35 (beside Coffee Bean)\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -20374,6 +20379,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-04",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-04",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 2\u2666Airside\u2666#02-216\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-04",
@@ -20389,6 +20399,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-04",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-04",
+        "quota_id": "Travelex T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Airside\u2666#01-06\u2666MC\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
