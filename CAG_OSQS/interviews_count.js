@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-06-2025 12:26:16"
+        "download_time": "04-06-2025 12:53:39"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20348,7 +20348,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-04",
         "quota_id": "7-Eleven (T1)\u2666TERMINAL 1\u2666Airside\u2666#02-75\u2666CS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-04",
+        "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-04",
@@ -20377,6 +20382,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-04",
+        "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-04",
         "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP\u2666Min8",
         "Number of interviews": 4
     },
@@ -20388,6 +20398,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-04",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-04",
+        "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
         "Number of interviews": 2
     },
     {
@@ -20412,6 +20427,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-04",
+        "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-04",
         "quota_id": "The Coffee Bean and Tea Leaf\u2666TERMINAL 4\u2666Airside\u2666#02-36N\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -20428,7 +20448,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-04",
         "quota_id": "Travelex T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Airside\u2666#01-06\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-04",
