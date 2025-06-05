@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "05-06-2025 18:54:59"
+        "download_time": "05-06-2025 19:25:29"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20558,7 +20558,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-05",
         "quota_id": "Burger King\u2666TERMINAL 1\u2666Airside\u2666#03-02\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-05",
@@ -20568,7 +20568,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-05",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-05",
@@ -20653,7 +20653,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-05",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-06-05",
@@ -20684,6 +20684,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-05",
         "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-05",
+        "quota_id": "The Cocoa Trees (Premises C1) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-27\u2666CCD\u2666Min8",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-05",
