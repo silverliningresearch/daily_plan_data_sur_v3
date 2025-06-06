@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "06-06-2025 15:24:11"
+        "download_time": "06-06-2025 15:53:46"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20788,12 +20788,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-06",
         "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min15",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-06-06",
+        "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-06",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-06",
+        "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT\u2666Min15",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-06",
@@ -20834,6 +20844,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-06",
         "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-06",
+        "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-06",
