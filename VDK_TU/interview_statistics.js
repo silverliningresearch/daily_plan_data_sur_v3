@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "06-06-2025 09:55:05"
+        "download_time": "06-06-2025 10:31:13"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5096,9 +5096,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-06",
+        "InterviewerID": "17 - Naja H.",
+        "Q0B": "ULVSHALE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-06",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC HOTEL HVIDOVRE",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-06",
@@ -5110,7 +5116,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-06",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "SCANDIC REGINA HERNING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-06",
@@ -5122,13 +5128,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-06",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-06",
         "InterviewerID": "40 - Iman",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 5
+        "completes": 8
     },
     {
         "InterviewDate": "2025-06-06",
@@ -5140,13 +5146,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-06",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-06",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "HOTEL SLEEP2NIGHT",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-06",
