@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "06-06-2025 11:56:04"
+        "download_time": "06-06-2025 12:31:52"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5104,7 +5104,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-06",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC HOTEL HVIDOVRE",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-06",
@@ -5116,7 +5116,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-06",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "SCANDIC REGINA HERNING",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-06-06",
@@ -5128,7 +5128,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-06",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-06-06",
@@ -5140,7 +5140,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-06",
         "InterviewerID": "40 - Iman",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-06-06",
@@ -5152,13 +5152,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-06",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "RANDERS CITY CAMP",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-06",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-06",
