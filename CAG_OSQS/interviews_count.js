@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "07-06-2025 17:23:56"
+        "download_time": "07-06-2025 17:53:56"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20913,7 +20913,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "Animal Kaiser+\u2666TERMINAL 3\u2666Landside\u2666#B2-56\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-06-07",
+        "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-07",
@@ -20958,7 +20963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "KAWATA HOUSE OF SOCKS\u2666TERMINAL 3\u2666Landside\u2666#B2-43\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-07",
@@ -21007,18 +21012,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-07",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD\u2666Min8",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-07",
         "quota_id": "Tech House\u2666TERMINAL 3\u2666Landside\u2666#B2-K3\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "Teo Heng Family KTV Studio\u2666TERMINAL 3\u2666Landside\u2666#B2-52/53/54\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-07",
@@ -21028,7 +21038,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "iClaw Taiwan\u2666TERMINAL 3\u2666Landside\u2666#B2-45/46\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     }
 ]    
 
