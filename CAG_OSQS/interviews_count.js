@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "07-06-2025 16:27:26"
+        "download_time": "07-06-2025 16:53:57"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -20918,7 +20918,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "CLOUD 9 STUDIO (SHORT TERM TENANCY)\u2666TERMINAL 3\u2666Landside\u2666#B2-44\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-07",
@@ -20933,7 +20933,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-07",
@@ -20993,17 +20993,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min8",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2025-06-07",
-        "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min8",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-07",
+        "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min8",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-06-07",
         "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-07",
@@ -21013,12 +21013,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "Teo Heng Family KTV Studio\u2666TERMINAL 3\u2666Landside\u2666#B2-52/53/54\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-07",
@@ -21028,7 +21028,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-07",
         "quota_id": "iClaw Taiwan\u2666TERMINAL 3\u2666Landside\u2666#B2-45/46\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     }
 ]    
 
