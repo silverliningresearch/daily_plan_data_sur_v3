@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "08-06-2025 15:54:02"
+        "download_time": "08-06-2025 16:27:30"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -21058,7 +21058,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-08",
@@ -21068,12 +21068,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "CLIMB@T3\u2666TERMINAL 3\u2666Landside\u2666#B3-01/02\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "Claypot Daddy\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-08",
@@ -21103,7 +21103,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "XW Western Grill \u2666TERMINAL 2\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     }
 ]    
 
