@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "08-06-2025 14:26:37"
+        "download_time": "08-06-2025 14:54:00"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -21063,12 +21063,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "CHUTNEY MARY INDIAN FAST FOOD\u2666TERMINAL 2\u2666Landside\u2666#03-26 &27\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "Claypot Daddy\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-08",
@@ -21078,7 +21078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "Griddy Grid, Floor is Lava\u2666TERMINAL 2\u2666Landside\u2666#03-03\u2666LS\u2666Min5",
-        "Number of interviews": 2
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-08",
@@ -21088,7 +21088,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-08",
@@ -21098,7 +21098,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-08",
         "quota_id": "XW Western Grill \u2666TERMINAL 2\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     }
 ]    
 
