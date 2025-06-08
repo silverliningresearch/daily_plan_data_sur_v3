@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "08-06-2025 12:55:33"
+        "download_time": "08-06-2025 13:25:31"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5228,6 +5228,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-08",
+        "InterviewerID": "35 - Morten R",
+        "Q0B": "SVENDBORG SUND CAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-08",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "HVIDBJERG STRANDHOTEL (HVIDBJERG STRAND FERIEPARK)",
         "completes": 11
@@ -5236,7 +5242,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-08",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "COMWELL BORUPGAARD",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-06-08",
