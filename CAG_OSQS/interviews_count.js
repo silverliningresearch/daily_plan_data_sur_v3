@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "09-06-2025 16:27:42"
+        "download_time": "09-06-2025 16:54:07"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -21153,7 +21153,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-09",
         "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-09",
@@ -21164,6 +21164,16 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-09",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT\u2666Min15",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-09",
@@ -21193,7 +21203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-09",
         "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7T\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-09",
