@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "10-06-2025 07:54:22"
+        "download_time": "10-06-2025 08:27:50"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -21223,12 +21223,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "Dunkin\u2019 Donuts\u2666TERMINAL 2\u2666Airside\u2666#02-K14\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-10",
@@ -21242,13 +21247,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-10",
+        "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA\u2666Min8",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-10",
         "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-10",
@@ -21258,7 +21268,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "The Hainan Story Coffee & Toast\u2666TERMINAL 2\u2666Airside\u2666#02-K11\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     }
 ]    
 
