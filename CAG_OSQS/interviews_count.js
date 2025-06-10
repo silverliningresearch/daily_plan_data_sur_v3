@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "10-06-2025 19:54:12"
+        "download_time": "10-06-2025 20:27:40"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -21223,7 +21223,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "7-Eleven (T3)\u2666TERMINAL 3\u2666Airside\u2666#03-12\u2666CS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-10",
@@ -21238,7 +21238,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-10",
@@ -21308,7 +21308,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "Gourmet Sarawak\u2666TERMINAL 3\u2666Airside\u2666#02-K5\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-10",
@@ -21343,7 +21343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "IPPUDO EXPRESS\u2666TERMINAL 3\u2666Airside\u2666#02-K3\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-10",
@@ -21378,7 +21378,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-10",
@@ -21408,7 +21408,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-10",
         "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 3\u2666Airside\u2666#02-K4\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-10",
