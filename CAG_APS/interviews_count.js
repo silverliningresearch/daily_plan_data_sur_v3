@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T3_GA_CGK",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "11-06-2025 09:54:29"
+        "download_time": "11-06-2025 10:29:02"
     },
     {
         "InterviewDate": "01-05-2025",
@@ -1042,7 +1042,7 @@ let interview_statistics  = `[
         "InterviewDate": "06-06-2025",
         "quota_id": "T3_SQ_MEL",
         "interviewerID": "02",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "06-06-2025",
@@ -1103,12 +1103,6 @@ let interview_statistics  = `[
         "quota_id": "T4_JQ_MEL",
         "interviewerID": "28",
         "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "06-06-2025",
-        "quota_id": "T3_SA_MEL",
-        "interviewerID": "Na",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "07-05-2025",
@@ -1358,15 +1352,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "08-06-2025",
-        "quota_id": "T1_TK_1ST",
-        "interviewerID": "04",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "08-06-2025",
         "quota_id": "T1_TK_IST",
         "interviewerID": "04",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "08-06-2025",
@@ -1724,15 +1712,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "10-06-2025",
-        "quota_id": "T3_SG_FRA",
-        "interviewerID": "04",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "10-06-2025",
         "quota_id": "T3_SQ_FRA",
         "interviewerID": "04",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "10-06-2025",
@@ -1906,7 +1888,7 @@ let interview_statistics  = `[
         "InterviewDate": "11-06-2025",
         "quota_id": "T4_AK_KUL",
         "interviewerID": "02",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "11-06-2025",
