@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-06-2025 12:55:21"
+        "download_time": "11-06-2025 13:25:16"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5344,7 +5344,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "ULVSHALE (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5362,25 +5362,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "CAB INN CITY",
-        "completes": 9
+        "completes": 10
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "COMWELL KOLDING",
-        "completes": 19
+        "completes": 20
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HOTEL PHOENIX COPENHAGEN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5392,7 +5392,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "38 - Christina B",
         "Q0B": "HARBO\u00d8RE (FERIEHUS)",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5422,7 +5422,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5434,7 +5434,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "TISVILDELEJE (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-11",

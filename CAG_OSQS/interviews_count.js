@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "11-06-2025 18:53:53"
+        "download_time": "11-06-2025 19:23:50"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -21448,7 +21448,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-11",
         "quota_id": "Bvlgari\u2666TERMINAL 2\u2666Airside\u2666#02-221\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-11",
@@ -21478,7 +21478,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-11",
         "quota_id": "Gucci\u2666TERMINAL 2\u2666Airside\u2666#02-223\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-11",
@@ -21523,17 +21523,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-11",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
-        "Number of interviews": 11
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2025-06-11",
         "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-11",
         "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#02-225-02\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-11",
@@ -21553,7 +21553,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-11",
         "quota_id": "Tod's\u2666TERMINAL 2\u2666Airside\u2666#02-225-01\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     }
 ]    
 
