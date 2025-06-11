@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-06-2025 12:32:11"
+        "download_time": "11-06-2025 12:55:21"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5368,7 +5368,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "COMWELL KOLDING",
-        "completes": 16
+        "completes": 19
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5392,7 +5398,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-06-11",
