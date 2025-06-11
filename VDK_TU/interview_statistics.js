@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-06-2025 08:56:53"
+        "download_time": "11-06-2025 09:26:33"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5344,24 +5344,48 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC OPUS HORSENS",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 5
+        "completes": 6
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "COMWELL KOLDING",
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HOTEL PHOENIX COPENHAGEN",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "JESPERHUS FERIECENTER",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "46 - Louise F.",
+        "Q0B": "WAKEUP AARHUS",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "50 - Jonas H",
+        "Q0B": "TISVILDELEJE (FERIEHUS)",
         "completes": 1
     }
 ]    
