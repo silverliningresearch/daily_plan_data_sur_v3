@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-06-2025 11:55:10"
+        "download_time": "11-06-2025 12:32:11"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5344,7 +5344,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "ULVSHALE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5356,19 +5356,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "CAB INN CITY",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "COMWELL KOLDING",
-        "completes": 14
+        "completes": 16
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5392,7 +5392,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5422,19 +5422,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "49 - Henrik",
         "Q0B": "LISELEJE/ASSERBO (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "TISVILDELEJE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
