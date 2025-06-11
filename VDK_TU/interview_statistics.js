@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-06-2025 09:26:33"
+        "download_time": "11-06-2025 09:55:20"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5344,19 +5344,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC OPUS HORSENS",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 6
+        "completes": 7
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "28 - Jeremy P.",
+        "Q0B": "CAB INN CITY",
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "COMWELL KOLDING",
-        "completes": 6
+        "completes": 10
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5366,26 +5372,56 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-11",
+        "InterviewerID": "37 - Peder H",
+        "Q0B": "DANHOSTEL ROSKILDE",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "38 - Christina B",
+        "Q0B": "HARBO\u00d8RE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-11",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 1
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "WAKEUP AARHUS",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "47 - Fie L.",
+        "Q0B": "DUEODDE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "49 - Henrik",
+        "Q0B": "LISELEJE/ASSERBO (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "TISVILDELEJE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-11",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "S\u00c6BY HAVN",
         "completes": 1
     }
 ]    
