@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-06-2025 09:55:20"
+        "download_time": "11-06-2025 10:31:16"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5342,6 +5342,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-11",
+        "InterviewerID": "17 - Naja H.",
+        "Q0B": "ULVSHALE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-11",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC OPUS HORSENS",
         "completes": 8
@@ -5356,7 +5362,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "CAB INN CITY",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5368,13 +5374,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HOTEL PHOENIX COPENHAGEN",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "37 - Peder H",
         "Q0B": "DANHOSTEL ROSKILDE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5392,7 +5398,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 2
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5404,7 +5410,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5416,13 +5422,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "TISVILDELEJE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
