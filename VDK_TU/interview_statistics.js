@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-06-2025 11:25:17"
+        "download_time": "11-06-2025 11:55:10"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5350,7 +5350,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC OPUS HORSENS",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5374,7 +5374,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HOTEL PHOENIX COPENHAGEN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5386,13 +5386,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "38 - Christina B",
         "Q0B": "HARBO\u00d8RE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5404,7 +5404,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "44 - Nanna-Liv",
         "Q0B": "LYNGHOLT FAMILIECAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-11",
@@ -5416,13 +5416,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-11",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-11",
         "InterviewerID": "49 - Henrik",
         "Q0B": "LISELEJE/ASSERBO (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-11",
