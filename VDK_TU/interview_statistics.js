@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "12-06-2025 09:55:52"
+        "download_time": "12-06-2025 10:31:01"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5456,6 +5456,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-12",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "B\u00d8RSMOSE STRAND CAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-12",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HOTEL DALGAS",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-06-12",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC FALKONER",
         "completes": 4
@@ -5464,13 +5476,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-12",
         "InterviewerID": "37 - Peder H",
         "Q0B": "KRAGERUP GODS",
-        "completes": 3
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-06-12",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-12",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 5
+        "completes": 7
     }
 ]    
 
