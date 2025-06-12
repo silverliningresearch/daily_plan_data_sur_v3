@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "12-06-2025 11:54:14"
+        "download_time": "12-06-2025 12:27:34"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -21558,17 +21558,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-12",
         "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-12",
         "quota_id": "Burberry\u2666TERMINAL 3\u2666Airside\u2666#02-20\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-12",
         "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-12",
@@ -21593,7 +21593,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-12",
         "quota_id": "MCM\u2666TERMINAL 3\u2666Airside\u2666#02-25\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-12",
@@ -21604,6 +21604,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-12",
         "quota_id": "Premises F - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Airside\u2666#02-68/69\u2666BS\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-12",
+        "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-011\u2666FBA\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-12",
