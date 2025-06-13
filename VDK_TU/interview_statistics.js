@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "13-06-2025 08:32:23"
+        "download_time": "13-06-2025 08:55:22"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5501,6 +5501,30 @@ let interview_statistics = `[
         "InterviewerID": "46 - Louise F.",
         "Q0B": "GREN\u00c5 MARINA",
         "completes": 6
+    },
+    {
+        "InterviewDate": "2025-06-13",
+        "InterviewerID": "20 - Karina S.",
+        "Q0B": "SCANTICON COMWELL MIDDELFART",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-06-13",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "FIRST CAMP FRIG\u00c5RD",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-13",
+        "InterviewerID": "34 - Annette B.",
+        "Q0B": "CAB INN CITY",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-13",
+        "InterviewerID": "46 - Louise F.",
+        "Q0B": "EBELTOFT STRAND (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
