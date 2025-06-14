@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "14-06-2025 08:27:53"
+        "download_time": "14-06-2025 08:54:23"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -21983,7 +21983,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-14",
         "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA\u2666Min25",
-        "Number of interviews": 14
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2025-06-14",
@@ -21994,6 +21994,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-14",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-14",
