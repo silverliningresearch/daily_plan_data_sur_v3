@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "14-06-2025 14:54:55"
+        "download_time": "14-06-2025 15:24:35"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -22008,7 +22008,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-14",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-14",
@@ -22024,6 +22029,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-14",
         "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA\u2666Min8",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-14",
@@ -22058,7 +22068,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-14",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Airside\u2666#02-17\u2666BS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-14",
@@ -22073,7 +22083,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-14",
         "quota_id": "SF Express\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-06-14",
@@ -22088,7 +22098,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-14",
         "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-14",
@@ -22113,7 +22123,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-14",
         "quota_id": "Travelex T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-14",
