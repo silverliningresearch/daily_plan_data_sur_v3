@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-06-2025 12:31:49"
+        "download_time": "14-06-2025 12:56:06"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5578,13 +5578,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-14",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FEDDET CAMPING",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-06-14",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HOSTRUPS HOTEL & RESTAURANT",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-06-14",
@@ -5596,7 +5596,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-14",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "COMWELL BORUPGAARD",
-        "completes": 9
+        "completes": 10
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "InterviewerID": "51 \u2013 Denis",
+        "Q0B": "STRANDENE MELLEM HOU OG BISNAP (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
