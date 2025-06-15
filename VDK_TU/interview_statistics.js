@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-06-2025 09:26:08"
+        "download_time": "15-06-2025 09:56:08"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5608,13 +5608,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-15",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-15",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "R\u00d8DVIG FERIEBY",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-15",
@@ -5624,9 +5624,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-15",
+        "InterviewerID": "35 - Morten R",
+        "Q0B": "HASMARK STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
         "InterviewerID": "36 - Lotte G",
         "Q0B": "COMWELL AARHUS",
         "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "InterviewerID": "49 - Henrik",
+        "Q0B": "HELSING\u00d8R NORDHAVN",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-15",
