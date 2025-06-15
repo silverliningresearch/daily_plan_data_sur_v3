@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-06-2025 07:56:11"
+        "download_time": "15-06-2025 08:31:51"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5603,6 +5603,30 @@ let interview_statistics = `[
         "InterviewerID": "51 \u2013 Denis",
         "Q0B": "STRANDENE MELLEM HOU OG BISNAP (FERIEHUS)",
         "completes": 4
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "InterviewerID": "17 - Naja H.",
+        "Q0B": "R\u00d8DVIG FERIEBY",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "H\u00d8RUPHAV HAVN",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "InterviewerID": "36 - Lotte G",
+        "Q0B": "COMWELL AARHUS",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "InterviewerID": "50 - Jonas H",
+        "Q0B": "SK\u00c6RBY STRAND (FERIEHUS)",
+        "completes": 2
     }
 ]    
 
