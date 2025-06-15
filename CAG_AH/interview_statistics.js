@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "TPE",
         "AirlineCode": "SQ",
         "completed_interviews": 1,
-        "download_time": "16-06-2025 06:53:47"
+        "download_time": "16-06-2025 07:23:46"
     },
     {
         "Interview_Date": "2025-01-01",
@@ -16229,6 +16229,18 @@ let interview_statistics = `[
         "Dest": "USM",
         "AirlineCode": "TR",
         "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2025-06-16",
+        "Dest": "ADL",
+        "AirlineCode": "SQ",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-06-16",
+        "Dest": "CAN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 2
     }
 ]    
 
