@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "16-06-2025 10:32:03"
+        "download_time": "16-06-2025 10:55:52"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5668,7 +5668,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-16",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC HOTEL SILKEBORG",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-06-16",
+        "InterviewerID": "20 - Karina S.",
+        "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-16",
@@ -5680,19 +5686,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-16",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "ANDERSEN HOTEL",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-16",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "BEST WESTERN HOTEL FREDERICIA",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-16",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "LALANDIA S\u00d8NDERVIG",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-16",
