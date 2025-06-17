@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "17-06-2025 15:24:12"
+        "download_time": "17-06-2025 15:54:12"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -22512,6 +22512,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-17",
+        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-17",
         "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL\u2666Min8",
         "Number of interviews": 6
     },
@@ -22558,7 +22563,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-17",
         "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-17",
@@ -22628,7 +22633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-17",
         "quota_id": "Travelex T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-17",
