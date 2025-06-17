@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "17-06-2025 12:27:32"
+        "download_time": "17-06-2025 12:54:47"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -22503,7 +22503,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-17",
         "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-17",
@@ -22517,8 +22517,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-17",
+        "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-17",
         "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-17",
@@ -22527,13 +22532,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-17",
+        "quota_id": "Irvin's\u2666TERMINAL 4\u2666Airside\u2666#02-71\u2666CCD\u2666Min8",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-06-17",
         "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-17",
         "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-06-17",
@@ -22553,7 +22563,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-17",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-17",
