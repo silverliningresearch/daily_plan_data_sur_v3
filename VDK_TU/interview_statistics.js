@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "17-06-2025 10:33:10"
+        "download_time": "17-06-2025 10:58:38"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5740,19 +5740,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-17",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 14
+        "completes": 16
+    },
+    {
+        "InterviewDate": "2025-06-17",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "SCANDIC REGINA HERNING",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-17",
         "InterviewerID": "38 - Christina B",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-17",
         "InterviewerID": "49 - Henrik",
         "Q0B": "LISELEJE/ASSERBO (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-17",
@@ -5764,7 +5770,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-17",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC AALBORG CITY",
-        "completes": 6
+        "completes": 7
     }
 ]    
 
