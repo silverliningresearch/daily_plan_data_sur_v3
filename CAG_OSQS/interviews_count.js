@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "17-06-2025 11:54:42"
+        "download_time": "17-06-2025 12:27:32"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -22523,7 +22523,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-17",
         "quota_id": "Ippudo Express\u2666TERMINAL 1\u2666Airside\u2666#02-K08\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-17",
@@ -22537,13 +22537,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-17",
+        "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-17",
         "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-17",
         "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-17",
+        "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-17",
@@ -22558,7 +22568,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-17",
         "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     }
 ]    
 
