@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "18-06-2025 19:25:33"
+        "download_time": "18-06-2025 19:57:51"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -22663,7 +22663,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-18",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-18",
+        "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL\u2666Min8",
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-06-18",
@@ -22698,7 +22703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-18",
         "quota_id": "Penang Culture and Woke Ramen\u2666TERMINAL 1\u2666Landside\u2666#03-19\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-18",
@@ -22728,6 +22733,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-18",
         "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-18",
+        "quota_id": "Saboten\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
