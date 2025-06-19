@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-06-2025 08:26:27"
+        "download_time": "19-06-2025 08:56:21"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -22778,7 +22778,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-19",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 14
+    },
+    {
+        "InterviewDate": "2025-06-19",
+        "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-19",
@@ -22788,6 +22793,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-19",
         "quota_id": "The Cocoa Trees (Premises D)\u2666TERMINAL 4\u2666Airside\u2666#02-26\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-19",
+        "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
     {
