@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "19-06-2025 09:27:45"
+        "download_time": "19-06-2025 09:56:12"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5854,24 +5854,36 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-19",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-19",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "TIVOLI HOTEL",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-06-19",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HOSTRUPS HOTEL & RESTAURANT",
-        "completes": 3
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-06-19",
+        "InterviewerID": "38 - Christina B",
+        "Q0B": "VESTERVIG (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-19",
         "InterviewerID": "45 - Else B.",
         "Q0B": "SCANDIC THE MAYOR",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-06-19",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "STRANDHOTELLET BLOKHUS",
         "completes": 2
     }
 ]    

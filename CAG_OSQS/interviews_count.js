@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-06-2025 15:25:35"
+        "download_time": "19-06-2025 15:54:24"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -22782,6 +22782,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-19",
+        "quota_id": "HEAVENLY WANG AND WANG NASI LEMAK\u2666TERMINAL 1\u2666Landside\u2666#02-03/04\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-19",
         "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
@@ -22814,6 +22819,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-19",
         "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-19",
+        "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-19",
@@ -22874,6 +22884,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-19",
         "quota_id": "WH Smith - Premises J (Air)\u2666TERMINAL 4\u2666Airside\u2666#02-59\u2666OW\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-19",
+        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-19",
