@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "20-06-2025 11:25:13"
+        "download_time": "20-06-2025 11:55:43"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -22943,7 +22943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-20",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-06-20",
@@ -22988,12 +22988,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-20",
         "quota_id": "O' COFFEE CLUB\u2666TERMINAL 4\u2666Landside\u2666#02-13\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-06-20",
         "quota_id": "Paris Baguette\u2666TERMINAL 4\u2666Landside\u2666#01-05\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-06-20",
@@ -23007,8 +23007,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-20",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Landside\u2666#02-09\u2666PC\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-20",
         "quota_id": "Roost\u2666TERMINAL 4\u2666Landside\u2666#01-10\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-06-20",
@@ -23038,7 +23043,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-20",
         "quota_id": "ZUS Coffee\u2666TERMINAL 4\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     }
 ]    
 
