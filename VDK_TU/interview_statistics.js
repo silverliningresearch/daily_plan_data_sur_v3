@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "20-06-2025 09:58:11"
+        "download_time": "20-06-2025 10:29:35"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5902,25 +5902,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-20",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "HASMARK STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-20",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MILLING HOTEL S\u00d8PARK MARIBO",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-20",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "FOUR POINTS FLEX COPENHAGEN AIRPORT",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-06-20",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "FOUR POINTS FLEX LYNGBY",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-20",
@@ -5930,9 +5930,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-20",
+        "InterviewerID": "44 - Nanna-Liv",
+        "Q0B": "HOTEL GSH",
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-06-20",
         "InterviewerID": "45 - Else B.",
         "Q0B": "WAKEUP AARHUS",
         "completes": 5
+    },
+    {
+        "InterviewDate": "2025-06-20",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "SKAGEN STRAND (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
