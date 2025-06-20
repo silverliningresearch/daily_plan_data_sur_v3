@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "20-06-2025 10:59:09"
+        "download_time": "20-06-2025 11:27:36"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -5900,9 +5900,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-20",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "HENNE STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-20",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "HASMARK STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-20",
@@ -5920,13 +5926,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-20",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "FOUR POINTS FLEX LYNGBY",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-20",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "JESPERHUS FERIECENTER",
         "completes": 2
+    },
+    {
+        "InterviewDate": "2025-06-20",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "VESTERVIG (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-20",
@@ -5938,13 +5950,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-20",
         "InterviewerID": "45 - Else B.",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-20",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
