@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "21-06-2025 19:56:38"
+        "download_time": "21-06-2025 20:26:48"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -23113,7 +23113,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-21",
         "quota_id": "Discover Singapore (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-402\u2666SV\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-21",
@@ -23123,7 +23123,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-21",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-21",
@@ -23142,6 +23142,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-21",
+        "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-21",
         "quota_id": "Papparich\u2666TERMINAL 4\u2666Landside\u2666#02-203A\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -23153,7 +23158,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-21",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-06-21",
@@ -23198,7 +23203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-21",
         "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-06-21",
