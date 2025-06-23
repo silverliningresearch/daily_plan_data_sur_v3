@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-04-15",
         "quota_id": "EY-JAI",
         "Number of interviews": 9,
-        "download_time": "23-06-2025 20:01:10"
+        "download_time": "23-06-2025 20:34:50"
     },
     {
         "InterviewDate": "2025-04-16",
@@ -3562,12 +3562,22 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-23",
+        "quota_id": "EY-BAH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-23",
         "quota_id": "GF-BAH",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-23",
         "quota_id": "5W-BBU",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-23",
+        "quota_id": "EY-BCN",
         "Number of interviews": 4
     },
     {
@@ -3602,6 +3612,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-23",
+        "quota_id": "EY-CPH",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-23",
         "quota_id": "BG-DAC",
         "Number of interviews": 1
     },
@@ -3617,13 +3632,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-23",
+        "quota_id": "EY-FRA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-23",
         "quota_id": "EY-GVA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-23",
         "quota_id": "EY-IAD",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-06-23",
@@ -3644,6 +3664,11 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-23",
         "quota_id": "EY-LHR",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-23",
+        "quota_id": "EY-MXP",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-06-23",
@@ -3674,6 +3699,16 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-23",
         "quota_id": "SU-SVO",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-23",
+        "quota_id": "EY-VIE",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-23",
+        "quota_id": "EY-ZRH",
+        "Number of interviews": 4
     }
 ]    
 
