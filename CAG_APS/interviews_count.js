@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T3_GA_CGK",
         "interviewerID": "02",
         "Number of interviews": 7,
-        "download_time": "23-06-2025 10:28:17"
+        "download_time": "23-06-2025 10:56:19"
     },
     {
         "InterviewDate": "01-06-2025",
@@ -1652,15 +1652,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "20-06-2025",
-        "quota_id": "T2_SQ_BWH",
-        "interviewerID": "03",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "20-06-2025",
         "quota_id": "T2_SQ_BWN",
         "interviewerID": "03",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "20-06-2025",
@@ -1672,7 +1666,7 @@ let interview_statistics  = `[
         "InterviewDate": "20-06-2025",
         "quota_id": "T4_KE_ICN",
         "interviewerID": "04",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "20-06-2025",
@@ -1741,12 +1735,6 @@ let interview_statistics  = `[
         "Number of interviews": 5
     },
     {
-        "InterviewDate": "20-06-2025",
-        "quota_id": "T4_KR_SEO",
-        "interviewerID": "Ok",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "21-06-2025",
         "quota_id": "T1_CA_TFU",
         "interviewerID": "02",
@@ -1766,15 +1754,15 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "21-06-2025",
-        "quota_id": "T2_SQ_PEN",
+        "quota_id": "T1_TR_HGH",
         "interviewerID": "02",
-        "Number of interviews": 9
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "21-06-2025",
-        "quota_id": "T3_TR_HGH",
+        "quota_id": "T2_SQ_PEN",
         "interviewerID": "02",
-        "Number of interviews": 3
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "21-06-2025",
@@ -1882,13 +1870,7 @@ let interview_statistics  = `[
         "InterviewDate": "23-06-2025",
         "quota_id": "T4_AK_KUL",
         "interviewerID": "04",
-        "Number of interviews": 7
-    },
-    {
-        "InterviewDate": "23-06-2025",
-        "quota_id": "T4_AA_KLI",
-        "interviewerID": "Ol",
-        "Number of interviews": 1
+        "Number of interviews": 8
     }
 ]    
 
