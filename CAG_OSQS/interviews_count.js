@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "23-06-2025 08:55:33"
+        "download_time": "23-06-2025 09:24:37"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -23262,6 +23262,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-23",
+        "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-23",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 3\u2666Landside\u2666#01-K20\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
@@ -23272,6 +23277,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-23",
+        "quota_id": "Perfumes & Cosmetics (T3 Landside)\u2666TERMINAL 3\u2666Landside\u2666#02-88\u2666PC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-23",
         "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
@@ -23279,6 +23289,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-23",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min8",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-06-23",
+        "quota_id": "myCarriage\u2666TERMINAL 3\u2666Landside\u2666#01-K13\u2666LS\u2666Min5",
+        "Number of interviews": 2
     }
 ]    
 
