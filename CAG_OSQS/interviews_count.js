@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "23-06-2025 19:27:34"
+        "download_time": "23-06-2025 19:57:32"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -23297,6 +23297,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-06-23",
+        "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-23",
         "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min8",
         "Number of interviews": 9
     },
@@ -23314,6 +23319,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-23",
         "quota_id": "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC\u2666Min15",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-23",
+        "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-23",
@@ -23338,12 +23348,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-06-23",
         "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-06-23",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min8",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-06-23",
+        "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-23",
