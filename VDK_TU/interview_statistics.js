@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "25-06-2025 08:31:19"
+        "download_time": "25-06-2025 08:57:06"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6128,15 +6128,33 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-25",
+        "InterviewerID": "20 - Karina S.",
+        "Q0B": "SCANTICON COMWELL MIDDELFART",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-25",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "FIRST CAMP FRIG\u00c5RD",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-25",
+        "InterviewerID": "40 - Iman",
+        "Q0B": "ANDERSEN HOTEL",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-06-25",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "KONVENTUM",
-        "completes": 1
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-25",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "FOUR POINTS FLEX AALBORG",
-        "completes": 2
+        "completes": 3
     }
 ]    
 
