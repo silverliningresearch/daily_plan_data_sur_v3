@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "25-06-2025 11:55:14"
+        "download_time": "25-06-2025 12:31:07"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6136,7 +6136,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-25",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "SCANTICON COMWELL MIDDELFART",
-        "completes": 5
+        "completes": 6
+    },
+    {
+        "InterviewDate": "2025-06-25",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "LALANDIA R\u00d8DBY",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-25",
@@ -6148,7 +6154,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-25",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "FIRST CAMP FRIG\u00c5RD",
-        "completes": 7
+        "completes": 10
     },
     {
         "InterviewDate": "2025-06-25",
@@ -6160,25 +6166,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-25",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-25",
         "InterviewerID": "40 - Iman",
         "Q0B": "ANDERSEN HOTEL",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-06-25",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "KONVENTUM",
-        "completes": 5
+        "completes": 8
     },
     {
         "InterviewDate": "2025-06-25",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "RISTINGE STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-25",
