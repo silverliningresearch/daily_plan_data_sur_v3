@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "25-06-2025 10:30:45"
+        "download_time": "25-06-2025 10:57:39"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6136,7 +6136,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-25",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "FIRST CAMP FRIG\u00c5RD",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-06-25",
@@ -6148,25 +6148,37 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-25",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-25",
         "InterviewerID": "40 - Iman",
         "Q0B": "ANDERSEN HOTEL",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-25",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "KONVENTUM",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-06-25",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "RISTINGE STRAND (FERIEHUS)",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-25",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "FOUR POINTS FLEX AALBORG",
         "completes": 4
+    },
+    {
+        "InterviewDate": "2025-06-25",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "SCANDIC AALBORG CITY",
+        "completes": 1
     }
 ]    
 
