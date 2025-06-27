@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "28-06-2025 06:54:20"
+        "download_time": "28-06-2025 07:24:21"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -23689,6 +23689,26 @@ let interview_statistics  = `[
         "InterviewDate": "2025-06-27",
         "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-28",
+        "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-28",
+        "quota_id": "Gassan Watches (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-226\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-28",
+        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 2\u2666Airside\u2666#02-164\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-28",
+        "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
