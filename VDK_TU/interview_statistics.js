@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "27-06-2025 16:28:41"
+        "download_time": "27-06-2025 16:56:29"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6274,7 +6274,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-27",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-27",
@@ -6317,6 +6317,12 @@ let interview_statistics = `[
         "InterviewerID": "40 - Iman",
         "Q0B": "ABSALON HOTEL",
         "completes": 10
+    },
+    {
+        "InterviewDate": "2025-06-27",
+        "InterviewerID": "48 - Elisa B.",
+        "Q0B": "HVIDBJERG STRAND CAMPING (HVIDBJERG STRAND FERIEPARK)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-27",
