@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "27-06-2025 12:55:18"
+        "download_time": "27-06-2025 13:24:55"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6272,6 +6272,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-27",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-27",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
         "completes": 4
@@ -6304,7 +6310,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-27",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-27",
