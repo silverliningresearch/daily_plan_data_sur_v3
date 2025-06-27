@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "27-06-2025 09:55:20"
+        "download_time": "27-06-2025 10:30:04"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6272,6 +6272,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-27",
+        "InterviewerID": "24 - Kasper R.",
+        "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-27",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "FOUR POINTS FLEX AALBORG",
         "completes": 1
@@ -6280,13 +6286,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-27",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "BABETTE GULDSMEDEN",
-        "completes": 1
+        "completes": 3
     },
     {
         "InterviewDate": "2025-06-27",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HOSTRUPS HOTEL & RESTAURANT",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-06-27",
@@ -6298,7 +6304,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-27",
         "InterviewerID": "40 - Iman",
         "Q0B": "ABSALON HOTEL",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-06-27",
@@ -6308,9 +6314,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-27",
+        "InterviewerID": "51 \u2013 Denis",
+        "Q0B": "SCANDIC AALBORG CITY",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-27",
         "InterviewerID": "54 - Kurt",
         "Q0B": "COMWELL AARHUS",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-06-27",
