@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "29-06-2025 11:27:27"
+        "download_time": "29-06-2025 11:56:09"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6386,15 +6386,33 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-06-29",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "MARIELYST FAMILIECAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-29",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "H\u00d8RUPHAV HAVN",
         "completes": 4
     },
     {
         "InterviewDate": "2025-06-29",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "SKOVMOSE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-06-29",
         "InterviewerID": "35 - Morten R",
         "Q0B": "SVENDBORG LYSTB\u00c5DEHAVN",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-06-29",
+        "InterviewerID": "44 - Nanna-Liv",
+        "Q0B": "LYNGHOLT FAMILIECAMPING",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-06-29",
@@ -6406,13 +6424,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-06-29",
         "InterviewerID": "54 - Kurt",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 9
+        "completes": 10
     },
     {
         "InterviewDate": "2025-06-29",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
