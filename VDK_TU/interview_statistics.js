@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "01-07-2025 13:58:34"
+        "download_time": "01-07-2025 14:31:45"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6508,7 +6508,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-01",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "DGI-BYENS HOTEL",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-01",
@@ -6532,7 +6532,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-01",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-01",
@@ -6544,7 +6544,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-01",
         "InterviewerID": "35 - Morten R",
         "Q0B": "FAABORG  CAMPING",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-01",
@@ -6562,7 +6562,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-01",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "JEGUM FERIELAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-01",
