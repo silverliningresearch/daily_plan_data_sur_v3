@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "02-07-2025 09:55:58"
+        "download_time": "02-07-2025 10:30:33"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6574,13 +6574,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-02",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "HJARB\u00c6K CAMPING",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-02",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "COMWELL ODENSE",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-02",
@@ -6592,31 +6592,43 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-02",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HEJLSMINDE (FERIEHUS)",
-        "completes": 1
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-02",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 4
+        "completes": 6
+    },
+    {
+        "InterviewDate": "2025-07-02",
+        "InterviewerID": "35 - Morten R",
+        "Q0B": "F\u00c5BORG LYSTB\u00c5DEHAVN",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-02",
+        "InterviewerID": "40 - Iman",
+        "Q0B": "SCANDIC HOTEL SYDHAVN",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-02",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-02",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-02",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HOTEL JUTLANDIA",
-        "completes": 6
+        "completes": 7
     }
 ]    
 
