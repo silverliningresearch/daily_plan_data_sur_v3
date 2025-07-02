@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-07-2025 19:24:40"
+        "download_time": "02-07-2025 19:54:28"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -24033,7 +24033,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-02",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-07-02",
@@ -24113,6 +24113,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-02",
         "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-07-02",
+        "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT\u2666Min25",
         "Number of interviews": 5
     },
     {
@@ -24133,7 +24138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-02",
         "quota_id": "Louis Vuitton\u2666TERMINAL 3\u2666Airside\u2666#02-36A(F) & 03-07A(F)\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-02",
@@ -24163,7 +24168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-02",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-07-02",
