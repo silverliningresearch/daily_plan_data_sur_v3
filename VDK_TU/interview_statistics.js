@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "02-07-2025 10:56:43"
+        "download_time": "02-07-2025 11:26:21"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6574,7 +6574,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-02",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "HJARB\u00c6K CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-02",
@@ -6586,19 +6586,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-02",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "SALTUM STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-02",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HEJLSMINDE (FERIEHUS)",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-02",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-07-02",
@@ -6622,13 +6622,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-02",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-02",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HOTEL JUTLANDIA",
-        "completes": 7
+        "completes": 8
     }
 ]    
 
