@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-07-2025 10:31:48"
+        "download_time": "03-07-2025 10:56:25"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6658,31 +6658,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "VEJLBY FED STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "BLOKHUS (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6692,9 +6692,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-03",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-03",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6706,7 +6712,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "40 - Iman",
         "Q0B": "DGI-BYENS HOTEL",
-        "completes": 1
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-03",
