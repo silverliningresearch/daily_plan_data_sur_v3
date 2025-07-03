@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-07-2025 09:58:15"
+        "download_time": "03-07-2025 10:31:48"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6658,13 +6658,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "VEJLBY FED STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6682,7 +6682,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6694,7 +6694,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 6
+        "completes": 8
+    },
+    {
+        "InterviewDate": "2025-07-03",
+        "InterviewerID": "38 - Christina B",
+        "Q0B": "HARBO\u00d8RE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-03",
+        "InterviewerID": "40 - Iman",
+        "Q0B": "DGI-BYENS HOTEL",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-03",
