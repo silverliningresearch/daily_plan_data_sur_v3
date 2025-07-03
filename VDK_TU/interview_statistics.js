@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-07-2025 12:33:51"
+        "download_time": "03-07-2025 12:56:26"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6658,7 +6658,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 11
+        "completes": 12
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6670,13 +6670,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6694,25 +6694,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "STENSAGER CAMPING",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 15
+        "completes": 16
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "38 - Christina B",
         "Q0B": "HARBO\u00d8RE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6724,7 +6724,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "44 - Nanna-Liv",
         "Q0B": "SANDVIG DANHOSTEL",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6737,6 +6737,12 @@ let interview_statistics = `[
         "InterviewerID": "46 - Louise F.",
         "Q0B": "GREN\u00c5 MARINA",
         "completes": 4
+    },
+    {
+        "InterviewDate": "2025-07-03",
+        "InterviewerID": "51 \u2013 Denis",
+        "Q0B": "STRANDENE MELLEM HOU OG BISNAP (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
