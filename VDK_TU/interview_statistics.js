@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-07-2025 12:56:26"
+        "download_time": "03-07-2025 13:26:09"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6658,7 +6658,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 12
+        "completes": 13
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6670,7 +6670,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6688,7 +6688,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 19
+        "completes": 20
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6706,7 +6706,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 16
+        "completes": 17
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6718,7 +6718,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "40 - Iman",
         "Q0B": "DGI-BYENS HOTEL",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6730,7 +6730,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "BLUSH\u00d8J CAMPING",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6740,9 +6740,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-03",
+        "InterviewerID": "48 - Elisa B.",
+        "Q0B": "B\u00d8RSMOSE STRAND CAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-03",
         "InterviewerID": "51 \u2013 Denis",
         "Q0B": "STRANDENE MELLEM HOU OG BISNAP (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
