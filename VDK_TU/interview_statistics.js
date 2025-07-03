@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-07-2025 11:56:17"
+        "download_time": "03-07-2025 12:33:51"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6658,25 +6658,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "VEJLBY FED STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6688,7 +6688,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 13
+        "completes": 19
     },
     {
         "InterviewDate": "2025-07-03",
@@ -6700,31 +6700,37 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-03",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "S\u00d8NDERVIG STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 14
+        "completes": 15
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "38 - Christina B",
         "Q0B": "HARBO\u00d8RE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "40 - Iman",
         "Q0B": "DGI-BYENS HOTEL",
-        "completes": 5
+        "completes": 6
+    },
+    {
+        "InterviewDate": "2025-07-03",
+        "InterviewerID": "44 - Nanna-Liv",
+        "Q0B": "SANDVIG DANHOSTEL",
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-03",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "BLUSH\u00d8J CAMPING",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-03",
