@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "04-07-2025 11:56:06"
+        "download_time": "04-07-2025 12:30:24"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6760,13 +6760,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-04",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 2
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-04",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "HOTEL PH\u00d8NIX HJ\u00d8RRING",
         "completes": 3
+    },
+    {
+        "InterviewDate": "2025-07-04",
+        "InterviewerID": "27 - Niels K.",
+        "Q0B": "L\u00d8NSTRUP (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-04",
@@ -6784,13 +6790,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-04",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "URBAN CAMPER HOSTEL",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-07-04",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "VIGS\u00d8 FERIECENTER",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-04",
@@ -6802,7 +6808,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-04",
         "InterviewerID": "45 - Else B.",
         "Q0B": "FJELLERUP STRAND (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-04",
@@ -6814,7 +6820,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-04",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
