@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "04-07-2025 09:56:23"
+        "download_time": "04-07-2025 10:34:06"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6754,43 +6754,49 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-04",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "DANHOSTEL KRAGSBJERGG\u00c5RD",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-04",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "HOTEL PH\u00d8NIX HJ\u00d8RRING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-04",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "IMPERIAL HOTEL",
-        "completes": 4
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-04",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "URBAN CAMPER HOSTEL",
-        "completes": 4
+        "completes": 6
+    },
+    {
+        "InterviewDate": "2025-07-04",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "VIGS\u00d8 FERIECENTER",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-04",
         "InterviewerID": "40 - Iman",
         "Q0B": "WAKEUP COPENHAGEN BORGERGADE",
-        "completes": 9
+        "completes": 12
     },
     {
         "InterviewDate": "2025-07-04",
         "InterviewerID": "45 - Else B.",
         "Q0B": "FJELLERUP STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-04",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "RANDERS CITY CAMP",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-04",
