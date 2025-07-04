@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "04-07-2025 07:56:18"
+        "download_time": "04-07-2025 08:30:55"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6749,6 +6749,18 @@ let interview_statistics = `[
         "InterviewerID": "51 \u2013 Denis",
         "Q0B": "STRANDENE MELLEM HOU OG BISNAP (FERIEHUS)",
         "completes": 6
+    },
+    {
+        "InterviewDate": "2025-07-04",
+        "InterviewerID": "34 - Annette B.",
+        "Q0B": "URBAN CAMPER HOSTEL",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-04",
+        "InterviewerID": "46 - Louise F.",
+        "Q0B": "RANDERS CITY CAMP",
+        "completes": 1
     }
 ]    
 
