@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "05-07-2025 13:54:30"
+        "download_time": "05-07-2025 14:27:02"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -24487,8 +24487,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-05",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-05",
         "quota_id": "CHEERS\u2666TERMINAL 4\u2666Landside\u2666#01-09\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-07-05",
@@ -24508,12 +24513,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-05",
+        "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-05",
@@ -24523,7 +24533,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-05",
@@ -24548,7 +24558,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-05",
@@ -24563,7 +24573,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     }
 ]    
 
