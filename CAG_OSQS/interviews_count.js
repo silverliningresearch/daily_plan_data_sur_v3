@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "05-07-2025 18:27:27"
+        "download_time": "05-07-2025 18:54:30"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -24468,7 +24468,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL\u2666Min20",
-        "Number of interviews": 2
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-07-05",
@@ -24493,7 +24493,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-07-05",
@@ -24528,7 +24528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
-        "Number of interviews": 8
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2025-07-05",
@@ -24583,7 +24583,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-05",
@@ -24593,7 +24593,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-05",
         "quota_id": "Tory Burch\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-05",
