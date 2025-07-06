@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "06-07-2025 09:58:26"
+        "download_time": "06-07-2025 10:31:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6872,9 +6872,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-06",
+        "InterviewerID": "24 - Kasper R.",
+        "Q0B": "URBAN CAMPER HOSTEL",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-06",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HOSTRUPS HOTEL & RESTAURANT",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-06",
@@ -6884,15 +6890,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-06",
+        "InterviewerID": "45 - Else B.",
+        "Q0B": "LANDAL EBELTOFT",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-06",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "HVIDBJERG STRANDHOTEL (HVIDBJERG STRAND FERIEPARK)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-06",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "HOTEL SVENDBORG",
-        "completes": 6
+        "completes": 8
     }
 ]    
 
