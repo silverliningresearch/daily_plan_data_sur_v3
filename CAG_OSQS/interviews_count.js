@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "06-07-2025 17:24:38"
+        "download_time": "06-07-2025 17:54:43"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -24608,7 +24608,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "Animal Kaiser+\u2666TERMINAL 3\u2666Landside\u2666#B2-56\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-06",
@@ -24668,7 +24668,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-06",
@@ -24703,12 +24703,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "Tech House\u2666TERMINAL 3\u2666Landside\u2666#B2-K3\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "Teo Heng Family KTV Studio\u2666TERMINAL 3\u2666Landside\u2666#B2-52/53/54\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-06",
@@ -24718,7 +24718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-06",
