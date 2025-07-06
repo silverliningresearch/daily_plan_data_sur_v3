@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "06-07-2025 17:54:43"
+        "download_time": "06-07-2025 18:27:42"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -24608,7 +24608,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "Animal Kaiser+\u2666TERMINAL 3\u2666Landside\u2666#B2-56\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-06",
@@ -24628,7 +24628,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "CLOUD 9 STUDIO (SHORT TERM TENANCY)\u2666TERMINAL 3\u2666Landside\u2666#B2-44\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-06",
@@ -24648,7 +24648,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "KAWATA HOUSE OF SOCKS\u2666TERMINAL 3\u2666Landside\u2666#B2-43\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-06",
@@ -24698,12 +24698,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "Tech House\u2666TERMINAL 3\u2666Landside\u2666#B2-K3\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-06",
@@ -24723,7 +24723,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-06",
         "quota_id": "iClaw Taiwan\u2666TERMINAL 3\u2666Landside\u2666#B2-45/46\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     }
 ]    
 
