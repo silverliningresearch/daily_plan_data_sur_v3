@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "07-07-2025 13:26:45"
+        "download_time": "07-07-2025 13:58:30"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6934,7 +6934,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "LANDAL S\u00d8H\u00d8JLANDET",
-        "completes": 6
+        "completes": 7
+    },
+    {
+        "InterviewDate": "2025-07-07",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-07",
@@ -6946,13 +6952,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "HOUSTRUP (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "SALTUM STRAND (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-07",
@@ -6970,25 +6976,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "HENNE STRAND (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "DGI-BYENS HOTEL",
-        "completes": 13
+        "completes": 14
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "VIGS\u00d8 FERIECENTER",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-07",
@@ -7000,7 +7006,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "LISELEJE/ASSERBO (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-07",
