@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "07-07-2025 12:27:44"
+        "download_time": "07-07-2025 12:54:56"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -24738,7 +24738,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-07",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-07",
@@ -24748,12 +24748,37 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-07",
         "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-07",
         "quota_id": "Choco Express\u2666TERMINAL 4\u2666Landside\u2666#02-10\u2666LS\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-07-07",
+        "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-07",
+        "quota_id": "GO Noodle House\u2666TERMINAL 4\u2666Landside\u2666#02-203\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-07",
+        "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-07",
+        "quota_id": "Papparich\u2666TERMINAL 4\u2666Landside\u2666#02-203A\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-07",
+        "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-07-07",
@@ -24768,7 +24793,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-07",
         "quota_id": "The Digital Gadgets\u2666TERMINAL 4\u2666Landside\u2666#02-08\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-07",
