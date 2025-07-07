@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "07-07-2025 10:56:58"
+        "download_time": "07-07-2025 11:26:43"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6922,13 +6922,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "LANDAL S\u00d8H\u00d8JLANDET",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-07",
@@ -6940,19 +6940,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "FIRST CAMP FRIG\u00c5RD",
-        "completes": 7
+        "completes": 9
+    },
+    {
+        "InterviewDate": "2025-07-07",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HENNE STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "DGI-BYENS HOTEL",
-        "completes": 9
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-07",
@@ -6964,7 +6970,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 4
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-07",
