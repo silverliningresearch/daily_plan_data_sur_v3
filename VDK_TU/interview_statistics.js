@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "07-07-2025 12:32:08"
+        "download_time": "07-07-2025 12:58:22"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6928,13 +6928,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "LANDAL S\u00d8H\u00d8JLANDET",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-07",
@@ -6958,13 +6958,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "FIRST CAMP FRIG\u00c5RD",
-        "completes": 12
+        "completes": 13
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "HENNE STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-07",
@@ -6989,6 +6989,12 @@ let interview_statistics = `[
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "SVENDBORG SUND CAMPING",
         "completes": 7
+    },
+    {
+        "InterviewDate": "2025-07-07",
+        "InterviewerID": "55 \u2013 Birgitte E.",
+        "Q0B": "LISELEJE/ASSERBO (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-07",
