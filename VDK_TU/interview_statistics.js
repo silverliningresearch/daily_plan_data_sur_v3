@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "07-07-2025 10:33:52"
+        "download_time": "07-07-2025 10:56:58"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -6922,55 +6922,55 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-07",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL SYDHAVN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "LANDAL S\u00d8H\u00d8JLANDET",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "SALTUM STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "FIRST CAMP FRIG\u00c5RD",
-        "completes": 4
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "DGI-BYENS HOTEL",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "VIGS\u00d8 FERIECENTER",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-07",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "SVENDBORG SUND CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-07",
