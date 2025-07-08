@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "08-07-2025 11:26:58"
+        "download_time": "08-07-2025 11:58:18"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7024,7 +7024,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 8
+        "completes": 9
+    },
+    {
+        "InterviewDate": "2025-07-08",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7042,7 +7048,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7060,25 +7066,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "40 - Iman",
         "Q0B": "TIVOLI HOTEL",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "BAMSEBO CAMPING V. GUDEN\u00c5EN",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "COMWELL BORUPGAARD",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-08",
