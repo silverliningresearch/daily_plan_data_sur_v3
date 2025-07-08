@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "08-07-2025 12:36:38"
+        "download_time": "08-07-2025 12:59:00"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7036,7 +7036,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7060,7 +7060,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 11
+        "completes": 12
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7078,13 +7078,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "BAMSEBO CAMPING V. GUDEN\u00c5EN",
-        "completes": 2
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-07-08",
+        "InterviewerID": "46 - Louise F.",
+        "Q0B": "BLUSH\u00d8J CAMPING",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
         "completes": 7
+    },
+    {
+        "InterviewDate": "2025-07-08",
+        "InterviewerID": "48 - Elisa B.",
+        "Q0B": "LANDAL SEAWEST NYMINDEGAB",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7096,13 +7108,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HEDEBO STRANDCAMPING",
-        "completes": 9
+        "completes": 11
     }
 ]    
 
