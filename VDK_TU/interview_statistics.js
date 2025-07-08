@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "08-07-2025 09:28:53"
+        "download_time": "08-07-2025 09:58:48"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7024,7 +7024,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7042,13 +7042,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7058,15 +7058,27 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-08",
+        "InterviewerID": "40 - Iman",
+        "Q0B": "TIVOLI HOTEL",
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-07-08",
+        "InterviewerID": "47 - Fie L.",
+        "Q0B": "DUEODDE (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-08",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "COMWELL BORUPGAARD",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HEDEBO STRANDCAMPING",
-        "completes": 3
+        "completes": 5
     }
 ]    
 
