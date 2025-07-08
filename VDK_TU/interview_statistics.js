@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "08-07-2025 13:27:23"
+        "download_time": "08-07-2025 13:57:52"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7036,19 +7036,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7090,13 +7090,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "LANDAL SEAWEST NYMINDEGAB",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7108,7 +7108,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-08",
