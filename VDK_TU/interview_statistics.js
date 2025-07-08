@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "08-07-2025 13:57:52"
+        "download_time": "08-07-2025 14:33:33"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7036,13 +7036,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7054,13 +7054,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 14
+        "completes": 15
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7096,7 +7096,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "LANDAL SEAWEST NYMINDEGAB",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7108,7 +7108,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-08",

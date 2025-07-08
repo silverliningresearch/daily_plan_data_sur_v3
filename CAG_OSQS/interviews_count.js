@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "08-07-2025 19:55:11"
+        "download_time": "08-07-2025 20:29:10"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -24873,7 +24873,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-08",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2025-07-08",
@@ -24908,7 +24908,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-08",
         "quota_id": "Harry's Bar\u2666TERMINAL 1\u2666Airside\u2666#02-65\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-08",
@@ -24938,7 +24938,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-08",
         "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-08",
@@ -24958,7 +24958,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-08",
         "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-08",
@@ -24988,7 +24988,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-08",
         "quota_id": "Qeelin\u2666TERMINAL 1\u2666Airside\u2666#02-78\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-08",
@@ -25009,6 +25009,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-07-08",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-08",
+        "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-07-08",
