@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "08-07-2025 13:55:02"
+        "download_time": "08-07-2025 14:29:14"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -24883,7 +24883,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-08",
         "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-08",
@@ -24912,6 +24912,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-08",
+        "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-08",
         "quota_id": "Mango Tree and Heineken World Bar\u2666TERMINAL 1\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
@@ -24922,13 +24927,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-08",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-08",
+        "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-08",
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-08",
         "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-08",
@@ -24962,6 +24977,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-08",
+        "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-08",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -24978,7 +24998,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-08",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-08",
