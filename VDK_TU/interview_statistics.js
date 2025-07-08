@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "08-07-2025 11:58:18"
+        "download_time": "08-07-2025 12:36:38"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7024,25 +7024,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 9
+        "completes": 10
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-08",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "BORK HAVN  (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7054,7 +7060,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-08",
@@ -7078,19 +7084,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-08",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "DUEODDE (FERIEHUS)",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "COMWELL BORUPGAARD",
-        "completes": 6
+        "completes": 7
+    },
+    {
+        "InterviewDate": "2025-07-08",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-08",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HEDEBO STRANDCAMPING",
-        "completes": 8
+        "completes": 9
     }
 ]    
 
