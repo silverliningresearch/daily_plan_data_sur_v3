@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "09-07-2025 14:55:03"
+        "download_time": "09-07-2025 15:25:12"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -25062,6 +25062,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-09",
+        "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-09",
         "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV\u2666Min8",
         "Number of interviews": 4
     },
@@ -25088,7 +25093,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-09",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-09",
@@ -25108,7 +25113,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-09",
         "quota_id": "McDonald's\u2666TERMINAL 2\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-07-09",
@@ -25123,7 +25128,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-09",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-09",
@@ -25138,7 +25143,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-09",
         "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-09",
@@ -25153,7 +25158,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-09",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-09",
@@ -25183,7 +25188,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-09",
         "quota_id": "iStudio\u2666TERMINAL 1\u2666Airside\u2666#02-13F\u2666EL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     }
 ]    
 
