@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "09-07-2025 12:35:45"
+        "download_time": "09-07-2025 13:00:41"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7132,13 +7132,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MARIELYST FAMILIECAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-09",
@@ -7150,37 +7150,43 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "STENSAGER CAMPING",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "LALANDIA S\u00d8NDERVIG",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "IMPERIAL HOTEL",
-        "completes": 12
+        "completes": 13
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "40 - Iman",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "HOTEL GSH",
         "completes": 5
+    },
+    {
+        "InterviewDate": "2025-07-09",
+        "InterviewerID": "48 - Elisa B.",
+        "Q0B": "B\u00d8RSMOSE STRAND CAMPING",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-09",
@@ -7204,7 +7210,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN HOTEL",
-        "completes": 5
+        "completes": 6
     }
 ]    
 
