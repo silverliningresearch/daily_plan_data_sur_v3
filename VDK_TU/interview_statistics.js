@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "09-07-2025 13:31:16"
+        "download_time": "09-07-2025 14:03:50"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7126,7 +7126,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "HASMARK STRAND (FERIEHUS)",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-09",
@@ -7138,25 +7138,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "BLOKHUS (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "STENSAGER CAMPING",
-        "completes": 12
+        "completes": 16
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "LALANDIA S\u00d8NDERVIG",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-09",
@@ -7174,7 +7174,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "40 - Iman",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-09",
@@ -7186,19 +7186,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "B\u00d8RSMOSE STRAND CAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "SVENDBORG LYSTB\u00c5DEHAVN",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-09",
