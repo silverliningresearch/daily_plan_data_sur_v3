@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "09-07-2025 09:57:43"
+        "download_time": "09-07-2025 10:31:27"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7132,7 +7132,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "HASMARK STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-09",
@@ -7148,15 +7148,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-09",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "LALANDIA S\u00d8NDERVIG",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-09",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "IMPERIAL HOTEL",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "VESTERVIG (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-09",
@@ -7174,13 +7180,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-09",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "HOTEL SLEEP2NIGHT",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-09",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN HOTEL",
-        "completes": 1
+        "completes": 4
     }
 ]    
 
