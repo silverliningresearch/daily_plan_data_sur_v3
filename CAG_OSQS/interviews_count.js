@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "10-07-2025 15:26:14"
+        "download_time": "10-07-2025 15:54:32"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -25277,8 +25277,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-10",
-        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
+        "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-10",
+        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-10",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-10",
@@ -25308,12 +25318,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-10",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-07-10",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-10",
@@ -25328,7 +25338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-10",
         "quota_id": "CHEERS\u2666TERMINAL 1\u2666Landside\u2666#02-05A\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-10",
@@ -25353,7 +25363,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-10",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
-        "Number of interviews": 14
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2025-07-10",
@@ -25403,7 +25413,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-10",
         "quota_id": "Prosegur T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-10",
@@ -25453,7 +25463,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-10",
         "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-10",

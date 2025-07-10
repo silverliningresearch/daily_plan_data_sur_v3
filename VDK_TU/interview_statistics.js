@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "10-07-2025 09:28:12"
+        "download_time": "10-07-2025 09:57:05"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7214,15 +7214,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-10",
+        "InterviewerID": "20 - Karina S.",
+        "Q0B": "FIRST CAMP HASMARK STRAND",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-10",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP COPENHAGEN BORGERGADE",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "L\u00d8NSTRUP (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-10",
@@ -7234,13 +7240,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "URBAN CAMPER HOSTEL",
-        "completes": 3
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-07-10",
+        "InterviewerID": "45 - Else B.",
+        "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "HELSING\u00d8R NORDHAVN",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-10",
