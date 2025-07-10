@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "10-07-2025 09:29:46"
+        "download_time": "10-07-2025 09:55:09"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -25282,18 +25282,33 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-10",
+        "quota_id": "Guardian (Premises A) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-155\u2666PH\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-10",
         "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA\u2666Min8",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-07-10",
+        "quota_id": "Metapod (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-150\u2666EL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-10",
         "quota_id": "Pret A Manger\u2666TERMINAL 3\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-10",
         "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-011\u2666FBA\u2666Min25",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-07-10",
+        "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
