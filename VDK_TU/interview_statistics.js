@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "10-07-2025 13:27:27"
+        "download_time": "10-07-2025 13:59:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7222,37 +7222,43 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP COPENHAGEN BORGERGADE",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "L\u00d8NSTRUP (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "OASEN R\u00d8M\u00d8",
-        "completes": 17
+        "completes": 18
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "URBAN CAMPER HOSTEL",
-        "completes": 14
+        "completes": 15
+    },
+    {
+        "InterviewDate": "2025-07-10",
+        "InterviewerID": "44 - Nanna-Liv",
+        "Q0B": "LYNGHOLT FAMILIECAMPING",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "45 - Else B.",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-10",
@@ -7264,7 +7270,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "50 - Jonas H",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-10",
@@ -7282,7 +7288,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "NY F\u00c6RGEG\u00c5RDENS CAMPING",
-        "completes": 2
+        "completes": 4
     }
 ]    
 
