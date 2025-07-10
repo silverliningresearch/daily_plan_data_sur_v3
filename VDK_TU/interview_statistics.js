@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "10-07-2025 13:59:02"
+        "download_time": "10-07-2025 14:33:42"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7216,19 +7216,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FIRST CAMP HASMARK STRAND",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP COPENHAGEN BORGERGADE",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-10",
@@ -7240,7 +7240,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "OASEN R\u00d8M\u00d8",
-        "completes": 18
+        "completes": 20
     },
     {
         "InterviewDate": "2025-07-10",
@@ -7252,13 +7252,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "44 - Nanna-Liv",
         "Q0B": "LYNGHOLT FAMILIECAMPING",
-        "completes": 1
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "45 - Else B.",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-07-10",
@@ -7288,7 +7288,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "NY F\u00c6RGEG\u00c5RDENS CAMPING",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
