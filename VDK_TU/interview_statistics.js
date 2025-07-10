@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "10-07-2025 09:57:05"
+        "download_time": "10-07-2025 10:40:27"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7216,6 +7216,12 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FIRST CAMP HASMARK STRAND",
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-07-10",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "LALANDIA R\u00d8DBY",
         "completes": 1
     },
     {
@@ -7234,18 +7240,24 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "OASEN R\u00d8M\u00d8",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "URBAN CAMPER HOSTEL",
-        "completes": 5
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-10",
         "InterviewerID": "45 - Else B.",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-10",
+        "InterviewerID": "47 - Fie L.",
+        "Q0B": "HOTEL BALKA STRAND",
         "completes": 1
     },
     {
@@ -7258,7 +7270,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-10",
         "InterviewerID": "51 \u2013 Denis",
         "Q0B": "FOUR POINTS FLEX AALBORG",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
