@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-07-2025 13:27:34"
+        "download_time": "11-07-2025 13:57:39"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7312,19 +7312,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-11",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "L\u00d8NSTRUP (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-11",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HEJSAGER STRAND (FERIEHUS)",
-        "completes": 9
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-11",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 14
+        "completes": 15
     },
     {
         "InterviewDate": "2025-07-11",
@@ -7336,7 +7336,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-11",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-11",
@@ -7354,19 +7354,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-11",
         "InterviewerID": "51 \u2013 Denis",
         "Q0B": "STRANDENE MELLEM HOU OG BISNAP (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-11",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "RISTINGE STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-11",
         "InterviewerID": "8 - Sofie H.",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-11",
