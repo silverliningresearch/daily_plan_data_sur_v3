@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-07-2025 09:27:18"
+        "download_time": "11-07-2025 09:57:25"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7294,13 +7294,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-11",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SCANDIC HOTEL SILKEBORG",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-11",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "HOTEL PH\u00d8NIX HJ\u00d8RRING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-11",
@@ -7312,25 +7312,43 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-11",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 3
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-07-11",
+        "InterviewerID": "38 - Christina B",
+        "Q0B": "HARBO\u00d8RE (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-11",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-11",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "ROSENG\u00c5RDEN",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-11",
+        "InterviewerID": "50 - Jonas H",
+        "Q0B": "TISVILDELEJE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-11",
+        "InterviewerID": "8 - Sofie H.",
+        "Q0B": "SCANDIC CPH STRANDPARK",
         "completes": 1
     },
     {
         "InterviewDate": "2025-07-11",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "DANHOSTEL FREDERIKSHAVN",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
