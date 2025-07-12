@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "12-07-2025 13:55:42"
+        "download_time": "12-07-2025 14:28:04"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -25658,7 +25658,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-12",
@@ -25688,7 +25688,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-12",
@@ -25702,13 +25702,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-12",
+        "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-07-12",
+        "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-12",
         "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-12",
@@ -25723,7 +25733,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-12",
