@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "12-07-2025 19:55:35"
+        "download_time": "12-07-2025 20:28:15"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -25638,7 +25638,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-12",
@@ -25653,12 +25653,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-12",
@@ -25673,12 +25673,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-07-12",
@@ -25753,12 +25753,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "Roost\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-12",
@@ -25818,7 +25818,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-12",
         "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     }
 ]    
 
