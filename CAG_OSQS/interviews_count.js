@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "13-07-2025 16:56:31"
+        "download_time": "13-07-2025 17:25:39"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -25837,6 +25837,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-13",
+        "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-13",
         "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
         "Number of interviews": 5
     },
@@ -25848,12 +25853,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-13",
         "quota_id": "Lacoste\u2666TERMINAL 4\u2666Airside\u2666#02-49\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-13",
         "quota_id": "Lynk Fragrances\u2666TERMINAL 2\u2666Landside\u2666#02-03\u2666LS\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-13",
+        "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-13",
+        "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-13",
@@ -25877,6 +25892,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-13",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 4\u2666Airside\u2666#02-29\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-13",
         "quota_id": "Tech House\u2666TERMINAL 2\u2666Landside\u2666#02-K2\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
@@ -25888,7 +25908,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-13",
         "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     }
 ]    
 
