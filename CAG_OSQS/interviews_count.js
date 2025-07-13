@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "13-07-2025 15:25:27"
+        "download_time": "13-07-2025 15:55:45"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -25833,12 +25833,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-13",
         "quota_id": "FILA\u2666TERMINAL 4\u2666Airside\u2666#02-53/54\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-13",
         "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-07-13",
+        "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT\u2666Min15",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-07-13",
@@ -25848,7 +25853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-13",
         "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-13",
@@ -25857,8 +25862,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-13",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-13",
         "quota_id": "Tech House\u2666TERMINAL 2\u2666Landside\u2666#02-K2\u2666LS\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-13",
+        "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
