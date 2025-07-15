@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "15-07-2025 14:55:52"
+        "download_time": "15-07-2025 15:26:34"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -26047,6 +26047,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-15",
+        "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-15",
+        "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-15",
         "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
         "Number of interviews": 3
     },
@@ -26059,6 +26069,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-07-15",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-15",
+        "quota_id": "Irvin's Salted Egg\u2666TERMINAL 2\u2666Airside\u2666#02-209D\u2666CCD\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-15",
@@ -26102,6 +26117,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-15",
+        "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-15",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-15",
         "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD\u2666Min8",
         "Number of interviews": 3
     },
@@ -26113,7 +26138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-15",
         "quota_id": "iStudio\u2666TERMINAL 3\u2666Airside\u2666#02-54\u2666EL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     }
 ]    
 
