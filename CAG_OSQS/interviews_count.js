@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "16-07-2025 16:57:07"
+        "download_time": "16-07-2025 17:26:08"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -26203,7 +26203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-16",
         "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-16",
@@ -26213,7 +26213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-16",
         "quota_id": "FAIRPRICE FINEST\u2666TERMINAL 3\u2666Landside\u2666#B2-10\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-16",
@@ -26224,6 +26224,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-07-16",
         "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA\u2666Min25",
         "Number of interviews": 13
+    },
+    {
+        "InterviewDate": "2025-07-16",
+        "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-07-16",
@@ -26243,7 +26248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-16",
         "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-16",
@@ -26253,12 +26258,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-16",
         "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-16",
         "quota_id": "Pizza Hut\u2666TERMINAL 1\u2666Airside\u2666#03-K04\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-16",
@@ -26288,7 +26293,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-16",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 1\u2666Airside\u2666#02-45\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-16",
