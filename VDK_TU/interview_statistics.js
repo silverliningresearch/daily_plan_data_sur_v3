@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "16-07-2025 11:28:16"
+        "download_time": "16-07-2025 11:58:09"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7550,6 +7550,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-16",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "BORK HAVN  (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-16",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "CENTER PARCS NORDBORG RESORT",
         "completes": 7
@@ -7558,7 +7564,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-16",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "FIRST CAMP HASMARK STRAND",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-16",
@@ -7570,7 +7576,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-16",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "FIRST CAMP FRIG\u00c5RD",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-16",
