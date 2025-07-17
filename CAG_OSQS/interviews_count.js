@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "17-07-2025 14:29:04"
+        "download_time": "17-07-2025 14:56:12"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -26348,7 +26348,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-17",
         "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-17",
@@ -26368,12 +26368,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-17",
         "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-17",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
-        "Number of interviews": 5
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2025-07-17",
@@ -26413,6 +26413,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-17",
         "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-17",
+        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
         "Number of interviews": 1
     }
 ]    
