@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "18-07-2025 09:57:11"
+        "download_time": "18-07-2025 10:29:31"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -26503,7 +26503,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-18",
         "quota_id": "Asian Street Kitchen\u2666TERMINAL 2\u2666Airside\u2666#02-170\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-18",
@@ -26512,8 +26512,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-18",
+        "quota_id": "Charles & Keith\u2666TERMINAL 1\u2666Airside\u2666#02-51\u2666MP\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-07-18",
         "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-18",
@@ -26523,16 +26528,21 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-18",
         "quota_id": "Hermes\u2666TERMINAL 1\u2666Airside\u2666#02-55/56\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-18",
         "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-18",
         "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-07-18",
+        "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -26548,6 +26558,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-18",
         "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-18",
+        "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
