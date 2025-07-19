@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-07-2025 16:31:07"
+        "download_time": "19-07-2025 16:56:26"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -26828,7 +26828,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-19",
         "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-19",
@@ -26848,7 +26848,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-19",
         "quota_id": "Prosegur T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-19",
@@ -26868,7 +26868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-19",
         "quota_id": "Swee Choon\u2666TERMINAL 2\u2666Landside\u2666#01-07\u2666FBL\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-07-19",
@@ -26893,7 +26893,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-19",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-19",
