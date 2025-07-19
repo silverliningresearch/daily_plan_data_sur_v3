@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-07-2025 18:58:20"
+        "download_time": "19-07-2025 19:25:24"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -26727,6 +26727,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-19",
+        "quota_id": "7-Eleven (T2 Level 3)\u2666TERMINAL 2\u2666Airside\u2666#03-172\u2666CS\u2666Min8",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-07-19",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
@@ -26812,6 +26817,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-19",
+        "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-19",
         "quota_id": "Lylo\u2666TERMINAL 4\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
         "Number of interviews": 1
     },
@@ -26833,7 +26843,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-19",
         "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-19",
@@ -26858,7 +26868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-19",
         "quota_id": "Prosegur T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-07-19",
@@ -26903,7 +26913,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-19",
         "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-07-19",
