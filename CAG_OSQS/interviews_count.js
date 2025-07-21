@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "21-07-2025 17:57:02"
+        "download_time": "21-07-2025 18:30:06"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -27118,7 +27118,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-21",
         "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-21",
@@ -27178,7 +27178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-21",
         "quota_id": "Pazzion\u2666TERMINAL 2\u2666Airside\u2666#02-201\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-21",
@@ -27203,7 +27203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-21",
         "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-21",
@@ -27248,7 +27248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-21",
         "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-21",
