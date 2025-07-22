@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-07-2025 20:29:08"
+        "download_time": "22-07-2025 20:58:34"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -27348,7 +27348,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "FRAGRANCE\u2666TERMINAL 3\u2666Landside\u2666#02-92\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-07-22",
+        "quota_id": "Famous Amos\u2666TERMINAL 3\u2666Landside\u2666#02-97\u2666LS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27368,7 +27373,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27398,7 +27403,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27418,7 +27423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27533,12 +27538,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "UOB Gold\u2666TERMINAL 2\u2666Airside\u2666#02-K19\u2666JW\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "WH Smith (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-207\u2666OW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-22",
