@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-07-2025 19:56:26"
+        "download_time": "22-07-2025 20:29:08"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -27338,7 +27338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27348,7 +27348,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "FRAGRANCE\u2666TERMINAL 3\u2666Landside\u2666#02-92\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27363,12 +27363,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "GODIVA Chocolatier\u2666TERMINAL 3\u2666Landside\u2666#02-94\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27378,7 +27378,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "Hard Rock Cafe\u2666TERMINAL 2\u2666Airside\u2666#02-177\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27392,8 +27392,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-22",
+        "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-22",
         "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27498,7 +27503,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "The Digital Gadgets\u2666TERMINAL 2\u2666Airside\u2666#02-182\u2666EL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27523,7 +27528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27538,7 +27543,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     }
 ]    
 
