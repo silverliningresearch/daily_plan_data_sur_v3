@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "22-07-2025 09:30:58"
+        "download_time": "22-07-2025 10:00:23"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -7876,19 +7876,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-22",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-22",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MILLING HOTEL S\u00d8PARK MARIBO",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-22",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "FOUR POINTS FLEX COPENHAGEN AIRPORT",
-        "completes": 2
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-07-22",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-22",
@@ -7900,7 +7906,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-22",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "MARIAGER CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-22",
