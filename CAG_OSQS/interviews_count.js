@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-07-2025 18:37:08"
+        "download_time": "22-07-2025 18:58:31"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -27347,6 +27347,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-22",
+        "quota_id": "FRAGRANCE\u2666TERMINAL 3\u2666Landside\u2666#02-92\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-22",
         "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
         "Number of interviews": 1
     },
@@ -27432,6 +27437,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-22",
+        "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-22",
+        "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-22",
         "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -27453,7 +27468,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-22",
@@ -27468,7 +27483,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-22",
         "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 2\u2666Airside\u2666#02-800\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-22",
