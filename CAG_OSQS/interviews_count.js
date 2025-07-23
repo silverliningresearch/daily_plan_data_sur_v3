@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "23-07-2025 19:25:45"
+        "download_time": "23-07-2025 19:57:42"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -27633,7 +27633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-23",
@@ -27648,7 +27648,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 2\u2666Airside\u2666#02-164\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-23",
@@ -27683,6 +27683,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072 (#02-229)\u2666LX\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-23",
+        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -27699,6 +27704,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-07-23",
         "quota_id": "SIXT RENT A CAR\u2666TERMINAL 1\u2666Landside\u2666#01-K5\u2666LS\u2666Min5",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-07-23",
+        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-23",
