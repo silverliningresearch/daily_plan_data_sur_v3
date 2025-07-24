@@ -4,7 +4,7 @@ let interview_statistics = `[
         "quota_id": "EY-AUH",
         "InterviewerID": "TEST",
         "Number of interviews": 1,
-        "download_time": "24-07-2025 16:59:09"
+        "download_time": "24-07-2025 17:30:21"
     },
     {
         "InterviewDate": "2025-07-22",
@@ -446,6 +446,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-24",
+        "quota_id": "EY-AUH",
+        "InterviewerID": "7597800",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-24",
+        "quota_id": "GF-BAH",
+        "InterviewerID": "7597800",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-24",
         "quota_id": "UNKNOWN-CMB",
         "InterviewerID": "7597800",
         "Number of interviews": 1
@@ -453,6 +465,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-07-24",
         "quota_id": "UNKNOWN-DIA",
+        "InterviewerID": "7597800",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-24",
+        "quota_id": "UNKNOWN-DXB",
         "InterviewerID": "7597800",
         "Number of interviews": 1
     },
