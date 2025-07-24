@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "24-07-2025 10:34:56"
+        "download_time": "24-07-2025 11:00:49"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8014,7 +8014,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-24",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "JEGUM FERIELAND (FERIEHUS)",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-24",
@@ -8026,7 +8026,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-24",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-24",
@@ -8038,7 +8038,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-24",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-24",
@@ -8050,7 +8050,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-24",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "GRIFFEN SPAHOTEL",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
