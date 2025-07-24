@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "24-07-2025 14:30:34"
+        "download_time": "24-07-2025 14:56:57"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -27767,6 +27767,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-07-24",
+        "quota_id": "Famous Amos\u2666TERMINAL 3\u2666Landside\u2666#02-97\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-24",
         "quota_id": "Korea Culture\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min8",
         "Number of interviews": 2
     },
@@ -27783,6 +27788,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-24",
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-07-24",
+        "quota_id": "Simply Toys\u2666TERMINAL 3\u2666Landside\u2666#02-95/96\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-07-24",
+        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min8",
         "Number of interviews": 2
     },
     {
@@ -27798,7 +27813,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-07-24",
         "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     }
 ]    
 
