@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "28-07-2025 10:35:17"
+        "download_time": "28-07-2025 11:00:41"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8206,19 +8206,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-28",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "FOUR POINTS FLEX COPENHAGEN ARENA",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-28",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SKYTTEHUSETS OUTDOORCAMP",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-28",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "B\u00d8RSMOSE STRAND CAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-28",
@@ -8234,9 +8234,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-28",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HENNE STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-28",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "HELSING\u00d8R NORDHAVN",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-28",
@@ -8248,7 +8254,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-28",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
