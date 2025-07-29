@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "29-07-2025 11:29:42"
+        "download_time": "29-07-2025 12:00:14"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8290,7 +8290,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-29",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "JEGUM FERIELAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-29",
@@ -8302,31 +8302,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-29",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-29",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-07-29",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-29",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-29",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HOTEL JUTLANDIA",
-        "completes": 6
+        "completes": 7
     }
 ]    
 
