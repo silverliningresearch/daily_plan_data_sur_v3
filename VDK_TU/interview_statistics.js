@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "30-07-2025 11:00:07"
+        "download_time": "30-07-2025 11:29:25"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8338,13 +8338,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-30",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "R\u00d8DVIG FERIEBY",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "CENTER PARCS NORDBORG RESORT",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-30",
@@ -8356,13 +8356,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-30",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-30",
@@ -8374,13 +8374,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-30",
         "InterviewerID": "38 - Christina B",
         "Q0B": "THORSMINDE (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-30",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "NY F\u00c6RGEG\u00c5RDENS CAMPING",
         "completes": 1
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-30",
@@ -8392,7 +8398,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-30",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 5
+        "completes": 6
     }
 ]    
 
