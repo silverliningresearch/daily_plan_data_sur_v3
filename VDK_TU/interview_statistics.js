@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "30-07-2025 13:00:29"
+        "download_time": "30-07-2025 13:32:26"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8350,7 +8350,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-30",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "CAB INN ODENSE",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-30",
@@ -8362,7 +8362,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-30",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-30",
@@ -8375,6 +8375,12 @@ let interview_statistics = `[
         "InterviewerID": "35 - Morten R",
         "Q0B": "HOTEL SVENDBORG",
         "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-30",
+        "InterviewerID": "35 - Morten R",
+        "Q0B": "SVENDBORG SUND CAMPING",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-30",
@@ -8392,13 +8398,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-30",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "56 - Peter H.",
         "Q0B": "ROSKILDE CAMPING",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-30",
