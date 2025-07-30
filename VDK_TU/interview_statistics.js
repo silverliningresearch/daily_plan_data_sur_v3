@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "30-07-2025 08:34:30"
+        "download_time": "30-07-2025 08:59:11"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8336,8 +8336,20 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-30",
+        "InterviewerID": "17 - Naja H.",
+        "Q0B": "R\u00d8DVIG FERIEBY",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-30",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "CENTER PARCS NORDBORG RESORT",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-30",
+        "InterviewerID": "20 - Karina S.",
+        "Q0B": "DANHOSTEL KRAGSBJERGG\u00c5RD",
         "completes": 1
     }
 ]    
