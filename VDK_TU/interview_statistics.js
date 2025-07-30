@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "30-07-2025 10:00:13"
+        "download_time": "30-07-2025 10:34:09"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8338,43 +8338,61 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-30",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "R\u00d8DVIG FERIEBY",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "CENTER PARCS NORDBORG RESORT",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "DANHOSTEL KRAGSBJERGG\u00c5RD",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-07-30",
+        "InterviewerID": "24 - Kasper R.",
+        "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-30",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "35 - Morten R",
         "Q0B": "HOTEL SVENDBORG",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-30",
+        "InterviewerID": "38 - Christina B",
+        "Q0B": "THORSMINDE (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "56 - Peter H.",
         "Q0B": "ROSKILDE CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-30",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 1
+        "completes": 4
     }
 ]    
 
