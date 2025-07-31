@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "31-07-2025 13:29:49"
+        "download_time": "31-07-2025 14:03:21"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8428,7 +8428,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "KLINTHOLM HAVN",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8440,7 +8440,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8464,7 +8464,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "35 - Morten R",
         "Q0B": "KERTEMINDE CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8474,15 +8474,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-31",
+        "InterviewerID": "48 - Elisa B.",
+        "Q0B": "HO BL\u00c5VAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-31",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "RISTINGE STRAND (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-31",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8500,7 +8506,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC THE REEF",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
