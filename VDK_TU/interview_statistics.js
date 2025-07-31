@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "31-07-2025 11:03:42"
+        "download_time": "31-07-2025 11:30:11"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8426,6 +8426,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-07-31",
+        "InterviewerID": "17 - Naja H.",
+        "Q0B": "KLINTHOLM HAVN",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-07-31",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "VEJLBY FED STRAND (FERIEHUS)",
         "completes": 1
@@ -8434,7 +8440,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8464,13 +8470,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "38 - Christina B",
         "Q0B": "HARBO\u00d8RE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-31",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "RISTINGE STRAND (FERIEHUS)",
         "completes": 2
+    },
+    {
+        "InterviewDate": "2025-07-31",
+        "InterviewerID": "55 \u2013 Birgitte E.",
+        "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8483,6 +8495,12 @@ let interview_statistics = `[
         "InterviewerID": "9 - Jens J.",
         "Q0B": "DANHOSTEL FREDERIKSHAVN",
         "completes": 6
+    },
+    {
+        "InterviewDate": "2025-07-31",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "SCANDIC THE REEF",
+        "completes": 1
     }
 ]    
 
