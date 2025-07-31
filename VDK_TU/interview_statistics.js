@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "31-07-2025 14:35:13"
+        "download_time": "31-07-2025 15:00:05"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8428,7 +8428,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "KLINTHOLM HAVN",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8440,7 +8440,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 11
+        "completes": 12
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8464,7 +8464,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "35 - Morten R",
         "Q0B": "KERTEMINDE CAMPING",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8476,7 +8476,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "HO BL\u00c5VAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8500,7 +8500,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "58 - Mie",
         "Q0B": "JUELSMINDE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-31",
