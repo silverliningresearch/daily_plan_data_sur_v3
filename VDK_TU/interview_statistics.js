@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "31-07-2025 14:03:21"
+        "download_time": "31-07-2025 14:35:13"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8428,25 +8428,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "KLINTHOLM HAVN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-31",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "VEJLBY FED STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-07-31",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "LALANDIA R\u00d8DBY",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-07-31",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "GO HOTEL HERLEV",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8470,13 +8470,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-07-31",
         "InterviewerID": "38 - Christina B",
         "Q0B": "HARBO\u00d8RE (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-07-31",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "HO BL\u00c5VAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-07-31",
@@ -8495,6 +8495,12 @@ let interview_statistics = `[
         "InterviewerID": "56 - Peter H.",
         "Q0B": "DANHOSTEL ROSKILDE",
         "completes": 6
+    },
+    {
+        "InterviewDate": "2025-07-31",
+        "InterviewerID": "58 - Mie",
+        "Q0B": "JUELSMINDE (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-07-31",
