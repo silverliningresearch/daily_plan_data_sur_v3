@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "01-08-2025 12:01:00"
+        "download_time": "01-08-2025 12:35:12"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8518,7 +8518,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-01",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "ULVSHALE (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-01",
@@ -8530,7 +8530,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-01",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "ENJOY RESORT R\u00d8M\u00d8 OG MARINA FISKEN\u00c6S",
-        "completes": 3
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-01",
@@ -8542,7 +8542,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-01",
         "InterviewerID": "61 - Asger",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
