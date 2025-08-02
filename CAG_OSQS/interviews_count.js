@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-08-2025 16:58:06"
+        "download_time": "02-08-2025 17:27:30"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -28227,6 +28227,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-02",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-02",
         "quota_id": "BENGAWAN SOLO\u2666TERMINAL 3\u2666Landside\u2666#02-85\u2666LS\u2666Min8",
         "Number of interviews": 8
     },
@@ -28243,7 +28248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-02",
         "quota_id": "CLIMB@T3\u2666TERMINAL 3\u2666Landside\u2666#B3-01/02\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-02",
@@ -28283,7 +28288,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-02",
         "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-02",
+        "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT\u2666Min15",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-02",
@@ -28328,7 +28338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-02",
         "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-02",
@@ -28338,7 +28348,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-02",
         "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-02",
@@ -28383,7 +28393,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-02",
         "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     }
 ]    
 
