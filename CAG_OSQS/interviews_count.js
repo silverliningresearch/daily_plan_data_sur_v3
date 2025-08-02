@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "02-08-2025 12:30:55"
+        "download_time": "02-08-2025 12:58:28"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -28233,7 +28233,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-02",
         "quota_id": "Bvlgari\u2666TERMINAL 3\u2666Airside\u2666#02-45-02\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-02",
@@ -28262,8 +28262,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-02",
+        "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-02",
         "quota_id": "MCM\u2666TERMINAL 3\u2666Airside\u2666#02-25\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-02",
@@ -28287,6 +28292,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-02",
+        "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-02",
         "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
@@ -28302,8 +28312,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-02",
-        "quota_id": "Time Emporium\u2666TERMINAL 3\u2666Airside\u2666#02-24\u2666LX\u2666Min8",
+        "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-02",
+        "quota_id": "Time Emporium\u2666TERMINAL 3\u2666Airside\u2666#02-24\u2666LX\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-02",
