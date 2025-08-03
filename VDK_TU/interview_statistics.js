@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-08-2025 13:31:18"
+        "download_time": "03-08-2025 13:59:53"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8596,13 +8596,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-03",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL HVIDOVRE",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-03",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "H\u00d8RUPHAV HAVN",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-08-03",
@@ -8614,13 +8614,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-03",
         "InterviewerID": "45 - Else B.",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-03",
         "InterviewerID": "56 - Peter H.",
         "Q0B": "KORS\u00d8R HAVN",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-03",
@@ -8632,7 +8632,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-03",
         "InterviewerID": "58 - Mie",
         "Q0B": "JUELSMINDE HAVN OG MARINA",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-03",
@@ -8644,7 +8644,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-03",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 7
+        "completes": 8
     }
 ]    
 
