@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "03-08-2025 10:00:54"
+        "download_time": "03-08-2025 10:34:42"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8596,19 +8596,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-03",
         "InterviewerID": "45 - Else B.",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-03",
         "InterviewerID": "61 - Asger",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-08-03",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "S\u00c6BY HAVN",
-        "completes": 1
+        "completes": 3
     }
 ]    
 
