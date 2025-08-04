@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "04-08-2025 09:31:16"
+        "download_time": "04-08-2025 10:01:32"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8650,13 +8650,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-04",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "R\u00d8DVIG FERIEBY",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-04",
         "InterviewerID": "56 - Peter H.",
         "Q0B": "DANHOSTEL ROSKILDE",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-08-04",
+        "InterviewerID": "58 - Mie",
+        "Q0B": "THE NOTE (SCANDIC JACOB GADE)",
+        "completes": 2
     }
 ]    
 
