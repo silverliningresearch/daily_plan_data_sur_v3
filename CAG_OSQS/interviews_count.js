@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "04-08-2025 19:57:32"
+        "download_time": "04-08-2025 20:33:20"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -28553,7 +28553,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-04",
         "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-04",
@@ -28628,7 +28628,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-04",
         "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-08-04",
@@ -28658,7 +28658,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-04",
         "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-04",
@@ -28668,7 +28668,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-04",
         "quota_id": "Tory Burch\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-04",
