@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "05-08-2025 08:57:45"
+        "download_time": "05-08-2025 09:37:10"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -28692,6 +28692,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-05",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-08-05",
         "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15",
         "Number of interviews": 4
     },
@@ -28713,12 +28718,27 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-05",
         "quota_id": "Premises G (Jewel) - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Landside\u2666#01-302\u2666BS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-05",
+        "quota_id": "Prosegur T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-05",
+        "quota_id": "SIXT RENT A CAR\u2666TERMINAL 1\u2666Landside\u2666#01-K5\u2666LS\u2666Min5",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-05",
         "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-05",
+        "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-05",
