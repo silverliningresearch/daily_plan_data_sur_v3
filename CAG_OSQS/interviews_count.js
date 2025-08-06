@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "06-08-2025 11:27:16"
+        "download_time": "06-08-2025 11:57:15"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -28932,6 +28932,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-06",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-06",
         "quota_id": "Guardian (Premises A) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-155\u2666PH\u2666Min8",
         "Number of interviews": 4
     },
@@ -28957,6 +28962,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-06",
+        "quota_id": "Prosegur T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-06",
         "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-152 (#026-094)\u2666MP\u2666Min8",
         "Number of interviews": 2
     },
@@ -28974,6 +28984,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-06",
         "quota_id": "Travelex T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-08-06",
+        "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-06",
