@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "06-08-2025 08:58:09"
+        "download_time": "06-08-2025 09:40:36"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -28907,17 +28907,47 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-06",
+        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-06",
         "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-06",
-        "quota_id": "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC\u2666Min15",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-06",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-06",
+        "quota_id": "Guardian (Premises A) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-155\u2666PH\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-06",
+        "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-06",
+        "quota_id": "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-06",
         "quota_id": "Prada\u2666TERMINAL 1\u2666Airside\u2666#02-12A\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-06",
+        "quota_id": "SIXT RENT A CAR\u2666TERMINAL 1\u2666Landside\u2666#01-K5\u2666LS\u2666Min5",
         "Number of interviews": 1
     }
 ]    
