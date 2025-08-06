@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "06-08-2025 13:57:26"
+        "download_time": "06-08-2025 14:29:35"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -28908,7 +28908,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-06",
@@ -28918,12 +28918,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-06",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-06",
@@ -28943,7 +28948,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-06",
@@ -28957,8 +28962,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-06",
+        "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-06",
         "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-06",
@@ -28968,7 +28978,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-06",
@@ -29003,7 +29013,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-06",
@@ -29013,7 +29023,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-06",
@@ -29038,7 +29048,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-06",
@@ -29053,7 +29063,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "Swensen\u2019s Unlimited\u2666TERMINAL 2\u2666Landside\u2666#01-03\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-06",
@@ -29068,7 +29078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-06",
         "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-08-06",
