@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "07-08-2025 12:31:01"
+        "download_time": "07-08-2025 12:57:47"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -29128,22 +29128,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Bvlgari\u2666TERMINAL 2\u2666Airside\u2666#02-221\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Charles & Keith\u2666TERMINAL 4\u2666Airside\u2666#02-30\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Ferragamo\u2666TERMINAL 2\u2666Airside\u2666#02-222 (#026-078E)\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-07",
@@ -29162,8 +29162,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-07",
+        "quota_id": "Gucci\u2666TERMINAL 2\u2666Airside\u2666#02-223\u2666LX\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-07",
         "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-07",
@@ -29208,12 +29213,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "TWG Tea Boutique\u2666TERMINAL 4\u2666Airside\u2666#02-29\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-07",
