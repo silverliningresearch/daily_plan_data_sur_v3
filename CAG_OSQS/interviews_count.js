@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "07-08-2025 20:01:34"
+        "download_time": "07-08-2025 20:32:44"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -29138,7 +29138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-07",
@@ -29233,7 +29233,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Marc Jacobs\u2666TERMINAL 2\u2666Airside\u2666#02-227\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-07",
@@ -29243,7 +29243,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 13
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2025-08-07",
@@ -29258,7 +29258,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#02-225-02\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-07",
@@ -29303,7 +29303,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Tod's\u2666TERMINAL 2\u2666Airside\u2666#02-225-01\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-07",
@@ -29313,7 +29313,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-07",
         "quota_id": "Zegna\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-07",
