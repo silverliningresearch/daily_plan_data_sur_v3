@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "07-08-2025 09:01:30"
+        "download_time": "07-08-2025 09:33:49"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -8818,19 +8818,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-07",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "DANHOSTEL KRAGSBJERGG\u00c5RD",
-        "completes": 1
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-07",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 2
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-08-07",
+        "InterviewerID": "39 - Kristian L",
+        "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-08-07",
         "InterviewerID": "56 - Peter H.",
         "Q0B": "DANHOSTEL ROSKILDE",
-        "completes": 2
+        "completes": 5
     }
 ]    
 
