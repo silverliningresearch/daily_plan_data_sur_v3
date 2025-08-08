@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "08-08-2025 11:57:41"
+        "download_time": "08-08-2025 12:35:16"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -29322,8 +29322,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-08",
-        "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-08",
+        "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-08",
@@ -29338,7 +29343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-08",
         "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K7\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-08",
@@ -29347,8 +29352,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-08",
+        "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-08",
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
     }
 ]    
 
