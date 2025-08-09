@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "09-08-2025 11:59:30"
+        "download_time": "09-08-2025 12:31:46"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -29482,6 +29482,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-09",
+        "quota_id": "Animal Kaiser+\u2666TERMINAL 3\u2666Landside\u2666#B2-56\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-09",
         "quota_id": "BAKERY CUISINE\u2666TERMINAL 4\u2666Landside\u2666#02-11\u2666LS\u2666Min8",
         "Number of interviews": 7
     },
@@ -29493,7 +29498,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-09",
         "quota_id": "Choco Express\u2666TERMINAL 4\u2666Landside\u2666#02-10\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-08-09",
+        "quota_id": "EU YAN SANG\u2666TERMINAL 3\u2666Landside\u2666#B2-55\u2666LS\u2666Min8",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-09",
@@ -29522,7 +29532,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-09",
+        "quota_id": "Tech House\u2666TERMINAL 3\u2666Landside\u2666#B2-K3\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-09",
         "quota_id": "The Digital Gadgets\u2666TERMINAL 4\u2666Landside\u2666#02-08\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-09",
+        "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
     {
