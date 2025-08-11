@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-08-2025 11:55:14"
+        "download_time": "11-08-2025 12:31:21"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9038,6 +9038,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-11",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "MARIELYST / B\u00d8T\u00d8 STRAND (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-11",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "BABETTE GULDSMEDEN",
         "completes": 4
@@ -9046,19 +9052,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-11",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP COPENHAGEN CARSTEN NIEBUHRS GADE",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-08-11",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HEJLSMINDE (FERIEHUS)",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-08-11",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "71 NYHAVN HOTEL",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-08-11",
@@ -9076,7 +9082,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-11",
         "InterviewerID": "8 - Sofie H.",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
