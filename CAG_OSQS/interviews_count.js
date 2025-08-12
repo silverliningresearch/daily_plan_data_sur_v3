@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "12-08-2025 16:55:53"
+        "download_time": "12-08-2025 17:24:42"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -29853,7 +29853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-12",
         "quota_id": "Hard Rock Cafe\u2666TERMINAL 2\u2666Airside\u2666#02-177\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-12",
@@ -29863,6 +29863,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-12",
         "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-08-12",
+        "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
         "Number of interviews": 1
     },
     {
@@ -29903,7 +29908,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-12",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-08-12",
@@ -29953,7 +29958,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-12",
         "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-12",
