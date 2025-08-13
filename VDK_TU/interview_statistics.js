@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "13-08-2025 11:56:21"
+        "download_time": "13-08-2025 12:30:21"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9178,7 +9178,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-13",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-13",
@@ -9190,13 +9190,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-13",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "LALANDIA BILLUND A/S",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-13",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-08-13",
@@ -9208,7 +9208,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-13",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "FAABORG  CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-13",
@@ -9226,7 +9226,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-13",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-13",
