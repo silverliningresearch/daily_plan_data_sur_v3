@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "13-08-2025 19:24:17"
+        "download_time": "13-08-2025 19:54:01"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -30037,6 +30037,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-13",
+        "quota_id": "Bacha Coffee (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-52\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-13",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4
     },
@@ -30073,7 +30078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-13",
         "quota_id": "Fragrance Bak Kwa\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-13",
@@ -30092,8 +30097,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-13",
+        "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-13",
         "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-13",
@@ -30118,7 +30128,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-13",
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-13",
@@ -30128,7 +30138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-13",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
-        "Number of interviews": 5
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-08-13",
