@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "13-08-2025 13:23:55"
+        "download_time": "13-08-2025 13:53:57"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -30042,6 +30042,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-13",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-13",
         "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -30063,12 +30068,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-13",
         "quota_id": "Ray-Ban\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-13",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-08-13",
+        "quota_id": "T1 iSC Departure counter\u2666TERMINAL 1\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-13",
@@ -30084,6 +30094,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-13",
         "quota_id": "The Hainan Story Coffee & Toast\u2666TERMINAL 2\u2666Airside\u2666#02-K11\u2666FBA\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-13",
+        "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-13",
