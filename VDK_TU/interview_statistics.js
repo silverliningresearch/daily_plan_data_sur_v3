@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-08-2025 14:31:11"
+        "download_time": "14-08-2025 14:58:33"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9262,7 +9262,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MARIELYST / B\u00d8T\u00d8 STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9274,7 +9274,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9292,13 +9292,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "LALANDIA S\u00d8NDERVIG",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-08-14",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9326,9 +9326,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-14",
+        "InterviewerID": "44 - Nanna-Liv",
+        "Q0B": "GRIFFEN SPAHOTEL",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-14",
         "InterviewerID": "45 - Else B.",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9352,7 +9358,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "60 - Ole",
         "Q0B": "HJARB\u00c6K CAMPING",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-14",
