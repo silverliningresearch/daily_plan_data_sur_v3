@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "14-08-2025 12:26:12"
+        "download_time": "14-08-2025 12:55:29"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -30227,6 +30227,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-14",
+        "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-14",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min8",
         "Number of interviews": 2
     },
@@ -30242,7 +30247,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-14",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-14",
+        "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666PC\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-14",
         "quota_id": "T1 iSC Departure counter\u2666TERMINAL 1\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-14",
+        "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX\u2666Min8",
         "Number of interviews": 1
     }
 ]    
