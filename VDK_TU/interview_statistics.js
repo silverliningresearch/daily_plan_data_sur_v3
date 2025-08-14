@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-08-2025 12:30:31"
+        "download_time": "14-08-2025 12:58:08"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9262,13 +9262,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MARIELYST FAMILIECAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-14",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9286,7 +9286,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "LALANDIA S\u00d8NDERVIG",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9298,7 +9298,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9316,7 +9316,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "45 - Else B.",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9328,7 +9328,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "SORTHAT-MULEBY (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9340,7 +9340,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN STRAND (FERIEHUS)",
-        "completes": 7
+        "completes": 8
     }
 ]    
 
