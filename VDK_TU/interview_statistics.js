@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-08-2025 10:30:30"
+        "download_time": "14-08-2025 10:58:58"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9248,6 +9248,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-14",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "VEJERS STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-14",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC HOTEL HVIDOVRE",
         "completes": 2
@@ -9256,7 +9262,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 7
+        "completes": 8
+    },
+    {
+        "InterviewDate": "2025-08-14",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "LALANDIA S\u00d8NDERVIG",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9268,7 +9280,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "39 - Kristian L",
         "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9280,7 +9292,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9290,9 +9302,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-14",
+        "InterviewerID": "47 - Fie L.",
+        "Q0B": "SORTHAT-MULEBY (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     }
 ]    
 
