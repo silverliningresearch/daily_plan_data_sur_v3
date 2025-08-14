@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-08-2025 11:25:34"
+        "download_time": "14-08-2025 11:55:59"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9249,7 +9249,19 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-08-14",
         "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "BL\u00c5VAND (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-14",
+        "InterviewerID": "19 - Heinrich P.",
         "Q0B": "VEJERS STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-14",
+        "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "MARIELYST FAMILIECAMPING",
         "completes": 1
     },
     {
@@ -9262,19 +9274,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 9
+        "completes": 10
     },
     {
         "InterviewDate": "2025-08-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "LALANDIA S\u00d8NDERVIG",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-14",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HOTEL SLEEP2NIGHT",
-        "completes": 9
+        "completes": 10
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9292,13 +9304,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-08-14",
         "InterviewerID": "45 - Else B.",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9322,7 +9334,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 6
     }
 ]    
 
