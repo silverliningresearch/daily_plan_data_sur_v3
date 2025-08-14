@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-08-2025 11:55:59"
+        "download_time": "14-08-2025 12:30:31"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9262,6 +9262,12 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MARIELYST FAMILIECAMPING",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-14",
+        "InterviewerID": "24 - Kasper R.",
+        "Q0B": "SCANDIC FALKONER",
         "completes": 1
     },
     {
@@ -9274,13 +9280,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 10
+        "completes": 12
     },
     {
         "InterviewDate": "2025-08-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "LALANDIA S\u00d8NDERVIG",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9310,7 +9316,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "45 - Else B.",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9328,13 +9334,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "60 - Ole",
         "Q0B": "HJARB\u00c6K CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN STRAND (FERIEHUS)",
-        "completes": 6
+        "completes": 7
     }
 ]    
 
