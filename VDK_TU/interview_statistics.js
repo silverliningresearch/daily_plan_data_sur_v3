@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-08-2025 12:58:08"
+        "download_time": "14-08-2025 13:26:04"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9286,7 +9286,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "LALANDIA S\u00d8NDERVIG",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9310,7 +9310,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "40 - Iman",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-08-14",
@@ -9340,7 +9340,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN STRAND (FERIEHUS)",
-        "completes": 8
+        "completes": 9
     }
 ]    
 
