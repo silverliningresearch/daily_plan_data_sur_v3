@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-08-2025 09:57:21"
+        "download_time": "15-08-2025 10:31:31"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9380,15 +9380,27 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-15",
+        "InterviewerID": "17 - Naja H.",
+        "Q0B": "KLINTHOLM HAVN",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-15",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "ANDERSEN HOTEL",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-08-15",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "H\u00d8RUPHAV HAVN",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-15",
@@ -9400,7 +9412,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "HOTEL RANDERS",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-15",
@@ -9424,7 +9436,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC THE REEF",
-        "completes": 1
+        "completes": 4
     }
 ]    
 
