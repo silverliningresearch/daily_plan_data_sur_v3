@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-08-2025 13:27:39"
+        "download_time": "15-08-2025 13:55:59"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9394,18 +9394,24 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "H\u00d8RUPHAV HAVN",
-        "completes": 11
-    },
-    {
-        "InterviewDate": "2025-08-15",
-        "InterviewerID": "34 - Annette B.",
-        "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
         "completes": 14
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "34 - Annette B.",
+        "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
+        "completes": 16
+    },
+    {
+        "InterviewDate": "2025-08-15",
+        "InterviewerID": "34 - Annette B.",
         "Q0B": "HELSING\u00d8R NORDHAVN",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-15",
+        "InterviewerID": "34 - Annette B.",
+        "Q0B": "HOTEL SLEEP2NIGHT",
         "completes": 1
     },
     {
@@ -9430,13 +9436,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "TRUUST (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "LYNGHOLT FAMILIECAMPING",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-08-15",
