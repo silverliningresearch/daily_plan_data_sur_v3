@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "15-08-2025 19:54:19"
+        "download_time": "15-08-2025 20:27:36"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -30377,6 +30377,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-15",
+        "quota_id": "Charles & Keith\u2666TERMINAL 1\u2666Airside\u2666#02-51\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-15",
         "quota_id": "Charles & Keith\u2666TERMINAL 3\u2666Airside\u2666#02-53\u2666MP\u2666Min8",
         "Number of interviews": 5
     },
@@ -30399,6 +30404,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-15",
         "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-15",
+        "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD\u2666Min8",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-15",
@@ -30438,7 +30448,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-15",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A1)\u2666TERMINAL 4\u2666Airside\u2666#02-35 (beside Coffee Bean)\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-15",
@@ -30498,7 +30508,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-15",
         "quota_id": "T4 iSC Departure counter\u2666TERMINAL 4\u2666Airside\u2666NA\u2666PS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-15",
@@ -30514,6 +30524,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-15",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-15",
+        "quota_id": "Tip Top Curry Puff\u2666TERMINAL 1\u2666Airside\u2666#02-K11N\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-15",
