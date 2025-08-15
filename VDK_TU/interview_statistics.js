@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-08-2025 10:31:31"
+        "download_time": "15-08-2025 10:57:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9382,31 +9382,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "KLINTHOLM HAVN",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "ANDERSEN HOTEL",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "H\u00d8RUPHAV HAVN",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "35 - Morten R",
         "Q0B": "KERTEMINDE CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-15",
@@ -9422,6 +9422,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-15",
+        "InterviewerID": "47 - Fie L.",
+        "Q0B": "LYNGHOLT FAMILIECAMPING",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-15",
         "InterviewerID": "56 - Peter H.",
         "Q0B": "DANHOSTEL ROSKILDE",
         "completes": 5
@@ -9430,7 +9436,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "61 - Asger",
         "Q0B": "COMWELL AARHUS",
-        "completes": 5
+        "completes": 7
+    },
+    {
+        "InterviewDate": "2025-08-15",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "HOTEL JUTLANDIA",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-08-15",
