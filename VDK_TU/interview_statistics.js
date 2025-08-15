@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-08-2025 11:56:48"
+        "download_time": "15-08-2025 12:32:36"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9382,13 +9382,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "KLINTHOLM HAVN",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "ANDERSEN HOTEL",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-08-15",
@@ -9400,13 +9400,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 11
+        "completes": 12
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "35 - Morten R",
         "Q0B": "KERTEMINDE CAMPING",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-15",
@@ -9418,6 +9418,12 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "KYSTHOTELLET DJURSLAND",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-15",
+        "InterviewerID": "46 - Louise F.",
+        "Q0B": "TRUUST (FERIEHUS)",
         "completes": 1
     },
     {
@@ -9436,13 +9442,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "60 - Ole",
         "Q0B": "\u00d8STER HURUP (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-15",
         "InterviewerID": "61 - Asger",
         "Q0B": "COMWELL AARHUS",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-08-15",
@@ -9454,7 +9460,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-15",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC THE REEF",
-        "completes": 6
+        "completes": 7
     }
 ]    
 
