@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "18-08-2025 10:56:31"
+        "download_time": "18-08-2025 11:25:49"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9598,7 +9598,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-18",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SKYTTEHUSETS OUTDOORCAMP",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-18",
@@ -9610,19 +9610,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-18",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 8
+        "completes": 11
+    },
+    {
+        "InterviewDate": "2025-08-18",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "S\u00d8NDERHO (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-08-18",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 13
+        "completes": 14
     },
     {
         "InterviewDate": "2025-08-18",
         "InterviewerID": "40 - Iman",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-18",
@@ -9634,13 +9640,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-18",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "FJELLERUP STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-18",
         "InterviewerID": "58 - Mie",
         "Q0B": "STENSAGER CAMPING",
-        "completes": 2
+        "completes": 3
     }
 ]    
 
