@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-08-2025 14:28:20"
+        "download_time": "19-08-2025 14:55:13"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -30952,6 +30952,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-19",
+        "quota_id": "Balenciaga\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-19",
         "quota_id": "Cartier\u2666TERMINAL 3\u2666Airside\u2666#02-45-01\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -30968,7 +30973,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-19",
@@ -30984,6 +30989,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-19",
         "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-19",
+        "quota_id": "Gucci\u2666TERMINAL 1\u2666Airside\u2666#02-79\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31018,7 +31028,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31037,7 +31047,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-19",
+        "quota_id": "Qeelin\u2666TERMINAL 1\u2666Airside\u2666#02-78\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-19",
         "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-19",
+        "quota_id": "Saint Laurent\u2666TERMINAL 1\u2666Airside\u2666#02-82\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
