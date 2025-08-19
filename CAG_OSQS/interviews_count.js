@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-08-2025 21:24:36"
+        "download_time": "19-08-2025 21:54:23"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31052,7 +31052,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-19",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K09\u2666FBA\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-19",
         "quota_id": "Hugo Boss\u2666TERMINAL 1\u2666Airside\u2666#02-76\u2666LX\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-08-19",
+        "quota_id": "Ippudo Express\u2666TERMINAL 1\u2666Airside\u2666#02-K08\u2666FBA\u2666Min8",
         "Number of interviews": 3
     },
     {
@@ -31124,6 +31134,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-19",
         "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-08-19",
+        "quota_id": "Pontian Wanton Noodle\u2666TERMINAL 1\u2666Airside\u2666#02-K10N\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31204,6 +31219,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-19",
         "quota_id": "Times Travel\u2666TERMINAL 1\u2666Airside\u2666#02-30A\u2666CT\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-19",
+        "quota_id": "Tip Top Curry Puff\u2666TERMINAL 1\u2666Airside\u2666#02-K11N\u2666FBA\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-19",
