@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-08-2025 19:25:07"
+        "download_time": "19-08-2025 19:54:09"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31018,7 +31018,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31048,7 +31048,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31088,7 +31088,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31163,7 +31163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31208,7 +31208,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "WH Smith - Premises B (Air) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-41C\u2666OW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-19",
