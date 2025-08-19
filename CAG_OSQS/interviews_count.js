@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "19-08-2025 18:55:07"
+        "download_time": "19-08-2025 19:25:07"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -30953,7 +30953,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31008,7 +31008,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666JW\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31018,7 +31018,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31032,6 +31032,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-19",
+        "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-08-19",
         "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH\u2666Min8",
         "Number of interviews": 8
     },
@@ -31042,13 +31047,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-19",
+        "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-19",
         "quota_id": "Hugo Boss\u2666TERMINAL 1\u2666Airside\u2666#02-76\u2666LX\u2666Min8",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "LACOSTE\u2666TERMINAL 1\u2666Airside\u2666#02-30F\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31068,12 +31078,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-08-19",
+        "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31093,7 +31108,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-19",
@@ -31147,6 +31162,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-19",
+        "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-19",
         "quota_id": "Sprint-Cass (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-61\u2666EL\u2666Min8",
         "Number of interviews": 4
     },
@@ -31158,7 +31178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-19",
         "quota_id": "Swarovski \u2666TERMINAL 1\u2666Airside\u2666#02-31N\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-19",
