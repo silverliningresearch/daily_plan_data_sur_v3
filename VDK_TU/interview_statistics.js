@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "20-08-2025 10:33:49"
+        "download_time": "20-08-2025 10:56:34"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9742,13 +9742,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-20",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "R\u00d8DVIG FERIEBY",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-20",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-20",
+        "InterviewerID": "2 - Anette N.",
+        "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-08-20",
@@ -9760,19 +9766,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-20",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HEJLSMINDE (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-20",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HVIDE SANDE STRAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-08-20",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "GO HOTELS COPENHAGEN APS",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-20",
         "InterviewerID": "61 - Asger",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-08-20",
