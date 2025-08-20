@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "20-08-2025 18:27:18"
+        "download_time": "20-08-2025 18:54:53"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31293,7 +31293,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-20",
         "quota_id": "Discover Singapore (Premises A) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-70\u2666SV\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-20",
@@ -31313,6 +31313,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-20",
         "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-20",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K09\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -31342,13 +31347,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-20",
+        "quota_id": "Mango Tree and Heineken World Bar\u2666TERMINAL 1\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-20",
+        "quota_id": "Marche\u2666TERMINAL 1\u2666Airside\u2666#02-40N\u2666FBA\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-20",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-20",
         "quota_id": "Pedro\u2666TERMINAL 1\u2666Airside\u2666#02-74\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-20",
@@ -31364,6 +31379,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-20",
         "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-08-20",
+        "quota_id": "Pontian Wanton Noodle\u2666TERMINAL 1\u2666Airside\u2666#02-K10N\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-20",
@@ -31463,7 +31483,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-20",
         "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666OW\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-20",
