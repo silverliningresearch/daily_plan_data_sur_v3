@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "21-08-2025 11:26:45"
+        "download_time": "21-08-2025 11:57:28"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9826,13 +9826,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-21",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-21",
+        "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "HENNE STRAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-08-21",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "IMPERIAL HOTEL",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-08-21",
@@ -9844,13 +9850,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-21",
         "InterviewerID": "47 - Fie L.",
         "Q0B": "LYNGHOLT FAMILIECAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-21",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "MARSTAL HAVN",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-21",
@@ -9868,7 +9874,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-21",
         "InterviewerID": "63 \u2013 L\u00e6rke P.",
         "Q0B": "JESPERHUS CAMPING",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-08-21",
+        "InterviewerID": "8 - Sofie H.",
+        "Q0B": "SCANDIC CPH STRANDPARK",
+        "completes": 1
     }
 ]    
 
