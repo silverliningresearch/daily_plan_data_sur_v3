@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "21-08-2025 13:56:02"
+        "download_time": "21-08-2025 14:27:48"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9832,7 +9832,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-21",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-08-21",
@@ -9844,7 +9844,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-21",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-21",
@@ -9856,7 +9856,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-21",
         "InterviewerID": "35 - Morten R",
         "Q0B": "KERTEMINDE CAMPING",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-08-21",
@@ -9868,7 +9868,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-21",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "MARSTAL HAVN",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-08-21",
@@ -9880,7 +9880,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-21",
         "InterviewerID": "62 - Mathias",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-21",
