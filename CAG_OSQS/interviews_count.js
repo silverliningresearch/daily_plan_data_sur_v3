@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "21-08-2025 13:54:17"
+        "download_time": "21-08-2025 14:27:20"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31507,6 +31507,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-21",
+        "quota_id": "By Invite Only Jewellery\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-21",
         "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -31533,7 +31538,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-21",
         "quota_id": "NUA\u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-21",
@@ -31544,6 +31549,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-21",
         "quota_id": "Pizza Hut\u2666TERMINAL 1\u2666Airside\u2666#03-K04\u2666FBA\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-21",
+        "quota_id": "Swarovski\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-21",
