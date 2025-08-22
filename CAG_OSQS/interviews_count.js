@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-08-2025 19:24:17"
+        "download_time": "22-08-2025 19:55:22"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31698,7 +31698,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31713,12 +31713,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Chengdu Bowl\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31778,7 +31778,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Korea Culture\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31862,6 +31862,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-22",
+        "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-08-22",
         "quota_id": "Roost\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
         "Number of interviews": 5
     },
@@ -31899,6 +31904,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-22",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "quota_id": "Texas Chicken and PastaMania\u2666TERMINAL 2\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-22",
