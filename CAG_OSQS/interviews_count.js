@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-08-2025 17:24:47"
+        "download_time": "22-08-2025 17:54:30"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31738,7 +31738,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Famous Amos\u2666TERMINAL 3\u2666Landside\u2666#02-97\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31754,6 +31754,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-22",
         "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096 (#02-160)\u2666MP\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "quota_id": "Harry's Bar\u2666TERMINAL 1\u2666Airside\u2666#02-65\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31778,7 +31783,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Kunthaville\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31788,7 +31793,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31863,7 +31868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Simply Toys\u2666TERMINAL 3\u2666Landside\u2666#02-95/96\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31909,6 +31914,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-22",
         "quota_id": "WH Smith - Premises J (Air)\u2666TERMINAL 4\u2666Airside\u2666#02-59\u2666OW\u2666Min8",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "quota_id": "World of Tiger Bar\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-22",

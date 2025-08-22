@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "22-08-2025 11:26:48"
+        "download_time": "22-08-2025 11:57:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9934,7 +9934,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-22",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-22",
@@ -9946,7 +9946,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-22",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "KONGSMARK R\u00d8M\u00d8 (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-22",
@@ -9976,13 +9976,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-22",
         "InterviewerID": "61 - Asger",
         "Q0B": "SCANDIC THE MAYOR",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-08-22",
         "InterviewerID": "63 \u2013 L\u00e6rke P.",
         "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
-        "completes": 3
+        "completes": 5
     }
 ]    
 
