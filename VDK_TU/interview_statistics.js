@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "22-08-2025 09:14:19"
+        "download_time": "22-08-2025 09:25:55"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9922,13 +9922,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-22",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 1
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-22",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
         "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "InterviewerID": "46 - Louise F.",
+        "Q0B": "MARIAGER CAMPING",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-08-22",
@@ -9940,7 +9946,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-22",
         "InterviewerID": "61 - Asger",
         "Q0B": "SCANDIC THE MAYOR",
-        "completes": 4
+        "completes": 5
     }
 ]    
 
