@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-08-2025 12:54:10"
+        "download_time": "22-08-2025 13:24:41"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31682,18 +31682,38 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-22",
+        "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-22",
         "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "CHOMEL\u2666TERMINAL 3\u2666Landside\u2666#02-84\u2666LS\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "quota_id": "Chengdu Bowl\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-22",
+        "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-22",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31708,7 +31728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31758,7 +31778,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31803,12 +31823,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31824,6 +31844,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-22",
         "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "quota_id": "iStudio\u2666TERMINAL 4\u2666Airside\u2666#02-52\u2666EL\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
