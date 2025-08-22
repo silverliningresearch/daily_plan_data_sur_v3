@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "22-08-2025 15:54:18"
+        "download_time": "22-08-2025 16:43:07"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31692,6 +31692,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-22",
+        "quota_id": "Burger King\u2666TERMINAL 1\u2666Airside\u2666#03-02\u2666FBA\u2666Min8",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-08-22",
         "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min8",
         "Number of interviews": 4
     },
@@ -31699,6 +31704,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-22",
         "quota_id": "CHOMEL\u2666TERMINAL 3\u2666Landside\u2666#02-84\u2666LS\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31718,7 +31728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "FILA\u2666TERMINAL 4\u2666Airside\u2666#02-53/54\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31728,7 +31738,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-22",
         "quota_id": "Famous Amos\u2666TERMINAL 3\u2666Landside\u2666#02-97\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-22",
@@ -31864,6 +31874,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-22",
         "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "quota_id": "Travelex T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-82\u2666MC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-22",

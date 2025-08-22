@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "22-08-2025 09:56:10"
+        "download_time": "22-08-2025 10:47:59"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9908,9 +9908,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-22",
+        "InterviewerID": "2 - Anette N.",
+        "Q0B": "HELSING\u00d8R NORDHAVN",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-22",
         "InterviewerID": "20 - Karina S.",
         "Q0B": "DANHOSTEL KRAGSBJERGG\u00c5RD",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-22",
@@ -9928,19 +9934,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-22",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 6
+        "completes": 10
     },
     {
         "InterviewDate": "2025-08-22",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-22",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "MARIAGER CAMPING",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-22",
@@ -9950,9 +9956,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-22",
+        "InterviewerID": "58 - Mie",
+        "Q0B": "HOTEL LEGOLAND",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-22",
         "InterviewerID": "61 - Asger",
         "Q0B": "SCANDIC THE MAYOR",
-        "completes": 6
+        "completes": 7
+    },
+    {
+        "InterviewDate": "2025-08-22",
+        "InterviewerID": "63 \u2013 L\u00e6rke P.",
+        "Q0B": "STRANDG\u00c5RDENS CAMPING, NR. VORUP\u00d8R",
+        "completes": 1
     }
 ]    
 
