@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "23-08-2025 13:57:44"
+        "download_time": "23-08-2025 14:34:03"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9993,6 +9993,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-08-23",
         "InterviewerID": "20 - Karina S.",
+        "Q0B": "VEJLBY FED STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-23",
+        "InterviewerID": "20 - Karina S.",
         "Q0B": "VEJLBY FED STRAND CAMPING",
         "completes": 5
     },
@@ -10024,7 +10030,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-23",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "BORK HAVN  (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-08-23",
