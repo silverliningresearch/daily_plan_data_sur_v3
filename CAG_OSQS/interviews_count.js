@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "23-08-2025 13:24:37"
+        "download_time": "23-08-2025 13:55:00"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31958,7 +31958,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-23",
@@ -31968,7 +31968,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-08-23",
@@ -31977,8 +31977,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-23",
+        "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-23",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 2\u2666Airside\u2666#02-227\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-23",
         "quota_id": "Oakley\u2666TERMINAL 2\u2666Airside\u2666#02-244\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-08-23",
@@ -31998,7 +32008,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-08-23",
@@ -32023,7 +32033,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     }
 ]    
 
