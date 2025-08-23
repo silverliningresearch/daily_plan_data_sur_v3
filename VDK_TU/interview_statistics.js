@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "23-08-2025 09:56:40"
+        "download_time": "23-08-2025 10:33:51"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -9992,33 +9992,39 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-08-23",
+        "InterviewerID": "20 - Karina S.",
+        "Q0B": "VEJLBY FED STRAND CAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-23",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MILLING HOTEL S\u00d8PARK MARIBO",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-23",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "H\u00d8RUPHAV HAVN",
-        "completes": 2
+        "completes": 7
     },
     {
         "InterviewDate": "2025-08-23",
         "InterviewerID": "35 - Morten R",
         "Q0B": "SVENDBORG LYSTB\u00c5DEHAVN",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-23",
         "InterviewerID": "61 - Asger",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-08-23",
         "InterviewerID": "62 - Mathias",
         "Q0B": "GREN\u00c5 MARINA",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
