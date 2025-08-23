@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "23-08-2025 19:24:15"
+        "download_time": "23-08-2025 19:55:18"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -31953,7 +31953,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "Adidas\u2666TERMINAL 4\u2666Airside\u2666#02-32\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-23",
@@ -31978,12 +31978,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
-        "Number of interviews": 14
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2025-08-23",
@@ -32028,7 +32028,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-23",
@@ -32038,7 +32038,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-23",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
-        "Number of interviews": 14
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2025-08-23",
