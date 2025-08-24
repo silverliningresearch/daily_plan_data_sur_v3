@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "24-08-2025 18:55:53"
+        "download_time": "24-08-2025 19:24:21"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -32093,7 +32093,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "4FINGERS CRISPY CHICKEN & MELTISE\u2666TERMINAL 3\u2666Landside\u2666#B2-02/02A\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-24",
@@ -32138,7 +32138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-24",
@@ -32148,7 +32148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-24",
@@ -32163,7 +32163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "Little Dino by Wan to Play\u2666TERMINAL 3\u2666Landside\u2666#B2-14/15/16/17/18\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-24",
