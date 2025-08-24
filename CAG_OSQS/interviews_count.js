@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "24-08-2025 17:54:28"
+        "download_time": "24-08-2025 18:27:16"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -32163,7 +32163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "Little Dino by Wan to Play\u2666TERMINAL 3\u2666Landside\u2666#B2-14/15/16/17/18\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2025-08-24",
@@ -32203,17 +32203,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 3\u2666Landside\u2666#02-90\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-24",
@@ -32228,7 +32228,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-24",
         "quota_id": "The Green Party\u2666TERMINAL 3\u2666Landside\u2666#B2-35/36\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     }
 ]    
 
