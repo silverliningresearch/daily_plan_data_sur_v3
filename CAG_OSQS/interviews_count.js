@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "25-08-2025 15:55:37"
+        "download_time": "25-08-2025 16:26:28"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -32243,7 +32243,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 3\u2666Landside\u2666#01-K20\u2666CR\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-25",
@@ -32263,7 +32263,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "HEAVENLY WANG\u2666TERMINAL 3\u2666Landside\u2666#01-25\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-08-25",
@@ -32308,7 +32308,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-25",
@@ -32323,7 +32323,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "PARIS BAGUETTE\u2666TERMINAL 3\u2666Landside\u2666#01-22\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-08-25",
@@ -32368,7 +32368,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-25",
@@ -32393,7 +32393,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "tealive\u2666TERMINAL 3\u2666Landside\u2666#01-23\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     }
 ]    
 
