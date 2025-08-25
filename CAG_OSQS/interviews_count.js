@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "25-08-2025 12:54:35"
+        "download_time": "25-08-2025 13:25:39"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -32233,7 +32233,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-25",
@@ -32258,12 +32258,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "Claypot Daddy\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-08-25",
         "quota_id": "HEAVENLY WANG\u2666TERMINAL 3\u2666Landside\u2666#01-25\u2666FBL\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-25",
+        "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-08-25",
+        "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-08-25",
@@ -32289,6 +32299,11 @@ let interview_statistics  = `[
         "InterviewDate": "2025-08-25",
         "quota_id": "Natureland Premium\u2666TERMINAL 2\u2666Airside\u2666#03-168\u2666OS\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-25",
+        "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-08-25",
