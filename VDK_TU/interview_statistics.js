@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "25-08-2025 10:31:11"
+        "download_time": "25-08-2025 11:00:02"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -10102,7 +10102,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-25",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 7
+        "completes": 8
     },
     {
         "InterviewDate": "2025-08-25",
@@ -10114,7 +10114,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-25",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "SKYTTEHUSETS OUTDOORCAMP",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-25",
@@ -10126,13 +10126,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-25",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "ANDERSEN HOTEL",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-08-25",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "STENSAGER CAMPING",
-        "completes": 1
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-08-25",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "BORK HAVN  (FERIEHUS)",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-25",
