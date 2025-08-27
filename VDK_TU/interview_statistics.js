@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "27-08-2025 10:57:55"
+        "download_time": "27-08-2025 11:26:29"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -10215,6 +10215,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-08-27",
         "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "BL\u00c5VAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-27",
+        "InterviewerID": "19 - Heinrich P.",
         "Q0B": "VEJERS STRAND (FERIEHUS)",
         "completes": 3
     },
@@ -10228,7 +10234,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-27",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-27",
@@ -10240,19 +10246,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-27",
         "InterviewerID": "62 - Mathias",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-27",
         "InterviewerID": "63 \u2013 L\u00e6rke P.",
         "Q0B": "JESPERHUS CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-27",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
