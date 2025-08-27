@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "27-08-2025 11:58:59"
+        "download_time": "27-08-2025 12:37:13"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -10210,19 +10210,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-27",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "R\u00d8DVIG FERIEBY",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-08-27",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BL\u00c5VAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-27",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "VEJERS STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-08-27",
@@ -10234,13 +10234,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-27",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-08-27",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "TRUUST (FERIEHUS)",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-08-27",
+        "InterviewerID": "55 \u2013 Birgitte E.",
+        "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-08-27",
@@ -10258,7 +10264,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-27",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
-        "completes": 7
+        "completes": 9
     }
 ]    
 
