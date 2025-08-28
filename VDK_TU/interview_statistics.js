@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "28-08-2025 08:34:44"
+        "download_time": "28-08-2025 09:01:00"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -10271,6 +10271,18 @@ let interview_statistics = `[
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
         "completes": 10
+    },
+    {
+        "InterviewDate": "2025-08-28",
+        "InterviewerID": "28 - Jeremy P.",
+        "Q0B": "FOUR POINTS FLEX COPENHAGEN AIRPORT",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-08-28",
+        "InterviewerID": "58 - Mie",
+        "Q0B": "HOTEL LEGOLAND",
+        "completes": 1
     }
 ]    
 
