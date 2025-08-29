@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "29-08-2025 10:57:33"
+        "download_time": "29-08-2025 11:28:08"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -10336,19 +10336,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-29",
         "InterviewerID": "15 - Bjarne J.",
         "Q0B": "HORSENS CITY CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-29",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 12
+        "completes": 13
     },
     {
         "InterviewDate": "2025-08-29",
         "InterviewerID": "35 - Morten R",
         "Q0B": "SVENDBORG SUND CAMPING",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-29",
@@ -10360,7 +10360,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-29",
         "InterviewerID": "58 - Mie",
         "Q0B": "JUELSMINDE HAVN OG MARINA",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-08-29",
@@ -10372,7 +10372,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-08-29",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC THE REEF",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
