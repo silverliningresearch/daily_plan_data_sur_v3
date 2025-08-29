@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-28",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
         "Number of interviews": 8,
-        "download_time": "29-08-2025 09:33:21"
+        "download_time": "29-08-2025 09:55:07"
     },
     {
         "InterviewDate": "2024-12-28",
@@ -32512,7 +32512,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2025-08-29",
+        "quota_id": "Oakley\u2666TERMINAL 2\u2666Airside\u2666#02-244\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-29",
         "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-29",
+        "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -32528,6 +32538,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-08-29",
         "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-08-29",
+        "quota_id": "adidas Originals\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP\u2666Min8",
         "Number of interviews": 1
     }
 ]    
