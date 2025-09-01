@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "01-09-2025 10:43:33"
+        "download_time": "01-09-2025 11:03:38"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -10484,21 +10484,39 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-09-01",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "HO BL\u00c5VAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-01",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HARBO\u00d8RE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-01",
         "InterviewerID": "40 - Iman",
         "Q0B": "FOUR POINTS FLEX COPENHAGEN ARENA",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-01",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "MARIAGER CAMPING",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-01",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
         "completes": 3
+    },
+    {
+        "InterviewDate": "2025-09-01",
+        "InterviewerID": "58 - Mie",
+        "Q0B": "JUELSMINDE HAVN OG MARINA",
+        "completes": 1
     }
 ]    
 
