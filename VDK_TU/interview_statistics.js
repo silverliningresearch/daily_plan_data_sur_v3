@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "12-09-2025 15:24:59"
+        "download_time": "12-09-2025 15:55:10"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11038,7 +11038,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-12",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MARIELYST / B\u00d8T\u00d8 STRAND (FERIEHUS)",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-09-12",
@@ -11056,7 +11056,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-12",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HVIDBJERG STRANDHOTEL (HVIDBJERG STRAND FERIEPARK)",
-        "completes": 19
+        "completes": 20
     },
     {
         "InterviewDate": "2025-09-12",
@@ -11075,6 +11075,12 @@ let interview_statistics = `[
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "FAABORG  CAMPING",
         "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-12",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-12",
@@ -11110,7 +11116,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-12",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-09-12",
