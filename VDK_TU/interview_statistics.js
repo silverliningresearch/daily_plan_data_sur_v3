@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "12-09-2025 11:26:16"
+        "download_time": "12-09-2025 11:54:44"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11038,25 +11038,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-12",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MARIELYST / B\u00d8T\u00d8 STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-12",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "FOUR POINTS FLEX LYNGBY",
-        "completes": 6
+        "completes": 9
     },
     {
         "InterviewDate": "2025-09-12",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "HVIDBJERG STRANDHOTEL (HVIDBJERG STRAND FERIEPARK)",
-        "completes": 4
+        "completes": 7
     },
     {
         "InterviewDate": "2025-09-12",
         "InterviewerID": "40 - Iman",
         "Q0B": "71 NYHAVN HOTEL",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-09-12",
@@ -11078,6 +11078,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-09-12",
+        "InterviewerID": "62 - Mathias",
+        "Q0B": "BLUSH\u00d8J CAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-12",
         "InterviewerID": "63 \u2013 L\u00e6rke P.",
         "Q0B": "SCANDIC REGINA HERNING",
         "completes": 6
@@ -11086,7 +11092,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-12",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "EBELTOFT STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-12",
+        "InterviewerID": "65 \u2013 Charlotte J.",
+        "Q0B": "KLITM\u00d8LLER STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-12",
