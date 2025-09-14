@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-09-2025 12:54:50"
+        "download_time": "14-09-2025 13:25:56"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11169,6 +11169,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-09-14",
         "InterviewerID": "21 - Vibeke L.",
+        "Q0B": "HUMMINGEN/KRAMNITZE (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-14",
+        "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MILLING HOTEL S\u00d8PARK MARIBO",
         "completes": 4
     },
@@ -11176,19 +11182,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-14",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "BL\u00c5VAND (FERIEHUS)",
-        "completes": 5
+        "completes": 8
     },
     {
         "InterviewDate": "2025-09-14",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "CITYCAMP ASSENS STRAND",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-09-14",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-14",
@@ -11200,7 +11206,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-14",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "GREN\u00c5 MARINA",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
