@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-09-2025 10:27:02"
+        "download_time": "15-09-2025 10:57:36"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11212,25 +11212,43 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-15",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FEDDET CAMPING",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-09-15",
+        "InterviewerID": "18 - Michael H.",
+        "Q0B": "TRUUST (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-09-15",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "RINDBY STRAND (FERIEHUS)",
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-15",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "HARBO\u00d8RE (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-09-15",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 8
+        "completes": 12
     },
     {
         "InterviewDate": "2025-09-15",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "FOUR POINTS FLEX COPENHAGEN AIRPORT",
         "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-15",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "RISTINGE STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-15",
@@ -11242,7 +11260,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-15",
         "InterviewerID": "63 \u2013 L\u00e6rke P.",
         "Q0B": "BAMSEBO CAMPING V. GUDEN\u00c5EN",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
