@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "16-09-2025 10:56:49"
+        "download_time": "16-09-2025 11:27:00"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11278,13 +11278,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-16",
         "InterviewerID": "13 - Gustav M",
         "Q0B": "HOTEL LEGOLAND",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-09-16",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 12
+        "completes": 13
     },
     {
         "InterviewDate": "2025-09-16",
@@ -11302,31 +11302,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-16",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "HOSTRUP STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-16",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "FOUR POINTS FLEX COPENHAGEN ARENA",
-        "completes": 13
+        "completes": 16
     },
     {
         "InterviewDate": "2025-09-16",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-16",
         "InterviewerID": "61 - Asger",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-09-16",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SKAGEN HOTEL",
-        "completes": 5
+        "completes": 7
     }
 ]    
 
