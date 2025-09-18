@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "18-09-2025 12:32:08"
+        "download_time": "18-09-2025 12:56:31"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11410,13 +11410,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-18",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "HENNE STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-18",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "HOUSTRUP (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-18",
@@ -11428,13 +11428,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-18",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC CPH STRANDPARK",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-09-18",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-09-18",
@@ -11446,7 +11446,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-18",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "URBAN HOUSE",
-        "completes": 18
+        "completes": 19
     },
     {
         "InterviewDate": "2025-09-18",
@@ -11458,7 +11458,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-18",
         "InterviewerID": "5 - Dan U.",
         "Q0B": "JUELSMINDE (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-09-18",
