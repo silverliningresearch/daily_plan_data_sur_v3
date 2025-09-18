@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "18-09-2025 09:56:05"
+        "download_time": "18-09-2025 10:28:33"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11404,13 +11404,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-18",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "FIRST CAMP FRIG\u00c5RD",
-        "completes": 2
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-18",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC CPH STRANDPARK",
         "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-18",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-18",
@@ -11422,19 +11428,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-18",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "URBAN HOUSE",
-        "completes": 8
+        "completes": 12
     },
     {
         "InterviewDate": "2025-09-18",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "RANDERS CITY CAMP",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-09-18",
         "InterviewerID": "63 \u2013 L\u00e6rke P.",
         "Q0B": "SCANDIC REGINA HERNING",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
