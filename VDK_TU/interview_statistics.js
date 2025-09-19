@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "19-09-2025 09:57:29"
+        "download_time": "19-09-2025 10:32:06"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11480,21 +11480,45 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-09-19",
+        "InterviewerID": "13 - Gustav M",
+        "Q0B": "HOTEL LEGOLAND",
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-09-19",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC SLUSEHOLMEN",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "InterviewerID": "27 - Niels K.",
+        "Q0B": "SALTUM STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-19",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "ABSALON CAMPING",
-        "completes": 1
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "HVIDBJERG STRANDHOTEL (HVIDBJERG STRAND FERIEPARK)",
+        "completes": 4
     },
     {
         "InterviewDate": "2025-09-19",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "IMPERIAL HOTEL",
-        "completes": 8
+        "completes": 11
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "InterviewerID": "63 \u2013 L\u00e6rke P.",
+        "Q0B": "HOSTRUP STRAND (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
