@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "23-09-2025 11:56:49"
+        "download_time": "23-09-2025 12:28:53"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11661,6 +11661,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-09-23",
         "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-09-23",
+        "InterviewerID": "19 - Heinrich P.",
         "Q0B": "BL\u00c5VAND (FERIEHUS)",
         "completes": 1
     },
@@ -11668,7 +11674,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "HENNE STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11686,7 +11692,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11698,7 +11704,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "35 - Morten R",
         "Q0B": "CITYCAMP ASSENS STRAND",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11723,6 +11729,12 @@ let interview_statistics = `[
         "InterviewerID": "61 - Asger",
         "Q0B": "SCANDIC THE MAYOR",
         "completes": 6
+    },
+    {
+        "InterviewDate": "2025-09-23",
+        "InterviewerID": "62 - Mathias",
+        "Q0B": "HANDRUP STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-23",
