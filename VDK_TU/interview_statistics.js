@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "23-09-2025 08:56:24"
+        "download_time": "23-09-2025 09:25:36"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11656,13 +11656,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 2
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-23",
+        "InterviewerID": "27 - Niels K.",
+        "Q0B": "BLOKHUS (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-23",
+        "InterviewerID": "28 - Jeremy P.",
+        "Q0B": "GO HOTEL HERLEV",
+        "completes": 3
     },
     {
         "InterviewDate": "2025-09-23",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 2
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11674,13 +11686,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "58 - Mie",
         "Q0B": "THE NOTE (SCANDIC JACOB GADE)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-23",
         "InterviewerID": "61 - Asger",
         "Q0B": "SCANDIC THE MAYOR",
         "completes": 3
+    },
+    {
+        "InterviewDate": "2025-09-23",
+        "InterviewerID": "67 - Palle J.",
+        "Q0B": "SCANDIC AALBORG CITY",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-23",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "STRANDHOTELLET BLOKHUS",
+        "completes": 1
     }
 ]    
 
