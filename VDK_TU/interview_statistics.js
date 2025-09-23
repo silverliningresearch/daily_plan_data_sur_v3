@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "23-09-2025 12:57:39"
+        "download_time": "23-09-2025 13:28:14"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11656,7 +11656,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "CROWNE PLAZA COPENHAGEN TOWERS",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11674,7 +11674,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "HENNE STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11686,7 +11686,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "BLOKHUS (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11698,7 +11698,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11716,6 +11716,12 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "DANLAND HOLIDAY CENTER - FAABORG",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-23",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
         "completes": 1
     },
     {
