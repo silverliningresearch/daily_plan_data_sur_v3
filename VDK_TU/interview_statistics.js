@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "23-09-2025 11:27:03"
+        "download_time": "23-09-2025 11:56:49"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11661,6 +11661,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-09-23",
         "InterviewerID": "19 - Heinrich P.",
+        "Q0B": "BL\u00c5VAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-23",
+        "InterviewerID": "19 - Heinrich P.",
         "Q0B": "HENNE STRAND (FERIEHUS)",
         "completes": 3
     },
@@ -11668,7 +11674,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "BLOKHUS (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11680,19 +11686,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-09-23",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 10
+        "completes": 11
     },
     {
         "InterviewDate": "2025-09-23",
         "InterviewerID": "35 - Morten R",
         "Q0B": "CITYCAMP ASSENS STRAND",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-23",
@@ -11710,13 +11716,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-23",
         "InterviewerID": "58 - Mie",
         "Q0B": "THE NOTE (SCANDIC JACOB GADE)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-23",
         "InterviewerID": "61 - Asger",
         "Q0B": "SCANDIC THE MAYOR",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-09-23",
