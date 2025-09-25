@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "25-09-2025 10:58:41"
+        "download_time": "25-09-2025 11:27:21"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11842,7 +11842,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-25",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-09-25",
@@ -11854,7 +11854,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-25",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 11
+        "completes": 12
     },
     {
         "InterviewDate": "2025-09-25",
@@ -11866,19 +11866,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-25",
         "InterviewerID": "5 - Dan U.",
         "Q0B": "HORSENS CITY CAMPING",
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-09-25",
+        "InterviewerID": "62 - Mathias",
+        "Q0B": "EBELTOFT STRAND (FERIEHUS)",
         "completes": 1
     },
     {
         "InterviewDate": "2025-09-25",
         "InterviewerID": "63 \u2013 L\u00e6rke P.",
         "Q0B": "LANDAL R\u00d8NBJERG",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-25",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "EBELTOFT STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
