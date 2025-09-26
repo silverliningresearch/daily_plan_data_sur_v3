@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "26-09-2025 09:57:38"
+        "download_time": "26-09-2025 10:28:59"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11908,7 +11908,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-26",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "GAMMELBRO CAMPING",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-09-26",
@@ -11920,25 +11920,37 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-26",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 10
+        "completes": 12
+    },
+    {
+        "InterviewDate": "2025-09-26",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "OASEN R\u00d8M\u00d8",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-26",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 15
+        "completes": 17
     },
     {
         "InterviewDate": "2025-09-26",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "HOTEL RANDERS",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-26",
+        "InterviewerID": "58 - Mie",
+        "Q0B": "VEJLBY FED STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-26",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "HOTEL PH\u00d8NIX HJ\u00d8RRING",
-        "completes": 3
+        "completes": 5
     }
 ]    
 
