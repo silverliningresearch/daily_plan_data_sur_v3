@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "29-09-2025 09:56:48"
+        "download_time": "29-09-2025 10:31:45"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12056,9 +12056,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-09-29",
+        "InterviewerID": "13 - Gustav M",
+        "Q0B": "HOTEL LEGOLAND",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-09-29",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FEDDET CAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-09-29",
@@ -12070,19 +12076,37 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-29",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 6
+        "completes": 9
+    },
+    {
+        "InterviewDate": "2025-09-29",
+        "InterviewerID": "40 - Iman",
+        "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-29",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "FIRST CAMP AARHUS",
-        "completes": 2
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-09-29",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "HORNE SOMMERLAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-29",
+        "InterviewerID": "58 - Mie",
+        "Q0B": "VEJLBY FED STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-29",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
