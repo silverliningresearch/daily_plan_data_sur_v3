@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "29-09-2025 10:31:45"
+        "download_time": "29-09-2025 10:59:03"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12058,7 +12058,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-29",
         "InterviewerID": "13 - Gustav M",
         "Q0B": "HOTEL LEGOLAND",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-09-29",
@@ -12074,15 +12074,33 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-09-29",
+        "InterviewerID": "28 - Jeremy P.",
+        "Q0B": "ROSKILDE CAMPING",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-29",
+        "InterviewerID": "33 - Udo Q.",
+        "Q0B": "BJERREGAARD STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-09-29",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "ABSALON HOTEL",
-        "completes": 9
+        "completes": 11
+    },
+    {
+        "InterviewDate": "2025-09-29",
+        "InterviewerID": "35 - Morten R",
+        "Q0B": "RISTINGE STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-29",
         "InterviewerID": "40 - Iman",
         "Q0B": "HELSING\u00d8R CAMPING GR\u00d8NNEHAVE",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-09-29",
@@ -12106,7 +12124,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-29",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 4
+        "completes": 6
     }
 ]    
 
