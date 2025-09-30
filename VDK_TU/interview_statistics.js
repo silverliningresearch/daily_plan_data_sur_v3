@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "30-09-2025 10:57:47"
+        "download_time": "30-09-2025 11:30:22"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12154,13 +12154,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-30",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 9
+        "completes": 11
     },
     {
         "InterviewDate": "2025-09-30",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "VEJERS STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-30",
@@ -12184,7 +12184,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-30",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "BABETTE GULDSMEDEN",
-        "completes": 8
+        "completes": 9
+    },
+    {
+        "InterviewDate": "2025-09-30",
+        "InterviewerID": "35 - Morten R",
+        "Q0B": "FIRST CAMP HASMARK STRAND",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-30",
@@ -12196,7 +12202,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-30",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "CITYCAMP ASSENS STRAND",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-09-30",
@@ -12209,6 +12215,12 @@ let interview_statistics = `[
         "InterviewerID": "61 - Asger",
         "Q0B": "WAKEUP AARHUS",
         "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-30",
+        "InterviewerID": "63 \u2013 L\u00e6rke P.",
+        "Q0B": "\u00d8STER HURUP (FERIEHUS)",
+        "completes": 1
     }
 ]    
 
