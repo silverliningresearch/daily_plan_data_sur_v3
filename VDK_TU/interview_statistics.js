@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "30-09-2025 09:00:04"
+        "download_time": "30-09-2025 09:27:13"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12154,7 +12154,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-30",
         "InterviewerID": "14 - Malte S.",
         "Q0B": "SCANDIC HOTEL COPENHAGEN",
-        "completes": 4
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-09-30",
+        "InterviewerID": "28 - Jeremy P.",
+        "Q0B": "FOUR POINTS FLEX PRINDSEN ROSKILDE",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-30",
@@ -12166,19 +12172,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-09-30",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "BABETTE GULDSMEDEN",
-        "completes": 2
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-09-30",
+        "InterviewerID": "40 - Iman",
+        "Q0B": "ANDERSEN HOTEL",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-09-30",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "KONVENTUM",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-09-30",
         "InterviewerID": "61 - Asger",
         "Q0B": "WAKEUP AARHUS",
-        "completes": 3
+        "completes": 4
     }
 ]    
 
