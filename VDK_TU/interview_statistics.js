@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "02-10-2025 11:27:52"
+        "download_time": "02-10-2025 12:01:14"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -11829,26 +11829,8 @@ let interview_statistics = `[
     {
         "InterviewDate": "2025-09-25",
         "InterviewerID": "28 - Jeremy P.",
-        "Q0B": "ABSALON HOTEL",
-        "completes": 2
-    },
-    {
-        "InterviewDate": "2025-09-25",
-        "InterviewerID": "28 - Jeremy P.",
-        "Q0B": "DGI-BYENS HOTEL",
-        "completes": 2
-    },
-    {
-        "InterviewDate": "2025-09-25",
-        "InterviewerID": "28 - Jeremy P.",
-        "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 4
-    },
-    {
-        "InterviewDate": "2025-09-25",
-        "InterviewerID": "28 - Jeremy P.",
-        "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 3
+        "Q0B": "Unspecified hotel",
+        "completes": 11
     },
     {
         "InterviewDate": "2025-09-25",
@@ -12292,7 +12274,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-02",
         "InterviewerID": "27 - Niels K.",
         "Q0B": "SALTUM STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-10-02",
@@ -12328,13 +12310,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-02",
         "InterviewerID": "46 - Louise F.",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 2
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-10-02",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "RISTINGE STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-10-02",
         "InterviewerID": "66 - Henrik W.",
         "Q0B": "TISVILDELEJE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
