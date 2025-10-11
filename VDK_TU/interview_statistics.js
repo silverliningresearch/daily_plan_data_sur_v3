@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-10-2025 09:24:54"
+        "download_time": "11-10-2025 09:55:01"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12580,18 +12580,36 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-11",
         "InterviewerID": "2 - Anette N.",
         "Q0B": "CENTER PARCS NORDBORG RESORT",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-10-11",
         "InterviewerID": "21 - Vibeke L.",
         "Q0B": "MILLING HOTEL S\u00d8PARK MARIBO",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-10-11",
+        "InterviewerID": "35 - Morten R",
+        "Q0B": "FIRST CAMP HASMARK STRAND",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-10-11",
         "InterviewerID": "57 - Tina C.",
         "Q0B": "HOTEL SLEEP2NIGHT",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-10-11",
+        "InterviewerID": "64 - Carsten B.",
+        "Q0B": "HOTEL MARINA",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-10-11",
+        "InterviewerID": "65 \u2013 Charlotte J.",
+        "Q0B": "JESPERHUS FERIECENTER",
         "completes": 1
     }
 ]    
