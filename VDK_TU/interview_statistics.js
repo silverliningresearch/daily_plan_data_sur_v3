@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-10-2025 10:58:21"
+        "download_time": "11-10-2025 11:25:20"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12580,7 +12580,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-11",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "VESTERLYNG CAMPING",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-10-11",
@@ -12598,13 +12598,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-11",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-10-11",
         "InterviewerID": "35 - Morten R",
         "Q0B": "FIRST CAMP HASMARK STRAND",
-        "completes": 2
+        "completes": 3
+    },
+    {
+        "InterviewDate": "2025-10-11",
+        "InterviewerID": "52 \u2013 Dea",
+        "Q0B": "DANLAND HOLIDAY CENTER - FAABORG",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-10-11",
@@ -12614,21 +12620,27 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-10-11",
+        "InterviewerID": "62 - Mathias",
+        "Q0B": "LANDAL EBELTOFT",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-10-11",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "HOTEL MARINA",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-10-11",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 4
+        "completes": 6
     },
     {
         "InterviewDate": "2025-10-11",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC AALBORG CITY",
-        "completes": 5
+        "completes": 7
     }
 ]    
 
