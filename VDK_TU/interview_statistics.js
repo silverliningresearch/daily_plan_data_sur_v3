@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "11-10-2025 11:54:48"
+        "download_time": "11-10-2025 12:29:00"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12598,19 +12598,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-11",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "WAKEUP BERNSTORFFSGADE",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-10-11",
         "InterviewerID": "35 - Morten R",
         "Q0B": "FIRST CAMP HASMARK STRAND",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-10-11",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "DANLAND HOLIDAY CENTER - FAABORG",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-10-11",
@@ -12622,7 +12622,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-11",
         "InterviewerID": "62 - Mathias",
         "Q0B": "LANDAL EBELTOFT",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-10-11",
@@ -12634,13 +12634,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-11",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-10-11",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC AALBORG CITY",
-        "completes": 9
+        "completes": 12
     }
 ]    
 
