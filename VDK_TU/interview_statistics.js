@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "12-10-2025 12:28:46"
+        "download_time": "12-10-2025 12:57:19"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12646,7 +12646,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-12",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "FOUR POINTS FLEX COPENHAGEN ARENA",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-10-12",
@@ -12670,7 +12670,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-12",
         "InterviewerID": "48 - Elisa B.",
         "Q0B": "HVIDBJERG STRAND CAMPING (HVIDBJERG STRAND FERIEPARK)",
-        "completes": 6
+        "completes": 8
     },
     {
         "InterviewDate": "2025-10-12",
