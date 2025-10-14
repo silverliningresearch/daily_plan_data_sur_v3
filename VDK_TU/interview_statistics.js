@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-10-2025 13:55:08"
+        "download_time": "14-10-2025 14:26:29"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12766,7 +12766,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "THORSMINDE (FERIEHUS)",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-10-14",
@@ -12784,7 +12784,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-14",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
-        "completes": 2
+        "completes": 3
     },
     {
         "InterviewDate": "2025-10-14",
@@ -12802,25 +12802,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-14",
         "InterviewerID": "62 - Mathias",
         "Q0B": "HOTEL MARINA",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 11
+        "completes": 12
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
-        "completes": 11
+        "completes": 12
     }
 ]    
 
