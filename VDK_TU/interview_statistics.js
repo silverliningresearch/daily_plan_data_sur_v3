@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-10-2025 10:56:57"
+        "download_time": "14-10-2025 11:28:32"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12754,19 +12754,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-14",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "VEJERS STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "ENJOY RESORT R\u00d8M\u00d8 OG MARINA FISKEN\u00c6S",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "IMPERIAL HOTEL",
-        "completes": 4
+        "completes": 6
+    },
+    {
+        "InterviewDate": "2025-10-14",
+        "InterviewerID": "55 \u2013 Birgitte E.",
+        "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-10-14",
@@ -12778,7 +12784,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-14",
         "InterviewerID": "62 - Mathias",
         "Q0B": "HOTEL MARINA",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-10-14",
@@ -12788,9 +12794,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-10-14",
+        "InterviewerID": "65 \u2013 Charlotte J.",
+        "Q0B": "JESPERHUS FERIECENTER",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-10-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
-        "completes": 2
+        "completes": 5
     }
 ]    
 
