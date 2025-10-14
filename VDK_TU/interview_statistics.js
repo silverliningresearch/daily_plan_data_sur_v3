@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "14-10-2025 12:27:45"
+        "download_time": "14-10-2025 12:57:03"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12754,19 +12754,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-14",
         "InterviewerID": "19 - Heinrich P.",
         "Q0B": "VEJERS STRAND (FERIEHUS)",
-        "completes": 9
+        "completes": 10
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "31 - Sebastian S.",
         "Q0B": "ENJOY RESORT R\u00d8M\u00d8 OG MARINA FISKEN\u00c6S",
-        "completes": 7
+        "completes": 9
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "THORSMINDE (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-10-14",
@@ -12776,9 +12776,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-10-14",
+        "InterviewerID": "35 - Morten R",
+        "Q0B": "FIRST CAMP B\u00d8S\u00d8RE STRAND",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-10-14",
         "InterviewerID": "55 \u2013 Birgitte E.",
         "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-10-14",
@@ -12796,25 +12802,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-14",
         "InterviewerID": "62 - Mathias",
         "Q0B": "HOTEL MARINA",
-        "completes": 6
+        "completes": 7
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 5
+        "completes": 7
     },
     {
         "InterviewDate": "2025-10-14",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "L\u00d8KKEN (FERIEHUS)",
-        "completes": 7
+        "completes": 9
     }
 ]    
 
