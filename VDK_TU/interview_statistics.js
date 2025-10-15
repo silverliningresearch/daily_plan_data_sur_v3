@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "15-10-2025 10:29:21"
+        "download_time": "15-10-2025 10:54:54"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -12826,7 +12826,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-15",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "SCANDIC FALKONER",
-        "completes": 3
+        "completes": 4
+    },
+    {
+        "InterviewDate": "2025-10-15",
+        "InterviewerID": "27 - Niels K.",
+        "Q0B": "BLOKHUS (FERIEHUS)",
+        "completes": 2
     },
     {
         "InterviewDate": "2025-10-15",
@@ -12838,31 +12844,31 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-15",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "SCANDIC K\u00d8DBYEN",
-        "completes": 15
+        "completes": 18
     },
     {
         "InterviewDate": "2025-10-15",
         "InterviewerID": "35 - Morten R",
         "Q0B": "FIRST CAMP HASMARK STRAND",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-10-15",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 3
     },
     {
         "InterviewDate": "2025-10-15",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "VIGS\u00d8 FERIECENTER",
-        "completes": 2
+        "completes": 5
     },
     {
         "InterviewDate": "2025-10-15",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "STRANDHOTELLET BLOKHUS",
-        "completes": 2
+        "completes": 4
     }
 ]    
 
