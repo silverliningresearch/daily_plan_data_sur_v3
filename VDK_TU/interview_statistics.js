@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "18-10-2025 10:56:26"
+        "download_time": "18-10-2025 11:25:29"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -13018,7 +13018,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-18",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "VESTERLYNG CAMPING",
-        "completes": 2
+        "completes": 4
     },
     {
         "InterviewDate": "2025-10-18",
@@ -13030,13 +13030,25 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-18",
         "InterviewerID": "28 - Jeremy P.",
         "Q0B": "GENERATOR HOSTEL COPENHAGEN",
-        "completes": 5
+        "completes": 7
+    },
+    {
+        "InterviewDate": "2025-10-18",
+        "InterviewerID": "55 \u2013 Birgitte E.",
+        "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-10-18",
         "InterviewerID": "57 - Tina C.",
         "Q0B": "HOTEL SLEEP2NIGHT",
         "completes": 4
+    },
+    {
+        "InterviewDate": "2025-10-18",
+        "InterviewerID": "62 - Mathias",
+        "Q0B": "EBELTOFT STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-10-18",
@@ -13048,7 +13060,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-10-18",
         "InterviewerID": "65 \u2013 Charlotte J.",
         "Q0B": "JESPERHUS FERIECENTER",
-        "completes": 4
+        "completes": 6
     }
 ]    
 
