@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "19-10-2025 08:29:10"
+        "download_time": "19-10-2025 08:56:16"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -13070,14 +13070,26 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-10-19",
-        "InterviewerID": "61 - Asger",
-        "Q0B": "SCANDIC THE MAYOR",
+        "InterviewerID": "55 \u2013 Birgitte E.",
+        "Q0B": "COMWELL BORUPGAARD",
         "completes": 1
     },
     {
         "InterviewDate": "2025-10-19",
         "InterviewerID": "61 - Asger",
+        "Q0B": "SCANDIC THE MAYOR",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-10-19",
+        "InterviewerID": "61 - Asger",
         "Q0B": "WAKEUP AARHUS",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-10-19",
+        "InterviewerID": "62 - Mathias",
+        "Q0B": "HOTEL FUGLS\u00d8CENTRET",
         "completes": 1
     }
 ]    
