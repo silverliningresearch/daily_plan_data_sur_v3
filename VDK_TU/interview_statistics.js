@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "22-11-2025 10:31:11"
+        "download_time": "22-11-2025 10:59:07"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -14128,7 +14128,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-11-22",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "COMWELL ODENSE",
-        "completes": 3
+        "completes": 5
+    },
+    {
+        "InterviewDate": "2025-11-22",
+        "InterviewerID": "55 \u2013 Birgitte E.",
+        "Q0B": "DCU-CAMPING R\u00c5GELEJE STRAND",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-11-22",
@@ -14140,13 +14146,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-11-22",
         "InterviewerID": "62 - Mathias",
         "Q0B": "HANDRUP STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-11-22",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "EBELTOFT STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     }
 ]    
 
