@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_CZ_CAN",
         "interviewerID": "02",
         "Number of interviews": 7,
-        "download_time": "25-11-2025 11:27:23"
+        "download_time": "25-11-2025 11:57:07"
     },
     {
         "InterviewDate": "01-11-2025",
@@ -1148,9 +1148,15 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "17-11-2025",
+        "quota_id": "T4_ID_CGK",
+        "interviewerID": "02",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "17-11-2025",
         "quota_id": "T4_AK_KUL",
         "interviewerID": "03",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "17-11-2025",
@@ -1253,18 +1259,6 @@ let interview_statistics  = `[
         "quota_id": "T1_TR_XIY",
         "interviewerID": "28",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "17-11-2025",
-        "quota_id": "T4_ID_CGK",
-        "interviewerID": "N.a",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "17-11-2025",
-        "quota_id": "T4_AK_KUL",
-        "interviewerID": "Retimed  to 1550 ",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "18-11-2025",
@@ -1641,7 +1635,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "20-11-2025",
         "quota_id": "T4_SL_DMK",
-        "interviewerID": "F8y6fc86",
+        "interviewerID": "999",
         "Number of interviews": 1
     },
     {
@@ -1720,7 +1714,7 @@ let interview_statistics  = `[
         "InterviewDate": "21-11-2025",
         "quota_id": "T4_VJ_SGN",
         "interviewerID": "04",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "21-11-2025",
@@ -1775,12 +1769,6 @@ let interview_statistics  = `[
         "quota_id": "T2_UA_SFO",
         "interviewerID": "29",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "21-11-2025",
-        "quota_id": "T4_VJ_SGN",
-        "interviewerID": "Goood",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "22-11-2025",
