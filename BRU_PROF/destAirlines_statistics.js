@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "27-11-2025 14:55:26"
+        "download_time": "27-11-2025 15:27:27"
     },
     {
         "InterviewDate": "2023-04-01",
