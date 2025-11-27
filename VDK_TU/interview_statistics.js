@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "27-11-2025 13:04:02"
+        "download_time": "27-11-2025 13:34:46"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -14296,19 +14296,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-11-27",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "KRAGERUP GODS",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-11-27",
         "InterviewerID": "18 - Michael H.",
         "Q0B": "THE NOTE (SCANDIC JACOB GADE)",
-        "completes": 8
+        "completes": 10
     },
     {
         "InterviewDate": "2025-11-27",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "RADISSON BLU SCANDINAVIA HOTEL, COPENHAGEN",
-        "completes": 4
+        "completes": 5
     },
     {
         "InterviewDate": "2025-11-27",
@@ -14320,7 +14320,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-11-27",
         "InterviewerID": "34 - Annette B.",
         "Q0B": "COPENHAGEN CITY HOSTEL",
-        "completes": 9
+        "completes": 10
     }
 ]    
 
