@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "13-12-2025 12:26:33"
+        "download_time": "13-12-2025 12:56:35"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -14704,7 +14704,7 @@ let interview_statistics = `[
         "InterviewDate": "2025-12-13",
         "InterviewerID": "40 - Iman",
         "Q0B": "COPENHAGEN CITY HOSTEL",
-        "completes": 3
+        "completes": 4
     },
     {
         "InterviewDate": "2025-12-13",
@@ -14723,6 +14723,12 @@ let interview_statistics = `[
         "InterviewerID": "9 - Jens J.",
         "Q0B": "FOUR POINTS FLEX AALBORG",
         "completes": 9
+    },
+    {
+        "InterviewDate": "2025-12-13",
+        "InterviewerID": "9 - Jens J.",
+        "Q0B": "SCANDIC AALBORG CITY",
+        "completes": 2
     }
 ]    
 
