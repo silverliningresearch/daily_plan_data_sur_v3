@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K06",
-        "download_time": "13-12-2025 11:28:04"
+        "download_time": "13-12-2025 11:58:04"
     },
     {
         "aodbUniqueId": "20251213254761",
@@ -741,6 +741,16 @@ let MUC_Gate_Info = `[
         "Gate": "D14"
     },
     {
+        "aodbUniqueId": "20251213254725",
+        "Date": "13-12-2025",
+        "Flight": "DE 4256",
+        "Dest": "FRA",
+        "AirlineCode": "DE",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D11"
+    },
+    {
         "aodbUniqueId": "20251213255055",
         "Date": "13-12-2025",
         "Flight": "LH 1668",
@@ -759,6 +769,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15"
+    },
+    {
+        "aodbUniqueId": "20251213254942",
+        "Date": "13-12-2025",
+        "Flight": "FI 533",
+        "Dest": "KEF",
+        "AirlineCode": "FI",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20251213254528",
@@ -1981,16 +2001,6 @@ let MUC_Gate_Info = `[
         "Gate": "L01"
     },
     {
-        "aodbUniqueId": "20251213254725",
-        "Date": "13-12-2025",
-        "Flight": "DE 4256",
-        "Dest": "FRA",
-        "AirlineCode": "DE",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D11"
-    },
-    {
         "aodbUniqueId": "20251213254726",
         "Date": "13-12-2025",
         "Flight": "VL 2484",
@@ -2088,7 +2098,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "GQ",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D11"
+        "Gate": "D15"
     },
     {
         "aodbUniqueId": "20251213254863",
@@ -2809,16 +2819,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G37"
-    },
-    {
-        "aodbUniqueId": "20251213254942",
-        "Date": "13-12-2025",
-        "Flight": "FI 533",
-        "Dest": "KEF",
-        "AirlineCode": "FI",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20251213255130",
