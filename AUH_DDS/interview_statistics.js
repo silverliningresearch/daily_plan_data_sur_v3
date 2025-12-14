@@ -5,7 +5,7 @@ let interview_statistics = `[
         "Survey": 1,
         "Location": 8888888,
         "Number of interviews": 3,
-        "download_time": "14-12-2025 16:28:59"
+        "download_time": "14-12-2025 16:58:02"
     },
     {
         "InterviewDate": "2024-04-13",
