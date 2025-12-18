@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15",
-        "download_time": "18-12-2025 07:57:20"
+        "download_time": "18-12-2025 08:28:28"
     },
     {
         "aodbUniqueId": "20251218281212",
@@ -91,16 +91,6 @@ let MUC_Gate_Info = `[
         "Gate": "G30"
     },
     {
-        "aodbUniqueId": "20251218281226",
-        "Date": "18-12-2025",
-        "Flight": "4Y 316",
-        "Dest": "ACE",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K12"
-    },
-    {
         "aodbUniqueId": "20251218281231",
         "Date": "18-12-2025",
         "Flight": "VL 1796",
@@ -151,6 +141,16 @@ let MUC_Gate_Info = `[
         "Gate": "G47"
     },
     {
+        "aodbUniqueId": "20251218281090",
+        "Date": "18-12-2025",
+        "Flight": "LH 103",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G16"
+    },
+    {
         "aodbUniqueId": "20251218281059",
         "Date": "18-12-2025",
         "Flight": "LH 1930",
@@ -159,6 +159,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G10"
+    },
+    {
+        "aodbUniqueId": "20251218281268",
+        "Date": "18-12-2025",
+        "Flight": "A3 803",
+        "Dest": "ATH",
+        "AirlineCode": "A3",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K12"
+    },
+    {
+        "aodbUniqueId": "20251218281144",
+        "Date": "18-12-2025",
+        "Flight": "KM 307",
+        "Dest": "MLA",
+        "AirlineCode": "KM",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G18"
     },
     {
         "aodbUniqueId": "20251218281275",
@@ -189,6 +209,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C02"
+    },
+    {
+        "aodbUniqueId": "20251218281226",
+        "Date": "18-12-2025",
+        "Flight": "4Y 316",
+        "Dest": "ACE",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K12"
     },
     {
         "aodbUniqueId": "20251218280812",
@@ -2441,16 +2471,6 @@ let MUC_Gate_Info = `[
         "Gate": "K22"
     },
     {
-        "aodbUniqueId": "20251218281144",
-        "Date": "18-12-2025",
-        "Flight": "KM 307",
-        "Dest": "MLA",
-        "AirlineCode": "KM",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G18"
-    },
-    {
         "aodbUniqueId": "20251218281147",
         "Date": "18-12-2025",
         "Flight": "LH 1614",
@@ -2559,16 +2579,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G35"
-    },
-    {
-        "aodbUniqueId": "20251218281090",
-        "Date": "18-12-2025",
-        "Flight": "LH 103",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G16"
     },
     {
         "aodbUniqueId": "20251218281076",
@@ -3459,16 +3469,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K09"
-    },
-    {
-        "aodbUniqueId": "20251218281268",
-        "Date": "18-12-2025",
-        "Flight": "A3 803",
-        "Dest": "ATH",
-        "AirlineCode": "A3",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K12"
     },
     {
         "aodbUniqueId": "20251218281269",
