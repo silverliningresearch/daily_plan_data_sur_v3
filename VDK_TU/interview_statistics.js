@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "18-12-2025 08:29:54"
+        "download_time": "18-12-2025 08:57:11"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -14825,6 +14825,18 @@ let interview_statistics = `[
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC AALBORG CITY",
         "completes": 12
+    },
+    {
+        "InterviewDate": "2025-12-18",
+        "InterviewerID": "55 \u2013 Birgitte E.",
+        "Q0B": "COMWELL BORUPGAARD",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-12-18",
+        "InterviewerID": "64 - Carsten B.",
+        "Q0B": "SCANDIC THE MAYOR",
+        "completes": 1
     }
 ]    
 
