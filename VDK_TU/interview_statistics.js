@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "20-12-2025 10:57:25"
+        "download_time": "20-12-2025 11:33:18"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -14884,13 +14884,13 @@ let interview_statistics = `[
         "InterviewDate": "2025-12-20",
         "InterviewerID": "17 - Naja H.",
         "Q0B": "FOUR POINTS FLEX PRINDSEN ROSKILDE",
-        "completes": 5
+        "completes": 6
     },
     {
         "InterviewDate": "2025-12-20",
         "InterviewerID": "24 - Kasper R.",
         "Q0B": "A & O COPENHAGEN SYDHAVN",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-12-20",
@@ -14900,9 +14900,15 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-12-20",
+        "InterviewerID": "31 - Sebastian S.",
+        "Q0B": "SCANDIC HOTEL ODENSE",
+        "completes": 2
+    },
+    {
+        "InterviewDate": "2025-12-20",
         "InterviewerID": "52 \u2013 Dea",
         "Q0B": "COMWELL ODENSE",
-        "completes": 3
+        "completes": 5
     },
     {
         "InterviewDate": "2025-12-20",
@@ -14912,15 +14918,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2025-12-20",
+        "InterviewerID": "62 - Mathias",
+        "Q0B": "HANDRUP STRAND (FERIEHUS)",
+        "completes": 1
+    },
+    {
+        "InterviewDate": "2025-12-20",
         "InterviewerID": "64 - Carsten B.",
         "Q0B": "GREN\u00c5 STRAND (FERIEHUS)",
-        "completes": 1
+        "completes": 2
     },
     {
         "InterviewDate": "2025-12-20",
         "InterviewerID": "9 - Jens J.",
         "Q0B": "SCANDIC AALBORG CITY",
-        "completes": 6
+        "completes": 10
     }
 ]    
 
