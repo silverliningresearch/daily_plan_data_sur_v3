@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G10",
-        "download_time": "20-12-2025 22:26:38"
+        "download_time": "20-12-2025 22:55:54"
     },
     {
         "aodbUniqueId": "20251220298983",
@@ -801,6 +801,16 @@ let MUC_Gate_Info = `[
         "Gate": "G28"
     },
     {
+        "aodbUniqueId": "20251220299207",
+        "Date": "20-12-2025",
+        "Flight": "VL 1654",
+        "Dest": "OTP",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K08"
+    },
+    {
         "aodbUniqueId": "20251220299246",
         "Date": "20-12-2025",
         "Flight": "LH 1670",
@@ -809,6 +819,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G48"
+    },
+    {
+        "aodbUniqueId": "20251220298870",
+        "Date": "20-12-2025",
+        "Flight": "LH 638",
+        "Dest": "DXB",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L13"
     },
     {
         "aodbUniqueId": "20251220298836",
@@ -1109,16 +1129,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H18"
-    },
-    {
-        "aodbUniqueId": "20251220298870",
-        "Date": "20-12-2025",
-        "Flight": "LH 638",
-        "Dest": "DXB",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L13"
     },
     {
         "aodbUniqueId": "20251220298874",
@@ -2089,16 +2099,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L15"
-    },
-    {
-        "aodbUniqueId": "20251220299207",
-        "Date": "20-12-2025",
-        "Flight": "VL 1654",
-        "Dest": "OTP",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K08"
     },
     {
         "aodbUniqueId": "20251220299212",
