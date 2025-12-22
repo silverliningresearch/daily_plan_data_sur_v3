@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G04",
-        "download_time": "22-12-2025 13:58:27"
+        "download_time": "22-12-2025 14:33:20"
     },
     {
         "aodbUniqueId": "20251222313023",
@@ -1561,16 +1561,6 @@ let MUC_Gate_Info = `[
         "Gate": "G11"
     },
     {
-        "aodbUniqueId": "20251222312680",
-        "Date": "22-12-2025",
-        "Flight": "LH 2454",
-        "Dest": "OSL",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K15"
-    },
-    {
         "aodbUniqueId": "20251222312682",
         "Date": "22-12-2025",
         "Flight": "LX 1111",
@@ -1609,6 +1599,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C09"
+    },
+    {
+        "aodbUniqueId": "20251222312680",
+        "Date": "22-12-2025",
+        "Flight": "LH 2454",
+        "Dest": "OSL",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K15"
     },
     {
         "aodbUniqueId": "20251222312659",
@@ -1659,6 +1659,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K15"
+    },
+    {
+        "aodbUniqueId": "20251222312958",
+        "Date": "22-12-2025",
+        "Flight": "LH 1744",
+        "Dest": "TUN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H40"
     },
     {
         "aodbUniqueId": "20251222312637",
@@ -2471,16 +2481,6 @@ let MUC_Gate_Info = `[
         "Gate": "D06"
     },
     {
-        "aodbUniqueId": "20251222312843",
-        "Date": "22-12-2025",
-        "Flight": "EN 8386",
-        "Dest": "AMS",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G41"
-    },
-    {
         "aodbUniqueId": "20251222312844",
         "Date": "22-12-2025",
         "Flight": "EK 050",
@@ -2509,6 +2509,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K25"
+    },
+    {
+        "aodbUniqueId": "20251222312843",
+        "Date": "22-12-2025",
+        "Flight": "EN 8386",
+        "Dest": "AMS",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G41"
     },
     {
         "aodbUniqueId": "20251222312828",
@@ -3129,16 +3139,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G16"
-    },
-    {
-        "aodbUniqueId": "20251222312958",
-        "Date": "22-12-2025",
-        "Flight": "LH 1744",
-        "Dest": "TUN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H40"
     },
     {
         "aodbUniqueId": "20251222312959",
