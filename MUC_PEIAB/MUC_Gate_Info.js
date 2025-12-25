@@ -8,7 +8,17 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15",
-        "download_time": "25-12-2025 08:55:56"
+        "download_time": "25-12-2025 09:29:34"
+    },
+    {
+        "aodbUniqueId": "20251225327789",
+        "Date": "25-12-2025",
+        "Flight": "CX 300",
+        "Dest": "HKG",
+        "AirlineCode": "CX",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C10"
     },
     {
         "aodbUniqueId": "20251225327749",
@@ -336,16 +346,6 @@ let MUC_Gate_Info = `[
         "Flight": "PC 1022",
         "Dest": "SAW",
         "AirlineCode": "PC",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C10"
-    },
-    {
-        "aodbUniqueId": "20251225327789",
-        "Date": "25-12-2025",
-        "Flight": "CX 300",
-        "Dest": "HKG",
-        "AirlineCode": "CX",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C10"
@@ -1158,7 +1158,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UX",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D11"
+        "Gate": "D12"
     },
     {
         "aodbUniqueId": "20251225327916",
@@ -1169,6 +1169,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G31"
+    },
+    {
+        "aodbUniqueId": "20251225327903",
+        "Date": "25-12-2025",
+        "Flight": "LH 2416",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20251225328048",
@@ -1679,16 +1689,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G34"
-    },
-    {
-        "aodbUniqueId": "20251225327903",
-        "Date": "25-12-2025",
-        "Flight": "LH 2416",
-        "Dest": "ARN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20251225327907",
