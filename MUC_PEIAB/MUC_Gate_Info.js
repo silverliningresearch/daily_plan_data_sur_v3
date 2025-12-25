@@ -1,5 +1,16 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20251225327813",
+        "Date": "25-12-2025",
+        "Flight": "D8 5431",
+        "Dest": "ALC",
+        "AirlineCode": "D8",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D15",
+        "download_time": "25-12-2025 08:25:54"
+    },
+    {
         "aodbUniqueId": "20251225327780",
         "Date": "25-12-2025",
         "Flight": "FI 533",
@@ -7,8 +18,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "FI",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D11",
-        "download_time": "25-12-2025 08:02:16"
+        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20251225327794",
@@ -411,16 +421,6 @@ let MUC_Gate_Info = `[
         "Gate": "D15"
     },
     {
-        "aodbUniqueId": "20251225327813",
-        "Date": "25-12-2025",
-        "Flight": "D8 5431",
-        "Dest": "ALC",
-        "AirlineCode": "D8",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D15"
-    },
-    {
         "aodbUniqueId": "20251225327815",
         "Date": "25-12-2025",
         "Flight": "LH 452",
@@ -681,16 +681,6 @@ let MUC_Gate_Info = `[
         "Gate": "B09"
     },
     {
-        "aodbUniqueId": "20251225327869",
-        "Date": "25-12-2025",
-        "Flight": "4Y 324",
-        "Dest": "FUE",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G09"
-    },
-    {
         "aodbUniqueId": "20251225327872",
         "Date": "25-12-2025",
         "Flight": "LH 764",
@@ -739,6 +729,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G48"
+    },
+    {
+        "aodbUniqueId": "20251225327869",
+        "Date": "25-12-2025",
+        "Flight": "4Y 324",
+        "Dest": "FUE",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G09"
     },
     {
         "aodbUniqueId": "20251225327884",
@@ -2091,16 +2091,6 @@ let MUC_Gate_Info = `[
         "Gate": "K05"
     },
     {
-        "aodbUniqueId": "20251225328265",
-        "Date": "25-12-2025",
-        "Flight": "4Y 1330",
-        "Dest": "KEF",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G31"
-    },
-    {
         "aodbUniqueId": "20251225328266",
         "Date": "25-12-2025",
         "Flight": "KM 307",
@@ -2299,6 +2289,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G63"
+    },
+    {
+        "aodbUniqueId": "20251225328265",
+        "Date": "25-12-2025",
+        "Flight": "4Y 1330",
+        "Dest": "KEF",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G31"
     },
     {
         "aodbUniqueId": "20251225328195",
