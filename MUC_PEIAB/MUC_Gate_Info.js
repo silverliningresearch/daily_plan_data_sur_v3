@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D11",
-        "download_time": "25-12-2025 07:29:00"
+        "download_time": "25-12-2025 08:02:16"
     },
     {
         "aodbUniqueId": "20251225327794",
@@ -1161,6 +1161,16 @@ let MUC_Gate_Info = `[
         "Gate": "G26"
     },
     {
+        "aodbUniqueId": "20251225327960",
+        "Date": "25-12-2025",
+        "Flight": "UX 1516",
+        "Dest": "MAD",
+        "AirlineCode": "UX",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D11"
+    },
+    {
         "aodbUniqueId": "20251225328048",
         "Date": "25-12-2025",
         "Flight": "VL 1796",
@@ -1469,16 +1479,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G81"
-    },
-    {
-        "aodbUniqueId": "20251225327960",
-        "Date": "25-12-2025",
-        "Flight": "UX 1516",
-        "Dest": "MAD",
-        "AirlineCode": "UX",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20251225327962",
@@ -2121,6 +2121,16 @@ let MUC_Gate_Info = `[
         "Gate": "D05"
     },
     {
+        "aodbUniqueId": "20251225328184",
+        "Date": "25-12-2025",
+        "Flight": "AY 1402",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D04"
+    },
+    {
         "aodbUniqueId": "20251225328132",
         "Date": "25-12-2025",
         "Flight": "VL 1972",
@@ -2421,16 +2431,6 @@ let MUC_Gate_Info = `[
         "Gate": "K01"
     },
     {
-        "aodbUniqueId": "20251225328184",
-        "Date": "25-12-2025",
-        "Flight": "AY 1402",
-        "Dest": "HEL",
-        "AirlineCode": "AY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D04"
-    },
-    {
         "aodbUniqueId": "20251225328185",
         "Date": "25-12-2025",
         "Flight": "BT 224",
@@ -2628,7 +2628,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "DL",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C09"
+        "Gate": "C25"
     },
     {
         "aodbUniqueId": "20251225328219",
