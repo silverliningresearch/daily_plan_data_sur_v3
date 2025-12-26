@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G24",
-        "download_time": "26-12-2025 20:27:11"
+        "download_time": "26-12-2025 20:55:35"
     },
     {
         "aodbUniqueId": "20251226332261",
@@ -429,6 +429,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G27"
+    },
+    {
+        "aodbUniqueId": "20251226332188",
+        "Date": "26-12-2025",
+        "Flight": "4Y 142",
+        "Dest": "WDH",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H18"
     },
     {
         "aodbUniqueId": "20251226331837",
@@ -1018,7 +1028,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EZ",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C01"
+        "Gate": "C04"
     },
     {
         "aodbUniqueId": "20251226331966",
@@ -2199,16 +2209,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G10"
-    },
-    {
-        "aodbUniqueId": "20251226332188",
-        "Date": "26-12-2025",
-        "Flight": "4Y 142",
-        "Dest": "WDH",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H18"
     },
     {
         "aodbUniqueId": "20251226332190",
