@@ -4,7 +4,7 @@ let interview_statistics = `[
         "InterviewerID": "12 - Jon H.",
         "Q0B": "COMWELL AARHUS",
         "completes": 5,
-        "download_time": "27-12-2025 11:34:31"
+        "download_time": "27-12-2025 11:57:42"
     },
     {
         "InterviewDate": "2025-01-14",
@@ -15040,13 +15040,19 @@ let interview_statistics = `[
         "InterviewDate": "2025-12-27",
         "InterviewerID": "33 - Udo Q.",
         "Q0B": "SCANDIC REGINA HERNING",
-        "completes": 8
+        "completes": 9
     },
     {
         "InterviewDate": "2025-12-27",
         "InterviewerID": "40 - Iman",
         "Q0B": "FOUR POINTS FLEX COPENHAGEN ARENA",
         "completes": 2
+    },
+    {
+        "InterviewDate": "2025-12-27",
+        "InterviewerID": "62 - Mathias",
+        "Q0B": "EBELTOFT STRAND (FERIEHUS)",
+        "completes": 1
     },
     {
         "InterviewDate": "2025-12-27",
