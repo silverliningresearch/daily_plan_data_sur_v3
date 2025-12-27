@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G28",
-        "download_time": "27-12-2025 19:31:38"
+        "download_time": "27-12-2025 20:02:34"
     },
     {
         "aodbUniqueId": "20251227339261",
@@ -689,6 +689,36 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14"
+    },
+    {
+        "aodbUniqueId": "20251227339602",
+        "Date": "27-12-2025",
+        "Flight": "LH 574",
+        "Dest": "CPT",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H44"
+    },
+    {
+        "aodbUniqueId": "20251227339468",
+        "Date": "27-12-2025",
+        "Flight": "LH 2222",
+        "Dest": "TLS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K03"
+    },
+    {
+        "aodbUniqueId": "20251227339803",
+        "Date": "27-12-2025",
+        "Flight": "UX 1518",
+        "Dest": "MAD",
+        "AirlineCode": "UX",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D07"
     },
     {
         "aodbUniqueId": "20251227339157",
@@ -2111,16 +2141,6 @@ let MUC_Gate_Info = `[
         "Gate": "G48"
     },
     {
-        "aodbUniqueId": "20251227339468",
-        "Date": "27-12-2025",
-        "Flight": "LH 2222",
-        "Dest": "TLS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K03"
-    },
-    {
         "aodbUniqueId": "20251227339469",
         "Date": "27-12-2025",
         "Flight": "EI 837",
@@ -2841,16 +2861,6 @@ let MUC_Gate_Info = `[
         "Gate": "B17"
     },
     {
-        "aodbUniqueId": "20251227339602",
-        "Date": "27-12-2025",
-        "Flight": "LH 574",
-        "Dest": "CPT",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H44"
-    },
-    {
         "aodbUniqueId": "20251227339604",
         "Date": "27-12-2025",
         "Flight": "LH 1752",
@@ -3279,16 +3289,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C03"
-    },
-    {
-        "aodbUniqueId": "20251227339803",
-        "Date": "27-12-2025",
-        "Flight": "UX 1518",
-        "Dest": "MAD",
-        "AirlineCode": "UX",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D07"
     },
     {
         "aodbUniqueId": "20251227339808",
