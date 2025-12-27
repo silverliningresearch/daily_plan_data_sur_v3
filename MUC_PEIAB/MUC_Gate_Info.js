@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B17",
-        "download_time": "27-12-2025 04:26:30"
+        "download_time": "27-12-2025 04:56:05"
     },
     {
         "aodbUniqueId": "20251227339474",
@@ -858,7 +858,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G28"
+        "Gate": "G20"
     },
     {
         "aodbUniqueId": "20251227339223",
@@ -1271,16 +1271,6 @@ let MUC_Gate_Info = `[
         "Gate": "L11"
     },
     {
-        "aodbUniqueId": "20251227339320",
-        "Date": "27-12-2025",
-        "Flight": "EN 8254",
-        "Dest": "TRN",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G19"
-    },
-    {
         "aodbUniqueId": "20251227339324",
         "Date": "27-12-2025",
         "Flight": "LH 2382",
@@ -1339,6 +1329,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K04"
+    },
+    {
+        "aodbUniqueId": "20251227339320",
+        "Date": "27-12-2025",
+        "Flight": "EN 8254",
+        "Dest": "TRN",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G19"
     },
     {
         "aodbUniqueId": "20251227339345",
@@ -1848,7 +1848,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G20"
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20251227339471",
@@ -3118,7 +3118,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "MS",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H44"
+        "Gate": "H20"
     },
     {
         "aodbUniqueId": "20251227339800",
