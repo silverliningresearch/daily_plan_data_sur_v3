@@ -5,7 +5,7 @@ let location_percent = `[
         "Location": "Unknown",
         "Exit_belt": "Unknown",
         "Percentage": 100.0,
-        "download_time": "05-01-2026 21:54:44"
+        "download_time": "05-01-2026 22:28:10"
     },
     {
         "Year": "2023",
@@ -271,14 +271,14 @@ let location_percent = `[
         "Month": "01",
         "Location": "T1-E",
         "Exit_belt": "Baggage belts",
-        "Percentage": 66.67
+        "Percentage": 60.0
     },
     {
         "Year": "2026",
         "Month": "01",
         "Location": "T1-E",
         "Exit_belt": "Exit",
-        "Percentage": 33.33
+        "Percentage": 40.0
     },
     {
         "Year": "2026",
