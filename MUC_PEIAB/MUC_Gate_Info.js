@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C06",
-        "download_time": "05-01-2026 08:24:18"
+        "download_time": "05-01-2026 08:54:48"
     },
     {
         "aodbUniqueId": "20260105366941",
@@ -128,7 +128,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EI",
         "terminalIdentifier": "1",
         "GateArea": "T1B",
-        "Gate": "B10"
+        "Gate": "B09"
     },
     {
         "aodbUniqueId": "20260105367182",
@@ -159,6 +159,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G11"
+    },
+    {
+        "aodbUniqueId": "20260105367107",
+        "Date": "05-01-2026",
+        "Flight": "DE 1412",
+        "Dest": "FUE",
+        "AirlineCode": "DE",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D04"
     },
     {
         "aodbUniqueId": "20260105366534",
@@ -538,7 +548,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D15"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260105366856",
@@ -688,7 +698,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EJ",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D03"
+        "Gate": "D15"
     },
     {
         "aodbUniqueId": "20260105366642",
@@ -2751,16 +2761,6 @@ let MUC_Gate_Info = `[
         "Gate": "G10"
     },
     {
-        "aodbUniqueId": "20260105367107",
-        "Date": "05-01-2026",
-        "Flight": "DE 1412",
-        "Dest": "FUE",
-        "AirlineCode": "DE",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D04"
-    },
-    {
         "aodbUniqueId": "20260105367117",
         "Date": "05-01-2026",
         "Flight": "LH 2086",
@@ -3147,8 +3147,8 @@ let MUC_Gate_Info = `[
         "Dest": "VRN",
         "AirlineCode": "EN",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K18"
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G31"
     },
     {
         "aodbUniqueId": "20260105367203",
