@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K03",
-        "download_time": "07-01-2026 23:29:27"
+        "download_time": "07-01-2026 23:54:50"
     },
     {
         "aodbUniqueId": "20260107372399",
@@ -2594,7 +2594,7 @@ let MUC_Gate_Info = `[
         "aodbUniqueId": "20260107372204",
         "Date": "07-01-2026",
         "Flight": "TU 499",
-        "Dest": "DJE",
+        "Dest": "TUN",
         "AirlineCode": "TU",
         "terminalIdentifier": "1",
         "GateArea": "T1B",
