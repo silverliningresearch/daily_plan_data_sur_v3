@@ -6,9 +6,9 @@ let MUC_Gate_Info = `[
         "Dest": "AOI",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K04",
-        "download_time": "09-01-2026 01:54:49"
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G18",
+        "download_time": "09-01-2026 02:26:03"
     },
     {
         "aodbUniqueId": "20260109377313",
@@ -1407,8 +1407,8 @@ let MUC_Gate_Info = `[
         "Dest": "BEG",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L06"
+        "GateArea": "T2 Main E5",
+        "Gate": "H30"
     },
     {
         "aodbUniqueId": "20260109376981",
@@ -2007,8 +2007,8 @@ let MUC_Gate_Info = `[
         "Dest": "WAW",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G39"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20260109377111",
