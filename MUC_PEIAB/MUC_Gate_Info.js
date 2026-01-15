@@ -8,7 +8,17 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K20",
-        "download_time": "15-01-2026 06:55:26"
+        "download_time": "15-01-2026 07:27:21"
+    },
+    {
+        "aodbUniqueId": "20260115392335",
+        "Date": "15-01-2026",
+        "Flight": "LH 101",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G16"
     },
     {
         "aodbUniqueId": "20260115392500",
@@ -91,6 +101,16 @@ let MUC_Gate_Info = `[
         "Gate": "G18"
     },
     {
+        "aodbUniqueId": "20260115392342",
+        "Date": "15-01-2026",
+        "Flight": "AA 785",
+        "Dest": "CLT",
+        "AirlineCode": "AA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C10"
+    },
+    {
         "aodbUniqueId": "20260115392091",
         "Date": "15-01-2026",
         "Flight": "DE 4304",
@@ -139,6 +159,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C01"
+    },
+    {
+        "aodbUniqueId": "20260115392467",
+        "Date": "15-01-2026",
+        "Flight": "DE 1572",
+        "Dest": "FNC",
+        "AirlineCode": "DE",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D12"
     },
     {
         "aodbUniqueId": "20260115392387",
@@ -578,7 +608,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "SK",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D14"
+        "Gate": "D15"
     },
     {
         "aodbUniqueId": "20260115392159",
@@ -1471,16 +1501,6 @@ let MUC_Gate_Info = `[
         "Gate": "H44"
     },
     {
-        "aodbUniqueId": "20260115392335",
-        "Date": "15-01-2026",
-        "Flight": "LH 101",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G16"
-    },
-    {
         "aodbUniqueId": "20260115392273",
         "Date": "15-01-2026",
         "Flight": "LH 2416",
@@ -1549,16 +1569,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B11"
-    },
-    {
-        "aodbUniqueId": "20260115392342",
-        "Date": "15-01-2026",
-        "Flight": "AA 785",
-        "Dest": "CLT",
-        "AirlineCode": "AA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C10"
     },
     {
         "aodbUniqueId": "20260115392350",
@@ -2288,7 +2298,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
-        "Gate": "L19"
+        "Gate": "L03"
     },
     {
         "aodbUniqueId": "20260115392436",
@@ -3019,16 +3029,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B15"
-    },
-    {
-        "aodbUniqueId": "20260115392467",
-        "Date": "15-01-2026",
-        "Flight": "DE 1572",
-        "Dest": "FNC",
-        "AirlineCode": "DE",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D12"
     },
     {
         "aodbUniqueId": "20260115392468",
