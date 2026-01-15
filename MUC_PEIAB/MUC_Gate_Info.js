@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C01",
-        "download_time": "15-01-2026 11:29:09"
+        "download_time": "15-01-2026 11:55:41"
     },
     {
         "aodbUniqueId": "20260115392351",
@@ -643,8 +643,8 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20260115392081",
         "Date": "15-01-2026",
-        "Flight": "LH 1824",
-        "Dest": "BIO",
+        "Flight": "LH 1824U",
+        "Dest": "MUC",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
@@ -2398,7 +2398,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "IB",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D14"
+        "Gate": "D12"
     },
     {
         "aodbUniqueId": "20260115392434",
