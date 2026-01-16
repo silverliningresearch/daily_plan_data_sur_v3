@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G14",
-        "download_time": "16-01-2026 19:28:56"
+        "download_time": "16-01-2026 19:54:55"
     },
     {
         "aodbUniqueId": "20260116395047",
@@ -1071,6 +1071,16 @@ let MUC_Gate_Info = `[
         "Gate": "D07"
     },
     {
+        "aodbUniqueId": "20260116395090",
+        "Date": "16-01-2026",
+        "Flight": "SK 2658",
+        "Dest": "CPH",
+        "AirlineCode": "SK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D02"
+    },
+    {
         "aodbUniqueId": "20260116394995",
         "Date": "16-01-2026",
         "Flight": "BA 953",
@@ -1649,16 +1659,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L09"
-    },
-    {
-        "aodbUniqueId": "20260116395090",
-        "Date": "16-01-2026",
-        "Flight": "SK 2658",
-        "Dest": "CPH",
-        "AirlineCode": "SK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D02"
     },
     {
         "aodbUniqueId": "20260116395094",
