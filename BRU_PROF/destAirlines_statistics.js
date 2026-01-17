@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "17-01-2026 11:25:46"
+        "download_time": "17-01-2026 11:53:52"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -142308,7 +142308,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-01-17",
         "quota_id": "AGP-SN",
-        "Number of interviews": 12
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2026-01-17",
@@ -142332,6 +142332,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-01-17",
+        "quota_id": "BCN-SN",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-01-17",
         "quota_id": "CDG-SN",
         "Number of interviews": 4
     },
@@ -142347,6 +142352,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-01-17",
+        "quota_id": "EVN-SN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-01-17",
         "quota_id": "EWR-UA",
         "Number of interviews": 6
     },
@@ -142359,6 +142369,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-01-17",
         "quota_id": "FRA-SN",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-01-17",
+        "quota_id": "FUE-TB",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-01-17",
@@ -142382,13 +142397,18 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-01-17",
+        "quota_id": "MAD-IB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-01-17",
         "quota_id": "MUC-SN",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-01-17",
         "quota_id": "ROB-SN",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-01-17",
