@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G40",
-        "download_time": "19-01-2026 14:55:48"
+        "download_time": "19-01-2026 15:30:21"
     },
     {
         "aodbUniqueId": "20260119402778",
@@ -638,7 +638,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K03"
+        "Gate": "K01"
     },
     {
         "aodbUniqueId": "20260119402248",
@@ -669,6 +669,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G29"
+    },
+    {
+        "aodbUniqueId": "20260119402471",
+        "Date": "19-01-2026",
+        "Flight": "LH 2388",
+        "Dest": "GVA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G69"
     },
     {
         "aodbUniqueId": "20260119402254",
@@ -868,7 +878,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "KM",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K01"
+        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20260119402313",
@@ -1068,7 +1078,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "PC",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C06"
+        "Gate": "C03"
     },
     {
         "aodbUniqueId": "20260119402651",
@@ -1478,7 +1488,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K07"
+        "Gate": "K05"
     },
     {
         "aodbUniqueId": "20260119402444",
@@ -1681,16 +1691,6 @@ let MUC_Gate_Info = `[
         "Gate": "G18"
     },
     {
-        "aodbUniqueId": "20260119402471",
-        "Date": "19-01-2026",
-        "Flight": "LH 2388",
-        "Dest": "GVA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G69"
-    },
-    {
         "aodbUniqueId": "20260119402497",
         "Date": "19-01-2026",
         "Flight": "XQ 131",
@@ -1778,7 +1778,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D15"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260119402719",
@@ -2028,7 +2028,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LO",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K22"
+        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20260119402758",
@@ -2038,7 +2038,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "AT",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C03"
+        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20260119402761",
@@ -2728,7 +2728,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K05"
+        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20260119402333",
