@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G11",
-        "download_time": "21-01-2026 21:55:47"
+        "download_time": "21-01-2026 22:26:29"
     },
     {
         "aodbUniqueId": "20260121407685",
@@ -1201,6 +1201,26 @@ let MUC_Gate_Info = `[
         "Gate": "G26"
     },
     {
+        "aodbUniqueId": "20260121407613",
+        "Date": "21-01-2026",
+        "Flight": "B4 073",
+        "Dest": "DWC",
+        "AirlineCode": "B4",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B14"
+    },
+    {
+        "aodbUniqueId": "20260121407622",
+        "Date": "21-01-2026",
+        "Flight": "LH 1670",
+        "Dest": "CLJ",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G20"
+    },
+    {
         "aodbUniqueId": "20260121407245",
         "Date": "21-01-2026",
         "Flight": "LH 2472",
@@ -2021,16 +2041,6 @@ let MUC_Gate_Info = `[
         "Gate": "C05"
     },
     {
-        "aodbUniqueId": "20260121407613",
-        "Date": "21-01-2026",
-        "Flight": "B4 073",
-        "Dest": "DWC",
-        "AirlineCode": "B4",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B14"
-    },
-    {
         "aodbUniqueId": "20260121407615",
         "Date": "21-01-2026",
         "Flight": "EN 8198",
@@ -2139,16 +2149,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G29"
-    },
-    {
-        "aodbUniqueId": "20260121407622",
-        "Date": "21-01-2026",
-        "Flight": "LH 1670",
-        "Dest": "CLJ",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G20"
     },
     {
         "aodbUniqueId": "20260121407626",
