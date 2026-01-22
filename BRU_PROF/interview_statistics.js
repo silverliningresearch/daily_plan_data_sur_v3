@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "22-01-2026 10:23:19"
+        "download_time": "22-01-2026 10:53:20"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -156802,13 +156802,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-01-22",
+        "quota_id": "CX294-HKG",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-01-22",
         "quota_id": "EY058-AUH",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-01-22",
         "quota_id": "FR2923-AGP",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-01-22",
@@ -156837,8 +156842,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-01-22",
+        "quota_id": "SK4744-OSL",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-01-22",
         "quota_id": "SN1027-KTT",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-01-22",
+        "quota_id": "SN201-DSS",
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2026-01-22",
@@ -156849,6 +156864,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-01-22",
         "quota_id": "SN2641-MUC",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-01-22",
+        "quota_id": "SN345-ACC",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-01-22",
@@ -156874,6 +156894,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-01-22",
         "quota_id": "SN379-NSI",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-01-22",
+        "quota_id": "SN397-CKY",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-01-22",
@@ -156913,7 +156938,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-01-22",
         "quota_id": "UA995-EWR",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-01-22",
