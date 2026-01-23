@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B15",
-        "download_time": "23-01-2026 19:30:58"
+        "download_time": "23-01-2026 19:57:06"
     },
     {
         "aodbUniqueId": "20260123412175",
@@ -1111,16 +1111,6 @@ let MUC_Gate_Info = `[
         "Gate": "H08"
     },
     {
-        "aodbUniqueId": "20260123412239",
-        "Date": "23-01-2026",
-        "Flight": "IB 1314",
-        "Dest": "MAD",
-        "AirlineCode": "IB",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D05"
-    },
-    {
         "aodbUniqueId": "20260123412242",
         "Date": "23-01-2026",
         "Flight": "G9 243",
@@ -1969,6 +1959,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G82"
+    },
+    {
+        "aodbUniqueId": "20260123412239",
+        "Date": "23-01-2026",
+        "Flight": "IB 1314",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D05"
     },
     {
         "aodbUniqueId": "20260123412797",
