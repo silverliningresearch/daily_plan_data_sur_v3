@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G27",
-        "download_time": "29-01-2026 01:56:12"
+        "download_time": "29-01-2026 02:30:50"
     },
     {
         "aodbUniqueId": "20260129426985",
@@ -861,6 +861,16 @@ let MUC_Gate_Info = `[
         "Gate": "H43"
     },
     {
+        "aodbUniqueId": "20260129427208",
+        "Date": "29-01-2026",
+        "Flight": "EN 8204",
+        "Dest": "VCE",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G22"
+    },
+    {
         "aodbUniqueId": "20260129427381",
         "Date": "29-01-2026",
         "Flight": "VL 2506",
@@ -1619,16 +1629,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G34"
-    },
-    {
-        "aodbUniqueId": "20260129427208",
-        "Date": "29-01-2026",
-        "Flight": "EN 8204",
-        "Dest": "VCE",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G22"
     },
     {
         "aodbUniqueId": "20260129427209",
