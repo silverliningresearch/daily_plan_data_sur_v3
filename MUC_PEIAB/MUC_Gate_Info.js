@@ -1,5 +1,16 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20260130429597",
+        "Date": "30-01-2026",
+        "Flight": "BA 957",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C06",
+        "download_time": "30-01-2026 04:57:30"
+    },
+    {
         "aodbUniqueId": "20260130429924",
         "Date": "30-01-2026",
         "Flight": "LH 726",
@@ -7,8 +18,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
-        "Gate": "L30",
-        "download_time": "30-01-2026 04:26:13"
+        "Gate": "L30"
     },
     {
         "aodbUniqueId": "20260130429920",
@@ -269,16 +279,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14"
-    },
-    {
-        "aodbUniqueId": "20260130429597",
-        "Date": "30-01-2026",
-        "Flight": "BA 957",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20260130429602",
