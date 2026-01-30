@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G28",
-        "download_time": "30-01-2026 17:57:27"
+        "download_time": "30-01-2026 18:26:14"
     },
     {
         "aodbUniqueId": "20260130429597",
@@ -301,6 +301,16 @@ let MUC_Gate_Info = `[
         "Gate": "G40"
     },
     {
+        "aodbUniqueId": "20260130430105",
+        "Date": "30-01-2026",
+        "Flight": "AT 823",
+        "Dest": "CMN",
+        "AirlineCode": "AT",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C10"
+    },
+    {
         "aodbUniqueId": "20260130429960",
         "Date": "30-01-2026",
         "Flight": "LH 2368",
@@ -449,6 +459,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K18"
+    },
+    {
+        "aodbUniqueId": "20260130430048",
+        "Date": "30-01-2026",
+        "Flight": "EJU4088",
+        "Dest": "FCO",
+        "AirlineCode": "EJ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D02"
     },
     {
         "aodbUniqueId": "20260130429543",
@@ -851,6 +871,16 @@ let MUC_Gate_Info = `[
         "Gate": "B10"
     },
     {
+        "aodbUniqueId": "20260130430165",
+        "Date": "30-01-2026",
+        "Flight": "LH 2310",
+        "Dest": "AMS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K11"
+    },
+    {
         "aodbUniqueId": "20260130429636",
         "Date": "30-01-2026",
         "Flight": "LH 2206",
@@ -998,7 +1028,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K16"
+        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20260130429680",
@@ -1551,6 +1581,16 @@ let MUC_Gate_Info = `[
         "Gate": "G02"
     },
     {
+        "aodbUniqueId": "20260130429822",
+        "Date": "30-01-2026",
+        "Flight": "LH 1986",
+        "Dest": "CGN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K16"
+    },
+    {
         "aodbUniqueId": "20260130429847",
         "Date": "30-01-2026",
         "Flight": "OU 437",
@@ -1689,16 +1729,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G30"
-    },
-    {
-        "aodbUniqueId": "20260130429822",
-        "Date": "30-01-2026",
-        "Flight": "LH 1986",
-        "Dest": "CGN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K16"
     },
     {
         "aodbUniqueId": "20260130429825",
@@ -2131,16 +2161,6 @@ let MUC_Gate_Info = `[
         "Gate": "D17"
     },
     {
-        "aodbUniqueId": "20260130430105",
-        "Date": "30-01-2026",
-        "Flight": "AT 823",
-        "Dest": "CMN",
-        "AirlineCode": "AT",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C10"
-    },
-    {
         "aodbUniqueId": "20260130429956",
         "Date": "30-01-2026",
         "Flight": "LH 452",
@@ -2239,16 +2259,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K06"
-    },
-    {
-        "aodbUniqueId": "20260130430165",
-        "Date": "30-01-2026",
-        "Flight": "LH 2310",
-        "Dest": "AMS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K09"
     },
     {
         "aodbUniqueId": "20260130430166",
@@ -3269,16 +3279,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G43"
-    },
-    {
-        "aodbUniqueId": "20260130430048",
-        "Date": "30-01-2026",
-        "Flight": "EJU4088",
-        "Dest": "FCO",
-        "AirlineCode": "EJ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D02"
     },
     {
         "aodbUniqueId": "20260130430056",
