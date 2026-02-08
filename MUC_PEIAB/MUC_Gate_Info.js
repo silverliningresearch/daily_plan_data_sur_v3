@@ -1,5 +1,16 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20260208452961",
+        "Date": "08-02-2026",
+        "Flight": "4Y 212",
+        "Dest": "RAK",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H45",
+        "download_time": "08-02-2026 09:31:33"
+    },
+    {
         "aodbUniqueId": "20260208452303",
         "Date": "08-02-2026",
         "Flight": "QR 058",
@@ -7,8 +18,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "QR",
         "terminalIdentifier": "1",
         "GateArea": "T1B",
-        "Gate": "B15",
-        "download_time": "08-02-2026 09:01:08"
+        "Gate": "B15"
     },
     {
         "aodbUniqueId": "20260208452305",
@@ -3479,16 +3489,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G72"
-    },
-    {
-        "aodbUniqueId": "20260208452961",
-        "Date": "08-02-2026",
-        "Flight": "4Y 212",
-        "Dest": "RAK",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H45"
     },
     {
         "aodbUniqueId": "20260208452962",
