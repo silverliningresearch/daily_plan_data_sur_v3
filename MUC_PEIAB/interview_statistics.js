@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "CDG",
         "AirlineCode": "AF",
         "completed_interviews": 7,
-        "download_time": "08-02-2026 00:57:26"
+        "download_time": "08-02-2026 01:31:54"
     },
     {
         "Interview_Date": "2023-01-31",
