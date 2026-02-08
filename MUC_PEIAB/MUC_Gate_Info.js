@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H45",
-        "download_time": "08-02-2026 11:58:41"
+        "download_time": "08-02-2026 12:27:14"
     },
     {
         "aodbUniqueId": "20260208452591",
@@ -428,7 +428,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G33"
+        "Gate": "G20"
     },
     {
         "aodbUniqueId": "20260208452474",
@@ -538,7 +538,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "PC",
         "terminalIdentifier": "1",
         "GateArea": "T1C",
-        "Gate": "C05"
+        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20260208452380",
@@ -831,16 +831,6 @@ let MUC_Gate_Info = `[
         "Gate": "G10"
     },
     {
-        "aodbUniqueId": "20260208452407",
-        "Date": "08-02-2026",
-        "Flight": "MS 788",
-        "Dest": "CAI",
-        "AirlineCode": "MS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L03"
-    },
-    {
         "aodbUniqueId": "20260208452408",
         "Date": "08-02-2026",
         "Flight": "EN 8296",
@@ -867,8 +857,8 @@ let MUC_Gate_Info = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C10"
+        "GateArea": "T1B",
+        "Gate": "B10"
     },
     {
         "aodbUniqueId": "20260208452412",
@@ -1009,6 +999,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G82"
+    },
+    {
+        "aodbUniqueId": "20260208452720",
+        "Date": "08-02-2026",
+        "Flight": "XQ 131",
+        "Dest": "AYT",
+        "AirlineCode": "XQ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C02"
     },
     {
         "aodbUniqueId": "20260208452871",
@@ -1179,6 +1179,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K07"
+    },
+    {
+        "aodbUniqueId": "20260208452407",
+        "Date": "08-02-2026",
+        "Flight": "MS 788",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L03"
     },
     {
         "aodbUniqueId": "20260208452718",
@@ -1531,6 +1541,16 @@ let MUC_Gate_Info = `[
         "Gate": "G38"
     },
     {
+        "aodbUniqueId": "20260208452329",
+        "Date": "08-02-2026",
+        "Flight": "LH 2070",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G24"
+    },
+    {
         "aodbUniqueId": "20260208452341",
         "Date": "08-02-2026",
         "Flight": "LH 1662",
@@ -1659,16 +1679,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B17"
-    },
-    {
-        "aodbUniqueId": "20260208452329",
-        "Date": "08-02-2026",
-        "Flight": "LH 2070",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20260208452331",
@@ -2471,16 +2481,6 @@ let MUC_Gate_Info = `[
         "Gate": "K18"
     },
     {
-        "aodbUniqueId": "20260208452720",
-        "Date": "08-02-2026",
-        "Flight": "XQ 131",
-        "Dest": "AYT",
-        "AirlineCode": "XQ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C02"
-    },
-    {
         "aodbUniqueId": "20260208452722",
         "Date": "08-02-2026",
         "Flight": "EN 8244",
@@ -3107,8 +3107,8 @@ let MUC_Gate_Info = `[
         "Dest": "PRN",
         "AirlineCode": "EN",
         "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B17"
+        "GateArea": "T1C",
+        "Gate": "C10"
     },
     {
         "aodbUniqueId": "20260208452890",
