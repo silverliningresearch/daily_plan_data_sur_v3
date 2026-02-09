@@ -1,5 +1,26 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20260209455217",
+        "Date": "09-02-2026",
+        "Flight": "EN 8406",
+        "Dest": "LJU",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K18",
+        "download_time": "09-02-2026 05:59:37"
+    },
+    {
+        "aodbUniqueId": "20260209455463",
+        "Date": "09-02-2026",
+        "Flight": "EN 8404",
+        "Dest": "LJU",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K24"
+    },
+    {
         "aodbUniqueId": "20260209455075",
         "Date": "09-02-2026",
         "Flight": "DE 4304",
@@ -7,8 +28,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "DE",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D06",
-        "download_time": "09-02-2026 05:29:34"
+        "Gate": "D06"
     },
     {
         "aodbUniqueId": "20260209454851",
@@ -1601,16 +1621,6 @@ let MUC_Gate_Info = `[
         "Gate": "G32"
     },
     {
-        "aodbUniqueId": "20260209455217",
-        "Date": "09-02-2026",
-        "Flight": "EN 8406",
-        "Dest": "LJU",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K18"
-    },
-    {
         "aodbUniqueId": "20260209454968",
         "Date": "09-02-2026",
         "Flight": "LH 1828",
@@ -2729,16 +2739,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K12"
-    },
-    {
-        "aodbUniqueId": "20260209455463",
-        "Date": "09-02-2026",
-        "Flight": "EN 8404",
-        "Dest": "LJU",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K24"
     },
     {
         "aodbUniqueId": "20260209455464",
