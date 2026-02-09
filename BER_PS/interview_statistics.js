@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-01-03",
         "quota_id": "AMS - KLM Royal Dutch Airlines",
         "Number of interviews": 2,
-        "download_time": "09-02-2026 09:57:08"
+        "download_time": "09-02-2026 10:21:22"
     },
     {
         "InterviewDate": "2024-01-03",
@@ -22783,77 +22783,32 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-01-18",
         "quota_id": "AYT - Sun Express",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "BCN - Vueling Airlines",
-        "Number of interviews": 7
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "BEG - Wizz Air",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "BRU - Brussels Airlines",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "CAI - Egypt Air",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "CDG - Air France",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-01-18",
         "quota_id": "CPH - SAS-Scandinavian Airlines System",
-        "Number of interviews": 10
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-01-18",
         "quota_id": "FRA - Lufthansa",
-        "Number of interviews": 9
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-01-18",
         "quota_id": "IST - Turkish Airlines",
-        "Number of interviews": 7
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-01-18",
         "quota_id": "LCY - British Airways",
-        "Number of interviews": 7
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-01-18",
         "quota_id": "LHR - British Airways",
-        "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "MAN - Ryanair",
-        "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "PEK - Hainan Airlines",
         "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "PMI - Eurowings",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-01-18",
-        "quota_id": "PMI - Ryanair",
-        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-01-19",
@@ -22959,31 +22914,6 @@ let interview_statistics = `[
         "InterviewDate": "2026-01-23",
         "quota_id": "DOH - Qatar Airways",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2026-01-25",
-        "quota_id": "AGP - Ryanair",
-        "Number of interviews": 8
-    },
-    {
-        "InterviewDate": "2026-01-25",
-        "quota_id": "BGY - Ryanair",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2026-01-25",
-        "quota_id": "FRA - Lufthansa",
-        "Number of interviews": 8
-    },
-    {
-        "InterviewDate": "2026-01-25",
-        "quota_id": "LHR - British Airways",
-        "Number of interviews": 8
-    },
-    {
-        "InterviewDate": "2026-01-25",
-        "quota_id": "ZRH - Swiss",
-        "Number of interviews": 12
     },
     {
         "InterviewDate": "2026-01-27",
@@ -23368,7 +23298,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-02-09",
         "quota_id": "LIN - easyJet Europe",
-        "Number of interviews": 4
+        "Number of interviews": 10
     }
 ]    
 
