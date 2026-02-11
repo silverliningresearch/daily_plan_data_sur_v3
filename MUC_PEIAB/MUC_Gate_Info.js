@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H02",
-        "download_time": "11-02-2026 15:29:54"
+        "download_time": "11-02-2026 15:58:47"
     },
     {
         "aodbUniqueId": "20260211459807",
@@ -298,7 +298,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EJ",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D11"
+        "Gate": "D01"
     },
     {
         "aodbUniqueId": "20260211459847",
@@ -1791,16 +1791,6 @@ let MUC_Gate_Info = `[
         "Gate": "B17"
     },
     {
-        "aodbUniqueId": "20260211460205",
-        "Date": "11-02-2026",
-        "Flight": "DX 146",
-        "Dest": "PAD",
-        "AirlineCode": "DX",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G11"
-    },
-    {
         "aodbUniqueId": "20260211460206",
         "Date": "11-02-2026",
         "Flight": "LH 1668",
@@ -1829,6 +1819,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H44"
+    },
+    {
+        "aodbUniqueId": "20260211460205",
+        "Date": "11-02-2026",
+        "Flight": "DX 146",
+        "Dest": "PAD",
+        "AirlineCode": "DX",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G11"
     },
     {
         "aodbUniqueId": "20260211460195",
