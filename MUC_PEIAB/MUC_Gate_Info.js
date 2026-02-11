@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H02",
-        "download_time": "11-02-2026 14:55:27"
+        "download_time": "11-02-2026 15:29:54"
     },
     {
         "aodbUniqueId": "20260211459807",
@@ -501,16 +501,6 @@ let MUC_Gate_Info = `[
         "Gate": "D03"
     },
     {
-        "aodbUniqueId": "20260211459896",
-        "Date": "11-02-2026",
-        "Flight": "LH 2220",
-        "Dest": "TLS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G24"
-    },
-    {
         "aodbUniqueId": "20260211459902",
         "Date": "11-02-2026",
         "Flight": "EN 8254",
@@ -529,6 +519,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D06"
+    },
+    {
+        "aodbUniqueId": "20260211459896",
+        "Date": "11-02-2026",
+        "Flight": "LH 2220",
+        "Dest": "TLS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20260211459903",
@@ -2657,8 +2657,8 @@ let MUC_Gate_Info = `[
         "Dest": "MAN",
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H30"
+        "GateArea": "T2 Sat E5",
+        "Gate": "L25"
     },
     {
         "aodbUniqueId": "20260211460345",
@@ -2858,7 +2858,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K25"
+        "Gate": "K08"
     },
     {
         "aodbUniqueId": "20260211460415",
