@@ -5,7 +5,7 @@ let location_percent = `[
         "Location": "Unknown",
         "Exit_belt": "Unknown",
         "Percentage": 100,
-        "download_time": "12-02-2026 15:28:49"
+        "download_time": "12-02-2026 15:57:49"
     },
     {
         "Year": "2023",
