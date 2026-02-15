@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G63",
-        "download_time": "15-02-2026 20:25:49"
+        "download_time": "15-02-2026 20:55:47"
     },
     {
         "aodbUniqueId": "20260215471373",
@@ -1701,6 +1701,16 @@ let MUC_Gate_Info = `[
         "Gate": "G28"
     },
     {
+        "aodbUniqueId": "20260215471107",
+        "Date": "15-02-2026",
+        "Flight": "LH 1606",
+        "Dest": "RZE",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G27"
+    },
+    {
         "aodbUniqueId": "20260215470806",
         "Date": "15-02-2026",
         "Flight": "LH 2200",
@@ -2589,16 +2599,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G30"
-    },
-    {
-        "aodbUniqueId": "20260215471107",
-        "Date": "15-02-2026",
-        "Flight": "LH 1606",
-        "Dest": "RZE",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G27"
     },
     {
         "aodbUniqueId": "20260215471109",
