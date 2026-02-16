@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K01",
-        "download_time": "16-02-2026 02:55:58"
+        "download_time": "16-02-2026 03:30:28"
     },
     {
         "aodbUniqueId": "20260216473314",
@@ -3371,16 +3371,6 @@ let MUC_Gate_Info = `[
         "Gate": "G28"
     },
     {
-        "aodbUniqueId": "20260216474101",
-        "Date": "16-02-2026",
-        "Flight": "VL 2484",
-        "Dest": "LHR",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H40"
-    },
-    {
         "aodbUniqueId": "20260216474105",
         "Date": "16-02-2026",
         "Flight": "EJU3946",
@@ -3539,6 +3529,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K22"
+    },
+    {
+        "aodbUniqueId": "20260216474101",
+        "Date": "16-02-2026",
+        "Flight": "VL 2484",
+        "Dest": "LHR",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H40"
     },
     {
         "aodbUniqueId": "20260216474052",
