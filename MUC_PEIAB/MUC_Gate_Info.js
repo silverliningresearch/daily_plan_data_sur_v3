@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G18",
-        "download_time": "18-02-2026 12:26:50"
+        "download_time": "18-02-2026 12:56:42"
     },
     {
         "aodbUniqueId": "20260218478812",
@@ -159,16 +159,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G09"
-    },
-    {
-        "aodbUniqueId": "20260218478519",
-        "Date": "18-02-2026",
-        "Flight": "VL 1650",
-        "Dest": "OTP",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K01"
     },
     {
         "aodbUniqueId": "20260218478993",
@@ -1591,16 +1581,6 @@ let MUC_Gate_Info = `[
         "Gate": "G48"
     },
     {
-        "aodbUniqueId": "20260218478713",
-        "Date": "18-02-2026",
-        "Flight": "LH 109",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G32"
-    },
-    {
         "aodbUniqueId": "20260218478717",
         "Date": "18-02-2026",
         "Flight": "EN 8196",
@@ -1669,16 +1649,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K04"
-    },
-    {
-        "aodbUniqueId": "20260218478807",
-        "Date": "18-02-2026",
-        "Flight": "LH 2302",
-        "Dest": "AMS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G10"
     },
     {
         "aodbUniqueId": "20260218478808",
@@ -2521,16 +2491,6 @@ let MUC_Gate_Info = `[
         "Gate": "D15"
     },
     {
-        "aodbUniqueId": "20260218479106",
-        "Date": "18-02-2026",
-        "Flight": "VL 1812",
-        "Dest": "BCN",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G34"
-    },
-    {
         "aodbUniqueId": "20260218479112",
         "Date": "18-02-2026",
         "Flight": "LH 1626",
@@ -2679,16 +2639,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G18"
-    },
-    {
-        "aodbUniqueId": "20260218479141",
-        "Date": "18-02-2026",
-        "Flight": "LH 117",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260218479041",
@@ -3469,6 +3419,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K11"
+    },
+    {
+        "aodbUniqueId": "20260218479106",
+        "Date": "18-02-2026",
+        "Flight": "VL 1812",
+        "Dest": "BCN",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20260218478819",
