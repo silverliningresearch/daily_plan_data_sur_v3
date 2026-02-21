@@ -8,7 +8,17 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G81",
-        "download_time": "21-02-2026 08:29:07"
+        "download_time": "21-02-2026 08:56:26"
+    },
+    {
+        "aodbUniqueId": "20260221486800",
+        "Date": "21-02-2026",
+        "Flight": "LH 1906",
+        "Dest": "CTA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G11"
     },
     {
         "aodbUniqueId": "20260221486526",
@@ -119,6 +129,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G14"
+    },
+    {
+        "aodbUniqueId": "20260221487146",
+        "Date": "21-02-2026",
+        "Flight": "LH 2058",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20260221486787",
@@ -401,6 +421,16 @@ let MUC_Gate_Info = `[
         "Gate": "L11"
     },
     {
+        "aodbUniqueId": "20260221486604",
+        "Date": "21-02-2026",
+        "Flight": "OS 184",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G09"
+    },
+    {
         "aodbUniqueId": "20260221486589",
         "Date": "21-02-2026",
         "Flight": "LH 2460",
@@ -469,16 +499,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G23"
-    },
-    {
-        "aodbUniqueId": "20260221486604",
-        "Date": "21-02-2026",
-        "Flight": "OS 184",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G43"
     },
     {
         "aodbUniqueId": "20260221486605",
@@ -1139,16 +1159,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G30"
-    },
-    {
-        "aodbUniqueId": "20260221486800",
-        "Date": "21-02-2026",
-        "Flight": "LH 1906",
-        "Dest": "CTA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G11"
     },
     {
         "aodbUniqueId": "20260221486802",
@@ -2588,7 +2598,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UA",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H14"
+        "Gate": "H08"
     },
     {
         "aodbUniqueId": "20260221487082",
@@ -2668,7 +2678,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UA",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H08"
+        "Gate": "H14"
     },
     {
         "aodbUniqueId": "20260221487135",
@@ -2749,16 +2759,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H38"
-    },
-    {
-        "aodbUniqueId": "20260221487146",
-        "Date": "21-02-2026",
-        "Flight": "LH 2058",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20260221487147",
@@ -3358,7 +3358,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "CA",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H38"
+        "Gate": "H44"
     },
     {
         "aodbUniqueId": "20260221487332",
