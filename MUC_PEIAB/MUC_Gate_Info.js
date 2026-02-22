@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G30",
-        "download_time": "22-02-2026 06:26:32"
+        "download_time": "22-02-2026 07:00:00"
     },
     {
         "aodbUniqueId": "20260222489473",
@@ -19,6 +19,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B09"
+    },
+    {
+        "aodbUniqueId": "20260222489730",
+        "Date": "22-02-2026",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L03"
     },
     {
         "aodbUniqueId": "20260222489871",
@@ -1949,16 +1959,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G33"
-    },
-    {
-        "aodbUniqueId": "20260222489730",
-        "Date": "22-02-2026",
-        "Flight": "LH 2476",
-        "Dest": "LHR",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L03"
     },
     {
         "aodbUniqueId": "20260222489731",
