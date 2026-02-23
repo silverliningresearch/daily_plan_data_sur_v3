@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G13",
-        "download_time": "23-02-2026 06:57:29"
+        "download_time": "23-02-2026 07:32:42"
     },
     {
         "aodbUniqueId": "20260223499342",
@@ -141,6 +141,36 @@ let MUC_Gate_Info = `[
         "Gate": "K23"
     },
     {
+        "aodbUniqueId": "20260223500109",
+        "Date": "23-02-2026",
+        "Flight": "LH 2246",
+        "Dest": "LYS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G81"
+    },
+    {
+        "aodbUniqueId": "20260223499748",
+        "Date": "23-02-2026",
+        "Flight": "EY 126",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1B",
+        "Gate": "B15"
+    },
+    {
+        "aodbUniqueId": "20260223499766",
+        "Date": "23-02-2026",
+        "Flight": "AC 837",
+        "Dest": "YYZ",
+        "AirlineCode": "AC",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L03"
+    },
+    {
         "aodbUniqueId": "20260223500701",
         "Date": "23-02-2026",
         "Flight": "AA 785",
@@ -179,6 +209,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K12"
+    },
+    {
+        "aodbUniqueId": "20260223500283",
+        "Date": "23-02-2026",
+        "Flight": "OU 4439",
+        "Dest": "SPU",
+        "AirlineCode": "OU",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G19"
     },
     {
         "aodbUniqueId": "20260223499365",
@@ -1561,16 +1601,6 @@ let MUC_Gate_Info = `[
         "Gate": "H18"
     },
     {
-        "aodbUniqueId": "20260223499748",
-        "Date": "23-02-2026",
-        "Flight": "EY 126",
-        "Dest": "AUH",
-        "AirlineCode": "EY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B15"
-    },
-    {
         "aodbUniqueId": "20260223499976",
         "Date": "23-02-2026",
         "Flight": "EZY8642",
@@ -1629,16 +1659,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B14"
-    },
-    {
-        "aodbUniqueId": "20260223499766",
-        "Date": "23-02-2026",
-        "Flight": "AC 837",
-        "Dest": "YYZ",
-        "AirlineCode": "AC",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L03"
     },
     {
         "aodbUniqueId": "20260223499990",
@@ -1819,16 +1839,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C10"
-    },
-    {
-        "aodbUniqueId": "20260223500109",
-        "Date": "23-02-2026",
-        "Flight": "LH 2246",
-        "Dest": "LYS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G81"
     },
     {
         "aodbUniqueId": "20260223500110",
@@ -2289,16 +2299,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G81"
-    },
-    {
-        "aodbUniqueId": "20260223500283",
-        "Date": "23-02-2026",
-        "Flight": "OU 4439",
-        "Dest": "SPU",
-        "AirlineCode": "OU",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G19"
     },
     {
         "aodbUniqueId": "20260223500284",
