@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H05",
-        "download_time": "24-02-2026 12:55:46"
+        "download_time": "24-02-2026 13:30:31"
     },
     {
         "aodbUniqueId": "20260224500014",
@@ -89,6 +89,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G43"
+    },
+    {
+        "aodbUniqueId": "20260224500356",
+        "Date": "24-02-2026",
+        "Flight": "LH 2088",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260224500889",
@@ -199,6 +209,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H40"
+    },
+    {
+        "aodbUniqueId": "20260224499770",
+        "Date": "24-02-2026",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20260224500343",
@@ -489,6 +509,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B10"
+    },
+    {
+        "aodbUniqueId": "20260224499606",
+        "Date": "24-02-2026",
+        "Flight": "LH 109",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260224499896",
@@ -1081,16 +1111,6 @@ let MUC_Gate_Info = `[
         "Gate": "K19"
     },
     {
-        "aodbUniqueId": "20260224499606",
-        "Date": "24-02-2026",
-        "Flight": "LH 109",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G32"
-    },
-    {
         "aodbUniqueId": "20260224499608",
         "Date": "24-02-2026",
         "Flight": "AZ 453",
@@ -1139,16 +1159,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L13"
-    },
-    {
-        "aodbUniqueId": "20260224499770",
-        "Date": "24-02-2026",
-        "Flight": "KU 174",
-        "Dest": "KWI",
-        "AirlineCode": "KU",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20260224499771",
@@ -2109,16 +2119,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G20"
-    },
-    {
-        "aodbUniqueId": "20260224500356",
-        "Date": "24-02-2026",
-        "Flight": "LH 2088",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260224500352",
