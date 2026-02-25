@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14",
-        "download_time": "25-02-2026 16:56:09"
+        "download_time": "25-02-2026 17:31:07"
     },
     {
         "aodbUniqueId": "20260225504841",
@@ -1331,16 +1331,6 @@ let MUC_Gate_Info = `[
         "Gate": "G43"
     },
     {
-        "aodbUniqueId": "20260225504633",
-        "Date": "25-02-2026",
-        "Flight": "LH 2140",
-        "Dest": "FMO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G24"
-    },
-    {
         "aodbUniqueId": "20260225504637",
         "Date": "25-02-2026",
         "Flight": "B4 073",
@@ -1438,7 +1428,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K07"
+        "Gate": "K08"
     },
     {
         "aodbUniqueId": "20260225504499",
@@ -1648,7 +1638,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G40"
+        "Gate": "G38"
     },
     {
         "aodbUniqueId": "20260225504526",
@@ -1969,6 +1959,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D06"
+    },
+    {
+        "aodbUniqueId": "20260225504633",
+        "Date": "25-02-2026",
+        "Flight": "LH 2140",
+        "Dest": "FMO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G24"
+    },
+    {
+        "aodbUniqueId": "20260225505032",
+        "Date": "25-02-2026",
+        "Flight": "EJU4088",
+        "Dest": "FCO",
+        "AirlineCode": "EJ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D15"
     },
     {
         "aodbUniqueId": "20260225504910",
@@ -2501,16 +2511,6 @@ let MUC_Gate_Info = `[
         "Gate": "K22"
     },
     {
-        "aodbUniqueId": "20260225505032",
-        "Date": "25-02-2026",
-        "Flight": "EJU4088",
-        "Dest": "FCO",
-        "AirlineCode": "EJ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D15"
-    },
-    {
         "aodbUniqueId": "20260225505034",
         "Date": "25-02-2026",
         "Flight": "AF 1123",
@@ -2657,8 +2657,8 @@ let MUC_Gate_Info = `[
         "Dest": "HAJ",
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G04"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K06"
     },
     {
         "aodbUniqueId": "20260225505211",
