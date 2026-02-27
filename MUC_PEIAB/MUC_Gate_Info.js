@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G81",
-        "download_time": "27-02-2026 18:26:49"
+        "download_time": "27-02-2026 18:56:30"
     },
     {
         "aodbUniqueId": "20260227512179",
@@ -1101,16 +1101,6 @@ let MUC_Gate_Info = `[
         "Gate": "G08"
     },
     {
-        "aodbUniqueId": "20260227512296",
-        "Date": "27-02-2026",
-        "Flight": "SM 2931",
-        "Dest": "HRG",
-        "AirlineCode": "SM",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C06"
-    },
-    {
         "aodbUniqueId": "20260227511901",
         "Date": "27-02-2026",
         "Flight": "MS 788",
@@ -1298,7 +1288,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
-        "Gate": "G30"
+        "Gate": "G26"
     },
     {
         "aodbUniqueId": "20260227511907",
@@ -1479,6 +1469,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L04"
+    },
+    {
+        "aodbUniqueId": "20260227511682",
+        "Date": "27-02-2026",
+        "Flight": "A3 807",
+        "Dest": "ATH",
+        "AirlineCode": "A3",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K25"
     },
     {
         "aodbUniqueId": "20260227511656",
@@ -1901,16 +1901,6 @@ let MUC_Gate_Info = `[
         "Gate": "G28"
     },
     {
-        "aodbUniqueId": "20260227511682",
-        "Date": "27-02-2026",
-        "Flight": "A3 807",
-        "Dest": "ATH",
-        "AirlineCode": "A3",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K25"
-    },
-    {
         "aodbUniqueId": "20260227511685",
         "Date": "27-02-2026",
         "Flight": "LH 2216",
@@ -2198,7 +2188,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D03"
+        "Gate": "D01"
     },
     {
         "aodbUniqueId": "20260227511904",
@@ -2988,7 +2978,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VY",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D15"
+        "Gate": "D06"
     },
     {
         "aodbUniqueId": "20260227512122",
@@ -3238,7 +3228,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D06"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260227512127",
@@ -3268,7 +3258,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H16"
+        "Gate": "H18"
     },
     {
         "aodbUniqueId": "20260227512136",
@@ -3719,6 +3709,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K26"
+    },
+    {
+        "aodbUniqueId": "20260227512296",
+        "Date": "27-02-2026",
+        "Flight": "SM 2931",
+        "Dest": "HRG",
+        "AirlineCode": "SM",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20260227512161",
