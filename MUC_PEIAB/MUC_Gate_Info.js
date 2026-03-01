@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K26",
-        "download_time": "01-03-2026 21:33:37"
+        "download_time": "01-03-2026 22:01:19"
     },
     {
         "aodbUniqueId": "20260301526967",
@@ -1241,6 +1241,16 @@ let MUC_Gate_Info = `[
         "Gate": "K18"
     },
     {
+        "aodbUniqueId": "20260301527166",
+        "Date": "01-03-2026",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K06"
+    },
+    {
         "aodbUniqueId": "20260301527211",
         "Date": "01-03-2026",
         "Flight": "LH 1690",
@@ -1279,6 +1289,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G48"
+    },
+    {
+        "aodbUniqueId": "20260301527038",
+        "Date": "01-03-2026",
+        "Flight": "EN 8244",
+        "Dest": "BLQ",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G42"
     },
     {
         "aodbUniqueId": "20260301526631",
@@ -2179,16 +2199,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K08"
-    },
-    {
-        "aodbUniqueId": "20260301527038",
-        "Date": "01-03-2026",
-        "Flight": "EN 8244",
-        "Dest": "BLQ",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G42"
     },
     {
         "aodbUniqueId": "20260301527040",
@@ -3229,16 +3239,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K24"
-    },
-    {
-        "aodbUniqueId": "20260301527166",
-        "Date": "01-03-2026",
-        "Flight": "LH 2456",
-        "Dest": "OSL",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K06"
     },
     {
         "aodbUniqueId": "20260301527169",
