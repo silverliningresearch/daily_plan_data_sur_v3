@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G29",
-        "download_time": "04-03-2026 09:30:50"
+        "download_time": "04-03-2026 09:59:15"
     },
     {
         "aodbUniqueId": "20260304535448",
@@ -119,6 +119,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B17"
+    },
+    {
+        "aodbUniqueId": "20260304535310",
+        "Date": "04-03-2026",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20260304535648",
@@ -1809,16 +1819,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G44"
-    },
-    {
-        "aodbUniqueId": "20260304535310",
-        "Date": "04-03-2026",
-        "Flight": "LH 2060",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20260304535478",
@@ -3577,8 +3577,8 @@ let MUC_Gate_Info = `[
         "Dest": "DXB",
         "AirlineCode": "EK",
         "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B15"
+        "GateArea": "T1C",
+        "Gate": "C09"
     },
     {
         "aodbUniqueId": "20260304535682",
