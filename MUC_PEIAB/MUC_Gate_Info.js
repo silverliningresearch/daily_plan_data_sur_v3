@@ -8,7 +8,27 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D06",
-        "download_time": "05-03-2026 08:26:21"
+        "download_time": "05-03-2026 08:56:12"
+    },
+    {
+        "aodbUniqueId": "20260305537662",
+        "Date": "05-03-2026",
+        "Flight": "EW 9081",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D03"
+    },
+    {
+        "aodbUniqueId": "20260305537670",
+        "Date": "05-03-2026",
+        "Flight": "4Y 312",
+        "Dest": "TFS",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G11"
     },
     {
         "aodbUniqueId": "20260305537881",
@@ -421,16 +441,6 @@ let MUC_Gate_Info = `[
         "Gate": "G65"
     },
     {
-        "aodbUniqueId": "20260305537670",
-        "Date": "05-03-2026",
-        "Flight": "4Y 312",
-        "Dest": "TFS",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G11"
-    },
-    {
         "aodbUniqueId": "20260305537672",
         "Date": "05-03-2026",
         "Flight": "TP 555",
@@ -509,16 +519,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G20"
-    },
-    {
-        "aodbUniqueId": "20260305537662",
-        "Date": "05-03-2026",
-        "Flight": "EW 9081",
-        "Dest": "DUS",
-        "AirlineCode": "EW",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260305537663",
@@ -1131,16 +1131,6 @@ let MUC_Gate_Info = `[
         "Gate": "L10"
     },
     {
-        "aodbUniqueId": "20260305538033",
-        "Date": "05-03-2026",
-        "Flight": "UA 160",
-        "Dest": "IAH",
-        "AirlineCode": "UA",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H08"
-    },
-    {
         "aodbUniqueId": "20260305538034",
         "Date": "05-03-2026",
         "Flight": "LH 2070",
@@ -1529,6 +1519,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C04"
+    },
+    {
+        "aodbUniqueId": "20260305538033",
+        "Date": "05-03-2026",
+        "Flight": "UA 160",
+        "Dest": "IAH",
+        "AirlineCode": "UA",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H08"
     },
     {
         "aodbUniqueId": "20260305537870",
@@ -3191,16 +3191,6 @@ let MUC_Gate_Info = `[
         "Gate": "G11"
     },
     {
-        "aodbUniqueId": "20260305538339",
-        "Date": "05-03-2026",
-        "Flight": "LH 2260",
-        "Dest": "MRS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G38"
-    },
-    {
         "aodbUniqueId": "20260305538340",
         "Date": "05-03-2026",
         "Flight": "LH 2272",
@@ -3619,6 +3609,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G65"
+    },
+    {
+        "aodbUniqueId": "20260305538339",
+        "Date": "05-03-2026",
+        "Flight": "LH 2260",
+        "Dest": "MRS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G38"
     },
     {
         "aodbUniqueId": "20260305538454",
