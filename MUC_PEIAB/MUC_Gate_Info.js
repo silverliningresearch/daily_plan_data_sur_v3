@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H38",
-        "download_time": "06-03-2026 20:55:39"
+        "download_time": "06-03-2026 21:30:09"
     },
     {
         "aodbUniqueId": "20260306568103",
@@ -279,6 +279,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K20"
+    },
+    {
+        "aodbUniqueId": "20260306540696",
+        "Date": "06-03-2026",
+        "Flight": "LH 768",
+        "Dest": "SIN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L15"
+    },
+    {
+        "aodbUniqueId": "20260306540611",
+        "Date": "06-03-2026",
+        "Flight": "LH 1626",
+        "Dest": "KRK",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20260306540638",
@@ -1391,16 +1411,6 @@ let MUC_Gate_Info = `[
         "Gate": "D04"
     },
     {
-        "aodbUniqueId": "20260306540611",
-        "Date": "06-03-2026",
-        "Flight": "LH 1626",
-        "Dest": "KRK",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K07"
-    },
-    {
         "aodbUniqueId": "20260306540617",
         "Date": "06-03-2026",
         "Flight": "OS 188",
@@ -1769,16 +1779,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G26"
-    },
-    {
-        "aodbUniqueId": "20260306540696",
-        "Date": "06-03-2026",
-        "Flight": "LH 768",
-        "Dest": "SIN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L15"
     },
     {
         "aodbUniqueId": "20260306540700",
