@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K15",
-        "download_time": "07-03-2026 20:56:27"
+        "download_time": "07-03-2026 21:30:17"
     },
     {
         "aodbUniqueId": "20260307543552",
@@ -2421,16 +2421,6 @@ let MUC_Gate_Info = `[
         "Gate": "K18"
     },
     {
-        "aodbUniqueId": "20260307543576",
-        "Date": "07-03-2026",
-        "Flight": "VL 1816",
-        "Dest": "BCN",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G02"
-    },
-    {
         "aodbUniqueId": "20260307543579",
         "Date": "07-03-2026",
         "Flight": "BA 945",
@@ -3379,6 +3369,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03"
+    },
+    {
+        "aodbUniqueId": "20260307543576",
+        "Date": "07-03-2026",
+        "Flight": "VL 1816",
+        "Dest": "BCN",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G02"
     },
     {
         "aodbUniqueId": "20260307543426",
