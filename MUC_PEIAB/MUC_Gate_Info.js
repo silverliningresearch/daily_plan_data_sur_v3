@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K15",
-        "download_time": "07-03-2026 06:26:52"
+        "download_time": "07-03-2026 06:56:30"
     },
     {
         "aodbUniqueId": "20260307543552",
@@ -31,6 +31,16 @@ let MUC_Gate_Info = `[
         "Gate": "D06"
     },
     {
+        "aodbUniqueId": "20260307543471",
+        "Date": "07-03-2026",
+        "Flight": "A3 4365",
+        "Dest": "RHO",
+        "AirlineCode": "A3",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K14"
+    },
+    {
         "aodbUniqueId": "20260307544057",
         "Date": "07-03-2026",
         "Flight": "LH 1928",
@@ -39,6 +49,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3/E4",
         "Gate": "G31"
+    },
+    {
+        "aodbUniqueId": "20260307543566",
+        "Date": "07-03-2026",
+        "Flight": "LH 2246",
+        "Dest": "LYS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G63"
+    },
+    {
+        "aodbUniqueId": "20260307543799",
+        "Date": "07-03-2026",
+        "Flight": "VL 2004",
+        "Dest": "DUS",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3/E4",
+        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20260307571389",
@@ -831,16 +861,6 @@ let MUC_Gate_Info = `[
         "Gate": "B09"
     },
     {
-        "aodbUniqueId": "20260307543799",
-        "Date": "07-03-2026",
-        "Flight": "VL 2004",
-        "Dest": "DUS",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G30"
-    },
-    {
         "aodbUniqueId": "20260307543801",
         "Date": "07-03-2026",
         "Flight": "LH 2464",
@@ -1059,16 +1079,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C10"
-    },
-    {
-        "aodbUniqueId": "20260307543471",
-        "Date": "07-03-2026",
-        "Flight": "A3 4365",
-        "Dest": "RHO",
-        "AirlineCode": "A3",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K14"
     },
     {
         "aodbUniqueId": "20260307543472",
@@ -2239,16 +2249,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1B",
         "Gate": "B15"
-    },
-    {
-        "aodbUniqueId": "20260307543566",
-        "Date": "07-03-2026",
-        "Flight": "LH 2246",
-        "Dest": "LYS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3/E4",
-        "Gate": "G63"
     },
     {
         "aodbUniqueId": "20260307543567",
