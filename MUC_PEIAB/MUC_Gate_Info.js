@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3",
         "Gate": "G65",
-        "download_time": "02-05-2026 18:28:54"
+        "download_time": "02-05-2026 18:57:48"
     },
     {
         "aodbUniqueId": "20260502763525",
@@ -409,6 +409,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G30"
+    },
+    {
+        "aodbUniqueId": "20260502763730",
+        "Date": "02-05-2026",
+        "Flight": "AY 1406",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1C",
+        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20260502763500",
@@ -1429,16 +1439,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3",
         "Gate": "G70"
-    },
-    {
-        "aodbUniqueId": "20260502763730",
-        "Date": "02-05-2026",
-        "Flight": "AY 1406",
-        "Dest": "HEL",
-        "AirlineCode": "AY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1C",
-        "Gate": "C01"
     },
     {
         "aodbUniqueId": "20260502763732",
