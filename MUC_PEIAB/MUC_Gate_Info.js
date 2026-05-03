@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G48",
-        "download_time": "03-05-2026 13:55:07"
+        "download_time": "03-05-2026 14:28:52"
     },
     {
         "aodbUniqueId": "20260503765983",
@@ -818,7 +818,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "SK",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D03"
+        "Gate": "D01"
     },
     {
         "aodbUniqueId": "20260503766089",
@@ -3047,8 +3047,8 @@ let MUC_Gate_Info = `[
         "Dest": "BCN",
         "AirlineCode": "VY",
         "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D06"
+        "GateArea": "T1C",
+        "Gate": "C06"
     },
     {
         "aodbUniqueId": "20260503766575",
@@ -3338,7 +3338,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "KL",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D15"
+        "Gate": "D06"
     },
     {
         "aodbUniqueId": "20260503766638",
