@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G48",
-        "download_time": "03-05-2026 21:27:45"
+        "download_time": "03-05-2026 21:55:05"
     },
     {
         "aodbUniqueId": "20260503765983",
@@ -431,6 +431,16 @@ let MUC_Gate_Info = `[
         "Gate": "G20"
     },
     {
+        "aodbUniqueId": "20260503766669",
+        "Date": "03-05-2026",
+        "Flight": "LH 2276",
+        "Dest": "NCE",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K28"
+    },
+    {
         "aodbUniqueId": "20260503766164",
         "Date": "03-05-2026",
         "Flight": "LH 1850",
@@ -489,6 +499,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K08"
+    },
+    {
+        "aodbUniqueId": "20260503766678",
+        "Date": "03-05-2026",
+        "Flight": "LH 1788",
+        "Dest": "OPO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20260503766445",
@@ -3461,16 +3481,6 @@ let MUC_Gate_Info = `[
         "Gate": "K25"
     },
     {
-        "aodbUniqueId": "20260503766678",
-        "Date": "03-05-2026",
-        "Flight": "LH 1788",
-        "Dest": "OPO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G34"
-    },
-    {
         "aodbUniqueId": "20260503766682",
         "Date": "03-05-2026",
         "Flight": "VL 2248",
@@ -3649,16 +3659,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L13"
-    },
-    {
-        "aodbUniqueId": "20260503766669",
-        "Date": "03-05-2026",
-        "Flight": "LH 2276",
-        "Dest": "NCE",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K28"
     },
     {
         "aodbUniqueId": "20260503766673",
