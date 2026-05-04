@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "04-05-2026 07:53:02"
+        "download_time": "04-05-2026 08:24:59"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -172292,7 +172292,27 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-05-04",
+        "quota_id": "AC833-YUL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-05-04",
         "quota_id": "AT845-CMN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-05-04",
+        "quota_id": "FR2917-BCN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-05-04",
+        "quota_id": "FR2947-MAD",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-05-04",
+        "quota_id": "FR2985-VLC",
         "Number of interviews": 4
     },
     {
@@ -172303,7 +172323,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-05-04",
         "quota_id": "KL1702-AMS",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-05-04",
@@ -172317,7 +172337,17 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-05-04",
+        "quota_id": "SN2823-BUD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-05-04",
         "quota_id": "SN2901-VIE",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-05-04",
+        "quota_id": "SN3139-FLR",
         "Number of interviews": 4
     },
     {
@@ -172349,6 +172379,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-05-04",
         "quota_id": "TP647-LIS",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-05-04",
+        "quota_id": "TS155-YUL",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-05-04",
