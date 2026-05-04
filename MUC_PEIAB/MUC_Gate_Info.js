@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G13",
-        "download_time": "04-05-2026 18:29:00"
+        "download_time": "04-05-2026 18:59:43"
     },
     {
         "aodbUniqueId": "20260504768993",
@@ -3248,7 +3248,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "TU",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A45"
+        "Gate": "A49"
     },
     {
         "aodbUniqueId": "20260504769544",
