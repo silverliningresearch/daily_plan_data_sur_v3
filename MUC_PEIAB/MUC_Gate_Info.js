@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G14",
-        "download_time": "06-05-2026 13:56:42"
+        "download_time": "06-05-2026 14:29:19"
     },
     {
         "aodbUniqueId": "20260506775103",
@@ -359,6 +359,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G40"
+    },
+    {
+        "aodbUniqueId": "20260506774583",
+        "Date": "06-05-2026",
+        "Flight": "LH 1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K25"
     },
     {
         "aodbUniqueId": "20260506774303",
@@ -1177,8 +1187,8 @@ let MUC_Gate_Info = `[
         "Dest": "SOF",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K09"
+        "GateArea": "T2 Main E4",
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20260506774401",
@@ -2201,16 +2211,6 @@ let MUC_Gate_Info = `[
         "Gate": "K24"
     },
     {
-        "aodbUniqueId": "20260506774583",
-        "Date": "06-05-2026",
-        "Flight": "LH 1682",
-        "Dest": "BUD",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K25"
-    },
-    {
         "aodbUniqueId": "20260506774711",
         "Date": "06-05-2026",
         "Flight": "LH 1752",
@@ -2478,7 +2478,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K09"
+        "Gate": "K27"
     },
     {
         "aodbUniqueId": "20260506775021",
@@ -2598,7 +2598,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "OS",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G41"
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20260506774944",
