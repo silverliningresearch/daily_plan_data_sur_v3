@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "06-05-2026 19:23:09"
+        "download_time": "06-05-2026 19:53:10"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -157402,6 +157402,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-05-06",
+        "quota_id": "ADD-ET",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-05-06",
         "quota_id": "AGP-HV",
         "Number of interviews": 5
     },
@@ -157427,6 +157432,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-05-06",
+        "quota_id": "BEG-JU",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-05-06",
         "quota_id": "BUD-SN",
         "Number of interviews": 1
     },
@@ -157439,6 +157449,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-05-06",
         "quota_id": "CMN-TB",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-05-06",
+        "quota_id": "DUB-EI",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-05-06",
@@ -157463,7 +157478,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-05-06",
         "quota_id": "GVA-SN",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-05-06",
@@ -157488,7 +157503,12 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-05-06",
         "quota_id": "LHR-BA",
-        "Number of interviews": 15
+        "Number of interviews": 17
+    },
+    {
+        "InterviewDate": "2026-05-06",
+        "quota_id": "LIN-AZ",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-05-06",
@@ -157523,7 +157543,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-05-06",
         "quota_id": "NRT-NH",
-        "Number of interviews": 11
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2026-05-06",

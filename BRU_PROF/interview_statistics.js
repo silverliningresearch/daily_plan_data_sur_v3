@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "06-05-2026 19:23:09"
+        "download_time": "06-05-2026 19:53:10"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -172812,6 +172812,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-05-06",
+        "quota_id": "AZ153-LIN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-05-06",
         "quota_id": "AZ159-FCO",
         "Number of interviews": 5
     },
@@ -172827,6 +172832,16 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-05-06",
+        "quota_id": "BA391-LHR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-05-06",
+        "quota_id": "EI639-DUB",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-05-06",
         "quota_id": "EJU2981-FCO",
         "Number of interviews": 3
     },
@@ -172839,6 +172854,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-05-06",
         "quota_id": "EK184-DXB",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-05-06",
+        "quota_id": "ET751-ADD",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-05-06",
@@ -172872,6 +172892,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-05-06",
+        "quota_id": "JU273-BEG",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-05-06",
         "quota_id": "KL1702-AMS",
         "Number of interviews": 4
     },
@@ -172893,7 +172918,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-05-06",
         "quota_id": "NH232-NRT",
-        "Number of interviews": 11
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2026-05-06",
@@ -172908,6 +172933,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-05-06",
         "quota_id": "SN2723-GVA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-05-06",
+        "quota_id": "SN2725-GVA",
         "Number of interviews": 3
     },
     {
