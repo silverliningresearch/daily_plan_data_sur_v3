@@ -1,5 +1,16 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20260508780346",
+        "Date": "08-05-2026",
+        "Flight": "BJ 281",
+        "Dest": "TUN",
+        "AirlineCode": "BJ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A51",
+        "download_time": "08-05-2026 04:29:50"
+    },
+    {
         "aodbUniqueId": "20260508780214",
         "Date": "08-05-2026",
         "Flight": "EW 9087",
@@ -7,8 +18,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G04",
-        "download_time": "08-05-2026 04:01:39"
+        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20260508780390",
@@ -2749,16 +2759,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K27"
-    },
-    {
-        "aodbUniqueId": "20260508780346",
-        "Date": "08-05-2026",
-        "Flight": "BJ 281",
-        "Dest": "TUN",
-        "AirlineCode": "BJ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A51"
     },
     {
         "aodbUniqueId": "20260508780348",
