@@ -5,7 +5,7 @@ let location_percent = `[
         "Location": "Unknown",
         "Exit_belt": "Unknown",
         "Percentage": 100,
-        "download_time": "10-05-2026 14:59:14"
+        "download_time": "10-05-2026 15:25:52"
     },
     {
         "Year": "2023",
@@ -607,14 +607,14 @@ let location_percent = `[
         "Month": "05",
         "Location": "T1-B",
         "Exit_belt": "Baggage belts",
-        "Percentage": 72
+        "Percentage": 76
     },
     {
         "Year": "2026",
         "Month": "05",
         "Location": "T1-B",
         "Exit_belt": "Exit",
-        "Percentage": 28
+        "Percentage": 24
     },
     {
         "Year": "2026",
@@ -1006,21 +1006,21 @@ let location_percent = `[
         "Month": "05",
         "Location": "Total",
         "Exit_belt": "Baggage belts",
-        "Percentage": 46
+        "Percentage": 47
     },
     {
         "Year": "2026",
         "Month": "05",
         "Location": "Total",
         "Exit_belt": "Exit",
-        "Percentage": 34
+        "Percentage": 33
     },
     {
         "Year": "2026",
         "Month": "05",
         "Location": "Total",
         "Exit_belt": "Landside",
-        "Percentage": 21
+        "Percentage": 20
     }
 ]    
 
