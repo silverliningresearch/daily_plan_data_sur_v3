@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G23",
-        "download_time": "10-05-2026 10:58:24"
+        "download_time": "10-05-2026 11:27:02"
     },
     {
         "aodbUniqueId": "20260510785545",
@@ -121,6 +121,16 @@ let MUC_Gate_Info = `[
         "Gate": "G37"
     },
     {
+        "aodbUniqueId": "20260510786094",
+        "Date": "10-05-2026",
+        "Flight": "LH 1752",
+        "Dest": "ATH",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K12"
+    },
+    {
         "aodbUniqueId": "20260510785563",
         "Date": "10-05-2026",
         "Flight": "EN 8342",
@@ -201,6 +211,16 @@ let MUC_Gate_Info = `[
         "Gate": "K04"
     },
     {
+        "aodbUniqueId": "20260510785636",
+        "Date": "10-05-2026",
+        "Flight": "HY 236",
+        "Dest": "TAS",
+        "AirlineCode": "HY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A60"
+    },
+    {
         "aodbUniqueId": "20260510785733",
         "Date": "10-05-2026",
         "Flight": "GQ 871",
@@ -239,6 +259,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G32"
+    },
+    {
+        "aodbUniqueId": "20260510785359",
+        "Date": "10-05-2026",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20260510785369",
@@ -299,16 +329,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L01"
-    },
-    {
-        "aodbUniqueId": "20260510785359",
-        "Date": "10-05-2026",
-        "Flight": "LH 099",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20260510785360",
@@ -1911,16 +1931,6 @@ let MUC_Gate_Info = `[
         "Gate": "C03"
     },
     {
-        "aodbUniqueId": "20260510785636",
-        "Date": "10-05-2026",
-        "Flight": "HY 236",
-        "Dest": "TAS",
-        "AirlineCode": "HY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A60"
-    },
-    {
         "aodbUniqueId": "20260510785591",
         "Date": "10-05-2026",
         "Flight": "OS 188",
@@ -3038,7 +3048,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G28"
+        "Gate": "G18"
     },
     {
         "aodbUniqueId": "20260510785970",
@@ -3071,16 +3081,6 @@ let MUC_Gate_Info = `[
         "Gate": "G35"
     },
     {
-        "aodbUniqueId": "20260510785979",
-        "Date": "10-05-2026",
-        "Flight": "D8 5141",
-        "Dest": "AGP",
-        "AirlineCode": "D8",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D11"
-    },
-    {
         "aodbUniqueId": "20260510785984",
         "Date": "10-05-2026",
         "Flight": "DE 1522",
@@ -3089,6 +3089,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C04"
+    },
+    {
+        "aodbUniqueId": "20260510785979",
+        "Date": "10-05-2026",
+        "Flight": "D8 5141",
+        "Dest": "AGP",
+        "AirlineCode": "D8",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20260510785985",
@@ -3389,16 +3399,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G46"
-    },
-    {
-        "aodbUniqueId": "20260510786094",
-        "Date": "10-05-2026",
-        "Flight": "LH 1752",
-        "Dest": "ATH",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K12"
     },
     {
         "aodbUniqueId": "20260510786095",
