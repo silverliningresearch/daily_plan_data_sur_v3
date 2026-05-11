@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G14",
-        "download_time": "11-05-2026 19:32:04"
+        "download_time": "11-05-2026 19:56:35"
     },
     {
         "aodbUniqueId": "20260511788080",
@@ -921,6 +921,16 @@ let MUC_Gate_Info = `[
         "Gate": "H02"
     },
     {
+        "aodbUniqueId": "20260511788359",
+        "Date": "11-05-2026",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G20"
+    },
+    {
         "aodbUniqueId": "20260511788800",
         "Date": "11-05-2026",
         "Flight": "EW 9083",
@@ -1698,17 +1708,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K12"
-    },
-    {
-        "aodbUniqueId": "20260511788359",
-        "Date": "11-05-2026",
-        "Flight": "LH 1960",
-        "Dest": "BER",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G20"
+        "Gate": "K15"
     },
     {
         "aodbUniqueId": "20260511788355",
@@ -2558,7 +2558,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G32"
+        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20260511788579",
@@ -3628,7 +3628,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G34"
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260511788938",
