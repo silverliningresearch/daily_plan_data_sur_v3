@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H08",
-        "download_time": "12-05-2026 14:38:16"
+        "download_time": "12-05-2026 14:59:22"
     },
     {
         "aodbUniqueId": "20260512792314",
@@ -269,6 +269,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G46"
+    },
+    {
+        "aodbUniqueId": "20260512792691",
+        "Date": "12-05-2026",
+        "Flight": "KL 1856",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260512792682",
@@ -3539,16 +3549,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3",
         "Gate": "G69"
-    },
-    {
-        "aodbUniqueId": "20260512792691",
-        "Date": "12-05-2026",
-        "Flight": "KL 1856",
-        "Dest": "AMS",
-        "AirlineCode": "KL",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260512792705",
