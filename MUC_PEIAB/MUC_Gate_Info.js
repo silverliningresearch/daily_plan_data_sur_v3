@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D05",
-        "download_time": "14-05-2026 15:26:13"
+        "download_time": "14-05-2026 15:56:12"
     },
     {
         "aodbUniqueId": "20260514796936",
@@ -171,6 +171,16 @@ let MUC_Gate_Info = `[
         "Gate": "K16"
     },
     {
+        "aodbUniqueId": "20260514796266",
+        "Date": "14-05-2026",
+        "Flight": "LH 1908",
+        "Dest": "CTA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G28"
+    },
+    {
         "aodbUniqueId": "20260514796404",
         "Date": "14-05-2026",
         "Flight": "EN 8240",
@@ -199,6 +209,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D11"
+    },
+    {
+        "aodbUniqueId": "20260514796247",
+        "Date": "14-05-2026",
+        "Flight": "VL 2196",
+        "Dest": "BRE",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K04"
     },
     {
         "aodbUniqueId": "20260514825072",
@@ -401,16 +421,6 @@ let MUC_Gate_Info = `[
         "Gate": "K04"
     },
     {
-        "aodbUniqueId": "20260514796247",
-        "Date": "14-05-2026",
-        "Flight": "VL 2196",
-        "Dest": "BRE",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K04"
-    },
-    {
         "aodbUniqueId": "20260514796248",
         "Date": "14-05-2026",
         "Flight": "EW 6893",
@@ -448,7 +458,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EN",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K27"
+        "Gate": "K22"
     },
     {
         "aodbUniqueId": "20260514796288",
@@ -568,7 +578,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K25"
+        "Gate": "K13"
     },
     {
         "aodbUniqueId": "20260514796254",
@@ -629,16 +639,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H44"
-    },
-    {
-        "aodbUniqueId": "20260514796266",
-        "Date": "14-05-2026",
-        "Flight": "LH 1908",
-        "Dest": "CTA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20260514796268",
@@ -871,16 +871,6 @@ let MUC_Gate_Info = `[
         "Gate": "G24"
     },
     {
-        "aodbUniqueId": "20260514796362",
-        "Date": "14-05-2026",
-        "Flight": "LH 1678",
-        "Dest": "BUD",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G37"
-    },
-    {
         "aodbUniqueId": "20260514796363",
         "Date": "14-05-2026",
         "Flight": "LH 1796",
@@ -899,6 +889,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K18"
+    },
+    {
+        "aodbUniqueId": "20260514796362",
+        "Date": "14-05-2026",
+        "Flight": "LH 1678",
+        "Dest": "BUD",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G37"
     },
     {
         "aodbUniqueId": "20260514796375",
@@ -2991,16 +2991,6 @@ let MUC_Gate_Info = `[
         "Gate": "L24"
     },
     {
-        "aodbUniqueId": "20260514796842",
-        "Date": "14-05-2026",
-        "Flight": "TK 1634",
-        "Dest": "IST",
-        "AirlineCode": "TK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A50"
-    },
-    {
         "aodbUniqueId": "20260514796873",
         "Date": "14-05-2026",
         "Flight": "EN 8212",
@@ -3059,6 +3049,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K03"
+    },
+    {
+        "aodbUniqueId": "20260514796842",
+        "Date": "14-05-2026",
+        "Flight": "TK 1634",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A50"
     },
     {
         "aodbUniqueId": "20260514796851",
@@ -3318,7 +3318,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G38"
+        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20260514796942",
