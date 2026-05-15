@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G46",
-        "download_time": "15-05-2026 19:26:47"
+        "download_time": "15-05-2026 19:56:42"
     },
     {
         "aodbUniqueId": "20260515799291",
@@ -369,6 +369,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G30"
+    },
+    {
+        "aodbUniqueId": "20260515799185",
+        "Date": "15-05-2026",
+        "Flight": "LH 2076",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G14"
     },
     {
         "aodbUniqueId": "20260515799244",
@@ -1621,16 +1631,6 @@ let MUC_Gate_Info = `[
         "Gate": "G02"
     },
     {
-        "aodbUniqueId": "20260515799185",
-        "Date": "15-05-2026",
-        "Flight": "LH 2076",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G14"
-    },
-    {
         "aodbUniqueId": "20260515799189",
         "Date": "15-05-2026",
         "Flight": "LH 1714",
@@ -1718,7 +1718,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K27"
+        "Gate": "K18"
     },
     {
         "aodbUniqueId": "20260515799382",
@@ -2078,7 +2078,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K20"
+        "Gate": "K25"
     },
     {
         "aodbUniqueId": "20260515799337",
@@ -2339,16 +2339,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G30"
-    },
-    {
-        "aodbUniqueId": "20260515799434",
-        "Date": "15-05-2026",
-        "Flight": "LH 1818",
-        "Dest": "BCN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G16"
     },
     {
         "aodbUniqueId": "20260515799435",
@@ -3618,7 +3608,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EN",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K25"
+        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20260515799868",
@@ -3779,6 +3769,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A49"
+    },
+    {
+        "aodbUniqueId": "20260515799434",
+        "Date": "15-05-2026",
+        "Flight": "LH 1818",
+        "Dest": "BCN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G16"
     },
     {
         "aodbUniqueId": "20260515799273",
