@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G46",
-        "download_time": "15-05-2026 17:00:09"
+        "download_time": "15-05-2026 17:26:31"
     },
     {
         "aodbUniqueId": "20260515799291",
@@ -321,6 +321,26 @@ let MUC_Gate_Info = `[
         "Gate": "B15"
     },
     {
+        "aodbUniqueId": "20260515799331",
+        "Date": "15-05-2026",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A50"
+    },
+    {
+        "aodbUniqueId": "20260515799577",
+        "Date": "15-05-2026",
+        "Flight": "LH 2480",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H38"
+    },
+    {
         "aodbUniqueId": "20260515799244",
         "Date": "15-05-2026",
         "Flight": "CA 828",
@@ -629,16 +649,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K15"
-    },
-    {
-        "aodbUniqueId": "20260515798956",
-        "Date": "15-05-2026",
-        "Flight": "LH 1886",
-        "Dest": "TRN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20260515799036",
@@ -2021,16 +2031,6 @@ let MUC_Gate_Info = `[
         "Gate": "H02"
     },
     {
-        "aodbUniqueId": "20260515799331",
-        "Date": "15-05-2026",
-        "Flight": "XQ 137",
-        "Dest": "AYT",
-        "AirlineCode": "XQ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A50"
-    },
-    {
         "aodbUniqueId": "20260515799326",
         "Date": "15-05-2026",
         "Flight": "LH 1834",
@@ -2771,6 +2771,16 @@ let MUC_Gate_Info = `[
         "Gate": "H48"
     },
     {
+        "aodbUniqueId": "20260515798956",
+        "Date": "15-05-2026",
+        "Flight": "LH 1886",
+        "Dest": "TRN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G34"
+    },
+    {
         "aodbUniqueId": "20260515799573",
         "Date": "15-05-2026",
         "Flight": "TP 555",
@@ -2779,16 +2789,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G46"
-    },
-    {
-        "aodbUniqueId": "20260515799577",
-        "Date": "15-05-2026",
-        "Flight": "LH 2480",
-        "Dest": "LHR",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H38"
     },
     {
         "aodbUniqueId": "20260515799582",
