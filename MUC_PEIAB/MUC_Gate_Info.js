@@ -8,7 +8,17 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20",
-        "download_time": "18-05-2026 05:25:54"
+        "download_time": "18-05-2026 05:57:21"
+    },
+    {
+        "aodbUniqueId": "20260518809559",
+        "Date": "18-05-2026",
+        "Flight": "LH 2302",
+        "Dest": "AMS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G23"
     },
     {
         "aodbUniqueId": "20260518808096",
@@ -1838,7 +1848,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EZ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A45"
+        "Gate": "A40"
     },
     {
         "aodbUniqueId": "20260518809205",
@@ -2528,7 +2538,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "TU",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A40"
+        "Gate": "A51"
     },
     {
         "aodbUniqueId": "20260518809369",
@@ -2587,8 +2597,8 @@ let MUC_Gate_Info = `[
         "Dest": "BLQ",
         "AirlineCode": "EN",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K20"
+        "GateArea": "T2 Main E4",
+        "Gate": "G29"
     },
     {
         "aodbUniqueId": "20260518809378",
@@ -3099,16 +3109,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20"
-    },
-    {
-        "aodbUniqueId": "20260518809559",
-        "Date": "18-05-2026",
-        "Flight": "LH 2302",
-        "Dest": "AMS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G23"
     },
     {
         "aodbUniqueId": "20260518809659",
