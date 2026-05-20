@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K08",
-        "download_time": "20-05-2026 17:00:58"
+        "download_time": "20-05-2026 17:27:56"
     },
     {
         "aodbUniqueId": "20260520813739",
@@ -401,6 +401,16 @@ let MUC_Gate_Info = `[
         "Gate": "K06"
     },
     {
+        "aodbUniqueId": "20260520813812",
+        "Date": "20-05-2026",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K08"
+    },
+    {
         "aodbUniqueId": "20260520813890",
         "Date": "20-05-2026",
         "Flight": "KL 1852",
@@ -619,6 +629,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K04"
+    },
+    {
+        "aodbUniqueId": "20260520813501",
+        "Date": "20-05-2026",
+        "Flight": "QR 058",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A50"
     },
     {
         "aodbUniqueId": "20260520813887",
@@ -1151,16 +1171,6 @@ let MUC_Gate_Info = `[
         "Gate": "L09"
     },
     {
-        "aodbUniqueId": "20260520813501",
-        "Date": "20-05-2026",
-        "Flight": "QR 058",
-        "Dest": "DOH",
-        "AirlineCode": "QR",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A50"
-    },
-    {
         "aodbUniqueId": "20260520813505",
         "Date": "20-05-2026",
         "Flight": "LH 2464",
@@ -1537,8 +1547,8 @@ let MUC_Gate_Info = `[
         "Dest": "CDG",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K05"
+        "GateArea": "T2 Main E4",
+        "Gate": "G44"
     },
     {
         "aodbUniqueId": "20260520813698",
@@ -2351,16 +2361,6 @@ let MUC_Gate_Info = `[
         "Gate": "H04"
     },
     {
-        "aodbUniqueId": "20260520813812",
-        "Date": "20-05-2026",
-        "Flight": "BT 224",
-        "Dest": "RIX",
-        "AirlineCode": "BT",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K08"
-    },
-    {
         "aodbUniqueId": "20260520813814",
         "Date": "20-05-2026",
         "Flight": "SN 2650",
@@ -2517,8 +2517,8 @@ let MUC_Gate_Info = `[
         "Dest": "ZRH",
         "AirlineCode": "LX",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G44"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K05"
     },
     {
         "aodbUniqueId": "20260520813758",
