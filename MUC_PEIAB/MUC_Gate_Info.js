@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L08",
-        "download_time": "21-05-2026 19:09:21"
+        "download_time": "21-05-2026 19:28:34"
     },
     {
         "aodbUniqueId": "20260521816683",
@@ -439,6 +439,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H48"
+    },
+    {
+        "aodbUniqueId": "20260521864704",
+        "Date": "21-05-2026",
+        "Flight": "LG 511",
+        "Dest": "BDS",
+        "AirlineCode": "LG",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G19"
     },
     {
         "aodbUniqueId": "20260521816662",
