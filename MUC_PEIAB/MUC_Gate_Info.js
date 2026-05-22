@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G32",
-        "download_time": "22-05-2026 04:39:48"
+        "download_time": "22-05-2026 05:00:52"
     },
     {
         "aodbUniqueId": "20260522820340",
@@ -39,6 +39,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L09"
+    },
+    {
+        "aodbUniqueId": "20260522820149",
+        "Date": "22-05-2026",
+        "Flight": "AA 785",
+        "Dest": "CLT",
+        "AirlineCode": "AA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A48"
     },
     {
         "aodbUniqueId": "20260522819774",
@@ -2699,16 +2709,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C01"
-    },
-    {
-        "aodbUniqueId": "20260522820149",
-        "Date": "22-05-2026",
-        "Flight": "AA 785",
-        "Dest": "CLT",
-        "AirlineCode": "AA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A48"
     },
     {
         "aodbUniqueId": "20260522820150",
