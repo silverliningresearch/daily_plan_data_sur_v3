@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G19",
-        "download_time": "23-05-2026 05:02:03"
+        "download_time": "23-05-2026 05:27:29"
     },
     {
         "aodbUniqueId": "20260523823335",
@@ -29,6 +29,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14"
+    },
+    {
+        "aodbUniqueId": "20260523823105",
+        "Date": "23-05-2026",
+        "Flight": "BJ 2403",
+        "Dest": "MIR",
+        "AirlineCode": "BJ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A60"
     },
     {
         "aodbUniqueId": "20260523867946",
@@ -2248,7 +2258,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H37"
+        "Gate": "H48"
     },
     {
         "aodbUniqueId": "20260523823031",
@@ -2399,16 +2409,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D01"
-    },
-    {
-        "aodbUniqueId": "20260523823105",
-        "Date": "23-05-2026",
-        "Flight": "BJ 2403",
-        "Dest": "MIR",
-        "AirlineCode": "BJ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A60"
     },
     {
         "aodbUniqueId": "20260523823107",
@@ -2928,7 +2928,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G48"
+        "Gate": "G47"
     },
     {
         "aodbUniqueId": "20260523823204",
