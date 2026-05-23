@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14",
-        "download_time": "23-05-2026 12:32:28"
+        "download_time": "23-05-2026 13:01:26"
     },
     {
         "aodbUniqueId": "20260523823081",
@@ -371,6 +371,16 @@ let MUC_Gate_Info = `[
         "Gate": "K01"
     },
     {
+        "aodbUniqueId": "20260523822814",
+        "Date": "23-05-2026",
+        "Flight": "PC 5338",
+        "Dest": "ADB",
+        "AirlineCode": "PC",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A44"
+    },
+    {
         "aodbUniqueId": "20260523822924",
         "Date": "23-05-2026",
         "Flight": "SQ 327",
@@ -609,6 +619,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K03"
+    },
+    {
+        "aodbUniqueId": "20260523822609",
+        "Date": "23-05-2026",
+        "Flight": "LH 762",
+        "Dest": "DEL",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H48"
     },
     {
         "aodbUniqueId": "20260523822882",
@@ -1237,8 +1257,8 @@ let MUC_Gate_Info = `[
         "Dest": "GOT",
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K06"
+        "GateArea": "T2 Main E4",
+        "Gate": "G29"
     },
     {
         "aodbUniqueId": "20260523822740",
@@ -1319,16 +1339,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G30"
-    },
-    {
-        "aodbUniqueId": "20260523822609",
-        "Date": "23-05-2026",
-        "Flight": "LH 762",
-        "Dest": "DEL",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H48"
     },
     {
         "aodbUniqueId": "20260523822615",
@@ -1811,16 +1821,6 @@ let MUC_Gate_Info = `[
         "Gate": "G24"
     },
     {
-        "aodbUniqueId": "20260523822814",
-        "Date": "23-05-2026",
-        "Flight": "PC 5338",
-        "Dest": "ADB",
-        "AirlineCode": "PC",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A44"
-    },
-    {
         "aodbUniqueId": "20260523822823",
         "Date": "23-05-2026",
         "Flight": "NH 218",
@@ -2209,16 +2209,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H32"
-    },
-    {
-        "aodbUniqueId": "20260523822950",
-        "Date": "23-05-2026",
-        "Flight": "SN 2644",
-        "Dest": "BRU",
-        "AirlineCode": "SN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K18"
     },
     {
         "aodbUniqueId": "20260523822953",
@@ -3288,7 +3278,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K11"
+        "Gate": "K06"
     },
     {
         "aodbUniqueId": "20260523823268",
