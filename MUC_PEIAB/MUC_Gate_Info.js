@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14",
-        "download_time": "23-05-2026 21:57:10"
+        "download_time": "23-05-2026 22:40:22"
     },
     {
         "aodbUniqueId": "20260523823081",
@@ -2421,16 +2421,6 @@ let MUC_Gate_Info = `[
         "Gate": "G40"
     },
     {
-        "aodbUniqueId": "20260523822992",
-        "Date": "23-05-2026",
-        "Flight": "LH 1892",
-        "Dest": "GOA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K16"
-    },
-    {
         "aodbUniqueId": "20260523822998",
         "Date": "23-05-2026",
         "Flight": "LH 1744",
@@ -3411,16 +3401,6 @@ let MUC_Gate_Info = `[
         "Gate": "G20"
     },
     {
-        "aodbUniqueId": "20260523823314",
-        "Date": "23-05-2026",
-        "Flight": "VL 2466",
-        "Dest": "HEL",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G48"
-    },
-    {
         "aodbUniqueId": "20260523823332",
         "Date": "23-05-2026",
         "Flight": "CA 962",
@@ -3701,6 +3681,16 @@ let MUC_Gate_Info = `[
         "Gate": "G08"
     },
     {
+        "aodbUniqueId": "20260523822992",
+        "Date": "23-05-2026",
+        "Flight": "LH 1892",
+        "Dest": "GOA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K16"
+    },
+    {
         "aodbUniqueId": "20260523823353",
         "Date": "23-05-2026",
         "Flight": "AY 1406",
@@ -3749,6 +3739,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H34"
+    },
+    {
+        "aodbUniqueId": "20260523823314",
+        "Date": "23-05-2026",
+        "Flight": "VL 2466",
+        "Dest": "HEL",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G48"
     },
     {
         "aodbUniqueId": "20260523823092",
