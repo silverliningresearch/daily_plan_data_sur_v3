@@ -1,5 +1,26 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20260524825576",
+        "Date": "24-05-2026",
+        "Flight": "TP 553",
+        "Dest": "LIS",
+        "AirlineCode": "TP",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G40",
+        "download_time": "24-05-2026 08:31:49"
+    },
+    {
+        "aodbUniqueId": "20260524826041",
+        "Date": "24-05-2026",
+        "Flight": "KL 1850",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D01"
+    },
+    {
         "aodbUniqueId": "20260524825597",
         "Date": "24-05-2026",
         "Flight": "BA 939",
@@ -7,8 +28,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "BA",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A50",
-        "download_time": "24-05-2026 07:58:42"
+        "Gate": "A50"
     },
     {
         "aodbUniqueId": "20260524825551",
@@ -89,6 +109,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K05"
+    },
+    {
+        "aodbUniqueId": "20260524825482",
+        "Date": "24-05-2026",
+        "Flight": "EN 8200",
+        "Dest": "VCE",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3",
+        "Gate": "G71"
+    },
+    {
+        "aodbUniqueId": "20260524825394",
+        "Date": "24-05-2026",
+        "Flight": "LH 1796",
+        "Dest": "PMI",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20260524826096",
@@ -371,16 +411,6 @@ let MUC_Gate_Info = `[
         "Gate": "D01"
     },
     {
-        "aodbUniqueId": "20260524825394",
-        "Date": "24-05-2026",
-        "Flight": "LH 1796",
-        "Dest": "PMI",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G40"
-    },
-    {
         "aodbUniqueId": "20260524825373",
         "Date": "24-05-2026",
         "Flight": "TK 3387",
@@ -649,16 +679,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G34"
-    },
-    {
-        "aodbUniqueId": "20260524825482",
-        "Date": "24-05-2026",
-        "Flight": "EN 8200",
-        "Dest": "VCE",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3",
-        "Gate": "G71"
     },
     {
         "aodbUniqueId": "20260524825484",
@@ -1159,16 +1179,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H32"
-    },
-    {
-        "aodbUniqueId": "20260524825576",
-        "Date": "24-05-2026",
-        "Flight": "TP 553",
-        "Dest": "LIS",
-        "AirlineCode": "TP",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20260524825577",
@@ -2949,16 +2959,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K20"
-    },
-    {
-        "aodbUniqueId": "20260524826041",
-        "Date": "24-05-2026",
-        "Flight": "KL 1850",
-        "Dest": "AMS",
-        "AirlineCode": "KL",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D01"
     },
     {
         "aodbUniqueId": "20260524826042",
