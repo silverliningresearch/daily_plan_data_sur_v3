@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G11",
-        "download_time": "25-05-2026 17:57:49"
+        "download_time": "25-05-2026 18:32:48"
     },
     {
         "aodbUniqueId": "20260525832646",
@@ -1911,16 +1911,6 @@ let MUC_Gate_Info = `[
         "Gate": "K25"
     },
     {
-        "aodbUniqueId": "20260525832621",
-        "Date": "25-05-2026",
-        "Flight": "AT 823",
-        "Dest": "CMN",
-        "AirlineCode": "AT",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A41"
-    },
-    {
         "aodbUniqueId": "20260525832668",
         "Date": "25-05-2026",
         "Flight": "LH 127",
@@ -3671,16 +3661,6 @@ let MUC_Gate_Info = `[
         "Gate": "D03"
     },
     {
-        "aodbUniqueId": "20260525833154",
-        "Date": "25-05-2026",
-        "Flight": "LH 115",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G32"
-    },
-    {
         "aodbUniqueId": "20260525833158",
         "Date": "25-05-2026",
         "Flight": "TP 553",
@@ -3849,6 +3829,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K10"
+    },
+    {
+        "aodbUniqueId": "20260525832621",
+        "Date": "25-05-2026",
+        "Flight": "AT 823",
+        "Dest": "CMN",
+        "AirlineCode": "AT",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A41"
+    },
+    {
+        "aodbUniqueId": "20260525833154",
+        "Date": "25-05-2026",
+        "Flight": "LH 115",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260525832731",
