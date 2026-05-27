@@ -1,5 +1,16 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20260527838342",
+        "Date": "27-05-2026",
+        "Flight": "VL 1904",
+        "Dest": "CTA",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K07",
+        "download_time": "27-05-2026 04:30:47"
+    },
+    {
         "aodbUniqueId": "20260527838018",
         "Date": "27-05-2026",
         "Flight": "UX 1516",
@@ -7,8 +18,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "UX",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D03",
-        "download_time": "27-05-2026 03:58:32"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260527838771",
@@ -1799,16 +1809,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A51"
-    },
-    {
-        "aodbUniqueId": "20260527838342",
-        "Date": "27-05-2026",
-        "Flight": "VL 1904",
-        "Dest": "CTA",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20260527838344",
