@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K16",
-        "download_time": "28-05-2026 19:30:14"
+        "download_time": "28-05-2026 19:56:41"
     },
     {
         "aodbUniqueId": "20260528840811",
@@ -391,6 +391,16 @@ let MUC_Gate_Info = `[
         "Gate": "K22"
     },
     {
+        "aodbUniqueId": "20260528841009",
+        "Date": "28-05-2026",
+        "Flight": "AZ 453",
+        "Dest": "LIN",
+        "AirlineCode": "AZ",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K10"
+    },
+    {
         "aodbUniqueId": "20260528841342",
         "Date": "28-05-2026",
         "Flight": "EN 8260",
@@ -529,6 +539,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K22"
+    },
+    {
+        "aodbUniqueId": "20260528841084",
+        "Date": "28-05-2026",
+        "Flight": "IB 1314",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D05"
     },
     {
         "aodbUniqueId": "20260528840884",
@@ -1349,16 +1369,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A61"
-    },
-    {
-        "aodbUniqueId": "20260528841084",
-        "Date": "28-05-2026",
-        "Flight": "IB 1314",
-        "Dest": "MAD",
-        "AirlineCode": "IB",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D05"
     },
     {
         "aodbUniqueId": "20260528841088",
@@ -2849,16 +2859,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A44"
-    },
-    {
-        "aodbUniqueId": "20260528841009",
-        "Date": "28-05-2026",
-        "Flight": "AZ 453",
-        "Dest": "LIN",
-        "AirlineCode": "AZ",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K10"
     },
     {
         "aodbUniqueId": "20260528841011",
