@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K16",
-        "download_time": "28-05-2026 16:32:34"
+        "download_time": "28-05-2026 17:03:24"
     },
     {
         "aodbUniqueId": "20260528840811",
@@ -99,6 +99,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G10"
+    },
+    {
+        "aodbUniqueId": "20260528841150",
+        "Date": "28-05-2026",
+        "Flight": "DE 1576",
+        "Dest": "IBZ",
+        "AirlineCode": "DE",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D04"
     },
     {
         "aodbUniqueId": "20260528840859",
@@ -341,6 +351,16 @@ let MUC_Gate_Info = `[
         "Gate": "G69"
     },
     {
+        "aodbUniqueId": "20260528841571",
+        "Date": "28-05-2026",
+        "Flight": "LH 113",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G26"
+    },
+    {
         "aodbUniqueId": "20260528841254",
         "Date": "28-05-2026",
         "Flight": "LH 2276",
@@ -379,6 +399,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K09"
+    },
+    {
+        "aodbUniqueId": "20260528841061",
+        "Date": "28-05-2026",
+        "Flight": "VL 1870",
+        "Dest": "FCO",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K16"
+    },
+    {
+        "aodbUniqueId": "20260528841004",
+        "Date": "28-05-2026",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260528840741",
@@ -1661,16 +1701,6 @@ let MUC_Gate_Info = `[
         "Gate": "A50"
     },
     {
-        "aodbUniqueId": "20260528841150",
-        "Date": "28-05-2026",
-        "Flight": "DE 1576",
-        "Dest": "IBZ",
-        "AirlineCode": "DE",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D04"
-    },
-    {
         "aodbUniqueId": "20260528841154",
         "Date": "28-05-2026",
         "Flight": "LH 2558",
@@ -2168,7 +2198,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K13"
+        "Gate": "K28"
     },
     {
         "aodbUniqueId": "20260528840955",
@@ -2508,7 +2538,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K13"
+        "Gate": "K28"
     },
     {
         "aodbUniqueId": "20260528841355",
@@ -2679,16 +2709,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C03"
-    },
-    {
-        "aodbUniqueId": "20260528841004",
-        "Date": "28-05-2026",
-        "Flight": "LH 1960",
-        "Dest": "BER",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260528841005",
@@ -3391,16 +3411,6 @@ let MUC_Gate_Info = `[
         "Gate": "H30"
     },
     {
-        "aodbUniqueId": "20260528841571",
-        "Date": "28-05-2026",
-        "Flight": "LH 113",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G26"
-    },
-    {
         "aodbUniqueId": "20260528841572",
         "Date": "28-05-2026",
         "Flight": "GQ 871",
@@ -3438,7 +3448,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
-        "Gate": "L30"
+        "Gate": "L13"
     },
     {
         "aodbUniqueId": "20260528841058",
@@ -3571,16 +3581,6 @@ let MUC_Gate_Info = `[
         "Gate": "G71"
     },
     {
-        "aodbUniqueId": "20260528841061",
-        "Date": "28-05-2026",
-        "Flight": "VL 1870",
-        "Dest": "FCO",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K16"
-    },
-    {
         "aodbUniqueId": "20260528841063",
         "Date": "28-05-2026",
         "Flight": "AF 1723",
@@ -3658,7 +3658,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G20"
+        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20260528841436",
