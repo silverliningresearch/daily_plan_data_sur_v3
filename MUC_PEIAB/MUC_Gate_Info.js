@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K16",
-        "download_time": "28-05-2026 15:01:32"
+        "download_time": "28-05-2026 15:26:33"
     },
     {
         "aodbUniqueId": "20260528840811",
@@ -201,6 +201,16 @@ let MUC_Gate_Info = `[
         "Gate": "K07"
     },
     {
+        "aodbUniqueId": "20260528841010",
+        "Date": "28-05-2026",
+        "Flight": "IV 8251",
+        "Dest": "PRN",
+        "AirlineCode": "IV",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A61"
+    },
+    {
         "aodbUniqueId": "20260528840806",
         "Date": "28-05-2026",
         "Flight": "LH 2476",
@@ -241,6 +251,16 @@ let MUC_Gate_Info = `[
         "Gate": "D11"
     },
     {
+        "aodbUniqueId": "20260528841477",
+        "Date": "28-05-2026",
+        "Flight": "EW 7173",
+        "Dest": "HAM",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G26"
+    },
+    {
         "aodbUniqueId": "20260528841398",
         "Date": "28-05-2026",
         "Flight": "EN 8256",
@@ -261,6 +281,16 @@ let MUC_Gate_Info = `[
         "Gate": "G13"
     },
     {
+        "aodbUniqueId": "20260528841536",
+        "Date": "28-05-2026",
+        "Flight": "4Y 442",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G43"
+    },
+    {
         "aodbUniqueId": "20260528841506",
         "Date": "28-05-2026",
         "Flight": "KL 1854",
@@ -269,6 +299,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03"
+    },
+    {
+        "aodbUniqueId": "20260528841205",
+        "Date": "28-05-2026",
+        "Flight": "LH 2346",
+        "Dest": "GRZ",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3",
+        "Gate": "G70"
     },
     {
         "aodbUniqueId": "20260528841254",
@@ -1691,16 +1731,6 @@ let MUC_Gate_Info = `[
         "Gate": "G38"
     },
     {
-        "aodbUniqueId": "20260528841477",
-        "Date": "28-05-2026",
-        "Flight": "EW 7173",
-        "Dest": "HAM",
-        "AirlineCode": "EW",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G26"
-    },
-    {
         "aodbUniqueId": "20260528841478",
         "Date": "28-05-2026",
         "Flight": "EN 8076",
@@ -1878,7 +1908,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G46"
+        "Gate": "G48"
     },
     {
         "aodbUniqueId": "20260528841122",
@@ -2231,16 +2261,6 @@ let MUC_Gate_Info = `[
         "Gate": "A44"
     },
     {
-        "aodbUniqueId": "20260528841205",
-        "Date": "28-05-2026",
-        "Flight": "LH 2346",
-        "Dest": "GRZ",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3",
-        "Gate": "G70"
-    },
-    {
         "aodbUniqueId": "20260528841206",
         "Date": "28-05-2026",
         "Flight": "EN 8342",
@@ -2387,8 +2407,8 @@ let MUC_Gate_Info = `[
         "Dest": "FCO",
         "AirlineCode": "EJ",
         "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D01"
+        "GateArea": "T1C",
+        "Gate": "C03"
     },
     {
         "aodbUniqueId": "20260528840939",
@@ -2519,16 +2539,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G26"
-    },
-    {
-        "aodbUniqueId": "20260528841536",
-        "Date": "28-05-2026",
-        "Flight": "4Y 442",
-        "Dest": "IBZ",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G43"
     },
     {
         "aodbUniqueId": "20260528841539",
@@ -2749,16 +2759,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K10"
-    },
-    {
-        "aodbUniqueId": "20260528841010",
-        "Date": "28-05-2026",
-        "Flight": "IV 8251",
-        "Dest": "PRN",
-        "AirlineCode": "IV",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A61"
     },
     {
         "aodbUniqueId": "20260528841011",
@@ -3728,7 +3728,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G30"
+        "Gate": "G46"
     },
     {
         "aodbUniqueId": "20260528841575",
