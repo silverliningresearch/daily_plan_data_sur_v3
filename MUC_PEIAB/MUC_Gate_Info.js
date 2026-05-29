@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15",
-        "download_time": "29-05-2026 15:30:14"
+        "download_time": "29-05-2026 15:56:41"
     },
     {
         "aodbUniqueId": "20260529848749",
@@ -461,6 +461,36 @@ let MUC_Gate_Info = `[
         "Gate": "K22"
     },
     {
+        "aodbUniqueId": "20260529848080",
+        "Date": "29-05-2026",
+        "Flight": "TK 1636",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A51"
+    },
+    {
+        "aodbUniqueId": "20260529848739",
+        "Date": "29-05-2026",
+        "Flight": "LH 434",
+        "Dest": "ORD",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H08"
+    },
+    {
+        "aodbUniqueId": "20260529848170",
+        "Date": "29-05-2026",
+        "Flight": "XQ 137",
+        "Dest": "AYT",
+        "AirlineCode": "XQ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A49"
+    },
+    {
         "aodbUniqueId": "20260529848368",
         "Date": "29-05-2026",
         "Flight": "DE 1522",
@@ -549,6 +579,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K18"
+    },
+    {
+        "aodbUniqueId": "20260529848421",
+        "Date": "29-05-2026",
+        "Flight": "LH 113",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20260529848806",
@@ -749,16 +789,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A43"
-    },
-    {
-        "aodbUniqueId": "20260529848080",
-        "Date": "29-05-2026",
-        "Flight": "TK 1636",
-        "Dest": "IST",
-        "AirlineCode": "TK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A51"
     },
     {
         "aodbUniqueId": "20260529848085",
@@ -1141,16 +1171,6 @@ let MUC_Gate_Info = `[
         "Gate": "A46"
     },
     {
-        "aodbUniqueId": "20260529848170",
-        "Date": "29-05-2026",
-        "Flight": "XQ 137",
-        "Dest": "AYT",
-        "AirlineCode": "XQ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A49"
-    },
-    {
         "aodbUniqueId": "20260529848172",
         "Date": "29-05-2026",
         "Flight": "EN 8212",
@@ -1218,7 +1238,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "KM",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K14"
+        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20260529848181",
@@ -1839,16 +1859,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A48"
-    },
-    {
-        "aodbUniqueId": "20260529848421",
-        "Date": "29-05-2026",
-        "Flight": "LH 113",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20260529848409",
@@ -3569,16 +3579,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D01"
-    },
-    {
-        "aodbUniqueId": "20260529848739",
-        "Date": "29-05-2026",
-        "Flight": "LH 434",
-        "Dest": "ORD",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H08"
     },
     {
         "aodbUniqueId": "20260529848740",
