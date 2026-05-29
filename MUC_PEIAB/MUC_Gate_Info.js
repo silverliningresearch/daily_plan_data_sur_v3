@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15",
-        "download_time": "29-05-2026 20:28:19"
+        "download_time": "29-05-2026 21:00:31"
     },
     {
         "aodbUniqueId": "20260529848749",
@@ -1139,6 +1139,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A44"
+    },
+    {
+        "aodbUniqueId": "20260529848685",
+        "Date": "29-05-2026",
+        "Flight": "BA 937",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A41"
     },
     {
         "aodbUniqueId": "20260529848211",
@@ -2367,8 +2377,8 @@ let MUC_Gate_Info = `[
         "Dest": "MAN",
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H48"
+        "GateArea": "T2 Sat E5",
+        "Gate": "L01"
     },
     {
         "aodbUniqueId": "20260529848496",
@@ -3511,16 +3521,6 @@ let MUC_Gate_Info = `[
         "Gate": "K18"
     },
     {
-        "aodbUniqueId": "20260529848685",
-        "Date": "29-05-2026",
-        "Flight": "BA 937",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A41"
-    },
-    {
         "aodbUniqueId": "20260529848686",
         "Date": "29-05-2026",
         "Flight": "BT 824",
@@ -4008,7 +4008,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K01"
+        "Gate": "K06"
     },
     {
         "aodbUniqueId": "20260529848976",
