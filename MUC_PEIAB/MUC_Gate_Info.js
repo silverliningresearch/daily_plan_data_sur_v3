@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G30",
-        "download_time": "30-05-2026 22:05:06"
+        "download_time": "30-05-2026 22:34:02"
     },
     {
         "aodbUniqueId": "20260530856165",
@@ -428,7 +428,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "SN",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G30"
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260530856083",
@@ -489,6 +489,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K30"
+    },
+    {
+        "aodbUniqueId": "20260530856292",
+        "Date": "30-05-2026",
+        "Flight": "LH 2276",
+        "Dest": "NCE",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260530856268",
@@ -2249,16 +2259,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03"
-    },
-    {
-        "aodbUniqueId": "20260530856292",
-        "Date": "30-05-2026",
-        "Flight": "LH 2276",
-        "Dest": "NCE",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260530856294",
