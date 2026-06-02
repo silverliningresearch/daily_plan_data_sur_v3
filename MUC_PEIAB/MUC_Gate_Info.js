@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G10",
-        "download_time": "02-06-2026 17:04:38"
+        "download_time": "02-06-2026 17:29:56"
     },
     {
         "aodbUniqueId": "20260602868884",
@@ -661,6 +661,16 @@ let MUC_Gate_Info = `[
         "Gate": "A42"
     },
     {
+        "aodbUniqueId": "20260602868735",
+        "Date": "02-06-2026",
+        "Flight": "DV 484",
+        "Dest": "CIT",
+        "AirlineCode": "DV",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A47"
+    },
+    {
         "aodbUniqueId": "20260602868743",
         "Date": "02-06-2026",
         "Flight": "UA 761",
@@ -669,6 +679,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H18"
+    },
+    {
+        "aodbUniqueId": "20260602868763",
+        "Date": "02-06-2026",
+        "Flight": "LX 1107",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K22"
+    },
+    {
+        "aodbUniqueId": "20260602868199",
+        "Date": "02-06-2026",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K05"
     },
     {
         "aodbUniqueId": "20260602113208",
@@ -729,16 +759,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K01"
-    },
-    {
-        "aodbUniqueId": "20260602868199",
-        "Date": "02-06-2026",
-        "Flight": "KM 309",
-        "Dest": "MLA",
-        "AirlineCode": "KM",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K05"
     },
     {
         "aodbUniqueId": "20260602868202",
@@ -2748,7 +2768,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A46"
+        "Gate": "A43"
     },
     {
         "aodbUniqueId": "20260602868622",
@@ -2819,16 +2839,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H20"
-    },
-    {
-        "aodbUniqueId": "20260602868735",
-        "Date": "02-06-2026",
-        "Flight": "DV 484",
-        "Dest": "CIT",
-        "AirlineCode": "DV",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A47"
     },
     {
         "aodbUniqueId": "20260602868862",
@@ -3509,16 +3519,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K04"
-    },
-    {
-        "aodbUniqueId": "20260602868763",
-        "Date": "02-06-2026",
-        "Flight": "LX 1107",
-        "Dest": "ZRH",
-        "AirlineCode": "LX",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K22"
     },
     {
         "aodbUniqueId": "20260602868768",
