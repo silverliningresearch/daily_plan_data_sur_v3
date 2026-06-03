@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H18",
-        "download_time": "03-06-2026 21:30:05"
+        "download_time": "03-06-2026 22:01:11"
     },
     {
         "aodbUniqueId": "20260603871226",
@@ -721,6 +721,16 @@ let MUC_Gate_Info = `[
         "Gate": "G20"
     },
     {
+        "aodbUniqueId": "20260603871519",
+        "Date": "03-06-2026",
+        "Flight": "LH 1900",
+        "Dest": "BRI",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G14"
+    },
+    {
         "aodbUniqueId": "20260603871686",
         "Date": "03-06-2026",
         "Flight": "LH 1630",
@@ -1059,6 +1069,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A45"
+    },
+    {
+        "aodbUniqueId": "20260603871487",
+        "Date": "03-06-2026",
+        "Flight": "EK 052",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A42"
     },
     {
         "aodbUniqueId": "20260603872021",
@@ -2311,16 +2331,6 @@ let MUC_Gate_Info = `[
         "Gate": "K07"
     },
     {
-        "aodbUniqueId": "20260603871519",
-        "Date": "03-06-2026",
-        "Flight": "LH 1900",
-        "Dest": "BRI",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G14"
-    },
-    {
         "aodbUniqueId": "20260603871520",
         "Date": "03-06-2026",
         "Flight": "4Y 1254",
@@ -3399,16 +3409,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G44"
-    },
-    {
-        "aodbUniqueId": "20260603871487",
-        "Date": "03-06-2026",
-        "Flight": "EK 052",
-        "Dest": "DXB",
-        "AirlineCode": "EK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A42"
     },
     {
         "aodbUniqueId": "20260603871488",
