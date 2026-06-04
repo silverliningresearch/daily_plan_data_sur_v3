@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3",
         "Gate": "G65",
-        "download_time": "04-06-2026 03:01:26"
+        "download_time": "04-06-2026 03:26:58"
     },
     {
         "aodbUniqueId": "20260604874833",
@@ -149,6 +149,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G44"
+    },
+    {
+        "aodbUniqueId": "20260604874788",
+        "Date": "04-06-2026",
+        "Flight": "LH 1630",
+        "Dest": "WRO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G17"
     },
     {
         "aodbUniqueId": "20260604874387",
@@ -2608,7 +2618,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K06"
+        "Gate": "K22"
     },
     {
         "aodbUniqueId": "20260604874719",
@@ -2678,7 +2688,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K04"
+        "Gate": "K21"
     },
     {
         "aodbUniqueId": "20260604874459",
@@ -3377,8 +3387,8 @@ let MUC_Gate_Info = `[
         "Dest": "SPU",
         "AirlineCode": "OU",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K06"
+        "GateArea": "T2 Main E4",
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20260604874598",
@@ -3641,16 +3651,6 @@ let MUC_Gate_Info = `[
         "Gate": "K11"
     },
     {
-        "aodbUniqueId": "20260604874788",
-        "Date": "04-06-2026",
-        "Flight": "LH 1630",
-        "Dest": "WRO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G17"
-    },
-    {
         "aodbUniqueId": "20260604874325",
         "Date": "04-06-2026",
         "Flight": "LH 2440",
@@ -3838,7 +3838,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K22"
+        "Gate": "K19"
     },
     {
         "aodbUniqueId": "20260604874903",
