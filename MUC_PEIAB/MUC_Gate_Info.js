@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D06",
-        "download_time": "07-06-2026 19:26:49"
+        "download_time": "07-06-2026 20:07:57"
     },
     {
         "aodbUniqueId": "20260607883730",
@@ -761,16 +761,6 @@ let MUC_Gate_Info = `[
         "Gate": "C01"
     },
     {
-        "aodbUniqueId": "20260607883912",
-        "Date": "07-06-2026",
-        "Flight": "LH 768",
-        "Dest": "SIN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H38"
-    },
-    {
         "aodbUniqueId": "20260607883913",
         "Date": "07-06-2026",
         "Flight": "LH 1654",
@@ -1208,7 +1198,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G30"
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20260607883731",
@@ -1851,16 +1841,6 @@ let MUC_Gate_Info = `[
         "Gate": "H24"
     },
     {
-        "aodbUniqueId": "20260607883568",
-        "Date": "07-06-2026",
-        "Flight": "EI 357",
-        "Dest": "DUB",
-        "AirlineCode": "EI",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A64"
-    },
-    {
         "aodbUniqueId": "20260607883569",
         "Date": "07-06-2026",
         "Flight": "KM 309",
@@ -1967,8 +1947,8 @@ let MUC_Gate_Info = `[
         "Dest": "MAN",
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H26"
+        "GateArea": "T2 Sat E5",
+        "Gate": "L03"
     },
     {
         "aodbUniqueId": "20260607883338",
@@ -2398,7 +2378,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K10"
+        "Gate": "K06"
     },
     {
         "aodbUniqueId": "20260607883372",
@@ -3331,16 +3311,6 @@ let MUC_Gate_Info = `[
         "Gate": "K12"
     },
     {
-        "aodbUniqueId": "20260607884221",
-        "Date": "07-06-2026",
-        "Flight": "LH 1960",
-        "Dest": "BER",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G28"
-    },
-    {
         "aodbUniqueId": "20260607884226",
         "Date": "07-06-2026",
         "Flight": "FH 1302",
@@ -3537,8 +3507,8 @@ let MUC_Gate_Info = `[
         "Dest": "CTA",
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K01"
+        "GateArea": "T2 Main E4",
+        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20260607884197",
@@ -4051,6 +4021,16 @@ let MUC_Gate_Info = `[
         "Gate": "A42"
     },
     {
+        "aodbUniqueId": "20260607883912",
+        "Date": "07-06-2026",
+        "Flight": "LH 768",
+        "Dest": "SIN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H38"
+    },
+    {
         "aodbUniqueId": "20260607883680",
         "Date": "07-06-2026",
         "Flight": "LH 2420",
@@ -4119,6 +4099,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L24"
+    },
+    {
+        "aodbUniqueId": "20260607883568",
+        "Date": "07-06-2026",
+        "Flight": "EI 357",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A64"
     },
     {
         "aodbUniqueId": "20260607884251",
@@ -4279,6 +4269,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G35"
+    },
+    {
+        "aodbUniqueId": "20260607884221",
+        "Date": "07-06-2026",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20260607883272",
