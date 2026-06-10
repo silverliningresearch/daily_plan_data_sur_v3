@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D11",
-        "download_time": "10-06-2026 02:34:05"
+        "download_time": "10-06-2026 03:04:30"
     },
     {
         "aodbUniqueId": "20260610103395",
@@ -2021,16 +2021,6 @@ let MUC_Gate_Info = `[
         "Gate": "G14"
     },
     {
-        "aodbUniqueId": "20260610102972",
-        "Date": "10-06-2026",
-        "Flight": "LH 099",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G20"
-    },
-    {
         "aodbUniqueId": "20260610102973",
         "Date": "10-06-2026",
         "Flight": "LH 2262",
@@ -3081,16 +3071,6 @@ let MUC_Gate_Info = `[
         "Gate": "G31"
     },
     {
-        "aodbUniqueId": "20260610103308",
-        "Date": "10-06-2026",
-        "Flight": "LH 1812",
-        "Dest": "BCN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K10"
-    },
-    {
         "aodbUniqueId": "20260610103485",
         "Date": "10-06-2026",
         "Flight": "EW 9089",
@@ -4111,11 +4091,31 @@ let MUC_Gate_Info = `[
         "Gate": "G08"
     },
     {
+        "aodbUniqueId": "20260610103308",
+        "Date": "10-06-2026",
+        "Flight": "LH 1812",
+        "Dest": "BCN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K10"
+    },
+    {
         "aodbUniqueId": "20260610102609",
         "Date": "10-06-2026",
         "Flight": "VL 2448",
         "Dest": "CPH",
         "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G20"
+    },
+    {
+        "aodbUniqueId": "20260610102972",
+        "Date": "10-06-2026",
+        "Flight": "LH 099",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20"
