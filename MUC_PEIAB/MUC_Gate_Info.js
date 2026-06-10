@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A44",
-        "download_time": "10-06-2026 05:03:49"
+        "download_time": "10-06-2026 05:29:35"
     },
     {
         "aodbUniqueId": "20260610102696",
@@ -59,6 +59,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A41"
+    },
+    {
+        "aodbUniqueId": "20260610103458",
+        "Date": "10-06-2026",
+        "Flight": "LH 2006",
+        "Dest": "DUS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260610103045",
@@ -3329,16 +3339,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H40"
-    },
-    {
-        "aodbUniqueId": "20260610103458",
-        "Date": "10-06-2026",
-        "Flight": "LH 2006",
-        "Dest": "DUS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260610103461",
