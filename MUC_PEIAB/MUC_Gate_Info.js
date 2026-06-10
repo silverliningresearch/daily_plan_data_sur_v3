@@ -1,5 +1,16 @@
 let MUC_Gate_Info = `[
     {
+        "aodbUniqueId": "20260610103433",
+        "Date": "10-06-2026",
+        "Flight": "EZY2930",
+        "Dest": "BRS",
+        "AirlineCode": "EZ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A44",
+        "download_time": "10-06-2026 04:34:00"
+    },
+    {
         "aodbUniqueId": "20260610102696",
         "Date": "10-06-2026",
         "Flight": "AF 1423",
@@ -7,8 +18,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "AF",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D11",
-        "download_time": "10-06-2026 03:58:53"
+        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20260610103395",
@@ -3129,16 +3139,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G01"
-    },
-    {
-        "aodbUniqueId": "20260610103433",
-        "Date": "10-06-2026",
-        "Flight": "EZY2930",
-        "Dest": "BRS",
-        "AirlineCode": "EZ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A44"
     },
     {
         "aodbUniqueId": "20260610103439",
