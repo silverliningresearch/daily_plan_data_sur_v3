@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G01",
-        "download_time": "11-06-2026 09:29:29"
+        "download_time": "11-06-2026 09:59:40"
     },
     {
         "aodbUniqueId": "20260611110730",
@@ -39,6 +39,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G33"
+    },
+    {
+        "aodbUniqueId": "20260611110669",
+        "Date": "11-06-2026",
+        "Flight": "LH 1896",
+        "Dest": "BRI",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G02"
     },
     {
         "aodbUniqueId": "20260611110551",
@@ -271,16 +281,6 @@ let MUC_Gate_Info = `[
         "Gate": "K12"
     },
     {
-        "aodbUniqueId": "20260611110335",
-        "Date": "11-06-2026",
-        "Flight": "EJU2997",
-        "Dest": "FCO",
-        "AirlineCode": "EJ",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D01"
-    },
-    {
         "aodbUniqueId": "20260611110339",
         "Date": "11-06-2026",
         "Flight": "A3 501",
@@ -289,6 +289,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K09"
+    },
+    {
+        "aodbUniqueId": "20260611110335",
+        "Date": "11-06-2026",
+        "Flight": "EJU2997",
+        "Dest": "FCO",
+        "AirlineCode": "EJ",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D01"
     },
     {
         "aodbUniqueId": "20260611110341",
@@ -1589,16 +1599,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K22"
-    },
-    {
-        "aodbUniqueId": "20260611110669",
-        "Date": "11-06-2026",
-        "Flight": "LH 1896",
-        "Dest": "BRI",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G02"
     },
     {
         "aodbUniqueId": "20260611110670",
