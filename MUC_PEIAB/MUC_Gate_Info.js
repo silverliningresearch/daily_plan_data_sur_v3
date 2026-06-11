@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G01",
-        "download_time": "11-06-2026 16:33:57"
+        "download_time": "11-06-2026 17:03:59"
     },
     {
         "aodbUniqueId": "20260611110730",
@@ -421,6 +421,16 @@ let MUC_Gate_Info = `[
         "Gate": "G08"
     },
     {
+        "aodbUniqueId": "20260611110600",
+        "Date": "11-06-2026",
+        "Flight": "LH 1960",
+        "Dest": "BER",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G28"
+    },
+    {
         "aodbUniqueId": "20260611110365",
         "Date": "11-06-2026",
         "Flight": "LH 2184",
@@ -619,6 +629,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A50"
+    },
+    {
+        "aodbUniqueId": "20260611110686",
+        "Date": "11-06-2026",
+        "Flight": "LH 1652",
+        "Dest": "OTP",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K09"
     },
     {
         "aodbUniqueId": "20260611110298",
@@ -1541,16 +1561,6 @@ let MUC_Gate_Info = `[
         "Gate": "G11"
     },
     {
-        "aodbUniqueId": "20260611110600",
-        "Date": "11-06-2026",
-        "Flight": "LH 1960",
-        "Dest": "BER",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G28"
-    },
-    {
         "aodbUniqueId": "20260611110598",
         "Date": "11-06-2026",
         "Flight": "BA 937",
@@ -2199,16 +2209,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L21"
-    },
-    {
-        "aodbUniqueId": "20260611110686",
-        "Date": "11-06-2026",
-        "Flight": "LH 1652",
-        "Dest": "OTP",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K09"
     },
     {
         "aodbUniqueId": "20260611110687",
