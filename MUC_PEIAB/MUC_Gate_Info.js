@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G01",
-        "download_time": "11-06-2026 14:37:34"
+        "download_time": "11-06-2026 15:04:27"
     },
     {
         "aodbUniqueId": "20260611110730",
@@ -479,6 +479,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G43"
+    },
+    {
+        "aodbUniqueId": "20260611110430",
+        "Date": "11-06-2026",
+        "Flight": "SK 1666",
+        "Dest": "CPH",
+        "AirlineCode": "SK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D02"
     },
     {
         "aodbUniqueId": "20260611110613",
@@ -1081,16 +1091,6 @@ let MUC_Gate_Info = `[
         "Gate": "L10"
     },
     {
-        "aodbUniqueId": "20260611110430",
-        "Date": "11-06-2026",
-        "Flight": "SK 1666",
-        "Dest": "CPH",
-        "AirlineCode": "SK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D02"
-    },
-    {
         "aodbUniqueId": "20260611110431",
         "Date": "11-06-2026",
         "Flight": "LH 121",
@@ -1498,7 +1498,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G32"
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20260611110654",
@@ -1948,7 +1948,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G28"
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20260611110811",
