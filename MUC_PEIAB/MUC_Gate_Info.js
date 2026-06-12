@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14",
-        "download_time": "12-06-2026 21:02:26"
+        "download_time": "12-06-2026 21:31:11"
     },
     {
         "aodbUniqueId": "20260612113926",
@@ -719,6 +719,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G04"
+    },
+    {
+        "aodbUniqueId": "20260612114050",
+        "Date": "12-06-2026",
+        "Flight": "LH 1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K03"
     },
     {
         "aodbUniqueId": "20260612114299",
@@ -3191,16 +3201,6 @@ let MUC_Gate_Info = `[
         "Gate": "K14"
     },
     {
-        "aodbUniqueId": "20260612114050",
-        "Date": "12-06-2026",
-        "Flight": "LH 1682",
-        "Dest": "BUD",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K03"
-    },
-    {
         "aodbUniqueId": "20260612114054",
         "Date": "12-06-2026",
         "Flight": "OU 4431",
@@ -3618,7 +3618,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EW",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G26"
+        "Gate": "G18"
     },
     {
         "aodbUniqueId": "20260612113966",
