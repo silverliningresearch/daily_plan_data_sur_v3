@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20",
-        "download_time": "13-06-2026 13:04:30"
+        "download_time": "13-06-2026 13:31:32"
     },
     {
         "aodbUniqueId": "20260613116709",
@@ -438,7 +438,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "TU",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A51"
+        "Gate": "A40"
     },
     {
         "aodbUniqueId": "20260613116983",
@@ -569,6 +569,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G48"
+    },
+    {
+        "aodbUniqueId": "20260613117165",
+        "Date": "13-06-2026",
+        "Flight": "LH 2060",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G04"
+    },
+    {
+        "aodbUniqueId": "20260613116643",
+        "Date": "13-06-2026",
+        "Flight": "X3 2162",
+        "Dest": "FUE",
+        "AirlineCode": "X3",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260613116856",
@@ -788,7 +808,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A50"
+        "Gate": "A41"
     },
     {
         "aodbUniqueId": "20260613116568",
@@ -928,7 +948,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A49"
+        "Gate": "A45"
     },
     {
         "aodbUniqueId": "20260613116566",
@@ -1321,16 +1341,6 @@ let MUC_Gate_Info = `[
         "Gate": "G31"
     },
     {
-        "aodbUniqueId": "20260613116643",
-        "Date": "13-06-2026",
-        "Flight": "X3 2162",
-        "Dest": "FUE",
-        "AirlineCode": "X3",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D03"
-    },
-    {
         "aodbUniqueId": "20260613116644",
         "Date": "13-06-2026",
         "Flight": "VL 2258",
@@ -1538,7 +1548,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "TK",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A47"
+        "Gate": "A43"
     },
     {
         "aodbUniqueId": "20260613116987",
@@ -2599,16 +2609,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K08"
-    },
-    {
-        "aodbUniqueId": "20260613117165",
-        "Date": "13-06-2026",
-        "Flight": "LH 2060",
-        "Dest": "HAM",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20260613117169",
