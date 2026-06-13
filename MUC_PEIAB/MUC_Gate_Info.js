@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20",
-        "download_time": "13-06-2026 15:05:05"
+        "download_time": "13-06-2026 15:29:21"
     },
     {
         "aodbUniqueId": "20260613116709",
@@ -421,6 +421,16 @@ let MUC_Gate_Info = `[
         "Gate": "G16"
     },
     {
+        "aodbUniqueId": "20260613117221",
+        "Date": "13-06-2026",
+        "Flight": "ENT6631",
+        "Dest": "PRN",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A64"
+    },
+    {
         "aodbUniqueId": "20260613117118",
         "Date": "13-06-2026",
         "Flight": "LH 2146",
@@ -429,6 +439,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G15"
+    },
+    {
+        "aodbUniqueId": "20260613116785",
+        "Date": "13-06-2026",
+        "Flight": "LH 412",
+        "Dest": "EWR",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H18"
+    },
+    {
+        "aodbUniqueId": "20260613116541",
+        "Date": "13-06-2026",
+        "Flight": "LH 2478",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L10"
     },
     {
         "aodbUniqueId": "20260613117136",
@@ -779,16 +809,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G11"
-    },
-    {
-        "aodbUniqueId": "20260613116541",
-        "Date": "13-06-2026",
-        "Flight": "LH 2478",
-        "Dest": "LHR",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L10"
     },
     {
         "aodbUniqueId": "20260613116544",
@@ -1498,7 +1518,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K22"
+        "Gate": "K09"
     },
     {
         "aodbUniqueId": "20260613116974",
@@ -1809,16 +1829,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G32"
-    },
-    {
-        "aodbUniqueId": "20260613116785",
-        "Date": "13-06-2026",
-        "Flight": "LH 412",
-        "Dest": "EWR",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H18"
     },
     {
         "aodbUniqueId": "20260613116790",
@@ -2358,7 +2368,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G40"
+        "Gate": "G02"
     },
     {
         "aodbUniqueId": "20260613117197",
@@ -3169,16 +3179,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K06"
-    },
-    {
-        "aodbUniqueId": "20260613117221",
-        "Date": "13-06-2026",
-        "Flight": "ENT6631",
-        "Dest": "PRN",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A64"
     },
     {
         "aodbUniqueId": "20260613117225",
