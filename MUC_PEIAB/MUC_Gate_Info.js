@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20",
-        "download_time": "13-06-2026 13:31:32"
+        "download_time": "13-06-2026 13:59:38"
     },
     {
         "aodbUniqueId": "20260613116709",
@@ -438,7 +438,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "TU",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A40"
+        "Gate": "A47"
     },
     {
         "aodbUniqueId": "20260613116983",
@@ -808,7 +808,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A41"
+        "Gate": "A46"
     },
     {
         "aodbUniqueId": "20260613116568",
@@ -948,7 +948,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A45"
+        "Gate": "A42"
     },
     {
         "aodbUniqueId": "20260613116566",
