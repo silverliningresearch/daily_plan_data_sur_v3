@@ -8,7 +8,17 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L24",
-        "download_time": "14-06-2026 20:32:07"
+        "download_time": "14-06-2026 21:04:35"
+    },
+    {
+        "aodbUniqueId": "20260614120085",
+        "Date": "14-06-2026",
+        "Flight": "A2 625",
+        "Dest": "OTP",
+        "AirlineCode": "A2",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260614121077",
@@ -1569,16 +1579,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H32"
-    },
-    {
-        "aodbUniqueId": "20260614120085",
-        "Date": "14-06-2026",
-        "Flight": "A2 625",
-        "Dest": "OTP",
-        "AirlineCode": "A2",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260614120130",
