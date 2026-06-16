@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G35",
-        "download_time": "16-06-2026 14:04:07"
+        "download_time": "16-06-2026 14:33:03"
     },
     {
         "aodbUniqueId": "20260616126452",
@@ -401,6 +401,26 @@ let MUC_Gate_Info = `[
         "Gate": "G14"
     },
     {
+        "aodbUniqueId": "20260616126047",
+        "Date": "16-06-2026",
+        "Flight": "VL 2220",
+        "Dest": "TLS",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G31"
+    },
+    {
+        "aodbUniqueId": "20260616125753",
+        "Date": "16-06-2026",
+        "Flight": "KU 174",
+        "Dest": "KWI",
+        "AirlineCode": "KU",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A51"
+    },
+    {
         "aodbUniqueId": "20260616126433",
         "Date": "16-06-2026",
         "Flight": "XQ 977",
@@ -539,6 +559,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G10"
+    },
+    {
+        "aodbUniqueId": "20260616125958",
+        "Date": "16-06-2026",
+        "Flight": "SN 2646",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G46"
+    },
+    {
+        "aodbUniqueId": "20260616125891",
+        "Date": "16-06-2026",
+        "Flight": "KL 1854",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20260616126327",
@@ -1291,16 +1331,6 @@ let MUC_Gate_Info = `[
         "Gate": "D14"
     },
     {
-        "aodbUniqueId": "20260616125958",
-        "Date": "16-06-2026",
-        "Flight": "SN 2646",
-        "Dest": "BRU",
-        "AirlineCode": "SN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G46"
-    },
-    {
         "aodbUniqueId": "20260616125960",
         "Date": "16-06-2026",
         "Flight": "LH 2346",
@@ -1569,16 +1599,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K05"
-    },
-    {
-        "aodbUniqueId": "20260616125891",
-        "Date": "16-06-2026",
-        "Flight": "KL 1854",
-        "Dest": "AMS",
-        "AirlineCode": "KL",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20260616125971",
@@ -2701,16 +2721,6 @@ let MUC_Gate_Info = `[
         "Gate": "K05"
     },
     {
-        "aodbUniqueId": "20260616126047",
-        "Date": "16-06-2026",
-        "Flight": "VL 2220",
-        "Dest": "TLS",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G31"
-    },
-    {
         "aodbUniqueId": "20260616126048",
         "Date": "16-06-2026",
         "Flight": "LH 488",
@@ -2999,16 +3009,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G27"
-    },
-    {
-        "aodbUniqueId": "20260616125753",
-        "Date": "16-06-2026",
-        "Flight": "KU 174",
-        "Dest": "KWI",
-        "AirlineCode": "KU",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A51"
     },
     {
         "aodbUniqueId": "20260616125869",
@@ -3901,16 +3901,6 @@ let MUC_Gate_Info = `[
         "Gate": "K15"
     },
     {
-        "aodbUniqueId": "20260616126572",
-        "Date": "16-06-2026",
-        "Flight": "DV 484",
-        "Dest": "CIT",
-        "AirlineCode": "DV",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A41"
-    },
-    {
         "aodbUniqueId": "20260616126573",
         "Date": "16-06-2026",
         "Flight": "LH 117",
@@ -4039,6 +4029,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A60"
+    },
+    {
+        "aodbUniqueId": "20260616126572",
+        "Date": "16-06-2026",
+        "Flight": "DV 484",
+        "Dest": "CIT",
+        "AirlineCode": "DV",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A41"
     },
     {
         "aodbUniqueId": "20260616126618",
