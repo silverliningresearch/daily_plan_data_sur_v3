@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G02",
-        "download_time": "17-06-2026 21:30:54"
+        "download_time": "17-06-2026 21:59:25"
     },
     {
         "aodbUniqueId": "20260617129498",
@@ -569,6 +569,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H46"
+    },
+    {
+        "aodbUniqueId": "20260617129149",
+        "Date": "17-06-2026",
+        "Flight": "LH 123",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20260617129384",
@@ -1241,6 +1251,16 @@ let MUC_Gate_Info = `[
         "Gate": "G41"
     },
     {
+        "aodbUniqueId": "20260617129583",
+        "Date": "17-06-2026",
+        "Flight": "LH 1900",
+        "Dest": "BRI",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G16"
+    },
+    {
         "aodbUniqueId": "20260617128780",
         "Date": "17-06-2026",
         "Flight": "AZ 437",
@@ -1619,6 +1639,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H08"
+    },
+    {
+        "aodbUniqueId": "20260617129490",
+        "Date": "17-06-2026",
+        "Flight": "LH 2200",
+        "Dest": "BRE",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K08"
     },
     {
         "aodbUniqueId": "20260617129182",
@@ -3101,16 +3131,6 @@ let MUC_Gate_Info = `[
         "Gate": "G15"
     },
     {
-        "aodbUniqueId": "20260617129149",
-        "Date": "17-06-2026",
-        "Flight": "LH 123",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G24"
-    },
-    {
         "aodbUniqueId": "20260617129270",
         "Date": "17-06-2026",
         "Flight": "VL 2230",
@@ -3958,7 +3978,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H40"
+        "Gate": "H39"
     },
     {
         "aodbUniqueId": "20260617129318",
@@ -4091,16 +4111,6 @@ let MUC_Gate_Info = `[
         "Gate": "G65"
     },
     {
-        "aodbUniqueId": "20260617129490",
-        "Date": "17-06-2026",
-        "Flight": "LH 2200",
-        "Dest": "BRE",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K08"
-    },
-    {
         "aodbUniqueId": "20260617129581",
         "Date": "17-06-2026",
         "Flight": "LH 1738",
@@ -4119,16 +4129,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G09"
-    },
-    {
-        "aodbUniqueId": "20260617129583",
-        "Date": "17-06-2026",
-        "Flight": "LH 1900",
-        "Dest": "BRI",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G16"
     },
     {
         "aodbUniqueId": "20260617129584",
