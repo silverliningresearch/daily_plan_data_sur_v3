@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C05",
-        "download_time": "18-06-2026 19:30:35"
+        "download_time": "18-06-2026 20:06:18"
     },
     {
         "aodbUniqueId": "20260618132407",
@@ -399,16 +399,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D03"
-    },
-    {
-        "aodbUniqueId": "20260618132091",
-        "Date": "18-06-2026",
-        "Flight": "LH 2456",
-        "Dest": "OSL",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20260618132092",
@@ -961,16 +951,6 @@ let MUC_Gate_Info = `[
         "Gate": "G04"
     },
     {
-        "aodbUniqueId": "20260618132128",
-        "Date": "18-06-2026",
-        "Flight": "LH 2030",
-        "Dest": "DUS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G20"
-    },
-    {
         "aodbUniqueId": "20260618132129",
         "Date": "18-06-2026",
         "Flight": "LH 2426",
@@ -1118,7 +1098,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K21"
+        "Gate": "K15"
     },
     {
         "aodbUniqueId": "20260618132548",
@@ -1199,16 +1179,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H39"
-    },
-    {
-        "aodbUniqueId": "20260618132028",
-        "Date": "18-06-2026",
-        "Flight": "EW 085",
-        "Dest": "CGN",
-        "AirlineCode": "EW",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K16"
     },
     {
         "aodbUniqueId": "20260618132140",
@@ -1721,6 +1691,16 @@ let MUC_Gate_Info = `[
         "Gate": "G04"
     },
     {
+        "aodbUniqueId": "20260618132128",
+        "Date": "18-06-2026",
+        "Flight": "LH 2030",
+        "Dest": "DUS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G20"
+    },
+    {
         "aodbUniqueId": "20260618131790",
         "Date": "18-06-2026",
         "Flight": "4Y 090",
@@ -1837,8 +1817,8 @@ let MUC_Gate_Info = `[
         "Dest": "BER",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G26"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K06"
     },
     {
         "aodbUniqueId": "20260618132176",
@@ -1989,6 +1969,36 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K18"
+    },
+    {
+        "aodbUniqueId": "20260618132091",
+        "Date": "18-06-2026",
+        "Flight": "LH 2456",
+        "Dest": "OSL",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G24"
+    },
+    {
+        "aodbUniqueId": "20260618131919",
+        "Date": "18-06-2026",
+        "Flight": "AZ 453",
+        "Dest": "LIN",
+        "AirlineCode": "AZ",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K06"
+    },
+    {
+        "aodbUniqueId": "20260618132028",
+        "Date": "18-06-2026",
+        "Flight": "EW 085",
+        "Dest": "CGN",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K16"
     },
     {
         "aodbUniqueId": "20260618131814",
@@ -2527,8 +2537,8 @@ let MUC_Gate_Info = `[
         "Dest": "CTA",
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K06"
+        "GateArea": "T2 Main E4",
+        "Gate": "G26"
     },
     {
         "aodbUniqueId": "20260618131888",
@@ -2768,7 +2778,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K15"
+        "Gate": "K19"
     },
     {
         "aodbUniqueId": "20260618132604",
@@ -2858,7 +2868,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VY",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D01"
+        "Gate": "D03"
     },
     {
         "aodbUniqueId": "20260618131868",
@@ -3859,16 +3869,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G30"
-    },
-    {
-        "aodbUniqueId": "20260618131919",
-        "Date": "18-06-2026",
-        "Flight": "AZ 453",
-        "Dest": "LIN",
-        "AirlineCode": "AZ",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K06"
     },
     {
         "aodbUniqueId": "20260618131926",
