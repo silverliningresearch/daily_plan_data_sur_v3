@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C05",
-        "download_time": "18-06-2026 22:35:54"
+        "download_time": "18-06-2026 23:07:17"
     },
     {
         "aodbUniqueId": "20260618132407",
@@ -1581,16 +1581,6 @@ let MUC_Gate_Info = `[
         "Gate": "G20"
     },
     {
-        "aodbUniqueId": "20260618132646",
-        "Date": "18-06-2026",
-        "Flight": "LH 1682",
-        "Dest": "BUD",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K14"
-    },
-    {
         "aodbUniqueId": "20260618132647",
         "Date": "18-06-2026",
         "Flight": "LH 1716",
@@ -3109,6 +3099,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G40"
+    },
+    {
+        "aodbUniqueId": "20260618132646",
+        "Date": "18-06-2026",
+        "Flight": "LH 1682",
+        "Dest": "BUD",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K14"
     },
     {
         "aodbUniqueId": "20260618131871",
