@@ -1,60 +1,9 @@
 let interview_statistics = `[
     {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 1,
-        "Number of interviews": 7,
-        "download_time": "18-06-2026 07:24:55"
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 2,
-        "Number of interviews": 12
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 3,
-        "Number of interviews": 7
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 4,
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 5,
-        "Number of interviews": 8
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 6,
-        "Number of interviews": 12
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 7,
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 8,
-        "Number of interviews": 7
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 9,
-        "Number of interviews": 8
-    },
-    {
-        "InterviewDate": "2026-06-17",
-        "InterviewerID": 10,
-        "Number of interviews": 5
-    },
-	{
         "InterviewDate": "2026-06-18",
         "InterviewerID": 1,
         "Number of interviews": 7,
-        "download_time": "18-06-2026 07:24:55"
+        "download_time": "18-06-2026 09:41:31"
     },
     {
         "InterviewDate": "2026-06-18",
@@ -101,7 +50,6 @@ let interview_statistics = `[
         "InterviewerID": 10,
         "Number of interviews": 5
     }
-	
 ]    
 
  `;
