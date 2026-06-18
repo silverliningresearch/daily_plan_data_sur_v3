@@ -5,7 +5,7 @@ let location_count = `[
         "Location": "T1-A/E04",
         "Exit_belt": "Baggage belts",
         "completed_interviews": 7,
-        "download_time": "18-06-2026 10:45:27"
+        "download_time": "18-06-2026 11:30:25"
     },
     {
         "Year": "2026",
