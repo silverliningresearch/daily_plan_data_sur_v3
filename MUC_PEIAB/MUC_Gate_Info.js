@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C05",
-        "download_time": "18-06-2026 18:38:32"
+        "download_time": "18-06-2026 19:05:50"
     },
     {
         "aodbUniqueId": "20260618132407",
@@ -89,16 +89,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A40"
-    },
-    {
-        "aodbUniqueId": "20260618131956",
-        "Date": "18-06-2026",
-        "Flight": "DE 1810",
-        "Dest": "OLB",
-        "AirlineCode": "DE",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20260618131960",
@@ -1541,16 +1531,6 @@ let MUC_Gate_Info = `[
         "Gate": "H40"
     },
     {
-        "aodbUniqueId": "20260618132040",
-        "Date": "18-06-2026",
-        "Flight": "LH 1672",
-        "Dest": "CLJ",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G30"
-    },
-    {
         "aodbUniqueId": "20260618132041",
         "Date": "18-06-2026",
         "Flight": "DL 023",
@@ -1719,6 +1699,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K21"
+    },
+    {
+        "aodbUniqueId": "20260618132040",
+        "Date": "18-06-2026",
+        "Flight": "LH 1672",
+        "Dest": "CLJ",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G30"
+    },
+    {
+        "aodbUniqueId": "20260618131956",
+        "Date": "18-06-2026",
+        "Flight": "DE 1810",
+        "Dest": "OLB",
+        "AirlineCode": "DE",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20260618131790",
