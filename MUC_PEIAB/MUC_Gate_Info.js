@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G09",
-        "download_time": "21-06-2026 11:04:52"
+        "download_time": "21-06-2026 11:30:11"
     },
     {
         "aodbUniqueId": "20260621144815",
@@ -209,6 +209,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G26"
+    },
+    {
+        "aodbUniqueId": "20260621144841",
+        "Date": "21-06-2026",
+        "Flight": "LH 428",
+        "Dest": "CLT",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H05"
+    },
+    {
+        "aodbUniqueId": "20260621145198",
+        "Date": "21-06-2026",
+        "Flight": "VL 1976",
+        "Dest": "CGN",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G29"
     },
     {
         "aodbUniqueId": "20260621144641",
@@ -1061,16 +1081,6 @@ let MUC_Gate_Info = `[
         "Gate": "G04"
     },
     {
-        "aodbUniqueId": "20260621144841",
-        "Date": "21-06-2026",
-        "Flight": "LH 428",
-        "Dest": "CLT",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H05"
-    },
-    {
         "aodbUniqueId": "20260621144842",
         "Date": "21-06-2026",
         "Flight": "VL 2096",
@@ -1898,7 +1908,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VF",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A45"
+        "Gate": "A47"
     },
     {
         "aodbUniqueId": "20260621145064",
@@ -2651,16 +2661,6 @@ let MUC_Gate_Info = `[
         "Gate": "K06"
     },
     {
-        "aodbUniqueId": "20260621145198",
-        "Date": "21-06-2026",
-        "Flight": "VL 1976",
-        "Dest": "CGN",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G29"
-    },
-    {
         "aodbUniqueId": "20260621145199",
         "Date": "21-06-2026",
         "Flight": "QR 058",
@@ -3081,6 +3081,16 @@ let MUC_Gate_Info = `[
         "Gate": "G03"
     },
     {
+        "aodbUniqueId": "20260621145336",
+        "Date": "21-06-2026",
+        "Flight": "KM 307",
+        "Dest": "MLA",
+        "AirlineCode": "KM",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G04"
+    },
+    {
         "aodbUniqueId": "20260621145326",
         "Date": "21-06-2026",
         "Flight": "EN 8200",
@@ -3169,16 +3179,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H14"
-    },
-    {
-        "aodbUniqueId": "20260621145336",
-        "Date": "21-06-2026",
-        "Flight": "KM 307",
-        "Dest": "MLA",
-        "AirlineCode": "KM",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20260621145337",
@@ -3551,6 +3551,16 @@ let MUC_Gate_Info = `[
         "Gate": "K08"
     },
     {
+        "aodbUniqueId": "20260621145477",
+        "Date": "21-06-2026",
+        "Flight": "VN 032",
+        "Dest": "SGN",
+        "AirlineCode": "VN",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A42"
+    },
+    {
         "aodbUniqueId": "20260621145439",
         "Date": "21-06-2026",
         "Flight": "LH 1714",
@@ -3701,6 +3711,16 @@ let MUC_Gate_Info = `[
         "Gate": "A40"
     },
     {
+        "aodbUniqueId": "20260621145421",
+        "Date": "21-06-2026",
+        "Flight": "AZ 437",
+        "Dest": "FCO",
+        "AirlineCode": "AZ",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K04"
+    },
+    {
         "aodbUniqueId": "20260621145475",
         "Date": "21-06-2026",
         "Flight": "LO 354",
@@ -3719,16 +3739,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A49"
-    },
-    {
-        "aodbUniqueId": "20260621145477",
-        "Date": "21-06-2026",
-        "Flight": "VN 032",
-        "Dest": "SGN",
-        "AirlineCode": "VN",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A42"
     },
     {
         "aodbUniqueId": "20260621145413",
@@ -3769,16 +3779,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G34"
-    },
-    {
-        "aodbUniqueId": "20260621145421",
-        "Date": "21-06-2026",
-        "Flight": "AZ 437",
-        "Dest": "FCO",
-        "AirlineCode": "AZ",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K04"
     },
     {
         "aodbUniqueId": "20260621145426",
@@ -3828,7 +3828,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A47"
+        "Gate": "A45"
     },
     {
         "aodbUniqueId": "20260621145431",
