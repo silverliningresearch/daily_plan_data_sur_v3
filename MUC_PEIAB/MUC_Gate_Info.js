@@ -8,7 +8,17 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G09",
-        "download_time": "21-06-2026 06:35:11"
+        "download_time": "21-06-2026 07:11:56"
+    },
+    {
+        "aodbUniqueId": "20260621144815",
+        "Date": "21-06-2026",
+        "Flight": "LH 2476",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L05"
     },
     {
         "aodbUniqueId": "20260621144689",
@@ -19,6 +29,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K04"
+    },
+    {
+        "aodbUniqueId": "20260621144952",
+        "Date": "21-06-2026",
+        "Flight": "BT 224",
+        "Dest": "RIX",
+        "AirlineCode": "BT",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G46"
     },
     {
         "aodbUniqueId": "20260621144601",
@@ -68,7 +88,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EN",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G46"
+        "Gate": "G19"
     },
     {
         "aodbUniqueId": "20260621144599",
@@ -417,8 +437,8 @@ let MUC_Gate_Info = `[
         "Dest": "ATH",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K20"
+        "GateArea": "T2 Main E4",
+        "Gate": "G27"
     },
     {
         "aodbUniqueId": "20260621144635",
@@ -527,8 +547,8 @@ let MUC_Gate_Info = `[
         "Dest": "PMO",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K26"
+        "GateArea": "T2 Main E4",
+        "Gate": "G46"
     },
     {
         "aodbUniqueId": "20260621144651",
@@ -557,8 +577,8 @@ let MUC_Gate_Info = `[
         "Dest": "CAG",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K24"
+        "GateArea": "T2 Main E4",
+        "Gate": "G48"
     },
     {
         "aodbUniqueId": "20260621144746",
@@ -917,8 +937,8 @@ let MUC_Gate_Info = `[
         "Dest": "SFO",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H48"
+        "GateArea": "T2 Sat E5",
+        "Gate": "L24"
     },
     {
         "aodbUniqueId": "20260621144834",
@@ -1218,7 +1238,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LX",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K24"
+        "Gate": "K18"
     },
     {
         "aodbUniqueId": "20260621144917",
@@ -1491,16 +1511,6 @@ let MUC_Gate_Info = `[
         "Gate": "K22"
     },
     {
-        "aodbUniqueId": "20260621144952",
-        "Date": "21-06-2026",
-        "Flight": "BT 224",
-        "Dest": "RIX",
-        "AirlineCode": "BT",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G46"
-    },
-    {
         "aodbUniqueId": "20260621144953",
         "Date": "21-06-2026",
         "Flight": "LH 762",
@@ -1617,8 +1627,8 @@ let MUC_Gate_Info = `[
         "Dest": "ZAG",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G05"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20260621144980",
@@ -1668,7 +1678,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "BT",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K18"
+        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20260621144992",
@@ -1789,16 +1799,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D15"
-    },
-    {
-        "aodbUniqueId": "20260621144815",
-        "Date": "21-06-2026",
-        "Flight": "LH 2476",
-        "Dest": "LHR",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L05"
     },
     {
         "aodbUniqueId": "20260621144817",
