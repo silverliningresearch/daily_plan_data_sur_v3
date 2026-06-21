@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G09",
-        "download_time": "21-06-2026 02:34:20"
+        "download_time": "21-06-2026 03:06:25"
     },
     {
         "aodbUniqueId": "20260621144689",
@@ -2488,7 +2488,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G41"
+        "Gate": "G14"
     },
     {
         "aodbUniqueId": "20260621145186",
@@ -2888,7 +2888,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G18"
+        "Gate": "G11"
     },
     {
         "aodbUniqueId": "20260621145253",
