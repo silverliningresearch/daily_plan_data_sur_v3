@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G07",
-        "download_time": "22-06-2026 09:34:48"
+        "download_time": "22-06-2026 10:01:32"
     },
     {
         "aodbUniqueId": "20260622148171",
@@ -239,6 +239,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D05"
+    },
+    {
+        "aodbUniqueId": "20260622147768",
+        "Date": "22-06-2026",
+        "Flight": "OU 4435",
+        "Dest": "RJK",
+        "AirlineCode": "OU",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G37"
     },
     {
         "aodbUniqueId": "20260622148510",
@@ -749,16 +759,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A42"
-    },
-    {
-        "aodbUniqueId": "20260622147768",
-        "Date": "22-06-2026",
-        "Flight": "OU 4435",
-        "Dest": "RJK",
-        "AirlineCode": "OU",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G37"
     },
     {
         "aodbUniqueId": "20260622147760",
