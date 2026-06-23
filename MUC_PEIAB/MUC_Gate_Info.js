@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G24",
-        "download_time": "23-06-2026 06:42:39"
+        "download_time": "23-06-2026 07:04:55"
     },
     {
         "aodbUniqueId": "20260623151508",
@@ -31,6 +31,16 @@ let MUC_Gate_Info = `[
         "Gate": "G33"
     },
     {
+        "aodbUniqueId": "20260623151572",
+        "Date": "23-06-2026",
+        "Flight": "EN 8342",
+        "Dest": "KRK",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G19"
+    },
+    {
         "aodbUniqueId": "20260623150826",
         "Date": "23-06-2026",
         "Flight": "LH 1782",
@@ -39,6 +49,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G08"
+    },
+    {
+        "aodbUniqueId": "20260623151699",
+        "Date": "23-06-2026",
+        "Flight": "LH 1834",
+        "Dest": "AGP",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20260623151057",
@@ -608,7 +628,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
-        "Gate": "L08"
+        "Gate": "L06"
     },
     {
         "aodbUniqueId": "20260623150898",
@@ -3118,7 +3138,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K06"
+        "Gate": "K08"
     },
     {
         "aodbUniqueId": "20260623151688",
@@ -3301,16 +3321,6 @@ let MUC_Gate_Info = `[
         "Gate": "G33"
     },
     {
-        "aodbUniqueId": "20260623151699",
-        "Date": "23-06-2026",
-        "Flight": "LH 1834",
-        "Dest": "AGP",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G40"
-    },
-    {
         "aodbUniqueId": "20260623151702",
         "Date": "23-06-2026",
         "Flight": "LH 764",
@@ -3359,16 +3369,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K22"
-    },
-    {
-        "aodbUniqueId": "20260623151572",
-        "Date": "23-06-2026",
-        "Flight": "EN 8342",
-        "Dest": "KRK",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G19"
     },
     {
         "aodbUniqueId": "20260623151577",
