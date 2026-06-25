@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3",
         "Gate": "G62",
-        "download_time": "25-06-2026 15:08:34"
+        "download_time": "25-06-2026 15:33:59"
     },
     {
         "aodbUniqueId": "20260625157825",
@@ -121,6 +121,26 @@ let MUC_Gate_Info = `[
         "Gate": "A48"
     },
     {
+        "aodbUniqueId": "20260625157750",
+        "Date": "25-06-2026",
+        "Flight": "BA 935",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A40"
+    },
+    {
+        "aodbUniqueId": "20260625157786",
+        "Date": "25-06-2026",
+        "Flight": "LH 476",
+        "Dest": "YVR",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L08"
+    },
+    {
         "aodbUniqueId": "20260625157730",
         "Date": "25-06-2026",
         "Flight": "LX 1105",
@@ -168,7 +188,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G28"
+        "Gate": "G26"
     },
     {
         "aodbUniqueId": "20260625157265",
@@ -2158,7 +2178,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G28"
+        "Gate": "G18"
     },
     {
         "aodbUniqueId": "20260625157274",
@@ -2961,16 +2981,6 @@ let MUC_Gate_Info = `[
         "Gate": "H34"
     },
     {
-        "aodbUniqueId": "20260625157633",
-        "Date": "25-06-2026",
-        "Flight": "LH 2320",
-        "Dest": "LUX",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E3",
-        "Gate": "G69"
-    },
-    {
         "aodbUniqueId": "20260625157634",
         "Date": "25-06-2026",
         "Flight": "LH 1682",
@@ -3001,6 +3011,16 @@ let MUC_Gate_Info = `[
         "Gate": "K20"
     },
     {
+        "aodbUniqueId": "20260625157633",
+        "Date": "25-06-2026",
+        "Flight": "LH 2320",
+        "Dest": "LUX",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E3",
+        "Gate": "G69"
+    },
+    {
         "aodbUniqueId": "20260625157568",
         "Date": "25-06-2026",
         "Flight": "LH 2194",
@@ -3019,6 +3039,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G19"
+    },
+    {
+        "aodbUniqueId": "20260625157493",
+        "Date": "25-06-2026",
+        "Flight": "LH 1710",
+        "Dest": "DBV",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20260625157541",
@@ -3481,16 +3511,6 @@ let MUC_Gate_Info = `[
         "Gate": "C03"
     },
     {
-        "aodbUniqueId": "20260625157493",
-        "Date": "25-06-2026",
-        "Flight": "LH 1710",
-        "Dest": "DBV",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G24"
-    },
-    {
         "aodbUniqueId": "20260625157494",
         "Date": "25-06-2026",
         "Flight": "VL 1938",
@@ -3628,7 +3648,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H26"
+        "Gate": "H40"
     },
     {
         "aodbUniqueId": "20260625157562",
@@ -3758,7 +3778,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G18"
+        "Gate": "G28"
     },
     {
         "aodbUniqueId": "20260625157839",
@@ -3839,16 +3859,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K07"
-    },
-    {
-        "aodbUniqueId": "20260625157786",
-        "Date": "25-06-2026",
-        "Flight": "LH 476",
-        "Dest": "YVR",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L08"
     },
     {
         "aodbUniqueId": "20260625157791",
@@ -4259,16 +4269,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G28"
-    },
-    {
-        "aodbUniqueId": "20260625157750",
-        "Date": "25-06-2026",
-        "Flight": "BA 935",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A40"
     },
     {
         "aodbUniqueId": "20260625157302",
