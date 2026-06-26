@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G28",
-        "download_time": "26-06-2026 16:36:42"
+        "download_time": "26-06-2026 17:13:35"
     },
     {
         "aodbUniqueId": "20260626160485",
@@ -328,7 +328,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "WY",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A49"
+        "Gate": "A51"
     },
     {
         "aodbUniqueId": "20260626160392",
@@ -338,7 +338,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "WY",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A49"
+        "Gate": "A51"
     },
     {
         "aodbUniqueId": "20260626160801",
@@ -581,6 +581,16 @@ let MUC_Gate_Info = `[
         "Gate": "D03"
     },
     {
+        "aodbUniqueId": "20260626160285",
+        "Date": "26-06-2026",
+        "Flight": "SK 2658",
+        "Dest": "CPH",
+        "AirlineCode": "SK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1D",
+        "Gate": "D02"
+    },
+    {
         "aodbUniqueId": "20260626159937",
         "Date": "26-06-2026",
         "Flight": "EW 6885",
@@ -639,6 +649,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14"
+    },
+    {
+        "aodbUniqueId": "20260626160814",
+        "Date": "26-06-2026",
+        "Flight": "LH 2572",
+        "Dest": "PMO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G14"
     },
     {
         "aodbUniqueId": "20260626160559",
@@ -2661,16 +2681,6 @@ let MUC_Gate_Info = `[
         "Gate": "G38"
     },
     {
-        "aodbUniqueId": "20260626160285",
-        "Date": "26-06-2026",
-        "Flight": "SK 2658",
-        "Dest": "CPH",
-        "AirlineCode": "SK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D02"
-    },
-    {
         "aodbUniqueId": "20260626160318",
         "Date": "26-06-2026",
         "Flight": "LH 2128",
@@ -3038,7 +3048,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "TK",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A50"
+        "Gate": "A48"
     },
     {
         "aodbUniqueId": "20260626160470",
@@ -3208,7 +3218,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "EZ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A44"
+        "Gate": "A41"
     },
     {
         "aodbUniqueId": "20260626160580",
@@ -3691,6 +3701,16 @@ let MUC_Gate_Info = `[
         "Gate": "G07"
     },
     {
+        "aodbUniqueId": "20260626160722",
+        "Date": "26-06-2026",
+        "Flight": "KM 309",
+        "Dest": "MLA",
+        "AirlineCode": "KM",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K20"
+    },
+    {
         "aodbUniqueId": "20260626160695",
         "Date": "26-06-2026",
         "Flight": "LH 1866",
@@ -3719,16 +3739,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20"
-    },
-    {
-        "aodbUniqueId": "20260626160722",
-        "Date": "26-06-2026",
-        "Flight": "KM 309",
-        "Dest": "MLA",
-        "AirlineCode": "KM",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20260626160726",
@@ -4089,16 +4099,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G08"
-    },
-    {
-        "aodbUniqueId": "20260626160814",
-        "Date": "26-06-2026",
-        "Flight": "LH 2572",
-        "Dest": "PMO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G14"
     },
     {
         "aodbUniqueId": "20260626160813",
