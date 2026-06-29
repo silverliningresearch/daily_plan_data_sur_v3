@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H48",
-        "download_time": "30-06-2026 00:05:31"
+        "download_time": "30-06-2026 00:38:15"
     },
     {
         "aodbUniqueId": "20260629169853",
@@ -3231,16 +3231,6 @@ let MUC_Gate_Info = `[
         "Gate": "K18"
     },
     {
-        "aodbUniqueId": "20260629169787",
-        "Date": "29-06-2026",
-        "Flight": "BT 928",
-        "Dest": "VNO",
-        "AirlineCode": "BT",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K22"
-    },
-    {
         "aodbUniqueId": "20260629169789",
         "Date": "29-06-2026",
         "Flight": "OS 190",
@@ -4209,6 +4199,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D12"
+    },
+    {
+        "aodbUniqueId": "20260629169787",
+        "Date": "29-06-2026",
+        "Flight": "BT 928",
+        "Dest": "VNO",
+        "AirlineCode": "BT",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K22"
     }
 ]    
 
