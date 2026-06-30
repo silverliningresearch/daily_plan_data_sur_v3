@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 2,
-        "download_time": "30-06-2026 07:08:14"
+        "download_time": "30-06-2026 07:26:08"
     },
     {
         "Interview_Date": "2026-01-05",
@@ -6142,7 +6142,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-06-14",
         "Dest": "BAH",
         "AirlineCode": "GF",
-        "completed_interviews": 5
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-06-14",
@@ -6190,7 +6190,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-06-14",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "completed_interviews": 5
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-06-14",
@@ -6202,7 +6202,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-06-14",
         "Dest": "DTW",
         "AirlineCode": "DL",
-        "completed_interviews": 4
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-06-14",
@@ -6578,33 +6578,27 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-06-25",
-        "Dest": "ATL",
-        "AirlineCode": "DL",
-        "completed_interviews": 1
-    },
-    {
-        "Interview_Date": "2026-06-25",
         "Dest": "AUH",
         "AirlineCode": "EY",
-        "completed_interviews": 5
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-06-25",
         "Dest": "CLT",
         "AirlineCode": "AA",
-        "completed_interviews": 16
+        "completed_interviews": 11
     },
     {
         "Interview_Date": "2026-06-25",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "completed_interviews": 6
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-06-25",
         "Dest": "HAN",
         "AirlineCode": "VN",
-        "completed_interviews": 4
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-06-25",
