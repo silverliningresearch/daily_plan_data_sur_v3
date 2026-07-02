@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3",
         "Gate": "G63",
-        "download_time": "02-07-2026 10:38:19"
+        "download_time": "02-07-2026 11:06:16"
     },
     {
         "aodbUniqueId": "20260702181426",
@@ -1601,16 +1601,6 @@ let MUC_Gate_Info = `[
         "Gate": "G43"
     },
     {
-        "aodbUniqueId": "20260702182060",
-        "Date": "02-07-2026",
-        "Flight": "VL 2396",
-        "Dest": "BSL",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G27"
-    },
-    {
         "aodbUniqueId": "20260702182449",
         "Date": "02-07-2026",
         "Flight": "EZY3264",
@@ -1669,6 +1659,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K26"
+    },
+    {
+        "aodbUniqueId": "20260702182060",
+        "Date": "02-07-2026",
+        "Flight": "VL 2396",
+        "Dest": "BSL",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G27"
     },
     {
         "aodbUniqueId": "20260702181181",
