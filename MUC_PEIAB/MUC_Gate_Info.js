@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K30",
-        "download_time": "10-07-2026 12:14:03"
+        "download_time": "10-07-2026 12:44:40"
     },
     {
         "aodbUniqueId": "20260710211588",
@@ -3839,16 +3839,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K30"
-    },
-    {
-        "aodbUniqueId": "20260710211899",
-        "Date": "10-07-2026",
-        "Flight": "IB 1310",
-        "Dest": "MAD",
-        "AirlineCode": "IB",
-        "terminalIdentifier": "1",
-        "GateArea": "T1D",
-        "Gate": "D07"
     },
     {
         "aodbUniqueId": "20260710211914",
