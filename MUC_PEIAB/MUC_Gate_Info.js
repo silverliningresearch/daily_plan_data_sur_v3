@@ -7,8 +7,8 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G09",
-        "download_time": "11-07-2026 08:13:37"
+        "Gate": "G05",
+        "download_time": "11-07-2026 08:42:52"
     },
     {
         "aodbUniqueId": "20260711214891",
