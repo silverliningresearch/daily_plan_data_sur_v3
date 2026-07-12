@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K10",
-        "download_time": "12-07-2026 09:16:15"
+        "download_time": "12-07-2026 09:41:37"
     },
     {
         "aodbUniqueId": "20260712217895",
@@ -2991,16 +2991,6 @@ let MUC_Gate_Info = `[
         "Gate": "G01"
     },
     {
-        "aodbUniqueId": "20260712218736",
-        "Date": "12-07-2026",
-        "Flight": "LH 1868",
-        "Dest": "FCO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G04"
-    },
-    {
         "aodbUniqueId": "20260712218744",
         "Date": "12-07-2026",
         "Flight": "LH 436",
@@ -3179,6 +3169,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K14"
+    },
+    {
+        "aodbUniqueId": "20260712218736",
+        "Date": "12-07-2026",
+        "Flight": "LH 1868",
+        "Dest": "FCO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G04"
     },
     {
         "aodbUniqueId": "20260712217892",
