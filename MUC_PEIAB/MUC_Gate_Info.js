@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A42",
-        "download_time": "19-07-2026 15:17:03"
+        "download_time": "19-07-2026 15:41:48"
     },
     {
         "aodbUniqueId": "20260719239361",
@@ -3431,16 +3431,6 @@ let MUC_Gate_Info = `[
         "Gate": "G24"
     },
     {
-        "aodbUniqueId": "20260719239725",
-        "Date": "19-07-2026",
-        "Flight": "VL 2430",
-        "Dest": "GOT",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G40"
-    },
-    {
         "aodbUniqueId": "20260719239823",
         "Date": "19-07-2026",
         "Flight": "XQ 135",
@@ -3829,6 +3819,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G34"
+    },
+    {
+        "aodbUniqueId": "20260719239725",
+        "Date": "19-07-2026",
+        "Flight": "VL 2430",
+        "Dest": "GOT",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20260719239317",
