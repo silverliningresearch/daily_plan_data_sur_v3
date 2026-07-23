@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D06",
-        "download_time": "23-07-2026 12:45:33"
+        "download_time": "23-07-2026 13:16:08"
     },
     {
         "aodbUniqueId": "20260723251470",
@@ -908,7 +908,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
-        "Gate": "L24"
+        "Gate": "L28"
     },
     {
         "aodbUniqueId": "20260723252380",
@@ -943,8 +943,8 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20260723252278",
         "Date": "23-07-2026",
-        "Flight": "LH 1622",
-        "Dest": "KRK",
+        "Flight": "LH 1622U",
+        "Dest": "MUC",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
@@ -2998,7 +2998,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
-        "Gate": "L30"
+        "Gate": "L27"
     },
     {
         "aodbUniqueId": "20260723251886",
