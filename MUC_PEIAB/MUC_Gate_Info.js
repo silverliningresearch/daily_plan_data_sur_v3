@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K07",
-        "download_time": "24-07-2026 15:17:14"
+        "download_time": "24-07-2026 15:42:54"
     },
     {
         "aodbUniqueId": "20260724254519",
@@ -628,7 +628,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G37"
+        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20260724254667",
@@ -918,7 +918,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A60"
+        "Gate": "A45"
     },
     {
         "aodbUniqueId": "20260724255246",
@@ -2581,16 +2581,6 @@ let MUC_Gate_Info = `[
         "Gate": "A45"
     },
     {
-        "aodbUniqueId": "20260724254523",
-        "Date": "24-07-2026",
-        "Flight": "LH 2400",
-        "Dest": "BSL",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K24"
-    },
-    {
         "aodbUniqueId": "20260724254552",
         "Date": "24-07-2026",
         "Flight": "LH 2274",
@@ -2681,6 +2671,16 @@ let MUC_Gate_Info = `[
         "Gate": "G29"
     },
     {
+        "aodbUniqueId": "20260724254523",
+        "Date": "24-07-2026",
+        "Flight": "LH 2400",
+        "Dest": "BSL",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K24"
+    },
+    {
         "aodbUniqueId": "20260724254490",
         "Date": "24-07-2026",
         "Flight": "TK 1636",
@@ -2737,8 +2737,8 @@ let MUC_Gate_Info = `[
         "Dest": "ASR",
         "AirlineCode": "XQ",
         "terminalIdentifier": "1",
-        "GateArea": "T1B",
-        "Gate": "B09"
+        "GateArea": "T1A",
+        "Gate": "A60"
     },
     {
         "aodbUniqueId": "20260724254584",
@@ -4048,7 +4048,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G16"
+        "Gate": "G15"
     },
     {
         "aodbUniqueId": "20260724255135",
