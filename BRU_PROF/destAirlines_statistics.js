@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "06-08-2026 16:44:22"
+        "download_time": "07-08-2026 03:17:16"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -171517,6 +171517,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-06",
+        "quota_id": "BCN-SN",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-08-06",
         "quota_id": "BCN-VY",
         "Number of interviews": 9
     },
@@ -171597,6 +171602,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-06",
+        "quota_id": "HEL-AY",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-06",
         "quota_id": "IST-TK",
         "Number of interviews": 6
     },
@@ -171627,6 +171637,16 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-06",
+        "quota_id": "MAD-IB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-06",
+        "quota_id": "MLA-KM",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-06",
         "quota_id": "MRS-SN",
         "Number of interviews": 1
     },
@@ -171652,13 +171672,23 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-06",
+        "quota_id": "RIX-BT",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-06",
         "quota_id": "SIN-SQ",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-08-06",
+        "quota_id": "SOF-FB",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-08-06",
         "quota_id": "TLS-SN",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-08-06",
@@ -171669,6 +171699,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-08-06",
         "quota_id": "YUL-AC",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-06",
+        "quota_id": "ZRH-SN",
+        "Number of interviews": 3
     }
 ]    
 
