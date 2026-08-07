@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "AUH",
         "AirlineCode": "EY",
         "completed_interviews": 1,
-        "download_time": "06-08-2026 16:46:56"
+        "download_time": "07-08-2026 03:04:27"
     },
     {
         "Interview_Date": "2024-05-31",
@@ -49364,6 +49364,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-06",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2026-08-06",
         "Dest": "DOH",
         "AirlineCode": "QR",
         "completed_interviews": 5
@@ -49373,6 +49379,18 @@ let interview_statistics = `[
         "Dest": "IAD",
         "AirlineCode": "SK",
         "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2026-08-06",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "completed_interviews": 14
+    },
+    {
+        "Interview_Date": "2026-08-06",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-06",
@@ -49388,9 +49406,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-06",
+        "Dest": "PEK",
+        "AirlineCode": "CA",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2026-08-06",
         "Dest": "PHL",
         "AirlineCode": "AA",
         "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2026-08-06",
+        "Dest": "PVG",
+        "AirlineCode": "MU",
+        "completed_interviews": 17
     },
     {
         "Interview_Date": "2026-08-06",
@@ -49400,9 +49430,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-06",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2026-08-06",
         "Dest": "YYZ",
         "AirlineCode": "AC",
         "completed_interviews": 13
+    },
+    {
+        "Interview_Date": "2026-08-06",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "completed_interviews": 6
     }
 ]    
 
