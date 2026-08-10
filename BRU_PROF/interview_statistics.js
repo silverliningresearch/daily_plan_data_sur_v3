@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "10-08-2026 18:24:24"
+        "download_time": "10-08-2026 19:24:50"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -189037,6 +189037,21 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-10",
+        "quota_id": "3O132-NDR",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-10",
+        "quota_id": "A3489-LCA",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-10",
+        "quota_id": "A3623-ATH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-08-10",
         "quota_id": "AC833-YUL",
         "Number of interviews": 6
     },
@@ -189077,6 +189092,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-10",
+        "quota_id": "FR1453-DUB",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-10",
         "quota_id": "FR2923-AGP",
         "Number of interviews": 6
     },
@@ -189099,6 +189119,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-10",
         "quota_id": "LO232-WAW",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-08-10",
+        "quota_id": "LX789-ZRH",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-08-10",
@@ -189129,6 +189154,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-10",
         "quota_id": "SN2607-FRA",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-08-10",
+        "quota_id": "SN2723-GVA",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-08-10",
@@ -189234,6 +189264,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-10",
         "quota_id": "WF1891-BGO",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-08-10",
+        "quota_id": "XC1101-AOE",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-08-10",
