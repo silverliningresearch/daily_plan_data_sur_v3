@@ -5,7 +5,7 @@ let interview_statistics = `[
         "AirlineCode": "D8",
         "Q1": 2,
         "completed_interviews": 1,
-        "download_time": "11-08-2026 12:27:33"
+        "download_time": "11-08-2026 16:17:25"
     },
     {
         "Interview_Date": "2026-07-02",
@@ -1367,10 +1367,52 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-11",
+        "Dest": "BCN",
+        "AirlineCode": "SK",
+        "Q1": 3,
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "BLQ",
+        "AirlineCode": "FR",
+        "Q1": 2,
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "BLQ",
+        "AirlineCode": "SK",
+        "Q1": 2,
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-11",
         "Dest": "FRA",
         "AirlineCode": "LH",
         "Q1": 1,
-        "completed_interviews": 2
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "LAX",
+        "AirlineCode": "SK",
+        "Q1": 2,
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "LAX",
+        "AirlineCode": "SK",
+        "Q1": 5,
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "Q1": 4,
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-11",
@@ -1384,6 +1426,27 @@ let interview_statistics = `[
         "Dest": "MUC",
         "AirlineCode": "LH",
         "Q1": 7,
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "MUC",
+        "AirlineCode": "VL",
+        "Q1": 1,
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "PHL",
+        "AirlineCode": "AA",
+        "Q1": 5,
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "Q1": 3,
         "completed_interviews": 1
     }
 ]    

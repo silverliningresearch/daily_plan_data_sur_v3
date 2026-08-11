@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "TPE",
         "AirlineCode": "SQ",
         "completed_interviews": 1,
-        "download_time": "11-08-2026 18:26:38"
+        "download_time": "11-08-2026 22:17:00"
     },
     {
         "Interview_Date": "2025-01-01",
@@ -54752,6 +54752,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-11",
+        "Dest": "AKL",
+        "AirlineCode": "SQ",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-11",
         "Dest": "BNE",
         "AirlineCode": "SQ",
         "completed_interviews": 10
@@ -54761,6 +54767,12 @@ let interview_statistics = `[
         "Dest": "BOM",
         "AirlineCode": "SQ",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "CGK",
+        "AirlineCode": "ID",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-08-11",
@@ -54788,9 +54800,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-11",
+        "Dest": "MAA",
+        "AirlineCode": "SQ",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-08-11",
         "Dest": "MNL",
         "AirlineCode": "5J",
         "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "MXP",
+        "AirlineCode": "SQ",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-08-11",
@@ -54803,6 +54827,12 @@ let interview_statistics = `[
         "Dest": "SGN",
         "AirlineCode": "VN",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-11",
+        "Dest": "SZX",
+        "AirlineCode": "SQ",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-08-11",
