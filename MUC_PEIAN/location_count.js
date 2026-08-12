@@ -5,7 +5,7 @@ let location_count = `[
         "Location": "T1-A/E04",
         "Exit_belt": "Baggage belts",
         "completed_interviews": 7,
-        "download_time": "12-08-2026 15:22:31"
+        "download_time": "12-08-2026 16:16:55"
     },
     {
         "Year": "2026",
@@ -726,21 +726,21 @@ let location_count = `[
         "Month": "08",
         "Location": "T1-A/E04",
         "Exit_belt": "Baggage belts",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Year": "2026",
         "Month": "08",
         "Location": "T1-A/E04",
         "Exit_belt": "Exit",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Year": "2026",
         "Month": "08",
         "Location": "T1-A/E04",
         "Exit_belt": "Landside",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Year": "2026",
@@ -761,7 +761,7 @@ let location_count = `[
         "Month": "08",
         "Location": "T1-B",
         "Exit_belt": "Landside",
-        "completed_interviews": 7
+        "completed_interviews": 8
     },
     {
         "Year": "2026",
