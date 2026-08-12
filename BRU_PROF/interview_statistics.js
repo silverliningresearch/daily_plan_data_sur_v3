@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "12-08-2026 14:10:45"
+        "download_time": "12-08-2026 15:16:48"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -189387,6 +189387,16 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-12",
+        "quota_id": "AH2063-ALG",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-08-12",
+        "quota_id": "BA387-LHR",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-12",
         "quota_id": "FR2947-MAD",
         "Number of interviews": 3
     },
@@ -189402,8 +189412,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-12",
+        "quota_id": "SN2095-LHR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-08-12",
         "quota_id": "SN2293-ARN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-12",
+        "quota_id": "SN2317-GOT",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-08-12",
@@ -189419,6 +189439,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-12",
         "quota_id": "SN271-BJL",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-08-12",
+        "quota_id": "SN2721-GVA",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-08-12",
@@ -189438,7 +189463,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-08-12",
         "quota_id": "SN3181-FCO",
-        "Number of interviews": 1
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-08-12",
@@ -189467,8 +189492,28 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-12",
+        "quota_id": "TB1113-ALC",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-12",
         "quota_id": "TB1551-LPA",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-12",
+        "quota_id": "TB2341-RHO",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-12",
+        "quota_id": "TB2533-CMN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-12",
+        "quota_id": "TP643-LIS",
+        "Number of interviews": 2
     }
 ]    
 
