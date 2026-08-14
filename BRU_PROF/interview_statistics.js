@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "14-08-2026 17:12:01"
+        "download_time": "14-08-2026 18:10:23"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -189897,6 +189897,16 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-14",
+        "quota_id": "3O114-TNG",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-08-14",
+        "quota_id": "A3489-LCA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-14",
         "quota_id": "AC833-YUL",
         "Number of interviews": 11
     },
@@ -189904,6 +189914,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-14",
         "quota_id": "AT845-CMN",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-14",
+        "quota_id": "AZ165-FCO",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-08-14",
@@ -189919,6 +189934,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-14",
         "quota_id": "FH8013-AYT",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-08-14",
+        "quota_id": "FR1457-DUB",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-08-14",
@@ -189954,6 +189974,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-14",
         "quota_id": "LX787-ZRH",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-14",
+        "quota_id": "RO374-OTP",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-08-14",
@@ -190049,6 +190074,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-14",
         "quota_id": "VY8981-BCN",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-14",
+        "quota_id": "VY8983-BCN",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-08-14",
