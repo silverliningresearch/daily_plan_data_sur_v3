@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "18-08-2026 11:11:47"
+        "download_time": "18-08-2026 12:10:21"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -190607,6 +190607,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-18",
+        "quota_id": "3O118-FEZ",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-18",
         "quota_id": "AC833-YUL",
         "Number of interviews": 7
     },
@@ -190619,6 +190624,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-18",
         "quota_id": "BA385-LHR",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-08-18",
+        "quota_id": "CX294-HKG",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-08-18",
@@ -190697,6 +190707,16 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-18",
+        "quota_id": "SN3735-AGP",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-08-18",
+        "quota_id": "SN3777-IBZ",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-18",
         "quota_id": "SN379-NSI",
         "Number of interviews": 10
     },
@@ -190708,7 +190728,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-08-18",
         "quota_id": "SQ303-SIN",
-        "Number of interviews": 8
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-08-18",
+        "quota_id": "TB2163-ZTH",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-08-18",
@@ -190723,6 +190748,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-08-18",
         "quota_id": "TK1938-IST",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-08-18",
+        "quota_id": "VF066-SAW",
         "Number of interviews": 5
     },
     {
