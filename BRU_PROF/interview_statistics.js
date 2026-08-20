@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "20-08-2026 14:12:14"
+        "download_time": "20-08-2026 15:14:26"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -191072,12 +191072,22 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-20",
+        "quota_id": "BA387-LHR",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-20",
         "quota_id": "CA464-TFU",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-08-20",
         "quota_id": "CX294-HKG",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-20",
+        "quota_id": "EK184-DXB",
         "Number of interviews": 6
     },
     {
@@ -191122,6 +191132,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-20",
+        "quota_id": "SN2259-CPH",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-20",
         "quota_id": "SN229-COO",
         "Number of interviews": 5
     },
@@ -191138,7 +191153,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-08-20",
         "quota_id": "SN2721-GVA",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-08-20",
@@ -191167,6 +191182,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-20",
+        "quota_id": "SN3333-HRG",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-20",
         "quota_id": "SN3617-NCE",
         "Number of interviews": 7
     },
@@ -191183,6 +191203,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-08-20",
         "quota_id": "TK1938-IST",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-20",
+        "quota_id": "VY8987-BCN",
         "Number of interviews": 6
     }
 ]    
