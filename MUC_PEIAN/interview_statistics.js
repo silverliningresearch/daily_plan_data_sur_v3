@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 2,
-        "download_time": "22-08-2026 17:12:12"
+        "download_time": "22-08-2026 18:15:27"
     },
     {
         "Interview_Date": "2026-01-05",
@@ -8684,6 +8684,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-08-22",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-22",
         "Dest": "ATH",
         "AirlineCode": "LH",
         "completed_interviews": 3
@@ -8699,6 +8705,12 @@ let interview_statistics_arr = `[
         "Dest": "BOM",
         "AirlineCode": "LH",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-08-22",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-08-22",
@@ -8720,6 +8732,12 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-08-22",
+        "Dest": "IBZ",
+        "AirlineCode": "4Y",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-22",
         "Dest": "KRK",
         "AirlineCode": "LO",
         "completed_interviews": 1
@@ -8728,13 +8746,19 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-08-22",
         "Dest": "LHR",
         "AirlineCode": "LH",
-        "completed_interviews": 1
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-08-22",
         "Dest": "LIN",
         "AirlineCode": "EN",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-22",
+        "Dest": "MAD",
+        "AirlineCode": "VL",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-08-22",
@@ -8757,6 +8781,12 @@ let interview_statistics_arr = `[
     {
         "Interview_Date": "2026-08-22",
         "Dest": "OPO",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-08-22",
+        "Dest": "PMI",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
