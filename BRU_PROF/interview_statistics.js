@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "24-08-2026 14:11:12"
+        "download_time": "24-08-2026 15:17:20"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -191782,6 +191782,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-24",
+        "quota_id": "FH8031-AYT",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-08-24",
         "quota_id": "FR658-DUB",
         "Number of interviews": 3
     },
@@ -191799,6 +191804,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-24",
         "quota_id": "LO236-WAW",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-08-24",
+        "quota_id": "QR194-DOH",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-08-24",
@@ -191822,6 +191832,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-08-24",
+        "quota_id": "SN2905-VIE",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-24",
         "quota_id": "SN3125-BLQ",
         "Number of interviews": 7
     },
@@ -191838,7 +191853,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-08-24",
         "quota_id": "SN3247-ATH",
-        "Number of interviews": 1
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-08-24",
+        "quota_id": "SN3325-HRG",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-08-24",
@@ -191893,7 +191913,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-08-24",
         "quota_id": "TK1944-IST",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-08-24",
@@ -191904,6 +191924,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-08-24",
         "quota_id": "VF066-SAW",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-24",
+        "quota_id": "VY8987-BCN",
+        "Number of interviews": 7
     }
 ]    
 
