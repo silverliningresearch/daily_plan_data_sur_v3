@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "24-08-2026 19:10:29"
+        "download_time": "24-08-2026 20:27:11"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -174687,6 +174687,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-24",
+        "quota_id": "ADD-ET",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-24",
         "quota_id": "AGP-FR",
         "Number of interviews": 7
     },
@@ -174703,7 +174708,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-08-24",
         "quota_id": "ATH-A3",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-08-24",
@@ -174728,7 +174733,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-08-24",
         "quota_id": "BER-SN",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-08-24",
@@ -174792,6 +174797,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-24",
+        "quota_id": "GVA-SN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-24",
         "quota_id": "HKG-CX",
         "Number of interviews": 6
     },
@@ -174812,8 +174822,18 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-24",
+        "quota_id": "LHR-BA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-08-24",
         "quota_id": "LHR-SN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-24",
+        "quota_id": "LIN-EJU",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-08-24",
@@ -174839,6 +174859,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-08-24",
         "quota_id": "MAD-UX",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-24",
+        "quota_id": "MLA-KM",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-08-24",
@@ -174903,7 +174928,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-08-24",
         "quota_id": "ZRH-LX",
-        "Number of interviews": 5
+        "Number of interviews": 10
     }
 ]    
 
