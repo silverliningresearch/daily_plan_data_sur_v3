@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K05",
-        "download_time": "26-08-2026 04:33:57"
+        "download_time": "26-08-2026 05:14:37"
     },
     {
         "aodbUniqueId": "20260826358000",
@@ -391,16 +391,6 @@ let MUC_Gate_Info = `[
         "Gate": "A51"
     },
     {
-        "aodbUniqueId": "20260826358796",
-        "Date": "26-08-2026",
-        "Flight": "LH 2218",
-        "Dest": "TLS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G10"
-    },
-    {
         "aodbUniqueId": "20260826358823",
         "Date": "26-08-2026",
         "Flight": "4Y 1402",
@@ -629,6 +619,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K12"
+    },
+    {
+        "aodbUniqueId": "20260826358796",
+        "Date": "26-08-2026",
+        "Flight": "LH 2218",
+        "Dest": "TLS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G10"
     },
     {
         "aodbUniqueId": "20260826358021",
@@ -4121,16 +4121,6 @@ let MUC_Gate_Info = `[
         "Gate": "G23"
     },
     {
-        "aodbUniqueId": "20260826358092",
-        "Date": "26-08-2026",
-        "Flight": "OS 184",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G09"
-    },
-    {
         "aodbUniqueId": "20260826358672",
         "Date": "26-08-2026",
         "Flight": "EW 7171",
@@ -4209,6 +4199,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G16"
+    },
+    {
+        "aodbUniqueId": "20260826358092",
+        "Date": "26-08-2026",
+        "Flight": "OS 184",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G09"
     }
 ]    
 
