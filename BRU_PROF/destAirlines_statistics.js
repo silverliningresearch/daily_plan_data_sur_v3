@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "28-08-2026 20:04:49"
+        "download_time": "28-08-2026 21:07:50"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -175542,6 +175542,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-28",
+        "quota_id": "ADD-ET",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-28",
         "quota_id": "AGP-HV",
         "Number of interviews": 6
     },
@@ -175562,6 +175567,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-28",
+        "quota_id": "ARN-SN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-28",
         "quota_id": "AYT-PC",
         "Number of interviews": 10
     },
@@ -175569,6 +175579,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-08-28",
         "quota_id": "AYT-XQ",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-28",
+        "quota_id": "BCN-SN",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-08-28",
@@ -175599,6 +175614,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-08-28",
         "quota_id": "DBV-TB",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-28",
+        "quota_id": "DUB-EI",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-08-28",
@@ -175682,6 +175702,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-28",
+        "quota_id": "MAD-SN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-28",
         "quota_id": "MLA-KM",
         "Number of interviews": 4
     },
@@ -175743,7 +175768,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-08-28",
         "quota_id": "TUN-BJ",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-08-28",
