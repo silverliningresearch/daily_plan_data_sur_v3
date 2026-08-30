@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "30-08-2026 08:07:53"
+        "download_time": "30-08-2026 09:04:49"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -176007,6 +176007,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-30",
+        "quota_id": "ABJ-SN",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-08-30",
         "quota_id": "AGP-SN",
         "Number of interviews": 2
     },
@@ -176017,6 +176022,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-30",
+        "quota_id": "BIO-SN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-30",
         "quota_id": "CDG-SN",
         "Number of interviews": 4
     },
@@ -176024,6 +176034,16 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-08-30",
         "quota_id": "CFU-SN",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-08-30",
+        "quota_id": "FAO-SN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-30",
+        "quota_id": "FCO-EJU",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-08-30",
@@ -176042,6 +176062,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-08-30",
+        "quota_id": "LIN-EJU",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-30",
         "quota_id": "LPA-SN",
         "Number of interviews": 5
     },
@@ -176049,6 +176074,16 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-08-30",
         "quota_id": "MIR-SN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-08-30",
+        "quota_id": "MUC-SN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-30",
+        "quota_id": "NBO-SN",
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-08-30",
