@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "AUH",
         "AirlineCode": "EY",
         "completed_interviews": 1,
-        "download_time": "31-08-2026 14:25:07"
+        "download_time": "31-08-2026 15:24:57"
     },
     {
         "Interview_Date": "2024-05-31",
@@ -51038,6 +51038,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-08-31",
+        "Dest": "AMS",
+        "AirlineCode": "SK",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2026-08-31",
+        "Dest": "ARN",
+        "AirlineCode": "SK",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2026-08-31",
         "Dest": "ATL",
         "AirlineCode": "SK",
         "completed_interviews": 20
@@ -51047,6 +51059,12 @@ let interview_statistics = `[
         "Dest": "BRU",
         "AirlineCode": "SN",
         "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2026-08-31",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "completed_interviews": 9
     },
     {
         "Interview_Date": "2026-08-31",
@@ -51064,7 +51082,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-31",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "completed_interviews": 5
+        "completed_interviews": 15
     },
     {
         "Interview_Date": "2026-08-31",
@@ -51076,13 +51094,25 @@ let interview_statistics = `[
         "Interview_Date": "2026-08-31",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "completed_interviews": 11
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2026-08-31",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-08-31",
         "Dest": "MSP",
         "AirlineCode": "DL",
         "completed_interviews": 22
+    },
+    {
+        "Interview_Date": "2026-08-31",
+        "Dest": "PHL",
+        "AirlineCode": "AA",
+        "completed_interviews": 15
     },
     {
         "Interview_Date": "2026-08-31",
