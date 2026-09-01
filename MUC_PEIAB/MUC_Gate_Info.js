@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A46",
-        "download_time": "01-09-2026 10:07:08"
+        "download_time": "01-09-2026 11:07:18"
     },
     {
         "aodbUniqueId": "20260901378309",
@@ -1228,7 +1228,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K18"
+        "Gate": "K23"
     },
     {
         "aodbUniqueId": "20260901378676",
@@ -1648,7 +1648,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G45"
+        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20260901380901",
@@ -2251,16 +2251,6 @@ let MUC_Gate_Info = `[
         "Gate": "K04"
     },
     {
-        "aodbUniqueId": "20260901380644",
-        "Date": "01-09-2026",
-        "Flight": "VL 1656",
-        "Dest": "TSR",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G09"
-    },
-    {
         "aodbUniqueId": "20260901381229",
         "Date": "01-09-2026",
         "Flight": "LH 410",
@@ -2269,6 +2259,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L27"
+    },
+    {
+        "aodbUniqueId": "20260901380644",
+        "Date": "01-09-2026",
+        "Flight": "VL 1656",
+        "Dest": "TSR",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G09"
     },
     {
         "aodbUniqueId": "20260901378256",
@@ -2328,7 +2328,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "IB",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D05"
+        "Gate": "D02"
     },
     {
         "aodbUniqueId": "20260901378863",
