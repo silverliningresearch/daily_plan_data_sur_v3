@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "TPE",
         "AirlineCode": "SQ",
         "completed_interviews": 1,
-        "download_time": "06-09-2026 19:06:42"
+        "download_time": "06-09-2026 20:33:18"
     },
     {
         "Interview_Date": "2025-01-01",
@@ -56792,6 +56792,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-09-06",
+        "Dest": "CAN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2026-09-06",
+        "Dest": "CCU",
+        "AirlineCode": "SQ",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-09-06",
         "Dest": "CPT",
         "AirlineCode": "SQ",
         "completed_interviews": 5
@@ -56801,6 +56813,12 @@ let interview_statistics = `[
         "Dest": "CTS",
         "AirlineCode": "TR",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-09-06",
+        "Dest": "DAC",
+        "AirlineCode": "SQ",
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2026-09-06",
@@ -56818,7 +56836,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-09-06",
         "Dest": "DPS",
         "AirlineCode": "SQ",
-        "completed_interviews": 4
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2026-09-06",
@@ -56870,6 +56888,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-09-06",
+        "Dest": "KUL",
+        "AirlineCode": "SQ",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-09-06",
         "Dest": "MEL",
         "AirlineCode": "SQ",
         "completed_interviews": 5
@@ -56909,6 +56933,12 @@ let interview_statistics = `[
         "Dest": "SGN",
         "AirlineCode": "VJ",
         "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2026-09-06",
+        "Dest": "SZX",
+        "AirlineCode": "SQ",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-09-06",
