@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G04",
-        "download_time": "08-09-2026 21:10:10"
+        "download_time": "08-09-2026 22:40:26"
     },
     {
         "aodbUniqueId": "20260908402469",
@@ -659,16 +659,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H28"
-    },
-    {
-        "aodbUniqueId": "20260908402996",
-        "Date": "08-09-2026",
-        "Flight": "BA 935",
-        "Dest": "LHR",
-        "AirlineCode": "BA",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A40"
     },
     {
         "aodbUniqueId": "20260908403023",
