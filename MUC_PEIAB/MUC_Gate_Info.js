@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G04",
-        "download_time": "08-09-2026 13:10:39"
+        "download_time": "08-09-2026 14:10:19"
     },
     {
         "aodbUniqueId": "20260908402469",
@@ -768,7 +768,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "MS",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H40"
+        "Gate": "H18"
     },
     {
         "aodbUniqueId": "20260908403281",
@@ -1488,7 +1488,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G09"
+        "Gate": "G30"
     },
     {
         "aodbUniqueId": "20260908402523",
@@ -2203,8 +2203,8 @@ let MUC_Gate_Info = `[
     {
         "aodbUniqueId": "20260908402820",
         "Date": "08-09-2026",
-        "Flight": "PC 1020",
-        "Dest": "SAW",
+        "Flight": "PC 1020U",
+        "Dest": "MUC",
         "AirlineCode": "PC",
         "terminalIdentifier": "1",
         "GateArea": "T1B",
@@ -3108,7 +3108,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "4Y",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G18"
+        "Gate": "G40"
     },
     {
         "aodbUniqueId": "20260908403252",
