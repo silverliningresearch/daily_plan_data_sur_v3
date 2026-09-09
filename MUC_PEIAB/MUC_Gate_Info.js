@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A64",
-        "download_time": "09-09-2026 16:09:39"
+        "download_time": "09-09-2026 17:09:31"
     },
     {
         "aodbUniqueId": "20260909406202",
@@ -39,6 +39,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K23"
+    },
+    {
+        "aodbUniqueId": "20260909406486",
+        "Date": "09-09-2026",
+        "Flight": "LH 458",
+        "Dest": "SFO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H48"
     },
     {
         "aodbUniqueId": "20260909406312",
@@ -538,7 +548,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VL",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K22"
+        "Gate": "K23"
     },
     {
         "aodbUniqueId": "20260909405620",
@@ -549,6 +559,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G02"
+    },
+    {
+        "aodbUniqueId": "20260909405886",
+        "Date": "09-09-2026",
+        "Flight": "VL 1870",
+        "Dest": "FCO",
+        "AirlineCode": "VL",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K27"
     },
     {
         "aodbUniqueId": "20260909406441",
@@ -1681,16 +1701,6 @@ let MUC_Gate_Info = `[
         "Gate": "K20"
     },
     {
-        "aodbUniqueId": "20260909405886",
-        "Date": "09-09-2026",
-        "Flight": "VL 1870",
-        "Dest": "FCO",
-        "AirlineCode": "VL",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K27"
-    },
-    {
         "aodbUniqueId": "20260909405901",
         "Date": "09-09-2026",
         "Flight": "XQ 135",
@@ -1911,16 +1921,6 @@ let MUC_Gate_Info = `[
         "Gate": "G14"
     },
     {
-        "aodbUniqueId": "20260909405936",
-        "Date": "09-09-2026",
-        "Flight": "LH 1852",
-        "Dest": "LIN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G27"
-    },
-    {
         "aodbUniqueId": "20260909405941",
         "Date": "09-09-2026",
         "Flight": "XQ 137",
@@ -1929,6 +1929,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A45"
+    },
+    {
+        "aodbUniqueId": "20260909405936",
+        "Date": "09-09-2026",
+        "Flight": "LH 1852",
+        "Dest": "LIN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G27"
     },
     {
         "aodbUniqueId": "20260909405945",
@@ -2228,7 +2238,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "JU",
         "terminalIdentifier": "1",
         "GateArea": "T1A",
-        "Gate": "A48"
+        "Gate": "A45"
     },
     {
         "aodbUniqueId": "20260909405995",
@@ -3251,16 +3261,6 @@ let MUC_Gate_Info = `[
         "Gate": "K04"
     },
     {
-        "aodbUniqueId": "20260909406284",
-        "Date": "09-09-2026",
-        "Flight": "TK 1634",
-        "Dest": "IST",
-        "AirlineCode": "TK",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A48"
-    },
-    {
         "aodbUniqueId": "20260909406243",
         "Date": "09-09-2026",
         "Flight": "EW 6615",
@@ -3319,16 +3319,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H02"
-    },
-    {
-        "aodbUniqueId": "20260909406254",
-        "Date": "09-09-2026",
-        "Flight": "LH 1982",
-        "Dest": "CGN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G05"
     },
     {
         "aodbUniqueId": "20260909406286",
@@ -3399,6 +3389,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1A",
         "Gate": "A46"
+    },
+    {
+        "aodbUniqueId": "20260909406284",
+        "Date": "09-09-2026",
+        "Flight": "TK 1634",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A48"
+    },
+    {
+        "aodbUniqueId": "20260909406254",
+        "Date": "09-09-2026",
+        "Flight": "LH 1982",
+        "Dest": "CGN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G05"
     },
     {
         "aodbUniqueId": "20260909406305",
@@ -3759,16 +3769,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K01"
-    },
-    {
-        "aodbUniqueId": "20260909406486",
-        "Date": "09-09-2026",
-        "Flight": "LH 458",
-        "Dest": "SFO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H48"
     },
     {
         "aodbUniqueId": "20260909406357",
