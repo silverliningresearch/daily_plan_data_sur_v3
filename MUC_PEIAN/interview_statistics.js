@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 2,
-        "download_time": "11-09-2026 20:09:35"
+        "download_time": "11-09-2026 21:09:34"
     },
     {
         "Interview_Date": "2026-01-05",
@@ -9412,7 +9412,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-09-11",
         "Dest": "FRA",
         "AirlineCode": "LH",
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-09-11",
@@ -9422,7 +9422,19 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-09-11",
+        "Dest": "HAM",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-11",
         "Dest": "HND",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-11",
+        "Dest": "LIN",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
@@ -9440,6 +9452,30 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-09-11",
+        "Dest": "MLA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-11",
+        "Dest": "MRS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-11",
+        "Dest": "NTE",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-11",
+        "Dest": "OLB",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-11",
         "Dest": "OPO",
         "AirlineCode": "LH",
         "completed_interviews": 2
@@ -9448,6 +9484,12 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-09-11",
         "Dest": "SKG",
         "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-11",
+        "Dest": "SPU",
+        "AirlineCode": "OU",
         "completed_interviews": 1
     },
     {
