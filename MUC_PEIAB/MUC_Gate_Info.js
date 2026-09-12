@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G24",
-        "download_time": "12-09-2026 16:27:35"
+        "download_time": "12-09-2026 17:09:20"
     },
     {
         "aodbUniqueId": "20260912415336",
@@ -1508,7 +1508,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G46"
+        "Gate": "G48"
     },
     {
         "aodbUniqueId": "20260912415841",
@@ -3751,16 +3751,6 @@ let MUC_Gate_Info = `[
         "Gate": "G34"
     },
     {
-        "aodbUniqueId": "20260912415994",
-        "Date": "12-09-2026",
-        "Flight": "LH 2646",
-        "Dest": "ADB",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L22"
-    },
-    {
         "aodbUniqueId": "20260912415230",
         "Date": "12-09-2026",
         "Flight": "LH 2456",
@@ -3769,6 +3759,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K26"
+    },
+    {
+        "aodbUniqueId": "20260912415994",
+        "Date": "12-09-2026",
+        "Flight": "LH 2646",
+        "Dest": "ADB",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E5",
+        "Gate": "H46"
     },
     {
         "aodbUniqueId": "20260912415220",
@@ -4131,16 +4131,6 @@ let MUC_Gate_Info = `[
         "Gate": "G44"
     },
     {
-        "aodbUniqueId": "20260912415942",
-        "Date": "12-09-2026",
-        "Flight": "LH 2558",
-        "Dest": "TBS",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H48"
-    },
-    {
         "aodbUniqueId": "20260912415444",
         "Date": "12-09-2026",
         "Flight": "VL 1924",
@@ -4179,6 +4169,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G38"
+    },
+    {
+        "aodbUniqueId": "20260912415942",
+        "Date": "12-09-2026",
+        "Flight": "LH 2558",
+        "Dest": "TBS",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E5",
+        "Gate": "L22"
     }
 ]    
 
