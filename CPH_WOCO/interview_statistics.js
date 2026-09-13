@@ -5,7 +5,7 @@ let interview_statistics = `[
         "AirlineCode": "D8",
         "Q1": 2,
         "completed_interviews": 1,
-        "download_time": "13-09-2026 14:07:51"
+        "download_time": "13-09-2026 15:37:07"
     },
     {
         "Interview_Date": "2026-07-02",
@@ -2924,14 +2924,14 @@ let interview_statistics = `[
         "Dest": "ALC",
         "AirlineCode": "SK",
         "Q1": 1,
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-09-13",
         "Dest": "ALC",
         "AirlineCode": "SK",
         "Q1": 2,
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-09-13",
@@ -2939,6 +2939,20 @@ let interview_statistics = `[
         "AirlineCode": "SK",
         "Q1": 4,
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-09-13",
+        "Dest": "BCN",
+        "AirlineCode": "D8",
+        "Q1": 3,
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-09-13",
+        "Dest": "BCN",
+        "AirlineCode": "SK",
+        "Q1": 1,
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-09-13",
@@ -2966,7 +2980,7 @@ let interview_statistics = `[
         "Dest": "BER",
         "AirlineCode": "D8",
         "Q1": 1,
-        "completed_interviews": 2
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2026-09-13",
@@ -3022,14 +3036,14 @@ let interview_statistics = `[
         "Dest": "FRA",
         "AirlineCode": "LH",
         "Q1": 1,
-        "completed_interviews": 3
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-09-13",
         "Dest": "FRA",
         "AirlineCode": "LH",
         "Q1": 5,
-        "completed_interviews": 1
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-09-13",
@@ -3058,6 +3072,27 @@ let interview_statistics = `[
         "AirlineCode": "BA",
         "Q1": 5,
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-13",
+        "Dest": "MAD",
+        "AirlineCode": "D8",
+        "Q1": 2,
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-09-13",
+        "Dest": "MAD",
+        "AirlineCode": "D8",
+        "Q1": 3,
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-09-13",
+        "Dest": "MAD",
+        "AirlineCode": "D8",
+        "Q1": 7,
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2026-09-13",
