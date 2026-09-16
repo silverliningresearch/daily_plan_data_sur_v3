@@ -2,9 +2,15 @@ let interview_statistics_arr = `[
     {
         "Interview_Date": "2026-09-16",
         "Location": 1,
-        "Wave": "",
+        "Wave": 2,
         "completed_interviews": 1,
-        "download_time": "16-09-2026 15:12:26"
+        "download_time": "16-09-2026 16:08:49"
+    },
+    {
+        "Interview_Date": "2026-09-16",
+        "Location": 1,
+        "Wave": "",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-09-16",
