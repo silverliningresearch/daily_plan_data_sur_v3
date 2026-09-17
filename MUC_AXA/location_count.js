@@ -2,17 +2,10 @@ let location_count = `[
     {
         "Year": "2026",
         "Month": "09",
-        "Location": 1,
-        "Wave": 2.0,
-        "completed_interviews": 1,
-        "download_time": "17-09-2026 13:20:09"
-    },
-    {
-        "Year": "2026",
-        "Month": "09",
         "Location": 2,
         "Wave": 1.0,
-        "completed_interviews": 1
+        "completed_interviews": 3,
+        "download_time": "17-09-2026 14:42:45"
     }
 ]    
 
