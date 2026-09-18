@@ -4,8 +4,8 @@ let location_count = `[
         "Month": "09",
         "Location": 2,
         "Wave": 1.0,
-        "completed_interviews": 30,
-        "download_time": "18-09-2026 05:30:03"
+        "completed_interviews": 29,
+        "download_time": "18-09-2026 05:52:09"
     }
 ]    
 
