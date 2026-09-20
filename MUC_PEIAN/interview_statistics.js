@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 2,
-        "download_time": "20-09-2026 07:12:51"
+        "download_time": "20-09-2026 08:27:11"
     },
     {
         "Interview_Date": "2026-01-05",
@@ -10010,9 +10010,69 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-09-20",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "BEG",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "BRE",
+        "AirlineCode": "LH",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "BUD",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "CAI",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "FMO",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "HND",
+        "AirlineCode": "NH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-20",
         "Dest": "JFK",
         "AirlineCode": "LH",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "KEF",
+        "AirlineCode": "4Y",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "KRK",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "ORD",
+        "AirlineCode": "LH",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-09-20",
@@ -10022,9 +10082,21 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-09-20",
+        "Dest": "SIN",
+        "AirlineCode": "SQ",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-09-20",
         "Dest": "TSR",
         "AirlineCode": "VL",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-09-20",
+        "Dest": "YYZ",
+        "AirlineCode": "AC",
+        "completed_interviews": 3
     }
 ]    
 
