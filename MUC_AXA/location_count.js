@@ -4,15 +4,15 @@ let location_count = `[
         "Month": "09",
         "Location": 1,
         "Wave": 1.0,
-        "completed_interviews": 80,
-        "download_time": "21-09-2026 17:19:03"
+        "completed_interviews": 83,
+        "download_time": "21-09-2026 18:08:22"
     },
     {
         "Year": "2026",
         "Month": "09",
         "Location": 2,
         "Wave": 1.0,
-        "completed_interviews": 83
+        "completed_interviews": 84
     },
     {
         "Year": "2026",
