@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "24-09-2026 11:50:27"
+        "download_time": "24-09-2026 12:49:20"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -179953,7 +179953,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-09-24",
         "quota_id": "BJL-SN",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-09-24",
@@ -179963,7 +179963,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-09-24",
         "quota_id": "CKY-SN",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-09-24",
@@ -179973,7 +179973,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-09-24",
         "quota_id": "EDI-SN",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-09-24",
@@ -180004,6 +180004,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-09-24",
         "quota_id": "HER-TB",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-09-24",
+        "quota_id": "HKG-CX",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-09-24",
@@ -180042,6 +180047,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-09-24",
+        "quota_id": "PEK-HU",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-09-24",
         "quota_id": "PVG-HU",
         "Number of interviews": 6
     },
@@ -180054,6 +180064,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-09-24",
         "quota_id": "SIN-SQ",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-09-24",
+        "quota_id": "TFU-CA",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-09-24",
