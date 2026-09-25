@@ -3,8 +3,8 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-09-17",
         "Location": 2,
         "Wave": 1.0,
-        "completed_interviews": 11,
-        "download_time": "25-09-2026 15:52:30"
+        "completed_interviews": 7,
+        "download_time": "25-09-2026 17:05:14"
     },
     {
         "Interview_Date": "2026-09-18",
@@ -16,7 +16,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-09-18",
         "Location": 2,
         "Wave": 1.0,
-        "completed_interviews": 28
+        "completed_interviews": 23
     },
     {
         "Interview_Date": "2026-09-18",
@@ -46,7 +46,7 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-09-21",
         "Location": 1,
         "Wave": 1.0,
-        "completed_interviews": 15
+        "completed_interviews": 11
     },
     {
         "Interview_Date": "2026-09-21",
@@ -82,13 +82,13 @@ let interview_statistics_arr = `[
         "Interview_Date": "2026-09-24",
         "Location": 3,
         "Wave": 1.0,
-        "completed_interviews": 22
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2026-09-25",
         "Location": 3,
         "Wave": 1.0,
-        "completed_interviews": 37
+        "completed_interviews": 26
     }
 ]    
 
