@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Location": 2,
         "Wave": 1.0,
         "completed_interviews": 7,
-        "download_time": "27-09-2026 17:54:08"
+        "download_time": "27-09-2026 18:56:27"
     },
     {
         "Interview_Date": "2026-09-18",
@@ -113,6 +113,12 @@ let interview_statistics_arr = `[
         "Location": 2,
         "Wave": 1.0,
         "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2026-09-27",
+        "Location": 3,
+        "Wave": 1.0,
+        "completed_interviews": 1
     }
 ]    
 
