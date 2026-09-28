@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "28-09-2026 08:50:52"
+        "download_time": "28-09-2026 09:53:49"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -198117,8 +198117,23 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-09-28",
+        "quota_id": "EI631-DUB",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-09-28",
+        "quota_id": "EY058-AUH",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-09-28",
         "quota_id": "KL1702-AMS",
         "Number of interviews": 12
+    },
+    {
+        "InterviewDate": "2026-09-28",
+        "quota_id": "KL1704-AMS",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-09-28",
@@ -198128,12 +198143,22 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-09-28",
         "quota_id": "SK594-CPH",
-        "Number of interviews": 1
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-09-28",
+        "quota_id": "SN2093-LHR",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-09-28",
         "quota_id": "SN2257-CPH",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-09-28",
+        "quota_id": "SN2623-HAM",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-09-28",
@@ -198143,7 +198168,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-09-28",
         "quota_id": "SN3201-VCE",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-09-28",
@@ -198154,6 +198179,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-09-28",
         "quota_id": "SN3633-CDG",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-09-28",
+        "quota_id": "SN3667-TLS",
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2026-09-28",
