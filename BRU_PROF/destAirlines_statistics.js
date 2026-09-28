@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "28-09-2026 10:52:02"
+        "download_time": "28-09-2026 11:49:21"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -180472,6 +180472,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-09-28",
+        "quota_id": "AGP-SN",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-09-28",
         "quota_id": "AGP-TB",
         "Number of interviews": 8
     },
@@ -180483,7 +180488,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-09-28",
         "quota_id": "ATH-A3",
-        "Number of interviews": 3
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2026-09-28",
@@ -180494,6 +180499,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-09-28",
         "quota_id": "CDG-SN",
         "Number of interviews": 14
+    },
+    {
+        "InterviewDate": "2026-09-28",
+        "quota_id": "CKG-HU",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-09-28",
@@ -180552,6 +180562,16 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-09-28",
+        "quota_id": "LIS-TP",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-09-28",
+        "quota_id": "MAD-IB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-09-28",
         "quota_id": "MAD-SN",
         "Number of interviews": 5
     },
@@ -180577,13 +180597,18 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-09-28",
+        "quota_id": "PEK-CA",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-09-28",
         "quota_id": "PMI-TB",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-09-28",
         "quota_id": "RBA-3O",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-09-28",
