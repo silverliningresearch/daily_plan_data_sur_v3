@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1C",
         "Gate": "C03",
-        "download_time": "01-10-2026 19:55:14"
+        "download_time": "01-10-2026 20:57:39"
     },
     {
         "aodbUniqueId": "20261001501024",
@@ -2741,16 +2741,6 @@ let MUC_Gate_Info = `[
         "Gate": "G08"
     },
     {
-        "aodbUniqueId": "20261001500897",
-        "Date": "01-10-2026",
-        "Flight": "EW 7175",
-        "Dest": "HAM",
-        "AirlineCode": "EW",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G32"
-    },
-    {
         "aodbUniqueId": "20261001500903",
         "Date": "01-10-2026",
         "Flight": "LH 2484",
@@ -3329,6 +3319,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G44"
+    },
+    {
+        "aodbUniqueId": "20261001500897",
+        "Date": "01-10-2026",
+        "Flight": "EW 7175",
+        "Dest": "HAM",
+        "AirlineCode": "EW",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G32"
     },
     {
         "aodbUniqueId": "20261001500887",
@@ -4438,7 +4438,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G24"
+        "Gate": "G45"
     },
     {
         "aodbUniqueId": "20261001501481",
