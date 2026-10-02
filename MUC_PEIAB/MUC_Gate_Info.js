@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H48",
-        "download_time": "02-10-2026 19:58:36"
+        "download_time": "02-10-2026 20:58:34"
     },
     {
         "aodbUniqueId": "20261002509897",
@@ -588,7 +588,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H16"
+        "Gate": "H20"
     },
     {
         "aodbUniqueId": "20261002509856",
@@ -988,7 +988,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K20"
+        "Gate": "K24"
     },
     {
         "aodbUniqueId": "20261002510775",
@@ -2467,8 +2467,8 @@ let MUC_Gate_Info = `[
         "Dest": "KRK",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G34"
+        "GateArea": "T2 Sat E4",
+        "Gate": "K22"
     },
     {
         "aodbUniqueId": "20261002510342",
@@ -2778,7 +2778,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K24"
+        "Gate": "K23"
     },
     {
         "aodbUniqueId": "20261002510908",
@@ -2968,7 +2968,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K25"
+        "Gate": "K07"
     },
     {
         "aodbUniqueId": "20261002510829",
@@ -3447,8 +3447,8 @@ let MUC_Gate_Info = `[
         "Dest": "CPH",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K22"
+        "GateArea": "T2 Main E4",
+        "Gate": "G34"
     },
     {
         "aodbUniqueId": "20261002509902",
@@ -3958,7 +3958,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G20"
+        "Gate": "G16"
     },
     {
         "aodbUniqueId": "20261002510906",
