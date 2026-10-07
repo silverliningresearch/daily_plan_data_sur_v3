@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 2,
-        "download_time": "07-10-2026 13:59:34"
+        "download_time": "07-10-2026 15:03:38"
     },
     {
         "Interview_Date": "2026-01-05",
@@ -10610,6 +10610,18 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-10-07",
+        "Dest": "CAI",
+        "AirlineCode": "MS",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-07",
+        "Dest": "DUB",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-07",
         "Dest": "EWR",
         "AirlineCode": "UA",
         "completed_interviews": 1
@@ -10622,9 +10634,57 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-10-07",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-10-07",
+        "Dest": "LIS",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-07",
+        "Dest": "MAD",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-07",
+        "Dest": "OLB",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-07",
+        "Dest": "OSL",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-10-07",
+        "Dest": "PMI",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-07",
         "Dest": "SKG",
         "AirlineCode": "A3",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-10-07",
+        "Dest": "TIA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-07",
+        "Dest": "XRY",
+        "AirlineCode": "4Y",
+        "completed_interviews": 1
     }
 ]    
 
