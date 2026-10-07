@@ -1,48 +1,48 @@
 let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-09-25",
-        "quota_id": "ZAG-FR",
+        "quota_id": "FR-ZAG",
         "Number of interviews": 1,
-        "download_time": "07-10-2026 10:57:40"
+        "download_time": "07-10-2026 12:20:19"
     },
     {
         "InterviewDate": "2026-09-27",
-        "quota_id": "TFS-EC",
+        "quota_id": "EC-TFS",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-05",
-        "quota_id": "FRA-LH",
+        "quota_id": "LH-FRA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-07",
-        "quota_id": "BIA-DS",
+        "quota_id": "DS-BIA",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-10-07",
-        "quota_id": "CHQ-DS",
+        "quota_id": "DS-CHQ",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-10-07",
-        "quota_id": "MAH-DS",
+        "quota_id": "DS-MAH",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-10-07",
-        "quota_id": "MUC-LH",
+        "quota_id": "LH-MUC",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-10-07",
-        "quota_id": "PMI-EW",
+        "quota_id": "EW-PMI",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-10-07",
-        "quota_id": "POZ-W6",
+        "quota_id": "W6-POZ",
         "Number of interviews": 5
     }
 ]    
