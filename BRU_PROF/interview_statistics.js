@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "07-10-2026 10:51:37"
+        "download_time": "07-10-2026 11:50:11"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -199512,6 +199512,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-07",
+        "quota_id": "CA964-PEK",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-07",
         "quota_id": "DL141-ATL",
         "Number of interviews": 6
     },
@@ -199532,8 +199537,13 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-07",
+        "quota_id": "HO1660-PVG",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-07",
         "quota_id": "SN203-BJL",
-        "Number of interviews": 3
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2026-10-07",
@@ -199558,7 +199568,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-07",
         "quota_id": "SN277-LFW",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-10-07",
@@ -199572,6 +199582,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-07",
+        "quota_id": "SN357-FIH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-07",
         "quota_id": "SN369-NSI",
         "Number of interviews": 2
     },
@@ -199582,12 +199597,22 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-07",
+        "quota_id": "SN3703-BCN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-07",
         "quota_id": "SN3721-MAD",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-07",
         "quota_id": "TK1938-IST",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-07",
+        "quota_id": "UA951-IAD",
         "Number of interviews": 6
     },
     {
