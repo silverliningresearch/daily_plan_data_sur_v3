@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E3",
         "Gate": "G66",
-        "download_time": "09-10-2026 20:55:19"
+        "download_time": "09-10-2026 21:59:01"
     },
     {
         "aodbUniqueId": "20261009548052",
@@ -2887,8 +2887,8 @@ let MUC_Gate_Info = `[
         "Dest": "LUX",
         "AirlineCode": "LG",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G19"
+        "GateArea": "T2 Main E3",
+        "Gate": "G68"
     },
     {
         "aodbUniqueId": "20261009548193",
