@@ -5,7 +5,7 @@ let location_percent = `[
         "Location": "T1-A/E04",
         "Exit_belt": "Baggage belts",
         "Percentage": 78,
-        "download_time": "11-10-2026 01:59:08"
+        "download_time": "11-10-2026 02:56:45"
     },
     {
         "Year": "2026",
