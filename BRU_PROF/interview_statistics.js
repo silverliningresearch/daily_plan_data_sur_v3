@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "19-10-2026 19:48:54"
+        "download_time": "19-10-2026 20:48:53"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -201322,6 +201322,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-19",
+        "quota_id": "3O114-TNG",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-19",
         "quota_id": "AC827-YYZ",
         "Number of interviews": 2
     },
@@ -201344,6 +201349,16 @@ let interview_statistics = `[
         "InterviewDate": "2026-10-19",
         "quota_id": "EK184-DXB",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "ET751-ADD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "EZS1530-GVA",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-10-19",
@@ -201418,12 +201433,17 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-19",
         "quota_id": "OU4457-ZAG",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-10-19",
         "quota_id": "SK1590-ARN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "SK4746-OSL",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-10-19",
@@ -201438,6 +201458,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-19",
         "quota_id": "SN2095-LHR",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "SN2103-LHR",
         "Number of interviews": 3
     },
     {
@@ -201548,6 +201573,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-19",
         "quota_id": "TP643-LIS",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "TP645-LIS",
         "Number of interviews": 5
     },
     {
