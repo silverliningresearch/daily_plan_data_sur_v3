@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "19-10-2026 10:49:09"
+        "download_time": "19-10-2026 11:49:00"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -201333,7 +201333,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-19",
         "quota_id": "AZ159-FCO",
-        "Number of interviews": 1
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "FR2983-FCO",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-10-19",
@@ -201352,6 +201357,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-19",
+        "quota_id": "SN203-BJL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-10-19",
         "quota_id": "SN229-COO",
         "Number of interviews": 4
     },
@@ -201364,6 +201374,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-10-19",
         "quota_id": "SN2713-GVA",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "SN277-LFW",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-10-19",
@@ -201382,7 +201397,17 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-19",
+        "quota_id": "SN369-NSI",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-19",
         "quota_id": "SN3751-VLC",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "TB1753-TFS",
         "Number of interviews": 3
     },
     {
@@ -201403,7 +201428,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-19",
         "quota_id": "UA951-IAD",
-        "Number of interviews": 4
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2026-10-19",
