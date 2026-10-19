@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "19-10-2026 09:48:26"
+        "download_time": "19-10-2026 10:49:09"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -201332,6 +201332,16 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-19",
+        "quota_id": "AZ159-FCO",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "GQ851-HER",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-10-19",
         "quota_id": "LX787-ZRH",
         "Number of interviews": 6
     },
@@ -201339,6 +201349,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-10-19",
         "quota_id": "SK594-CPH",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "SN229-COO",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-10-19",
@@ -201362,6 +201377,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-19",
+        "quota_id": "SN3587-LYS",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-19",
         "quota_id": "SN3751-VLC",
         "Number of interviews": 3
     },
@@ -201382,8 +201402,23 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-19",
+        "quota_id": "UA951-IAD",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-19",
         "quota_id": "UA973-ORD",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "UA995-EWR",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-10-19",
+        "quota_id": "UX1172-MAD",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-10-19",
@@ -201393,7 +201428,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-19",
         "quota_id": "VY8981-BCN",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-10-19",
