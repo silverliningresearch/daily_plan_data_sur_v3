@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-10-01",
         "quota_id": "SV-AHB",
         "Number of interviews": 1,
-        "download_time": "21-10-2026 12:04:34"
+        "download_time": "21-10-2026 16:20:05"
     },
     {
         "InterviewDate": "2024-10-01",
@@ -41762,18 +41762,28 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-21",
+        "quota_id": "MS-ALY",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-21",
         "quota_id": "SM-ALY",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-10-21",
         "quota_id": "RJ-AMM",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-21",
+        "quota_id": "XY-ASM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-21",
         "quota_id": "GF-BAH",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2026-10-21",
@@ -41788,7 +41798,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-21",
         "quota_id": "SV-CAI",
-        "Number of interviews": 3
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-21",
+        "quota_id": "XY-CAI",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-10-21",
@@ -41798,6 +41813,16 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-21",
         "quota_id": "SV-CDG",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-21",
+        "quota_id": "AT-CMN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-10-21",
+        "quota_id": "SV-DAC",
         "Number of interviews": 1
     },
     {
@@ -41837,8 +41862,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-21",
+        "quota_id": "KU-KWI",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-21",
         "quota_id": "9P-LHE",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-21",
+        "quota_id": "XY-RBA",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-10-21",
