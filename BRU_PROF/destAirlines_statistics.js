@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "22-10-2026 19:02:58"
+        "download_time": "22-10-2026 20:07:20"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -184022,6 +184022,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-22",
+        "quota_id": "ADD-ET",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-22",
         "quota_id": "AMM-RJ",
         "Number of interviews": 5
     },
@@ -184037,13 +184042,18 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-22",
+        "quota_id": "CPH-SK",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-22",
         "quota_id": "DUB-FR",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-10-22",
         "quota_id": "DXB-EK",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-10-22",
@@ -184068,7 +184078,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-10-22",
         "quota_id": "KGL-WB",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-10-22",
@@ -184079,6 +184089,16 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-22",
         "quota_id": "LJU-SN",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-22",
+        "quota_id": "MLA-KM",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-22",
+        "quota_id": "NDR-AT",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-10-22",
@@ -184094,6 +184114,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-22",
         "quota_id": "TLL-BT",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-22",
+        "quota_id": "TNG-3O",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-22",
