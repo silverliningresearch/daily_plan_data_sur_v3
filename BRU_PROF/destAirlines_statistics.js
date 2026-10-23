@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "23-10-2026 10:25:20"
+        "download_time": "23-10-2026 16:19:00"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -184172,8 +184172,23 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-23",
+        "quota_id": "AGA-TB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-23",
         "quota_id": "ALC-TB",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "ALG-TB",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "ATH-A3",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-10-23",
@@ -184192,6 +184207,26 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-23",
+        "quota_id": "BJL-SN",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "BKK-TG",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "DOH-QR",
+        "Number of interviews": 15
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "DXB-EK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-10-23",
         "quota_id": "EBB-SN",
         "Number of interviews": 2
     },
@@ -184207,8 +184242,18 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-23",
+        "quota_id": "IAD-UA",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "IST-TK",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-23",
         "quota_id": "LFW-SN",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-10-23",
@@ -184227,7 +184272,27 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-23",
+        "quota_id": "NDR-TB",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-23",
         "quota_id": "PMI-TB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "RAK-TB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "RBA-3O",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-10-23",
+        "quota_id": "SAW-VF",
         "Number of interviews": 4
     },
     {
