@@ -3,11 +3,21 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-14",
         "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC",
         "Number of interviews": 1,
-        "download_time": "24-10-2026 20:33:59"
+        "download_time": "24-10-2026 21:40:08"
     },
     {
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
+        "quota_id": "Adidas\u2666TERMINAL 4\u2666Airside\u2666#02-32\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
+        "quota_id": "Bacha Coffee\u2666TERMINAL 4\u2666Airside\u2666#02-31\u2666CCD",
         "Number of interviews": 1
     },
     {
@@ -17,7 +27,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-24",
+        "quota_id": "FILA\u2666TERMINAL 4\u2666Airside\u2666#02-53/54\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
         "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 4\u2666Airside\u2666#02-42\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
+        "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP",
         "Number of interviews": 1
     },
     {
@@ -53,6 +73,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-24",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
+        "quota_id": "Salomon\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP",
         "Number of interviews": 1
     },
     {
