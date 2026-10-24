@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-14",
         "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC",
         "Number of interviews": 1,
-        "download_time": "24-10-2026 19:29:50"
+        "download_time": "24-10-2026 20:33:59"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -42,6 +42,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-24",
+        "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
         "quota_id": "Old Seng Choong\u2666TERMINAL 4\u2666Airside\u2666#02-50\u2666CCD",
         "Number of interviews": 1
     },
@@ -58,6 +63,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-24",
         "quota_id": "The Cocoa Trees (Premises D)\u2666TERMINAL 4\u2666Airside\u2666#02-26\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
+        "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-24",
+        "quota_id": "iStudio\u2666TERMINAL 4\u2666Airside\u2666#02-52\u2666EL",
         "Number of interviews": 1
     }
 ]    
