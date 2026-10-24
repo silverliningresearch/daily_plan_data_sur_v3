@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G04",
-        "download_time": "24-10-2026 21:10:18"
+        "download_time": "24-10-2026 22:18:30"
     },
     {
         "aodbUniqueId": "20261024600315",
@@ -861,6 +861,26 @@ let MUC_Gate_Info = `[
         "Gate": "K27"
     },
     {
+        "aodbUniqueId": "20261024600091",
+        "Date": "24-10-2026",
+        "Flight": "G9 241",
+        "Dest": "SHJ",
+        "AirlineCode": "G9",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A48"
+    },
+    {
+        "aodbUniqueId": "20261024600278",
+        "Date": "24-10-2026",
+        "Flight": "LH 2142",
+        "Dest": "FMO",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K14"
+    },
+    {
         "aodbUniqueId": "20261024600015",
         "Date": "24-10-2026",
         "Flight": "VL 1806",
@@ -1329,16 +1349,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20"
-    },
-    {
-        "aodbUniqueId": "20261024600278",
-        "Date": "24-10-2026",
-        "Flight": "LH 2142",
-        "Dest": "FMO",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K14"
     },
     {
         "aodbUniqueId": "20261024600281",
@@ -2301,16 +2311,6 @@ let MUC_Gate_Info = `[
         "Gate": "G28"
     },
     {
-        "aodbUniqueId": "20261024600091",
-        "Date": "24-10-2026",
-        "Flight": "G9 241",
-        "Dest": "SHJ",
-        "AirlineCode": "G9",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A48"
-    },
-    {
         "aodbUniqueId": "20261024600095",
         "Date": "24-10-2026",
         "Flight": "VL 2014",
@@ -3138,7 +3138,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K11"
+        "Gate": "K23"
     },
     {
         "aodbUniqueId": "20261024600331",
@@ -3858,7 +3858,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K23"
+        "Gate": "K10"
     },
     {
         "aodbUniqueId": "20261024600350",
