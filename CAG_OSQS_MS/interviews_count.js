@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "25-10-2026 19:29:23"
+        "download_time": "25-10-2026 20:35:34"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -107,7 +107,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-25",
+        "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
         "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
+        "quota_id": "Changi Transit Hotel\u2666TERMINAL 1\u2666Airside\u2666#03-139/140\u2666HL",
         "Number of interviews": 1
     },
     {
@@ -137,6 +147,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-25",
+        "quota_id": "Harry's Bar\u2666TERMINAL 1\u2666Airside\u2666#02-65\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
         "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K09\u2666FBA",
         "Number of interviews": 1
     },
@@ -152,12 +167,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-25",
+        "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
         "quota_id": "Irvin's Salted Egg\u2666TERMINAL 2\u2666Airside\u2666#02-209D\u2666CCD",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-25",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
+        "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -208,6 +233,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-25",
         "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 2\u2666Airside\u2666#02-800\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
+        "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
+        "quota_id": "The Hainan Story Coffee & Toast\u2666TERMINAL 2\u2666Airside\u2666#02-K11\u2666FBA",
         "Number of interviews": 1
     },
     {
