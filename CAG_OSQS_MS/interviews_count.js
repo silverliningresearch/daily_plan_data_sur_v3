@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "25-10-2026 15:06:47"
+        "download_time": "25-10-2026 16:11:03"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -107,6 +107,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-25",
+        "quota_id": "Chatterbox Express\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
+        "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
         "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K09\u2666FBA",
         "Number of interviews": 1
     },
@@ -118,6 +128,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-25",
         "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-25",
+        "quota_id": "Luckin Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA",
         "Number of interviews": 1
     },
     {
