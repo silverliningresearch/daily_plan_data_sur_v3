@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "26-10-2026 17:14:12"
+        "download_time": "26-10-2026 18:20:02"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -352,6 +352,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-26",
+        "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-26",
         "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV",
         "Number of interviews": 1
     },
@@ -427,12 +432,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-26",
+        "quota_id": "Sprint-Cass (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-30\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-26",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-26",
         "quota_id": "TWG Tea Company (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-26\u2666CCD",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-26",
         "quota_id": "The Cocoa Trees (Premises C1) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-27\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-26",
+        "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -447,7 +467,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-26",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-26",
         "quota_id": "WH Smith - Premises G (Air) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-43C\u2666OW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-26",
+        "quota_id": "iStudio\u2666TERMINAL 1\u2666Airside\u2666#02-13F\u2666EL",
         "Number of interviews": 1
     }
 ]    
