@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K22",
-        "download_time": "26-10-2026 20:15:58"
+        "download_time": "26-10-2026 21:26:01"
     },
     {
         "aodbUniqueId": "20261026604334",
@@ -249,6 +249,26 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H18"
+    },
+    {
+        "aodbUniqueId": "20261026604830",
+        "Date": "26-10-2026",
+        "Flight": "EY 128",
+        "Dest": "AUH",
+        "AirlineCode": "EY",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A46"
+    },
+    {
+        "aodbUniqueId": "20261026604793",
+        "Date": "26-10-2026",
+        "Flight": "LH 1966",
+        "Dest": "BER",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G18"
     },
     {
         "aodbUniqueId": "20261026604611",
@@ -879,6 +899,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K10"
+    },
+    {
+        "aodbUniqueId": "20261026604514",
+        "Date": "26-10-2026",
+        "Flight": "LH 1816",
+        "Dest": "BCN",
+        "AirlineCode": "LH",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Sat E4",
+        "Gate": "K03"
     },
     {
         "aodbUniqueId": "20261026604809",
@@ -2771,16 +2801,6 @@ let MUC_Gate_Info = `[
         "Gate": "L11"
     },
     {
-        "aodbUniqueId": "20261026604514",
-        "Date": "26-10-2026",
-        "Flight": "LH 1816",
-        "Dest": "BCN",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E4",
-        "Gate": "K03"
-    },
-    {
         "aodbUniqueId": "20261026604537",
         "Date": "26-10-2026",
         "Flight": "LH 466",
@@ -3038,7 +3058,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "SN",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K14"
+        "Gate": "K20"
     },
     {
         "aodbUniqueId": "20261026604631",
@@ -3631,16 +3651,6 @@ let MUC_Gate_Info = `[
         "Gate": "G30"
     },
     {
-        "aodbUniqueId": "20261026604830",
-        "Date": "26-10-2026",
-        "Flight": "EY 128",
-        "Dest": "AUH",
-        "AirlineCode": "EY",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A46"
-    },
-    {
         "aodbUniqueId": "20261026604605",
         "Date": "26-10-2026",
         "Flight": "VL 1822",
@@ -3731,16 +3741,6 @@ let MUC_Gate_Info = `[
         "Gate": "G35"
     },
     {
-        "aodbUniqueId": "20261026604793",
-        "Date": "26-10-2026",
-        "Flight": "LH 1966",
-        "Dest": "BER",
-        "AirlineCode": "LH",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G18"
-    },
-    {
         "aodbUniqueId": "20261026604762",
         "Date": "26-10-2026",
         "Flight": "4Y 1284",
@@ -3809,6 +3809,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D07"
+    },
+    {
+        "aodbUniqueId": "20261026636817",
+        "Date": "26-10-2026",
+        "Flight": "AA 1000",
+        "Dest": "CLT",
+        "AirlineCode": "AA",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A48"
     }
 ]    
 
