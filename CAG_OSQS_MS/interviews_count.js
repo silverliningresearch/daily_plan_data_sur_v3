@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "27-10-2026 14:09:28"
+        "download_time": "27-10-2026 15:15:05"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -622,7 +622,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-27",
+        "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
         "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR",
         "Number of interviews": 1
     },
     {
@@ -637,6 +647,26 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-27",
+        "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
+        "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
+        "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Landside\u2666#02-09\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
         "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX",
         "Number of interviews": 1
     },
@@ -647,12 +677,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-27",
+        "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
         "quota_id": "Sparkle\u2666TERMINAL 4\u2666Airside\u2666#02-63\u2666CT",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-27",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 2\u2666Airside\u2666#02-216\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
+        "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD",
         "Number of interviews": 1
     },
     {
