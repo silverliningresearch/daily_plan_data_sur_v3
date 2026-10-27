@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "27-10-2026 16:22:52"
+        "download_time": "27-10-2026 17:28:23"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -622,6 +622,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-27",
+        "quota_id": "Bacha Coffee (DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD",
         "Number of interviews": 1
     },
@@ -643,6 +648,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-27",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
+        "quota_id": "Gassan Watches (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-226\u2666LX",
         "Number of interviews": 1
     },
     {
