@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "27-10-2026 19:43:06"
+        "download_time": "27-10-2026 20:48:53"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -642,6 +642,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-27",
+        "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR",
         "Number of interviews": 1
     },
@@ -658,6 +663,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-27",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
+        "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH",
         "Number of interviews": 1
     },
     {
@@ -698,6 +708,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-27",
         "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-27",
+        "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC",
         "Number of interviews": 1
     },
     {
