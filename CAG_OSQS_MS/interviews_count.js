@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "28-10-2026 17:39:12"
+        "download_time": "28-10-2026 18:45:01"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -797,6 +797,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-28",
+        "quota_id": "Beyond The Vines\u2666TERMINAL 3\u2666Airside\u2666#02-50\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR",
         "Number of interviews": 1
     },
@@ -808,6 +813,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-28",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Charles & Keith\u2666TERMINAL 3\u2666Airside\u2666#02-53\u2666MP",
         "Number of interviews": 1
     },
     {
@@ -827,7 +837,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-28",
+        "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
         "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP",
         "Number of interviews": 1
     },
     {
@@ -852,12 +872,42 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-28",
+        "quota_id": "Prosegur T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Prosegur T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-02\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
         "quota_id": "Prosegur T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-28",
         "quota_id": "Swarovski\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Travelex T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC",
         "Number of interviews": 1
     },
     {
