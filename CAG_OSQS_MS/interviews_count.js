@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "28-10-2026 18:45:01"
+        "download_time": "28-10-2026 19:52:48"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -802,6 +802,21 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-28",
+        "quota_id": "CHANGI RECOMMENDS (T1 L2 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-K39\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR",
         "Number of interviews": 1
     },
@@ -843,6 +858,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-28",
         "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "IRVINS (DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666CCD",
         "Number of interviews": 1
     },
     {
@@ -928,6 +948,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-28",
         "quota_id": "WH Smith - Premises C (Land) (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-84\u2666OW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "iStudio\u2666TERMINAL 3\u2666Airside\u2666#02-54\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "lululemon\u2666TERMINAL 3\u2666Airside\u2666#02-49\u2666MP",
         "Number of interviews": 1
     }
 ]    
