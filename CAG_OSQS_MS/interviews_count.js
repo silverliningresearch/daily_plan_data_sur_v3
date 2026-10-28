@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "28-10-2026 19:52:48"
+        "download_time": "28-10-2026 20:57:17"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -802,12 +802,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-28",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
         "quota_id": "CHANGI RECOMMENDS (T1 L2 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-K39\u2666CR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-28",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR",
         "Number of interviews": 1
     },
     {
@@ -828,6 +838,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-28",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Cartier\u2666TERMINAL 3\u2666Airside\u2666#02-45-01\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -873,6 +888,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-28",
         "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP",
         "Number of interviews": 1
     },
     {
