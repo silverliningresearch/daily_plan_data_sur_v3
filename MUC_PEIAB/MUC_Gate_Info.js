@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K09",
-        "download_time": "28-10-2026 06:13:29"
+        "download_time": "28-10-2026 07:18:13"
     },
     {
         "aodbUniqueId": "20261028606263",
@@ -307,8 +307,8 @@ let MUC_Gate_Info = `[
         "Dest": "BOS",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Main E5",
-        "Gate": "H08"
+        "GateArea": "T2 Sat E5",
+        "Gate": "L26"
     },
     {
         "aodbUniqueId": "20261028606770",
@@ -628,7 +628,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K22"
+        "Gate": "K15"
     },
     {
         "aodbUniqueId": "20261028606820",
@@ -888,7 +888,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K15"
+        "Gate": "K22"
     },
     {
         "aodbUniqueId": "20261028606234",
@@ -1828,7 +1828,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
-        "Gate": "G26"
+        "Gate": "G24"
     },
     {
         "aodbUniqueId": "20261028606491",
@@ -1919,16 +1919,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G16"
-    },
-    {
-        "aodbUniqueId": "20261028606412",
-        "Date": "28-10-2026",
-        "Flight": "SN 2642",
-        "Dest": "BRU",
-        "AirlineCode": "SN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G02"
     },
     {
         "aodbUniqueId": "20261028606421",
@@ -2279,6 +2269,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K12"
+    },
+    {
+        "aodbUniqueId": "20261028606412",
+        "Date": "28-10-2026",
+        "Flight": "SN 2642",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G02"
     },
     {
         "aodbUniqueId": "20261028606261",
@@ -3287,8 +3287,8 @@ let MUC_Gate_Info = `[
         "Dest": "IAD",
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
-        "GateArea": "T2 Sat E5",
-        "Gate": "L26"
+        "GateArea": "T2 Main E5",
+        "Gate": "H08"
     },
     {
         "aodbUniqueId": "20261028606232",

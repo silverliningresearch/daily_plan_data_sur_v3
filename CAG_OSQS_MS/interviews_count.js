@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "28-10-2026 13:12:28"
+        "download_time": "28-10-2026 14:17:04"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -797,7 +797,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-28",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
         "quota_id": "Garrett Popcorn\u2666TERMINAL 2\u2666Airside\u266602-152\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-28",
+        "quota_id": "Prosegur T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC",
         "Number of interviews": 1
     },
     {
