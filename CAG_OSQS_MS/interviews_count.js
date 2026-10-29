@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "29-10-2026 19:09:33"
+        "download_time": "29-10-2026 20:15:49"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1022,6 +1022,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "7-Eleven (T1)\u2666TERMINAL 1\u2666Airside\u2666#02-75\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA",
         "Number of interviews": 1
     },
@@ -1117,6 +1122,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Pizza Hut\u2666TERMINAL 1\u2666Airside\u2666#03-K04\u2666FBA",
         "Number of interviews": 1
     },
@@ -1167,6 +1177,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "The Cocoa Trees\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "The Coffee Bean and Tea Leaf\u2666TERMINAL 4\u2666Airside\u2666#02-36N\u2666FBA",
         "Number of interviews": 1
     },
@@ -1188,6 +1203,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-29",
         "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666OW",
         "Number of interviews": 1
     },
     {
