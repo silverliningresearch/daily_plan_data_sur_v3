@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "29-10-2026 17:36:58"
+        "download_time": "29-10-2026 18:50:02"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -185102,6 +185102,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "DUB-EI",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "FAO-HV",
         "Number of interviews": 6
     },
@@ -185148,7 +185153,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-10-29",
         "quota_id": "IST-TK",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-10-29",
@@ -185159,6 +185164,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-29",
         "quota_id": "KEF-FI",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "KGL-WB",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-10-29",
@@ -185183,7 +185193,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-10-29",
         "quota_id": "MAD-UX",
-        "Number of interviews": 4
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2026-10-29",
@@ -185207,6 +185217,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "OTP-RO",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "PRG-SN",
         "Number of interviews": 3
     },
@@ -185214,6 +185229,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-29",
         "quota_id": "RAK-AT",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "RIX-BT",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-10-29",
