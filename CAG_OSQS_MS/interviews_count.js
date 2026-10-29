@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "29-10-2026 22:25:41"
+        "download_time": "29-10-2026 23:30:41"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1092,7 +1092,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Hudsons\u2666TERMINAL 1\u2666Airside\u2666#02-K10\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -1118,6 +1128,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-29",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA",
         "Number of interviews": 1
     },
     {
