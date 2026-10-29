@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "29-10-2026 15:44:12"
+        "download_time": "29-10-2026 16:51:07"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1082,7 +1082,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Kopikakis\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Pizza Hut\u2666TERMINAL 1\u2666Airside\u2666#03-K04\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -1118,6 +1128,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-29",
         "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "World of Tiger Bar\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Wu Fang Zhai\u2666TERMINAL 1\u2666Airside\u2666#03-K05\u2666FBA",
         "Number of interviews": 1
     },
     {
