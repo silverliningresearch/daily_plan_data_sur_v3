@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G20",
-        "download_time": "29-10-2026 07:39:35"
+        "download_time": "29-10-2026 08:45:14"
     },
     {
         "aodbUniqueId": "20261029607368",
@@ -108,7 +108,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
-        "Gate": "K01"
+        "Gate": "K23"
     },
     {
         "aodbUniqueId": "20261029607541",

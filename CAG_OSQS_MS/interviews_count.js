@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "29-10-2026 14:37:28"
+        "download_time": "29-10-2026 15:44:12"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1052,6 +1052,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA",
         "Number of interviews": 1
     },
@@ -1082,6 +1087,21 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Prosegur T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Prosegur T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Landside\u2666#01-07\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA",
         "Number of interviews": 1
     },
@@ -1093,6 +1113,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-29",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC",
         "Number of interviews": 1
     },
     {
