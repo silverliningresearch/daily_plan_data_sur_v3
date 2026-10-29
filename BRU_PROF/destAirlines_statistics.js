@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "29-10-2026 09:47:47"
+        "download_time": "29-10-2026 11:01:35"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -185057,6 +185057,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "ALC-SN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "AMS-KL",
         "Number of interviews": 8
     },
@@ -185064,6 +185069,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-29",
         "quota_id": "AUH-EY",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "BJL-SN",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-10-29",
@@ -185097,7 +185107,22 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "JFK-SN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "KRK-SN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "LIS-TP",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "MAD-UX",
         "Number of interviews": 4
     },
     {
@@ -185114,6 +185139,21 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-29",
         "quota_id": "PRG-SN",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "SIN-SQ",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "TNG-3O",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "TUN-TU",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-10-29",
