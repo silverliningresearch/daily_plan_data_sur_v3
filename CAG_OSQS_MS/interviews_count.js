@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "29-10-2026 18:03:44"
+        "download_time": "29-10-2026 19:09:33"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1027,6 +1027,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Burger King\u2666TERMINAL 1\u2666Airside\u2666#03-02\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR",
         "Number of interviews": 1
     },
@@ -1082,12 +1087,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Kaboom (DTE) \u2666TERMINAL 1\u2666Airside\u2666#02-62A\u2666CT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Kopikakis\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-29",
         "quota_id": "Longchamp\u2666TERMINAL 1\u2666Airside\u2666#02-77\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Metapod\u2666TERMINAL 1\u2666Airside\u2666#02-62\u2666EL",
         "Number of interviews": 1
     },
     {
@@ -1117,6 +1132,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Prosegur T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Landside\u2666#01-07\u2666MC",
         "Number of interviews": 1
     },
@@ -1127,7 +1147,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Ray-Ban\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -1147,7 +1177,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC",
         "Number of interviews": 1
     },
     {

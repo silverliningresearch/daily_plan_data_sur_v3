@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "29-10-2026 11:01:35"
+        "download_time": "29-10-2026 12:07:31"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -185077,6 +185077,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "CKY-SN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "CPH-SK",
         "Number of interviews": 4
     },
@@ -185089,6 +185094,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-29",
         "quota_id": "FRA-LH",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "GRU-JJ",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-10-29",
@@ -185107,17 +185117,32 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "IAD-UA",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "JFK-SN",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "KEF-FI",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "KRK-SN",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-10-29",
         "quota_id": "LIS-TP",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "MAD-IB",
         "Number of interviews": 4
     },
     {
@@ -185142,8 +185167,18 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "RAK-AT",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "SIN-SQ",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "TFU-CA",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-10-29",
