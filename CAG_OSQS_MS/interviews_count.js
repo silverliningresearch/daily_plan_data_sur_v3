@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "29-10-2026 13:29:21"
+        "download_time": "29-10-2026 14:37:28"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1022,6 +1022,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR",
         "Number of interviews": 1
     },
@@ -1032,12 +1037,57 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Changi Xperience\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-29",
+        "quota_id": "Crystal Jade GO\u2666TERMINAL 4\u2666Airside\u2666#02-41\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Gucci\u2666TERMINAL 1\u2666Airside\u2666#02-79\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Hugo Boss\u2666TERMINAL 1\u2666Airside\u2666#02-76\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
         "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-29",
+        "quota_id": "The Coffee Bean and Tea Leaf\u2666TERMINAL 4\u2666Airside\u2666#02-36N\u2666FBA",
         "Number of interviews": 1
     },
     {
