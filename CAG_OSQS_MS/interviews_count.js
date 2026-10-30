@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "30-10-2026 12:58:36"
+        "download_time": "30-10-2026 14:05:38"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1282,7 +1282,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-30",
+        "quota_id": "7-Eleven (T2 Level 3)\u2666TERMINAL 2\u2666Airside\u2666#03-172\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
         "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "Natureland Premium\u2666TERMINAL 2\u2666Airside\u2666#03-168\u2666OS",
         "Number of interviews": 1
     },
     {
@@ -1293,6 +1303,21 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-30",
         "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "Prosegur T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209B\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC",
         "Number of interviews": 1
     },
     {
