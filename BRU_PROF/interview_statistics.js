@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "30-10-2026 19:28:47"
+        "download_time": "30-10-2026 20:33:06"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -203347,6 +203347,16 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-30",
+        "quota_id": "EJU2988-FCO",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "EJU5436-LIN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-30",
         "quota_id": "EZS1530-GVA",
         "Number of interviews": 9
     },
@@ -203354,6 +203364,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-10-30",
         "quota_id": "HV9035-AGP",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "KM421-MLA",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-30",
@@ -203367,8 +203382,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-30",
+        "quota_id": "SN2297-ARN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
         "quota_id": "SN2607-FRA",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "SN2629-HAM",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-30",
@@ -203397,6 +203422,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-30",
+        "quota_id": "SN3603-MRS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
         "quota_id": "TP645-LIS",
         "Number of interviews": 7
     },
@@ -203409,6 +203439,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-10-30",
         "quota_id": "VY1081-BCN",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "VY7868-VLC",
+        "Number of interviews": 1
     }
 ]    
 

@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "30-10-2026 19:28:48"
+        "download_time": "30-10-2026 20:33:07"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -185317,6 +185317,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-30",
+        "quota_id": "ARN-SN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
         "quota_id": "BCN-VY",
         "Number of interviews": 9
     },
@@ -185324,6 +185329,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-30",
         "quota_id": "CPH-SK",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "FCO-EJU",
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2026-10-30",
@@ -185342,6 +185352,16 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-30",
+        "quota_id": "HAM-SN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "LIN-EJU",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-30",
         "quota_id": "LIS-TP",
         "Number of interviews": 7
     },
@@ -185349,6 +185369,16 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-30",
         "quota_id": "MAD-UX",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "MLA-KM",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "MRS-SN",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-30",
@@ -185374,6 +185404,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-10-30",
         "quota_id": "VIE-SN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-10-30",
+        "quota_id": "VLC-VY",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-30",
