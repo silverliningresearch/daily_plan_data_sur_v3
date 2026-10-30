@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-01-03",
         "quota_id": "AMS - KLM Royal Dutch Airlines",
         "Number of interviews": 2,
-        "download_time": "30-10-2026 11:39:53"
+        "download_time": "30-10-2026 12:45:07"
     },
     {
         "InterviewDate": "2024-01-03",
@@ -32162,6 +32162,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-30",
+        "quota_id": "CPH - Norwegian Air Sweden AOC",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-10-30",
         "quota_id": "CPH - SAS Scandinavian Airlines System",
         "Number of interviews": 5
     },
@@ -32182,6 +32187,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-10-30",
+        "quota_id": "LIS - TAP Air Portugal",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-10-30",
         "quota_id": "SAW - Pegasus Airlines",
         "Number of interviews": 10
     },
@@ -32193,12 +32203,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-10-30",
         "quota_id": "VCE - easyJet Europe",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-10-30",
         "quota_id": "VIE - Austrian Airlines",
-        "Number of interviews": 16
+        "Number of interviews": 19
     },
     {
         "InterviewDate": "2026-10-30",
