@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "completed_interviews": 19,
-        "download_time": "30-10-2026 13:49:11"
+        "download_time": "30-10-2026 14:54:09"
     },
     {
         "Interview_Date": "2023-01-21",
@@ -57104,9 +57104,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-10-30",
+        "Dest": "BIO",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-30",
         "Dest": "BRI",
         "AirlineCode": "W6",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-10-30",
+        "Dest": "CIA",
+        "AirlineCode": "FR",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-10-30",
@@ -57122,8 +57134,20 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-10-30",
+        "Dest": "FCO",
+        "AirlineCode": "W4",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-30",
         "Dest": "FRA",
         "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-30",
+        "Dest": "GDN",
+        "AirlineCode": "W6",
         "completed_interviews": 1
     },
     {
@@ -57136,7 +57160,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-10-30",
         "Dest": "LCA",
         "AirlineCode": "W6",
-        "completed_interviews": 1
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2026-10-30",
@@ -57148,7 +57172,13 @@ let interview_statistics = `[
         "Interview_Date": "2026-10-30",
         "Dest": "MAD",
         "AirlineCode": "W6",
-        "completed_interviews": 3
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-10-30",
+        "Dest": "PSA",
+        "AirlineCode": "FR",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-10-30",
@@ -57172,12 +57202,18 @@ let interview_statistics = `[
         "Interview_Date": "2026-10-30",
         "Dest": "SOF",
         "AirlineCode": "W6",
-        "completed_interviews": 2
+        "completed_interviews": 19
     },
     {
         "Interview_Date": "2026-10-30",
         "Dest": "VIE",
         "AirlineCode": "OS",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-10-30",
+        "Dest": "VLC",
+        "AirlineCode": "FR",
         "completed_interviews": 1
     },
     {
