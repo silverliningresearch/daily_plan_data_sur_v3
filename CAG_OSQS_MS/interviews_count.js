@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "31-10-2026 11:24:18"
+        "download_time": "31-10-2026 12:29:03"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1343,6 +1343,31 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-30",
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Pret A Manger\u2666TERMINAL 2\u2666Airside\u2666#02-165\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#02-158\u2666FBA",
         "Number of interviews": 1
     }
 ]    
