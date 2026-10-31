@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "31-10-2026 19:06:41"
+        "download_time": "31-10-2026 20:10:25"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1347,12 +1347,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-31",
+        "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u2666#02-32\u2666OS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-10-31",
         "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -1433,6 +1443,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-31",
         "quota_id": "The Digital Gadgets\u2666TERMINAL 2\u2666Airside\u2666#02-182\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC",
         "Number of interviews": 1
     },
     {
