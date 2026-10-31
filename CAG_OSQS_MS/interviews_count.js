@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "31-10-2026 13:35:32"
+        "download_time": "31-10-2026 14:45:13"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1347,6 +1347,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-31",
+        "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Guardian (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
         "quota_id": "Heineken World Bar\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA",
         "Number of interviews": 1
     },
@@ -1362,7 +1372,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-31",
+        "quota_id": "Metapod (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
         "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC",
         "Number of interviews": 1
     },
     {
@@ -1377,7 +1397,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-31",
+        "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
         "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#02-158\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP",
         "Number of interviews": 1
     },
     {
