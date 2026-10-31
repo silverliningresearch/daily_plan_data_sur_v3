@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "31-10-2026 20:10:25"
+        "download_time": "31-10-2026 21:15:01"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1347,7 +1347,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-31",
+        "quota_id": "7-Eleven (T3)\u2666TERMINAL 3\u2666Airside\u2666#03-12\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u2666#02-32\u2666OS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Burger King\u2666TERMINAL 3\u2666Airside\u2666#03-13\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -1427,6 +1442,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-10-31",
+        "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-011\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
         "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#02-158\u2666FBA",
         "Number of interviews": 1
     },
@@ -1448,6 +1468,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-10-31",
         "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-10-31",
+        "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC",
         "Number of interviews": 1
     },
     {
