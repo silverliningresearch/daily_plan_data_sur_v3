@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "01-11-2026 19:28:30"
+        "download_time": "01-11-2026 20:39:56"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1542,6 +1542,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "Changi Xperience\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C\u2666CR",
         "Number of interviews": 1
     },
@@ -1552,7 +1557,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "GHSS4\u2666TERMINAL 3\u2666Airside\u2666GHSS4 (A16-20)\u2666FBA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096 (#02-160)\u2666MP",
         "Number of interviews": 1
     },
     {
@@ -1568,6 +1588,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-01",
         "quota_id": "Harry's Bar\u2666TERMINAL 3\u2666Airside\u2666#02-08\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT",
         "Number of interviews": 1
     },
     {
@@ -1617,12 +1642,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-01",
         "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW",
         "Number of interviews": 1
     }
 ]    
