@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "01-11-2026 18:20:55"
+        "download_time": "01-11-2026 19:28:30"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1527,6 +1527,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "Asian Street Kitchen\u2666TERMINAL 2\u2666Airside\u2666#02-170\u2666FBA",
         "Number of interviews": 1
     },
@@ -1538,6 +1543,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-01",
         "quota_id": "Changi Xperience\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "Discover Singapore (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-402\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -1562,12 +1577,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-01",
         "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "Metapod (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-150\u2666EL",
         "Number of interviews": 1
     },
     {
