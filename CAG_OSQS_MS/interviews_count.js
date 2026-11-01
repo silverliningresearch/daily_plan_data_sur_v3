@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "01-11-2026 21:45:01"
+        "download_time": "01-11-2026 22:56:32"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1642,12 +1642,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-01",
         "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-151\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL",
         "Number of interviews": 1
     },
     {
