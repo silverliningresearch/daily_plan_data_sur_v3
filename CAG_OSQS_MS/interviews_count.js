@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "01-11-2026 20:39:56"
+        "download_time": "01-11-2026 21:45:01"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1547,6 +1547,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "Breo\u2666TERMINAL 2\u2666Airside\u2666#02-164\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "Changi Xperience\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C\u2666CR",
         "Number of interviews": 1
     },
@@ -1607,6 +1612,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT",
         "Number of interviews": 1
     },
@@ -1628,6 +1638,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-01",
         "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "Prosegur T2 Arr Mtg Hall Central\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC",
         "Number of interviews": 1
     },
     {
@@ -1657,7 +1672,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-01",
+        "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
         "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-01",
+        "quota_id": "adidas Originals\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP",
         "Number of interviews": 1
     }
 ]    
