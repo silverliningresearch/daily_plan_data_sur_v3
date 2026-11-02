@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "02-11-2026 13:17:25"
+        "download_time": "02-11-2026 14:20:53"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1702,6 +1702,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-02",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-02",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-02",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR",
         "Number of interviews": 1
     },
@@ -1748,6 +1758,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-02",
         "quota_id": "Saint Laurent\u2666TERMINAL 1\u2666Airside\u2666#02-82\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-02",
+        "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC",
         "Number of interviews": 1
     },
     {
