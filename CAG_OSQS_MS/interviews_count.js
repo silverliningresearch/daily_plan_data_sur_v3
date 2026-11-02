@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "02-11-2026 10:04:58"
+        "download_time": "02-11-2026 11:10:36"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1693,6 +1693,31 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-01",
         "quota_id": "adidas Originals\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-02",
+        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 1\u2666Airside\u2666#02-K24\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-02",
+        "quota_id": "Lindt\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-02",
+        "quota_id": "Maison Marou\u2666TERMINAL 1\u2666Airside\u2666#02-K26\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-02",
+        "quota_id": "Moncler\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-02",
+        "quota_id": "Saint Laurent\u2666TERMINAL 1\u2666Airside\u2666#02-82\u2666LX",
         "Number of interviews": 1
     }
 ]    
