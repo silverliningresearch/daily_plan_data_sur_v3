@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "1",
         "GateArea": "T1D",
         "Gate": "D22",
-        "download_time": "02-11-2026 18:28:12"
+        "download_time": "02-11-2026 19:38:03"
     },
     {
         "aodbUniqueId": "20261102612132",
@@ -968,7 +968,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VY",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D06"
+        "Gate": "D11"
     },
     {
         "aodbUniqueId": "20261102612473",
@@ -3418,7 +3418,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "SK",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D05"
+        "Gate": "D02"
     },
     {
         "aodbUniqueId": "20261102612493",
