@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "05-11-2026 18:08:10"
+        "download_time": "05-11-2026 19:19:46"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1872,12 +1872,32 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-05",
+        "quota_id": "Guardian (Premises B) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-29\u2666PH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-05",
         "quota_id": "L\u00e4derach\u2666TERMINAL 3\u2666Airside\u266602-K13R\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u266602-K8\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC",
         "Number of interviews": 1
     },
     {
