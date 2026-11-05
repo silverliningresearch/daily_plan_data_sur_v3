@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "05-11-2026 21:13:47"
+        "download_time": "05-11-2026 22:18:16"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -186073,7 +186073,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-11-05",
         "quota_id": "BCN-VY",
-        "Number of interviews": 3
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-11-05",
