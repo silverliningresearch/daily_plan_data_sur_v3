@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "05-11-2026 19:19:46"
+        "download_time": "05-11-2026 20:25:52"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1867,12 +1867,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-05",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
         "quota_id": "Changi Transit Hotel\u2666TERMINAL 1\u2666Airside\u2666#03-139/140\u2666HL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-05",
+        "quota_id": "Crossing\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
         "quota_id": "Guardian (Premises B) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-29\u2666PH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "IRVINS\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666CCD",
         "Number of interviews": 1
     },
     {
@@ -1912,6 +1927,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-05",
+        "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
         "quota_id": "Prosegur T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC",
         "Number of interviews": 1
     },
@@ -1923,6 +1943,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-05",
         "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC",
         "Number of interviews": 1
     },
     {
