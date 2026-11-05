@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "05-11-2026 22:38:22"
+        "download_time": "05-11-2026 23:44:06"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -1907,6 +1907,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-05",
+        "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT",
         "Number of interviews": 1
     },
@@ -1928,6 +1933,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-05",
         "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC",
         "Number of interviews": 1
     },
     {
@@ -1973,6 +1983,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-05",
         "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "TWG Tea (T3 DTN Flagship)\u2666TERMINAL 3\u2666Airside\u2666#02-58B\u2666CCD",
         "Number of interviews": 1
     },
     {
