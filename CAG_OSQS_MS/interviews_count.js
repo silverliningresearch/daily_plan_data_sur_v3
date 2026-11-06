@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "06-11-2026 19:45:49"
+        "download_time": "06-11-2026 20:53:50"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -2017,6 +2017,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-06",
+        "quota_id": "Beyond The Vines\u2666TERMINAL 2\u2666Airside\u2666#02-239\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-06",
         "quota_id": "Changi Xperience\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER\u2666CR",
         "Number of interviews": 1
     },
@@ -2028,6 +2033,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-06",
         "quota_id": "Fragrance Bak Kwa\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "GHN4\u2666TERMINAL 3\u2666Airside\u2666GHN4 (B1-4)\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -2048,6 +2063,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-06",
         "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "Omega\u2666TERMINAL 2\u2666Airside\u2666#02-233\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -2073,6 +2093,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-06",
         "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "Travelex T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-82\u2666MC",
         "Number of interviews": 1
     },
     {
