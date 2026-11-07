@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K27",
-        "download_time": "07-11-2026 10:20:04"
+        "download_time": "07-11-2026 11:27:47"
     },
     {
         "aodbUniqueId": "20261107637414",
@@ -321,16 +321,6 @@ let MUC_Gate_Info = `[
         "Gate": "D01"
     },
     {
-        "aodbUniqueId": "20261107638350",
-        "Date": "07-11-2026",
-        "Flight": "EN 2170",
-        "Dest": "BLQ",
-        "AirlineCode": "EN",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G72"
-    },
-    {
         "aodbUniqueId": "20261107638670",
         "Date": "07-11-2026",
         "Flight": "EN 1860",
@@ -369,6 +359,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G19"
+    },
+    {
+        "aodbUniqueId": "20261107638350",
+        "Date": "07-11-2026",
+        "Flight": "EN 2170",
+        "Dest": "BLQ",
+        "AirlineCode": "EN",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G72"
     },
     {
         "aodbUniqueId": "20261107637242",
@@ -3408,7 +3408,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "LH",
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
-        "Gate": "H05"
+        "Gate": "H06"
     },
     {
         "aodbUniqueId": "20261107638376",
