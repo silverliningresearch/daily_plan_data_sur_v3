@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "08-11-2026 15:29:10"
+        "download_time": "08-11-2026 16:36:53"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -2262,6 +2262,21 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-08",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K21\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K11\u2666CR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
         "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA",
         "Number of interviews": 1
     },
@@ -2292,7 +2307,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-08",
+        "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC",
         "Number of interviews": 1
     },
     {
@@ -2307,7 +2342,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-08",
+        "quota_id": "Prosegur T4 Arr Mtg Hall Central\u2666TERMINAL 4\u2666Landside\u2666#01-07\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
         "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "Prosegur T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-65\u2666MC",
         "Number of interviews": 1
     },
     {
@@ -2323,6 +2368,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-08",
         "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "XploreSG by Changi Recommends (Starhub)\u2666TERMINAL 4\u2666Landside\u2666#01-K2\u2666CR",
         "Number of interviews": 1
     }
 ]    
