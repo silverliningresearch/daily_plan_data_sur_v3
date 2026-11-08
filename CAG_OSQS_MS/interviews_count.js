@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "08-11-2026 13:20:11"
+        "download_time": "08-11-2026 14:24:36"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -2257,6 +2257,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-08",
+        "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
         "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-174A\u2666LX",
         "Number of interviews": 1
     },
@@ -2267,7 +2272,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-08",
+        "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
         "quota_id": "Pret A Manger\u2666TERMINAL 3\u2666Airside\u2666#02-59\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS",
         "Number of interviews": 1
     }
 ]    
