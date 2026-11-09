@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 2,
-        "download_time": "09-11-2026 11:42:47"
+        "download_time": "09-11-2026 12:47:40"
     },
     {
         "Interview_Date": "2026-01-05",
@@ -11726,20 +11726,86 @@ let interview_statistics_arr = `[
     },
     {
         "Interview_Date": "2026-11-09",
+        "Dest": "AMS",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "BCN",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "BER",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-09",
         "Dest": "BRU",
         "AirlineCode": "LH",
         "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-11-09",
+        "Dest": "BUD",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "CPH",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "GRZ",
+        "AirlineCode": "EN",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "LIN",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "LIS",
+        "AirlineCode": "TP",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "LUX",
+        "AirlineCode": "EN",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "MXP",
+        "AirlineCode": "EN",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-09",
         "Dest": "TRN",
+        "AirlineCode": "LH",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-11-09",
+        "Dest": "VIE",
         "AirlineCode": "LH",
         "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-11-09",
         "Dest": "VIE",
-        "AirlineCode": "LH",
+        "AirlineCode": "OS",
         "completed_interviews": 1
     }
 ]    
