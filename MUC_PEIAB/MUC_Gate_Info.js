@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E5",
         "Gate": "H19",
-        "download_time": "11-11-2026 22:06:04"
+        "download_time": "11-11-2026 23:12:07"
     },
     {
         "aodbUniqueId": "20261111651610",
@@ -1349,16 +1349,6 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E4",
         "Gate": "K10"
-    },
-    {
-        "aodbUniqueId": "20261111712500",
-        "Date": "11-11-2026",
-        "Flight": "4Y 4040",
-        "Dest": "HNL",
-        "AirlineCode": "4Y",
-        "terminalIdentifier": "2",
-        "GateArea": "T2 Main E4",
-        "Gate": "G45"
     },
     {
         "aodbUniqueId": "20261111652244",
@@ -3499,6 +3489,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Sat E5",
         "Gate": "L10"
+    },
+    {
+        "aodbUniqueId": "20261111712500",
+        "Date": "11-11-2026",
+        "Flight": "4Y 4040",
+        "Dest": "HNL",
+        "AirlineCode": "4Y",
+        "terminalIdentifier": "2",
+        "GateArea": "T2 Main E4",
+        "Gate": "G45"
     }
 ]    
 
