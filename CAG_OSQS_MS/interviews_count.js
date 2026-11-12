@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "12-11-2026 14:28:25"
+        "download_time": "12-11-2026 15:39:47"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -2438,6 +2438,31 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-11",
         "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "Changi Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC",
         "Number of interviews": 1
     }
 ]    
