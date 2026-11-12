@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "12-11-2026 15:25:34"
+        "download_time": "12-11-2026 16:34:26"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -205237,6 +205237,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-11-12",
+        "quota_id": "BA393-LHR",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-12",
         "quota_id": "CA464-TFU",
         "Number of interviews": 6
     },
@@ -205297,6 +205302,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-11-12",
+        "quota_id": "LO238-WAW",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-12",
         "quota_id": "LX791-GVA",
         "Number of interviews": 9
     },
@@ -205329,6 +205339,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-11-12",
         "quota_id": "SN251-LFW",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "SN2587-BER",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-11-12",
@@ -205367,6 +205382,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-11-12",
+        "quota_id": "TB2661-TNG",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-12",
         "quota_id": "TG935-BKK",
         "Number of interviews": 9
     },
@@ -205383,6 +205403,21 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-11-12",
         "quota_id": "VF066-SAW",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "VF068-SAW",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "VY1081-BCN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "XQ551-AYT",
         "Number of interviews": 6
     }
 ]    
