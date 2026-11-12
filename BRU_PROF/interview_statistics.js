@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "12-11-2026 18:49:03"
+        "download_time": "12-11-2026 20:01:31"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -205223,7 +205223,12 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-11-12",
         "quota_id": "3O118-FEZ",
-        "Number of interviews": 4
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "A3623-ATH",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-11-12",
@@ -205272,6 +205277,16 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-11-12",
+        "quota_id": "EK182-DXB",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "ET751-ADD",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
         "quota_id": "EY058-AUH",
         "Number of interviews": 6
     },
@@ -205308,6 +205323,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-11-12",
         "quota_id": "KL1706-AMS",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "KM421-MLA",
         "Number of interviews": 5
     },
     {
@@ -205368,7 +205388,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-11-12",
         "quota_id": "SN2617-FRA",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-11-12",
@@ -205449,6 +205469,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-11-12",
         "quota_id": "VY1081-BCN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "VY6024-FLR",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-12",
