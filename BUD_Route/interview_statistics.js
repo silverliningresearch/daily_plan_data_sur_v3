@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "completed_interviews": 19,
-        "download_time": "13-11-2026 12:13:12"
+        "download_time": "13-11-2026 16:31:37"
     },
     {
         "Interview_Date": "2023-01-21",
@@ -58076,8 +58076,56 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-13",
+        "Dest": "ARN",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "ARN",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "ATH",
+        "AirlineCode": "A3",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "BEG",
+        "AirlineCode": "JU",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-13",
         "Dest": "BER",
         "AirlineCode": "W6",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "BIO",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "BLQ",
+        "AirlineCode": "FR",
         "completed_interviews": 1
     },
     {
@@ -58088,8 +58136,68 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-13",
+        "Dest": "FNC",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "GYD",
+        "AirlineCode": "W6",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "LIS",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "LTN",
+        "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "LYS",
+        "AirlineCode": "EJU4490",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-13",
         "Dest": "MAD",
         "AirlineCode": "W6",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "MRS",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "PEK",
+        "AirlineCode": "CA",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "PSA",
+        "AirlineCode": "FR",
         "completed_interviews": 1
     },
     {

@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "13-11-2026 19:14:55"
+        "download_time": "13-11-2026 23:32:49"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -2472,7 +2472,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-13",
+        "quota_id": "7-Eleven (T1)\u2666TERMINAL 1\u2666Airside\u2666#02-75\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
         "quota_id": "7-Eleven (T3)\u2666TERMINAL 3\u2666Airside\u2666#03-12\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD",
         "Number of interviews": 1
     },
     {
@@ -2482,7 +2492,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-13",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 1\u2666Airside\u2666#02-15N\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "Charles & Keith\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
         "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "Guardian (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-16\u2666PH",
         "Number of interviews": 1
     },
     {
@@ -2512,12 +2537,37 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-13",
+        "quota_id": "Prosegur T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
         "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-13",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "Travelex T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
         "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "iStudio\u2666TERMINAL 1\u2666Airside\u2666#02-13F\u2666EL",
         "Number of interviews": 1
     }
 ]    

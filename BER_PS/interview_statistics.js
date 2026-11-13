@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-01-03",
         "quota_id": "AMS - KLM Royal Dutch Airlines",
         "Number of interviews": 2,
-        "download_time": "13-11-2026 12:14:23"
+        "download_time": "13-11-2026 16:32:06"
     },
     {
         "InterviewDate": "2024-01-03",
@@ -32657,13 +32657,23 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-11-13",
+        "quota_id": "AMS - KLM Royal Dutch Airlines",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-13",
         "quota_id": "BEY - Middle East Airlines AirLiban",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-13",
         "quota_id": "CPH - SAS Scandinavian Airlines System",
-        "Number of interviews": 8
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "EDI - easyJet UK",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-11-13",
@@ -32672,13 +32682,33 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-11-13",
+        "quota_id": "FRA - Lufthansa",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-11-13",
         "quota_id": "IST - Turkish Airlines",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-13",
+        "quota_id": "LIS - TAP Air Portugal",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-13",
         "quota_id": "MUC - Lufthansa",
-        "Number of interviews": 19
+        "Number of interviews": 26
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "PMI - easyJet Europe",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "VIE - Austrian Airlines",
+        "Number of interviews": 4
     }
 ]    
 
