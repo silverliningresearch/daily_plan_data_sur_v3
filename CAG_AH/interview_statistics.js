@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "TPE",
         "AirlineCode": "SQ",
         "completed_interviews": 1,
-        "download_time": "13-11-2026 14:32:25"
+        "download_time": "13-11-2026 15:46:04"
     },
     {
         "Interview_Date": "2025-01-01",
@@ -62852,6 +62852,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-13",
+        "Dest": "CEI",
+        "AirlineCode": "TR",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-13",
         "Dest": "CGK",
         "AirlineCode": "SQ",
         "completed_interviews": 5
@@ -62882,6 +62888,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-13",
+        "Dest": "DEL",
+        "AirlineCode": "SQ",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-11-13",
         "Dest": "DOH",
         "AirlineCode": "QR",
         "completed_interviews": 3
@@ -62900,6 +62912,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-13",
+        "Dest": "HKG",
+        "AirlineCode": "TR",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-11-13",
         "Dest": "ICN",
         "AirlineCode": "SQ",
         "completed_interviews": 8
@@ -62909,6 +62927,12 @@ let interview_statistics = `[
         "Dest": "KIX",
         "AirlineCode": "SQ",
         "completed_interviews": 11
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "KUL",
+        "AirlineCode": "ET",
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2026-11-13",
@@ -62957,6 +62981,18 @@ let interview_statistics = `[
         "Dest": "TNA",
         "AirlineCode": "SC",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "TPE",
+        "AirlineCode": "BR",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2026-11-13",
+        "Dest": "XMN",
+        "AirlineCode": "MF",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-11-13",
