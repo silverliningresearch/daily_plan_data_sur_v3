@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "completed_interviews": 19,
-        "download_time": "14-11-2026 15:30:24"
+        "download_time": "14-11-2026 16:38:49"
     },
     {
         "Interview_Date": "2023-01-21",
@@ -58288,7 +58288,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-11-14",
         "Dest": "BCN",
         "AirlineCode": "W6",
-        "completed_interviews": 1
+        "completed_interviews": 13
     },
     {
         "Interview_Date": "2026-11-14",
@@ -58306,7 +58306,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-11-14",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "completed_interviews": 5
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2026-11-14",
@@ -58336,13 +58336,13 @@ let interview_statistics = `[
         "Interview_Date": "2026-11-14",
         "Dest": "LIS",
         "AirlineCode": "W6",
-        "completed_interviews": 22
+        "completed_interviews": 27
     },
     {
         "Interview_Date": "2026-11-14",
         "Dest": "MAD",
         "AirlineCode": "FR",
-        "completed_interviews": 5
+        "completed_interviews": 8
     },
     {
         "Interview_Date": "2026-11-14",
@@ -58364,6 +58364,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-14",
+        "Dest": "MXP",
+        "AirlineCode": "W4",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-14",
         "Dest": "NCL",
         "AirlineCode": "FR",
         "completed_interviews": 16
@@ -58376,9 +58382,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-14",
+        "Dest": "PEK",
+        "AirlineCode": "CA",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2026-11-14",
         "Dest": "RAK",
         "AirlineCode": "W6",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-14",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2026-11-14",
