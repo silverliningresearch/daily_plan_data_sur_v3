@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "completed_interviews": 19,
-        "download_time": "15-11-2026 13:23:05"
+        "download_time": "15-11-2026 14:28:51"
     },
     {
         "Interview_Date": "2023-01-21",
@@ -58450,7 +58450,7 @@ let interview_statistics = `[
         "Interview_Date": "2026-11-15",
         "Dest": "BEG",
         "AirlineCode": "JU",
-        "completed_interviews": 1
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2026-11-15",
@@ -58486,13 +58486,19 @@ let interview_statistics = `[
         "Interview_Date": "2026-11-15",
         "Dest": "KEF",
         "AirlineCode": "W6",
-        "completed_interviews": 1
+        "completed_interviews": 14
     },
     {
         "Interview_Date": "2026-11-15",
         "Dest": "LIS",
         "AirlineCode": "FR",
         "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-15",
+        "Dest": "LIS",
+        "AirlineCode": "W6",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2026-11-15",
@@ -58508,9 +58514,15 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-15",
+        "Dest": "SAW",
+        "AirlineCode": "VF",
+        "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2026-11-15",
         "Dest": "SSH",
         "AirlineCode": "W6",
-        "completed_interviews": 5
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2026-11-15",
@@ -58552,13 +58564,19 @@ let interview_statistics = `[
         "Interview_Date": "2026-11-15",
         "Dest": "TLV",
         "AirlineCode": "W6",
-        "completed_interviews": 2
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2026-11-15",
         "Dest": "TSF",
         "AirlineCode": "FR",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-15",
+        "Dest": "VNO",
+        "AirlineCode": "W6",
+        "completed_interviews": 14
     }
 ]    
 
