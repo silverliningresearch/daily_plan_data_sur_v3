@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "16-11-2026 09:53:49"
+        "download_time": "16-11-2026 11:01:17"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -187617,6 +187617,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-16",
+        "quota_id": "ABJ-SN",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-16",
         "quota_id": "AGP-TB",
         "Number of interviews": 4
     },
@@ -187627,8 +187632,18 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-16",
+        "quota_id": "BJL-SN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-16",
         "quota_id": "CDG-SN",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-11-16",
+        "quota_id": "CKG-HU",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-11-16",
@@ -187643,7 +187658,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-11-16",
         "quota_id": "FRA-SN",
-        "Number of interviews": 8
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2026-11-16",
@@ -187654,6 +187669,16 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-11-16",
         "quota_id": "GVA-SN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-16",
+        "quota_id": "KRK-SN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-16",
+        "quota_id": "LFW-SN",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-11-16",
@@ -187687,13 +187712,28 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-16",
+        "quota_id": "NCE-SN",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-11-16",
         "quota_id": "RIX-BT",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-11-16",
+        "quota_id": "SIN-SQ",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-16",
         "quota_id": "TFS-TB",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-16",
+        "quota_id": "TUN-BJ",
+        "Number of interviews": 2
     }
 ]    
 
