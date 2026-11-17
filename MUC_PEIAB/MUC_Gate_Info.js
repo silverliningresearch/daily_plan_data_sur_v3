@@ -8,7 +8,7 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G02",
-        "download_time": "17-11-2026 18:32:41"
+        "download_time": "17-11-2026 19:36:44"
     },
     {
         "aodbUniqueId": "20261117682992",
@@ -831,16 +831,6 @@ let MUC_Gate_Info = `[
         "Gate": "L10"
     },
     {
-        "aodbUniqueId": "20261117683676",
-        "Date": "17-11-2026",
-        "Flight": "G9 241",
-        "Dest": "SHJ",
-        "AirlineCode": "G9",
-        "terminalIdentifier": "1",
-        "GateArea": "T1A",
-        "Gate": "A50"
-    },
-    {
         "aodbUniqueId": "20261117683170",
         "Date": "17-11-2026",
         "Flight": "EJU2976",
@@ -939,6 +929,16 @@ let MUC_Gate_Info = `[
         "terminalIdentifier": "2",
         "GateArea": "T2 Main E4",
         "Gate": "G02"
+    },
+    {
+        "aodbUniqueId": "20261117683676",
+        "Date": "17-11-2026",
+        "Flight": "G9 241",
+        "Dest": "SHJ",
+        "AirlineCode": "G9",
+        "terminalIdentifier": "1",
+        "GateArea": "T1A",
+        "Gate": "A50"
     },
     {
         "aodbUniqueId": "20261117682984",
@@ -1188,7 +1188,7 @@ let MUC_Gate_Info = `[
         "AirlineCode": "VY",
         "terminalIdentifier": "1",
         "GateArea": "T1D",
-        "Gate": "D15"
+        "Gate": "D22"
     },
     {
         "aodbUniqueId": "20261117683710",
