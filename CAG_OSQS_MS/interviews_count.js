@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "27-11-2026 17:02:58"
+        "download_time": "27-11-2026 18:07:59"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -3652,7 +3652,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "Irvin's Salted Egg\u2666TERMINAL 2\u2666Airside\u2666#02-209D\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT",
         "Number of interviews": 1
     },
     {
@@ -3663,6 +3678,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-27",
         "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "Pazzion\u2666TERMINAL 2\u2666Airside\u2666#02-201\u2666MP",
         "Number of interviews": 1
     },
     {

@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "27-11-2026 10:01:26"
+        "download_time": "27-11-2026 11:06:03"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -189077,6 +189077,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "ABJ-SN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "AGA-TB",
         "Number of interviews": 3
     },
@@ -189094,6 +189099,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-11-27",
         "quota_id": "AMS-KL",
         "Number of interviews": 12
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "ATH-SN",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-11-27",
@@ -189117,6 +189127,16 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "EDI-SN",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "FCO-AZ",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "FCO-EJU",
         "Number of interviews": 2
     },
@@ -189129,6 +189149,21 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-11-27",
         "quota_id": "GVA-SN",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "HEL-AY",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "LFW-SN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "LHR-BA",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-11-27",
@@ -189154,6 +189189,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-11-27",
         "quota_id": "ORD-UA",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "PVG-HO",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-11-27",
