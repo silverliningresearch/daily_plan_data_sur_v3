@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "completed_interviews": 19,
-        "download_time": "26-11-2026 12:57:42"
+        "download_time": "27-11-2026 01:43:48"
     },
     {
         "Interview_Date": "2023-01-21",
@@ -59216,6 +59216,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-26",
+        "Dest": "BHX",
+        "AirlineCode": "LS",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2026-11-26",
         "Dest": "BLL",
         "AirlineCode": "W6",
         "completed_interviews": 16
@@ -59234,15 +59240,33 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-26",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "completed_interviews": 18
+    },
+    {
+        "Interview_Date": "2026-11-26",
         "Dest": "ESB",
         "AirlineCode": "W6",
         "completed_interviews": 25
     },
     {
         "Interview_Date": "2026-11-26",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2026-11-26",
         "Dest": "GHV",
         "AirlineCode": "W6",
         "completed_interviews": 15
+    },
+    {
+        "Interview_Date": "2026-11-26",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
+        "completed_interviews": 11
     },
     {
         "Interview_Date": "2026-11-26",
@@ -59264,21 +59288,51 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2026-11-26",
+        "Dest": "MAD",
+        "AirlineCode": "FR",
+        "completed_interviews": 24
+    },
+    {
+        "Interview_Date": "2026-11-26",
         "Dest": "NCE",
         "AirlineCode": "W6",
-        "completed_interviews": 5
+        "completed_interviews": 16
+    },
+    {
+        "Interview_Date": "2026-11-26",
+        "Dest": "PMO",
+        "AirlineCode": "FR",
+        "completed_interviews": 15
     },
     {
         "Interview_Date": "2026-11-26",
         "Dest": "TFS",
         "AirlineCode": "W6",
-        "completed_interviews": 5
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2026-11-26",
+        "Dest": "TLL",
+        "AirlineCode": "W6",
+        "completed_interviews": 22
+    },
+    {
+        "Interview_Date": "2026-11-26",
+        "Dest": "VNO",
+        "AirlineCode": "W6",
+        "completed_interviews": 23
     },
     {
         "Interview_Date": "2026-11-26",
         "Dest": "WAW",
         "AirlineCode": "LO",
-        "completed_interviews": 12
+        "completed_interviews": 25
+    },
+    {
+        "Interview_Date": "2026-11-26",
+        "Dest": "WRO",
+        "AirlineCode": "W6",
+        "completed_interviews": 22
     },
     {
         "Interview_Date": "2026-11-26",
