@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "27-11-2026 15:58:32"
+        "download_time": "27-11-2026 17:02:58"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -3647,6 +3647,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "Irvin's Salted Egg\u2666TERMINAL 2\u2666Airside\u2666#02-209D\u2666CCD",
         "Number of interviews": 1
     },
@@ -3662,12 +3667,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "Pedro\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "TWG Tea Boutique\u2666TERMINAL 2\u2666Airside\u2666#02-216\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "Tory Burch\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666LX",
         "Number of interviews": 1
     },
     {

@@ -3,7 +3,7 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "EWR-UA",
         "Number of interviews": 2,
-        "download_time": "27-11-2026 08:57:11"
+        "download_time": "27-11-2026 10:01:26"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -189082,6 +189082,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "ALC-SN",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "ALC-TB",
         "Number of interviews": 5
     },
@@ -189092,8 +189097,23 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "BEG-JU",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "CDG-SN",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "CPH-SK",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "EBB-SN",
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2026-11-27",
@@ -189103,7 +189123,7 @@ let destAirlines_statistics  = `[
     {
         "InterviewDate": "2026-11-27",
         "quota_id": "FRA-SN",
-        "Number of interviews": 12
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2026-11-27",
@@ -189132,6 +189152,11 @@ let destAirlines_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "ORD-UA",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "SVQ-HV",
         "Number of interviews": 7
     },
@@ -189139,6 +189164,11 @@ let destAirlines_statistics  = `[
         "InterviewDate": "2026-11-27",
         "quota_id": "TLV-SN",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "TUN-TU",
+        "Number of interviews": 8
     }
 ]    
 
