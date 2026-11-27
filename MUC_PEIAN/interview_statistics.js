@@ -4,7 +4,7 @@ let interview_statistics_arr = `[
         "Dest": "ATH",
         "AirlineCode": "A3",
         "completed_interviews": 2,
-        "download_time": "27-11-2026 21:09:20"
+        "download_time": "27-11-2026 22:17:18"
     },
     {
         "Interview_Date": "2026-01-05",
@@ -12443,6 +12443,72 @@ let interview_statistics_arr = `[
         "Dest": "PMI",
         "AirlineCode": "LH",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "ARN",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "CDG",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "DUB",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "LHR",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "OSL",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "PMI",
+        "AirlineCode": "4Y",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "TLS",
+        "AirlineCode": "LH",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "VLC",
+        "AirlineCode": "VL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2026-11-27",
+        "Dest": "ZRH",
+        "AirlineCode": "LH",
+        "completed_interviews": 1
     }
 ]    
 
