@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "27-11-2026 18:07:59"
+        "download_time": "27-11-2026 19:15:01"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -3632,6 +3632,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX",
         "Number of interviews": 1
     },
@@ -3642,12 +3647,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "Changi Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176/177\u2666HL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "Chow Tai Fook\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666JW",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-27",
         "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "Fragrance\u2666TERMINAL 2\u2666Airside\u2666#02-199\u2666CCD",
         "Number of interviews": 1
     },
     {
@@ -3697,12 +3712,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-27",
         "quota_id": "TWG Tea Boutique\u2666TERMINAL 2\u2666Airside\u2666#02-216\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "The Cocoa Trees (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-35\u2666CCD",
         "Number of interviews": 1
     },
     {

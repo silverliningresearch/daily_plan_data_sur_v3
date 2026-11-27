@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "27-11-2026 11:06:03"
+        "download_time": "27-11-2026 12:12:14"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -207488,7 +207488,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2026-11-27",
         "quota_id": "AZ159-FCO",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-11-27",
@@ -207512,8 +207512,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "HU492-PEK",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "HV9077-SVQ",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "IB598-MAD",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-11-27",
@@ -207547,6 +207557,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2026-11-27",
+        "quota_id": "SN243-ROB",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-27",
         "quota_id": "SN255-ABJ",
         "Number of interviews": 4
     },
@@ -207559,6 +207574,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-11-27",
         "quota_id": "SN2609-FRA",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "SN271-BJL",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-11-27",
@@ -207594,6 +207614,11 @@ let interview_statistics = `[
         "InterviewDate": "2026-11-27",
         "quota_id": "SN3633-CDG",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-27",
+        "quota_id": "SN369-NSI",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-11-27",
