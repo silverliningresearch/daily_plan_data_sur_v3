@@ -1,0 +1,490 @@
+let interview_statistics  = `[
+    {
+        "InterviewDate": "2026-11-03",
+        "quota_id": "CZ 8490",
+        "Number of interviews": 6,
+        "download_time": "26-11-2026 19:59:37"
+    },
+    {
+        "InterviewDate": "2026-11-03",
+        "quota_id": "EK 349",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-11-03",
+        "quota_id": "JL 38",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-03",
+        "quota_id": "TK 169",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-03",
+        "quota_id": "TR 156",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-03",
+        "quota_id": "TR 298",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-04",
+        "quota_id": "8M 236",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-04",
+        "quota_id": "ET 639",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-04",
+        "quota_id": "MM 774",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-04",
+        "quota_id": "TR 284",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-04",
+        "quota_id": "TW 166",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "BS 308",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "HO 1562",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "HU 7910",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "SQ 302",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-05",
+        "quota_id": "SV 857",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "JL 38",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "TK 23",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "TR 100",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "TR 50",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "TR 584",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-06",
+        "quota_id": "ZH 228",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "DV 778",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "HU 448",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-08",
+        "quota_id": "PN 6444",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "6E 1008",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "8M 236",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "CI 756",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "FM 844",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "JL 38",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "MU 9648",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "QR 945",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "SQ 846",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "TK 23",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "TR 842",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "TR 880",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-11",
+        "quota_id": "ZH 228",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "6E 1008",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "6E 1248",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "6E 1264",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "BS 308",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "CI 756",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "FM 844",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "MM 774",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "TR 100",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "TR 234",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "TR 572",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "TR 880",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-12",
+        "quota_id": "TW 166",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "CI 756",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "FM 844",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "MU 9648",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "SQ 302",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-13",
+        "quota_id": "SQ 330",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-14",
+        "quota_id": "CZ 8490",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-14",
+        "quota_id": "EK 349",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-14",
+        "quota_id": "MF 8676",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-11-14",
+        "quota_id": "TK 169",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-14",
+        "quota_id": "TK 23",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-14",
+        "quota_id": "TR 298",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-14",
+        "quota_id": "TR 318",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-14",
+        "quota_id": "ZH 228",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-15",
+        "quota_id": "BS 308",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-15",
+        "quota_id": "MU 882",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-16",
+        "quota_id": "TR 330",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-16",
+        "quota_id": "TR 336",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-16",
+        "quota_id": "TR 456",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-16",
+        "quota_id": "TR 50",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "6E 1008",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "6E 1248",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "6E 1264",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "MM 774",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "SQ 402",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "SV 857",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "TR 100",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "TR 254",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "TR 52",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "TR 880",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-19",
+        "quota_id": "TW 166",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-20",
+        "quota_id": "6E 1248",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-20",
+        "quota_id": "6E 1264",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-11-20",
+        "quota_id": "ET 639",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-20",
+        "quota_id": "SQ 402",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-20",
+        "quota_id": "SQ 612",
+        "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2026-11-21",
+        "quota_id": "HO 1562",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-21",
+        "quota_id": "HU 7910",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-21",
+        "quota_id": "MU 898",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-21",
+        "quota_id": "SQ 302",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-21",
+        "quota_id": "SQ 314",
+        "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2026-11-21",
+        "quota_id": "SQ 846",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-22",
+        "quota_id": "SQ 302",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-11-22",
+        "quota_id": "SQ 330",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-11-23",
+        "quota_id": "JL 38",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-23",
+        "quota_id": "MM 774",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-23",
+        "quota_id": "QR 945",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-11-23",
+        "quota_id": "TR 584",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-11-25",
+        "quota_id": "5J 284",
+        "Number of interviews": 5
+    }
+]    
+
+ `;
