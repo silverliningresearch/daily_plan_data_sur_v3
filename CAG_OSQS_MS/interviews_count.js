@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "28-11-2026 16:29:17"
+        "download_time": "28-11-2026 17:36:29"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -3807,6 +3807,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-28",
+        "quota_id": "7-Eleven (T2 Level 3)\u2666TERMINAL 2\u2666Airside\u2666#03-172\u2666CS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-28",
         "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW",
         "Number of interviews": 1
     },
@@ -3837,6 +3842,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-28",
+        "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-28",
         "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW",
         "Number of interviews": 1
     },
@@ -3858,6 +3868,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-28",
         "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-151\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-28",
+        "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC",
         "Number of interviews": 1
     },
     {
