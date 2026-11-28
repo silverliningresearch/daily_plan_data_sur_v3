@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2026-10-24",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS",
         "Number of interviews": 1,
-        "download_time": "28-11-2026 14:20:23"
+        "download_time": "28-11-2026 15:25:09"
     },
     {
         "InterviewDate": "2026-10-24",
@@ -3812,6 +3812,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2026-11-28",
+        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-28",
+        "quota_id": "Breo\u2666TERMINAL 2\u2666Airside\u2666#02-164\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-28",
         "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT",
         "Number of interviews": 1
     },
@@ -3833,6 +3843,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2026-11-28",
         "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-151\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-28",
+        "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-11-28",
+        "quota_id": "adidas Originals\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP",
         "Number of interviews": 1
     }
 ]    
